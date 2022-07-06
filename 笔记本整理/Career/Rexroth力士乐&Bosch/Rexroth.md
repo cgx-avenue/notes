@@ -11,4 +11,6 @@
 2. Offer solution, not resistence.
 3. Why would I share? You shouldn't care.
    Keep silent and see what happens next, figure out whether to show your real muscle or just let others show.
-4. 
+4. > Do not go gentle into that good night,   
+   rage, rage against the dying ot the light.
+   --Dylan Thomas
