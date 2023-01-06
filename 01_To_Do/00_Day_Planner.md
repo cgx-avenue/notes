@@ -5,6 +5,7 @@
 * [ ] book ticket
 * [ ] book hotel. Holiday inn express
 * [ ] Sun Peng - DCO, visual SMT defect
+* [ ] PDSS QM
 
 # decoupling
 * [ ] check slide and see if any feedback
