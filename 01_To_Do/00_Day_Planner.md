@@ -8,7 +8,7 @@
 * [x] PDSS QM
 
 # decoupling
-* [ ] check slide and see if any feedback
+* [x] check slide and see if any feedback
 
 
 # VPN
