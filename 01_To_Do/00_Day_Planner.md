@@ -2,10 +2,10 @@
 
 # SEWC
 ## 23-01-12 visit
-* [ ] book ticket
-* [ ] book hotel. Holiday inn express
+* [x] book ticket
+* [x] book hotel. Holiday inn express
 * [ ] Sun Peng - DCO, visual SMT defect
-* [ ] PDSS QM
+* [x] PDSS QM
 
 # decoupling
 * [ ] check slide and see if any feedback
