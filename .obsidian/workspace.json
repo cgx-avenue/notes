@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_To_Do/00_Day_Planner.md",
+                "file": "20_瞎折腾/梯子的选择.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_To_Do/00_Day_Planner.md",
+                "file": "20_瞎折腾/梯子的选择.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_To_Do/00_Day_Planner.md",
+                "file": "20_瞎折腾/梯子的选择.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_To_Do/00_Day_Planner.md"
+                "file": "20_瞎折腾/梯子的选择.md"
               }
             }
           },
@@ -153,12 +153,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,10 +172,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4e7e67bcf6c56f4c",
+  "active": "787113852fd3ca30",
   "lastOpenFiles": [
-    "20_瞎折腾/笔记软件的选择.md",
     "01_To_Do/00_Day_Planner.md",
+    "20_瞎折腾/笔记软件的选择.md",
     "Day Planners/Day Planner-20230105.md",
     "30_乱七八糟的知识/双向连接.md",
     "30_乱七八糟的知识/assets/v2-03366460191fb6cbdc506ae5836604f1_720w.webp",
