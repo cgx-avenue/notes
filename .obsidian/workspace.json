@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-01-10.md",
+                "file": "01_To_Do/00_Day_Planner.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-01-10.md",
+                "file": "01_To_Do/00_Day_Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-01-10.md",
+                "file": "01_To_Do/00_Day_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-01-10.md"
+                "file": "01_To_Do/00_Day_Planner.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "4e7e67bcf6c56f4c",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-01-10.md",
     "00_日志和总结/天/2023-01-09.md",
     "01_To_Do/00_Day_Planner.md",
     "00_日志和总结/天/2023-01-06.md",
@@ -183,7 +184,6 @@
     "00_日志和总结/天/2023-01-07.md",
     "00_日志和总结/天/2023-01-03.md",
     "00_日志和总结/天/2023-01-04.md",
-    "20_瞎折腾/梯子的选择.md",
-    "20_瞎折腾/笔记软件的选择.md"
+    "20_瞎折腾/梯子的选择.md"
   ]
 }
