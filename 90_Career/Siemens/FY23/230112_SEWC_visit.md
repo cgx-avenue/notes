@@ -20,3 +20,13 @@ SEWC： smart enterprise，we create
 	3. ict变为抽测
 		1. 抽测有两层含义，可以整体测试项目不变，但是在样本层面进行抽样
 		2. 测试项目进行抽测，行程recipe
+		3. 1和2进行结合，动态生成整体sampling rate和recipe，比如整体抽样率降低，但recipe更全，整体抽样率更高，但recipe更不全，挑重点项目
+
+# QM相关的AI topic
+1. 基于认知的视觉，根据结果回溯过程
+2. 黑盒优化：automl，本质上就是搜索最优点
+3. 能耗管理 Fu Guo Wei + Wang Xiao Feng
+	1. 目前产线没有完全透明化，仅有产线级别，没有设备级别
+	2. 目前使用的是FA的一款软件
+	3. 目标：能耗平摊到产品上
+	4. 
