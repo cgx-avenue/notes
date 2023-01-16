@@ -10,6 +10,7 @@ visit 后续
 * [ ] 和yang chao需要后续交流的
 	* [ ] 5G + MEC
 	* [ ] Edge infracture + edge computing
+	* [ ] 能耗管理，采用电表？
 * [ ] 和luo ruizhi需要后续交流的
 	* [ ] 知识图谱
 
@@ -26,6 +27,7 @@ visit 后续
 # 专利
 * [ ] 声学检测的一篇
 * [ ] 自动化声学测试的一篇
+* [ ] sewc ict+lft的抽样测试[[230112_SEWC_visit]] 
 
 # 过年行程确定
 * [ ] 台州玩的地方
