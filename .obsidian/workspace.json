@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-01-12.md",
+                "file": "00_日志和总结/天/2023-01-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-01-12.md",
+                "file": "00_日志和总结/天/2023-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-01-12.md",
+                "file": "00_日志和总结/天/2023-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-01-12.md"
+                "file": "00_日志和总结/天/2023-01-13.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "ee2fa0c2b117fd3a",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-01-12.md",
     "00_日志和总结/天/2023-01-11.md",
     "00_日志和总结/周/2023-W02.md",
     "00_日志和总结/天/2023-01-10.md",
@@ -204,7 +205,6 @@
     "00_日志和总结/天/2023-01-03.md",
     "20_瞎折腾/梯子的选择.md",
     "01_To_Do/00_Day_Planner.md",
-    "Day Planners/Day Planner-20230110.md",
-    "Day Planners/Day Planner-20230116.md"
+    "Day Planners/Day Planner-20230110.md"
   ]
 }
