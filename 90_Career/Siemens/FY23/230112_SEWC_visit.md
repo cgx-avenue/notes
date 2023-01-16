@@ -29,4 +29,4 @@ SEWC： smart enterprise，we create
 	1. 目前产线没有完全透明化，仅有产线级别，没有设备级别
 	2. 目前使用的是FA的一款软件
 	3. 目标：能耗平摊到产品上
-	4. 
+	4. Zhou Xia Jun（AFC）提到了曾经用AI做过的虚拟电表项目，误差在10%
