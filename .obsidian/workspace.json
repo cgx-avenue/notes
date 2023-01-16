@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/梯子的选择.md",
+                "file": "Day Planners/Day Planner-20230106.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/梯子的选择.md",
+                "file": "Day Planners/Day Planner-20230106.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/梯子的选择.md",
+                "file": "Day Planners/Day Planner-20230106.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/梯子的选择.md"
+                "file": "Day Planners/Day Planner-20230106.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,17 +194,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "787113852fd3ca30",
+  "active": "ee2fa0c2b117fd3a",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230105.md",
+    "00_日志和总结/天/2023-01-03.md",
+    "00_日志和总结/天/2023-01-10.md",
+    "20_瞎折腾/梯子的选择.md",
     "01_To_Do/00_Day_Planner.md",
     "Day Planners/Day Planner-20230110.md",
     "Day Planners/Day Planner-20230116.md",
     "Day Planners/Day Planner-20230114.md",
     "Day Planners/Day Planner-20230109.md",
-    "Day Planners/Day Planner-20230106.md",
-    "Day Planners/Day Planner-20230105.md",
-    "Pasted image 20230116113307.png",
-    "20_瞎折腾/梯子的选择.md",
-    "90_Career/Siemens/SXVT_Bearing.md"
+    "Day Planners/Day Planner-20230106.md"
   ]
 }
