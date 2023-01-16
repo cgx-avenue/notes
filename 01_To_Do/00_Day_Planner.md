@@ -11,7 +11,7 @@
 * [x] check slide and see if any feedback
 
 
-# VPN
+# VPN [[梯子的选择]]
 * [x] 到期了先试试蓝灯
 * [ ] 不行的话买一个月的just my socks试试
 
