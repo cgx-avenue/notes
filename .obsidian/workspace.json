@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-01-16.md",
+                "file": "90_Career/Siemens/FY21-22/SXVT_Bearing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9915f643d3a8824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_Career/Siemens/FY23/210112_SEWC_visit.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-01-16.md",
+                "file": "90_Career/Siemens/FY23/210112_SEWC_visit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-01-16.md",
+                "file": "90_Career/Siemens/FY23/210112_SEWC_visit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-01-16.md"
+                "file": "90_Career/Siemens/FY23/210112_SEWC_visit.md"
               }
             }
           },
@@ -194,17 +206,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ee2fa0c2b117fd3a",
+  "active": "d9915f643d3a8824",
   "lastOpenFiles": [
+    "90_Career/Siemens/FY21-22/SXVT_Bearing.md",
+    "90_Career/Siemens/FY21-22/Bosch_Sensor_Technology&Quickstarter_FY21.md",
+    "30_乱七八糟的知识/双向连接.md",
+    "00_日志和总结/天/2023-01-16.md",
     "01_To_Do/00_Planner.md",
     "00_日志和总结/周/2023-W02.md",
-    "00_日志和总结/天/2023-01-16.md",
     "00_日志和总结/天/2023-01-13.md",
     "00_日志和总结/天/2023-01-12.md",
     "00_日志和总结/天/2023-01-11.md",
-    "00_日志和总结/天/2023-01-10.md",
-    "Day Planners/Day Planner-20230106.md",
-    "Day Planners/Day Planner-20230105.md",
-    "00_日志和总结/天/2023-01-03.md"
+    "00_日志和总结/天/2023-01-10.md"
   ]
 }
