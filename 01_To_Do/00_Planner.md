@@ -38,6 +38,8 @@ visit 后续
 * [ ] NUC as server
 
 # 报销
-* [ ] SEWC 出差
-* [ ] 话费
-	* [ ]  
+* [ ] Travel expense
+	* [ ] SEWC 出差
+* [ ] GEC
+	* [ ] 话费 2022.11 -
+	* [ ] 采购
