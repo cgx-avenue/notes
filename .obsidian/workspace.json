@@ -11,12 +11,28 @@
             "id": "4e7e67bcf6c56f4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_To_Do/00_Planner.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "ee2fa0c2b117fd3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_Career/Siemens/FY21-22/SXVT_Bearing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9915f643d3a8824",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,23 +44,7 @@
             }
           },
           {
-            "id": "344f7177d47c9cd5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "96c7e9071a765bf0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "15cadd62a7647731",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_To_Do/00_Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_To_Do/00_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01_To_Do/00_Planner.md"
+              }
             }
           },
           {
@@ -202,30 +206,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "d9915f643d3a8824",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "conflict-files-obsidian-git.md",
-    "01_To_Do/00_Planner.md",
-    "01_To_Do/00_Day_Planner.md",
-    "00_日志和总结/天/2023-01-10.md",
-    "00_日志和总结/天/2023-01-09.md",
-    "00_日志和总结/天/2023-01-06.md",
-    "00_日志和总结/天/2023-01-05.md",
-    "00_日志和总结/天/2023-01-08.md",
-    "00_日志和总结/天/2023-01-07.md",
-    "00_日志和总结/天/2023-01-03.md"
-=======
+    "90_Career/Siemens/FY23/230112_SEWC_visit.md",
     "01_To_Do/00_Planner.md",
     "00_日志和总结/天/2023-01-16.md",
     "00_日志和总结/周/2023-W02.md",
-    "90_Career/Siemens/FY23/230112_SEWC_visit.md",
     "90_Career/Siemens/FY21-22/SXVT_Bearing.md",
     "90_Career/Siemens/FY21-22/Bosch_Sensor_Technology&Quickstarter_FY21.md",
     "30_乱七八糟的知识/双向连接.md",
     "00_日志和总结/天/2023-01-13.md",
     "00_日志和总结/天/2023-01-12.md",
     "00_日志和总结/天/2023-01-11.md"
->>>>>>> fda7b0c9af71d16cec8191adecb368b36c8974cb
   ]
 }
