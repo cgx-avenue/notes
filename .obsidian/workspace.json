@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/Connectivity/5G/5G MEC.md",
+                "file": "00_日志和总结/天/2023-01-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/Connectivity/5G/5G MEC.md",
+                "file": "00_日志和总结/天/2023-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/Connectivity/5G/5G MEC.md",
+                "file": "00_日志和总结/天/2023-01-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/Connectivity/5G/5G MEC.md"
+                "file": "00_日志和总结/天/2023-01-18.md"
               }
             }
           },
@@ -232,6 +232,8 @@
   },
   "active": "22154379260e4d88",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-01-17.md",
+    "80_Development/Connectivity/5G/5G MEC.md",
     "01_To_Do/00_Planner.md",
     "01_To_Do/日常感兴趣的东西.md",
     "90_Career/Siemens/FY23/230112_SEWC_visit.md",
@@ -239,8 +241,6 @@
     "00_日志和总结/周/2023-W02.md",
     "90_Career/Siemens/FY21-22/SXVT_Bearing.md",
     "90_Career/Siemens/FY21-22/Bosch_Sensor_Technology&Quickstarter_FY21.md",
-    "30_乱七八糟的知识/双向连接.md",
-    "00_日志和总结/天/2023-01-13.md",
-    "00_日志和总结/天/2023-01-12.md"
+    "30_乱七八糟的知识/双向连接.md"
   ]
 }

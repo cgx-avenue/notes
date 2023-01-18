@@ -34,5 +34,6 @@ PS：更详细的内容在上面的链接里有。核心：MEC和UPF联合起来
 # 参考资料
 https://www.cnblogs.com/jmilkfan-fanguiju/p/11825026.html
 https://zhuanlan.zhihu.com/p/67640553
+https://zhuanlan.zhihu.com/p/406326850
 
 
