@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-02-06.md",
+                "file": "30_乱七八糟的知识/内网穿透.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-02-06.md",
+                "file": "30_乱七八糟的知识/内网穿透.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-02-06.md",
+                "file": "30_乱七八糟的知识/内网穿透.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-02-06.md"
+                "file": "30_乱七八糟的知识/内网穿透.md"
               }
             }
           },
@@ -256,6 +256,7 @@
   },
   "active": "64e46bb216b3efdf",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-02-06.md",
     "30_乱七八糟的知识/内网穿透.md",
     "20_瞎折腾/梯子的选择.md",
     "20_瞎折腾/笔记软件的选择.md",
@@ -264,7 +265,6 @@
     "01_To_Do/http3.md",
     "20_瞎折腾/nfc破解门禁卡/NFC破解门禁卡使用.md",
     "00_日志和总结/天/2023-01-30.md",
-    "00_日志和总结/周/2023-W04.md",
-    "00_日志和总结/周/2023-W03.md"
+    "00_日志和总结/周/2023-W04.md"
   ]
 }
