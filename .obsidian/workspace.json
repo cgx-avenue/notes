@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_乱七八糟的知识/内网穿透.md",
+                "file": "00_日志和总结/天/2023-02-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_乱七八糟的知识/内网穿透.md",
+                "file": "00_日志和总结/天/2023-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_乱七八糟的知识/内网穿透.md",
+                "file": "00_日志和总结/天/2023-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_乱七八糟的知识/内网穿透.md"
+                "file": "00_日志和总结/天/2023-02-06.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -268,8 +268,8 @@
   },
   "active": "e2e3f8380bdaf917",
   "lastOpenFiles": [
-    "00_日志和总结/天/2023-02-06.md",
     "30_乱七八糟的知识/内网穿透.md",
+    "00_日志和总结/天/2023-02-06.md",
     "20_瞎折腾/树莓派.md",
     "20_瞎折腾/梯子的选择.md",
     "20_瞎折腾/笔记软件的选择.md",
