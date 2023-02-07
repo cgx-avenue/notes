@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30_乱七八糟的知识/内网穿透.md",
+                "file": "00_日志和总结/天/2023-02-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_乱七八糟的知识/内网穿透.md",
+                "file": "00_日志和总结/天/2023-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_乱七八糟的知识/内网穿透.md",
+                "file": "00_日志和总结/天/2023-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_乱七八糟的知识/内网穿透.md"
+                "file": "00_日志和总结/天/2023-02-06.md"
               }
             }
           },
@@ -268,6 +268,7 @@
   },
   "active": "e2e3f8380bdaf917",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-02-07.md",
     "00_日志和总结/天/2023-02-06.md",
     "30_乱七八糟的知识/内网穿透.md",
     "20_瞎折腾/树莓派.md",
@@ -276,7 +277,6 @@
     "00_日志和总结/天/2023-02-01.md",
     "00_日志和总结/天/2023-01-31.md",
     "01_To_Do/http3.md",
-    "20_瞎折腾/nfc破解门禁卡/NFC破解门禁卡使用.md",
-    "00_日志和总结/天/2023-01-30.md"
+    "20_瞎折腾/nfc破解门禁卡/NFC破解门禁卡使用.md"
   ]
 }
