@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_To_Do/00_Planner.md",
+                "file": "20_瞎折腾/树莓派.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,8 +123,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/工业软件/智能制造之家公众号笔记.md",
+                "file": "20_瞎折腾/树莓派.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/工业软件/智能制造之家公众号笔记.md",
+                "file": "20_瞎折腾/树莓派.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/工业软件/智能制造之家公众号笔记.md"
+                "file": "20_瞎折腾/树莓派.md"
               }
             }
           },
@@ -278,11 +277,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "787113852fd3ca30",
+  "active": "4e7e67bcf6c56f4c",
   "lastOpenFiles": [
+    "01_To_Do/00_Planner.md",
     "30_乱七八糟的知识/内网穿透.md",
     "00_日志和总结/天/2023-02-08.md",
-    "01_To_Do/00_Planner.md",
     "00_日志和总结/天/2023-02-07.md",
     "00_日志和总结/天/2023-02-06.md",
     "20_瞎折腾/树莓派.md",
