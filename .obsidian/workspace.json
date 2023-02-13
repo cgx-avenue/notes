@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_读书笔记/杂七杂八/杂七杂八.md",
+                "file": "00_日志和总结/天/2023-02-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_读书笔记/杂七杂八/杂七杂八.md",
+                "file": "00_日志和总结/天/2023-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_读书笔记/杂七杂八/杂七杂八.md",
+                "file": "00_日志和总结/天/2023-02-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_读书笔记/杂七杂八/杂七杂八.md"
+                "file": "00_日志和总结/天/2023-02-13.md"
               }
             }
           },
@@ -283,7 +283,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -302,8 +302,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7761cb9779f91a9e",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
+    "03_读书笔记/杂七杂八/杂七杂八.md",
     "01_To_Do/00_Planner.md",
     "00_日志和总结/天/2023-02-13.md",
     "00_日志和总结/周/2023-W06.md",
@@ -312,7 +313,6 @@
     "00_日志和总结/天/2023-02-10.md",
     "00_日志和总结/天/2023-02-08.md",
     "00_日志和总结/天/2023-02-07.md",
-    "80_Development/LowCodePlatform/Mendix.md",
-    "20_瞎折腾/梯子的选择.md"
+    "80_Development/LowCodePlatform/Mendix.md"
   ]
 }
