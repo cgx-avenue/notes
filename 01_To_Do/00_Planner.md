@@ -11,8 +11,9 @@ visit 后续
 	* [ ] 5G + MEC
 	* [ ] Edge infracture + edge computing
 	* [ ] 能耗管理，采用电表？
-* [ ] 和luo ruizhi需要后续交流的
-	* [ ] 知识图谱
+* [x] 和luo ruizhi需要后续交流的
+	* [x] 知识图谱
+	* [ ] 整理
 
 
 # decoupling

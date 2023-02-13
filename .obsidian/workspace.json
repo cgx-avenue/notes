@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/周/2023-W06.md",
+                "file": "01_To_Do/00_Planner.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/周/2023-W06.md",
+                "file": "01_To_Do/00_Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/周/2023-W06.md",
+                "file": "01_To_Do/00_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/周/2023-W06.md"
+                "file": "01_To_Do/00_Planner.md"
               }
             }
           },
@@ -292,15 +292,15 @@
   },
   "active": "910b1280bdcd1c88",
   "lastOpenFiles": [
-    "00_日志和总结/天/2023-02-09.md",
     "00_日志和总结/天/2023-02-13.md",
+    "00_日志和总结/周/2023-W06.md",
+    "00_日志和总结/天/2023-02-09.md",
     "90_Career/Siemens/FY23/230112_SEWC_visit.md",
     "00_日志和总结/天/2023-02-10.md",
     "00_日志和总结/天/2023-02-08.md",
     "00_日志和总结/天/2023-02-07.md",
     "80_Development/LowCodePlatform/Mendix.md",
     "20_瞎折腾/梯子的选择.md",
-    "20_瞎折腾/树莓派.md",
-    "01_To_Do/00_Planner.md"
+    "20_瞎折腾/树莓派.md"
   ]
 }
