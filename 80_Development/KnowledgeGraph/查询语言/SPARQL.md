@@ -13,4 +13,6 @@ RDF必须定义谓语，而不同的人，不同的语种，不同的文化下�
 # 资料
 https://blog.csdn.net/weixin_53580595/article/details/126899714?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-126899714-blog-116237249.pc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-126899714-blog-116237249.pc_relevant_multi_platform_whitelistv3&utm_relevant_index=1
 https://www.w3.org/TR/sparql11-query/
+https://www.ruanyifeng.com/blog/2020/02/sparql.html
 
+其余资料参照Microsoft Edge里的收藏夹吧。
