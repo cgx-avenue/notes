@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/KnowledgeGraph/查询语言/Gremlin.md",
+                "file": "80_Development/KnowledgeGraph/查询语言/SPARQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/KnowledgeGraph/查询语言/Gremlin.md",
+                "file": "80_Development/KnowledgeGraph/查询语言/SPARQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/KnowledgeGraph/查询语言/Gremlin.md",
+                "file": "80_Development/KnowledgeGraph/查询语言/SPARQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/KnowledgeGraph/查询语言/Gremlin.md"
+                "file": "80_Development/KnowledgeGraph/查询语言/SPARQL.md"
               }
             }
           },
@@ -328,8 +328,8 @@
   },
   "active": "da34f9f9ca1a5db3",
   "lastOpenFiles": [
-    "80_Development/KnowledgeGraph/查询语言/SPARQL.md",
     "80_Development/KnowledgeGraph/查询语言/Gremlin.md",
+    "80_Development/KnowledgeGraph/查询语言/SPARQL.md",
     "80_Development/DataAnalysis/归因分析AttributionAnalysis.md",
     "80_Development/DataAnalysis/数据不够怎么办.md",
     "01_To_Do/00_Planner.md",
