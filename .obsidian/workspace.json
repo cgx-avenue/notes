@@ -328,15 +328,15 @@
   },
   "active": "da34f9f9ca1a5db3",
   "lastOpenFiles": [
-    "00_日志和总结/天/2023-02-15.md",
     "20_瞎折腾/树莓派.md",
+    "01_To_Do/00_Planner.md",
+    "00_日志和总结/天/2023-02-15.md",
     "00_日志和总结/天/2023-02-13.md",
     "80_Development/LowCodePlatform/Mendix.md",
     "00_日志和总结/天/2023-02-14.md",
     "80_Development/KnowledgeGraph/查询语言/SPARQL.md",
     "80_Development/KnowledgeGraph/查询语言/Gremlin.md",
     "80_Development/DataAnalysis/归因分析AttributionAnalysis.md",
-    "80_Development/DataAnalysis/数据不够怎么办.md",
-    "01_To_Do/00_Planner.md"
+    "80_Development/DataAnalysis/数据不够怎么办.md"
   ]
 }
