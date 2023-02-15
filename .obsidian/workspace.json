@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-02-15.md",
+                "file": "01_To_Do/00_Planner.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-02-15.md",
+                "file": "01_To_Do/00_Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-02-15.md",
+                "file": "01_To_Do/00_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-02-15.md"
+                "file": "01_To_Do/00_Planner.md"
               }
             }
           },
@@ -328,6 +328,7 @@
   },
   "active": "da34f9f9ca1a5db3",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-02-15.md",
     "20_瞎折腾/树莓派.md",
     "00_日志和总结/天/2023-02-13.md",
     "80_Development/LowCodePlatform/Mendix.md",
@@ -336,7 +337,6 @@
     "80_Development/KnowledgeGraph/查询语言/Gremlin.md",
     "80_Development/DataAnalysis/归因分析AttributionAnalysis.md",
     "80_Development/DataAnalysis/数据不够怎么办.md",
-    "01_To_Do/00_Planner.md",
-    "01_To_Do/日常感兴趣的东西.md"
+    "01_To_Do/00_Planner.md"
   ]
 }
