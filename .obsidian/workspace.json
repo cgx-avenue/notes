@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "6232be7d94ea61be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_日志和总结/天/2023-02-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ee2fa0c2b117fd3a",
             "type": "leaf",
             "state": {
@@ -172,7 +184,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_To_Do/00_Planner.md",
+                "file": "00_日志和总结/天/2023-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_To_Do/00_Planner.md",
+                "file": "00_日志和总结/天/2023-02-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_To_Do/00_Planner.md"
+                "file": "00_日志和总结/天/2023-02-16.md"
               }
             }
           },
@@ -326,17 +338,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "6232be7d94ea61be",
   "lastOpenFiles": [
     "00_日志和总结/天/2023-02-15.md",
     "00_日志和总结/天/2023-02-16.md",
-    "20_瞎折腾/树莓派.md",
+    "80_Development/工具软件/Node-Red.md",
     "01_To_Do/00_Planner.md",
+    "20_瞎折腾/树莓派.md",
     "00_日志和总结/天/2023-02-13.md",
     "80_Development/LowCodePlatform/Mendix.md",
     "00_日志和总结/天/2023-02-14.md",
     "80_Development/KnowledgeGraph/查询语言/SPARQL.md",
-    "80_Development/KnowledgeGraph/查询语言/Gremlin.md",
-    "80_Development/DataAnalysis/归因分析AttributionAnalysis.md"
+    "80_Development/KnowledgeGraph/查询语言/Gremlin.md"
   ]
 }
