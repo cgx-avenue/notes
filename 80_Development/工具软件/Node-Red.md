@@ -16,7 +16,10 @@ https://nodered.org/docs/user-guide/concepts
 ## 流
 输入->处理->输出
 ## 插件
+### home-assistant
+https://blog.csdn.net/weixin_45820944/article/details/104256208
 ![](imgs/2023-02-16-16-16-33.png)
+遗留问题：用了ha节点后，一直显示connecting。
 
 ## 部署deploy
 任何对节点的修改，都应该点击部署。
