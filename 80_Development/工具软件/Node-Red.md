@@ -19,3 +19,5 @@ https://nodered.org/docs/user-guide/concepts
 ![](imgs/2023-02-16-16-16-33.png)
 
 ## 部署deploy
+任何对节点的修改，都应该点击部署。
+目前我对部署的理解类似于：commit + deploy。点了部署才能开始真正用。
