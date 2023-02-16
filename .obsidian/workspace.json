@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-02-16.md",
+                "file": "01_To_Do/00_Planner.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -219,7 +219,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9ba3efb1286a7417",
@@ -254,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-02-16.md",
+                "file": "01_To_Do/00_Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-02-16.md",
+                "file": "01_To_Do/00_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +295,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-02-16.md"
+                "file": "01_To_Do/00_Planner.md"
               }
             }
           },
@@ -326,11 +327,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "da34f9f9ca1a5db3",
+  "active": "2316de639456b92c",
   "lastOpenFiles": [
-    "20_瞎折腾/树莓派.md",
-    "00_日志和总结/天/2023-02-16.md",
     "00_日志和总结/天/2023-02-15.md",
+    "00_日志和总结/天/2023-02-16.md",
+    "20_瞎折腾/树莓派.md",
     "01_To_Do/00_Planner.md",
     "00_日志和总结/天/2023-02-13.md",
     "80_Development/LowCodePlatform/Mendix.md",

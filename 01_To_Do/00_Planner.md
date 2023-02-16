@@ -72,5 +72,7 @@ visit 后续
 	* [ ] 
 * [ ] NAS
 	* [ ] ipv6
+	* [ ] 检查家里的nas
 * [ ] Node-red
 * [ ] Thingsboard
+* [ ] knime
