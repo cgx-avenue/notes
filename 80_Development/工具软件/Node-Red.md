@@ -10,3 +10,12 @@
 ```sh
 sudo docker run -it -p 1880:1880 --name mynodered nodered/node-red
 ```
+
+# 概念
+https://nodered.org/docs/user-guide/concepts
+## 流
+输入->处理->输出
+## 插件
+![](imgs/2023-02-16-16-16-33.png)
+
+## 部署deploy
