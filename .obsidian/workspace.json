@@ -362,8 +362,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "787113852fd3ca30",
+  "active": "645c67452491b0eb",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-02-07.md",
     "20_瞎折腾/树莓派3B+.md",
     "20_瞎折腾/树莓派4B.md",
     "00_日志和总结/天/2023-02-16.md",
@@ -372,7 +373,6 @@
     "80_Development/工具软件/Node-Red.md",
     "01_To_Do/00_Planner.md",
     "00_日志和总结/天/2023-02-13.md",
-    "80_Development/LowCodePlatform/Mendix.md",
-    "00_日志和总结/天/2023-02-14.md"
+    "80_Development/LowCodePlatform/Mendix.md"
   ]
 }
