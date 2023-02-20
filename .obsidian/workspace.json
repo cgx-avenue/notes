@@ -238,7 +238,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "npm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,7 +255,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9ba3efb1286a7417",
