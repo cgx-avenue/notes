@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e7e67bcf6c56f4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_日志和总结/天/2023-02-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "910b1280bdcd1c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_To_Do/00_Planner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7761cb9779f91a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80_Development/DataAnalysis/归因分析AttributionAnalysis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28460b8d5675fbc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80_Development/KnowledgeGraph/查询语言/Gremlin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da34f9f9ca1a5db3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_To_Do/00_Planner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6232be7d94ea61be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80_Development/工具软件/Node-Red.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "323f7059af725160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_瞎折腾/树莓派3B+.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "645c67452491b0eb",
             "type": "leaf",
             "state": {
@@ -102,113 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee2fa0c2b117fd3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90_Career/Siemens/FY21-22/SXVT_Bearing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9915f643d3a8824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_To_Do/00_Planner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7674c12ad2928f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_To_Do/00_Planner.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22154379260e4d88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_日志和总结/天/2023-01-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67d432e6229d748c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_瞎折腾/梯子的选择.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64e46bb216b3efdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_乱七八糟的知识/内网穿透.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2e3f8380bdaf917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30_乱七八糟的知识/内网穿透.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "838bd6633e0327b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80_Development/工业软件/智能制造之家公众号笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96c7e9071a765bf0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "npm",
+                "query": "pm2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
