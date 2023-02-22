@@ -23,3 +23,12 @@ https://scoolor.github.io/2018/11/08/linux-everything-is-file/
 https://zhuanlan.zhihu.com/p/150886291
 每种文件类型举了例子
 https://linux.cn/article-7669-1.html
+
+## 文件结构
+![](imgs/2023-02-22-16-13-33.png)
+
+## 文件存储
+```sh
+ls -l
+```
+![](imgs/2023-02-22-16-14-10.png)
