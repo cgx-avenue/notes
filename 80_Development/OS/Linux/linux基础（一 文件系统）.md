@@ -1,5 +1,9 @@
 # Linux文件系统
+简单来说，博主觉得学习Linux非常重要的思维就是：
+> 根据用户权限来区分文件目录，系统级别放在公共目录，用户级别放在各自用户目录下。
+
 https://zhuanlan.zhihu.com/p/351675403
+https://blog.csdn.net/weixin_44614230/article/details/127661184
 ```txt
 /bin：这个目录存放着最经常使用的命令
 /sbin：这里存放的是系统管理员使用的系统管理程序
@@ -16,6 +20,7 @@ https://zhuanlan.zhihu.com/p/351675403
 ```
 还有很多，感兴趣的可以去网上查一查，这些都不用背的，了解即可
 
+
 # 为什么一切皆文件？
 文件类型
 https://scoolor.github.io/2018/11/08/linux-everything-is-file/
@@ -30,6 +35,7 @@ https://linux.cn/article-7669-1.html
 
 
 ## 文件属性
+查看文件属性的命令
 ```sh
 ls -l
 ```
