@@ -26,6 +26,7 @@ https://linux.cn/article-7669-1.html
 
 ## 文件结构
 ![](imgs/2023-02-22-16-13-33.png)
+![](imgs/2023-02-22-16-23-53.png)
 
 
 ## 文件属性
@@ -51,4 +52,8 @@ https://blog.csdn.net/chenxiyuehh/article/details/90636675
 
 ![](imgs/2023-02-22-16-20-21.png)
 
-怎么理解软硬链接参照上面链接的内容，举例
+PS：怎么理解软硬链接参照上面链接的内容，举例非常清晰。简单说删除硬链接，删除的是filename到inode的那条映射关系。删除软连接，对源文件根本没影响，因为原文件的路径只是软连接的data blocks。而删除源文件，软连接会变成死链。
+
+软链接也叫符号链接 Symbolic Link。
+
+
