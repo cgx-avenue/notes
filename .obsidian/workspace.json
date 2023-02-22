@@ -212,6 +212,8 @@
   },
   "active": "18d75810caddf01f",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.md",
+    "80_Development/OS/Linux/linux基础.md",
     "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
     "20_瞎折腾/树莓派/树莓派4B.md",
     "00_日志和总结/天/2023-02-21.md",
@@ -219,8 +221,6 @@
     "00_日志和总结/天/2023-02-20.md",
     "00_日志和总结/天/2023-02-15.md",
     "00_日志和总结/天/2023-02-16.md",
-    "00_日志和总结/天/2023-02-22.md",
-    "80_Development/遇到过的奇奇怪怪的bug/Git Clone错误解决GnuTLS recv error (-110) The TLS connection was non-properly terminated.md",
-    "20_瞎折腾/树莓派/树莓派3B+.md"
+    "00_日志和总结/天/2023-02-22.md"
   ]
 }
