@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-02-20.md",
+                "file": "20_瞎折腾/树莓派4B.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-02-20.md",
+                "file": "20_瞎折腾/树莓派4B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-02-20.md",
+                "file": "20_瞎折腾/树莓派4B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-02-20.md"
+                "file": "20_瞎折腾/树莓派4B.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,11 +173,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "645c67452491b0eb",
+  "active": "787113852fd3ca30",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-02-20.md",
     "00_日志和总结/天/2023-02-21.md",
     "20_瞎折腾/树莓派4B.md",
-    "00_日志和总结/天/2023-02-20.md",
     "00_日志和总结/天/2023-02-16.md",
     "00_日志和总结/天/2023-02-17.md",
     "00_日志和总结/天/2023-02-15.md",
