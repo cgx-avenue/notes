@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d06758d6a78f6a99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派4B.md",
+                "file": "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派4B.md",
+                "file": "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派4B.md"
+                "file": "20_瞎折腾/树莓派/树莓派基础（软硬件）.md"
               }
             }
           },
@@ -186,17 +198,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4504cc956ba43056",
+  "active": "d06758d6a78f6a99",
   "lastOpenFiles": [
-    "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
     "20_瞎折腾/树莓派/树莓派4B.md",
+    "80_Development/遇到过的奇奇怪怪的bug/Git Clone错误解决GnuTLS recv error (-110) The TLS connection was non-properly terminated.md",
+    "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
     "20_瞎折腾/树莓派/树莓派3B+.md",
     "20_瞎折腾/assets/image-20230105174221396.png",
     "20_瞎折腾/assets/image-20230105145034021-16729014392851.png",
     "20_瞎折腾/assets/image-20230105145034021.png",
     "20_瞎折腾/智能家居/home-assistant.md",
     "00_日志和总结/天/2023-02-22.md",
-    "00_日志和总结/天/2023-02-20.md",
-    "00_日志和总结/天/2023-02-16.md"
+    "00_日志和总结/天/2023-02-20.md"
   ]
 }
