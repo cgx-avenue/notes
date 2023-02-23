@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派相关的资料.md",
+                "file": "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派相关的资料.md",
+                "file": "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派相关的资料.md",
+                "file": "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派相关的资料.md"
+                "file": "20_瞎折腾/树莓派/树莓派基础（软硬件）.md"
               }
             }
           },
@@ -227,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -246,10 +246,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d1533b9ed8aedefe",
+  "active": "787113852fd3ca30",
   "lastOpenFiles": [
-    "00_日志和总结/天/2023-02-13.md",
     "20_瞎折腾/树莓派/树莓派相关的资料.md",
+    "00_日志和总结/天/2023-02-13.md",
     "20_瞎折腾/树莓派/树莓派4B.md",
     "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
     "80_Development/OS/Linux/linux基础（一 文件系统）.md",
