@@ -90,3 +90,12 @@ uid和gid可以通过执行id命令查询，/mnt/external就是挂载的目的�
 ```sh
 df -h
 ```
+![](imgs/2023-02-23-11-18-39.png)
+出现了，挂载成功
+
+## 取消挂载
+```sh
+sudo umount /mnt/external
+```
+注意umount后面跟的路径是挂在之后的路径，执行了umount之后再运行df -
+命令会显示和挂载前一样的结果。
