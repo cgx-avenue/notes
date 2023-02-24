@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "147597131b9aaa19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_乱七八糟的知识/NAS折腾何时是个头.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "18d75810caddf01f",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -222,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30_乱七八糟的知识/OMV OpenMediaVault.md",
+                "file": "30_乱七八糟的知识/NAS折腾何时是个头.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "30_乱七八糟的知识/OMV OpenMediaVault.md",
+                "file": "30_乱七八糟的知识/NAS折腾何时是个头.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30_乱七八糟的知识/OMV OpenMediaVault.md"
+                "file": "30_乱七八糟的知识/NAS折腾何时是个头.md"
               }
             }
           },
@@ -294,8 +306,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d3e450bb37d28cab",
+  "active": "147597131b9aaa19",
   "lastOpenFiles": [
+    "30_乱七八糟的知识/OMV OpenMediaVault.md",
     "00_日志和总结/天/2023-02-24.md",
     "20_瞎折腾/斐讯T1.md",
     "00_日志和总结/天/2023-02-21.md",
@@ -304,7 +317,6 @@
     "00_日志和总结/天/2023-02-15.md",
     "00_日志和总结/天/2023-02-14.md",
     "00_日志和总结/天/2023-02-13.md",
-    "30_乱七八糟的知识/IP V6.md",
-    "00_日志和总结/天/2023-02-23.md"
+    "30_乱七八糟的知识/IP V6.md"
   ]
 }
