@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派4B.md",
+                "file": "00_日志和总结/天/2023-02-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派4B.md",
+                "file": "00_日志和总结/天/2023-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派4B.md",
+                "file": "00_日志和总结/天/2023-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/树莓派/树莓派4B.md"
+                "file": "00_日志和总结/天/2023-02-24.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -258,17 +258,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "787113852fd3ca30",
+  "active": "ca273259d17066b1",
   "lastOpenFiles": [
+    "20_瞎折腾/树莓派/树莓派4B.md",
+    "00_日志和总结/天/2023-02-20.md",
     "00_日志和总结/天/2023-02-21.md",
+    "00_日志和总结/天/2023-02-23.md",
     "00_日志和总结/天/2023-02-22.md",
     "00_日志和总结/天/2023-02-16.md",
     "00_日志和总结/天/2023-02-15.md",
     "00_日志和总结/天/2023-02-13.md",
     "80_Development/OS/Linux/linux基础（二 软件安装）.md",
-    "80_Development/OS/Linux/linux基础（一 文件系统）.md",
-    "20_瞎折腾/树莓派/树莓派4B.md",
-    "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
-    "20_瞎折腾/树莓派/树莓派3B+(deprecated).md"
+    "80_Development/OS/Linux/linux基础（一 文件系统）.md"
   ]
 }
