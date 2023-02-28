@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/梯子的选择.md",
+                "file": "20_瞎折腾/树莓派/树莓派4B.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/梯子的选择.md",
+                "file": "20_瞎折腾/树莓派/树莓派4B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/梯子的选择.md",
+                "file": "20_瞎折腾/树莓派/树莓派4B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/梯子的选择.md"
+                "file": "20_瞎折腾/树莓派/树莓派4B.md"
               }
             }
           },
@@ -320,6 +320,7 @@
   },
   "active": "9f24722146f30437",
   "lastOpenFiles": [
+    "20_瞎折腾/梯子的选择.md",
     "20_瞎折腾/树莓派/树莓派4B.md",
     "00_日志和总结/天/2023-02-28.md",
     "00_日志和总结/天/2023-02-16.md",
@@ -328,7 +329,6 @@
     "20_瞎折腾/树莓派/树莓派相关的资料.md",
     "20_瞎折腾/树莓派/树莓派基础（软硬件）.md",
     "00_日志和总结/天/2023-02-27.md",
-    "00_日志和总结/天/2023-02-24.md",
-    "00_日志和总结/天/2023-02-20.md"
+    "00_日志和总结/天/2023-02-24.md"
   ]
 }
