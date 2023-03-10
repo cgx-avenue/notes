@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "00_日志和总结/天/2023-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "00_日志和总结/天/2023-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +311,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "00_日志和总结/天/2023-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +334,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md"
+                "file": "00_日志和总结/天/2023-03-04.md"
               }
             }
           },
@@ -347,7 +347,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -366,14 +366,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "e1e7972791c674ac",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-03-03.md",
+    "00_日志和总结/天/2023-03-04.md",
+    "00_日志和总结/天/2023-03-02.md",
+    "20_瞎折腾/小小服务器/树莓派4B.md",
     "20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境.md",
     "20_瞎折腾/小小服务器/imgs/2023-03-07-14-52-54.png",
     "20_瞎折腾/小小服务器/imgs/2023-03-07-14-51-16.png",
     "imgs/2023-03-07-14-47-56.png.md",
     "imgs",
-    "20_瞎折腾/小小服务器/树莓派4B.md",
     "20_瞎折腾/小小服务器/树莓派3B+(deprecated).md",
     "20_瞎折腾/小小服务器/树莓派相关的资料.md",
     "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
@@ -382,7 +385,6 @@
     "20_瞎折腾/小小服务器/imgs/2023-03-06-16-42-57.png",
     "20_瞎折腾/小小服务器/imgs/2023-03-06-16-41-51.png",
     "20_瞎折腾/小小服务器/imgs/2023-03-06-16-41-29.png",
-    "00_日志和总结/天/2023-03-02.md",
     "00_日志和总结/天/2023-03-01.md",
     "00_日志和总结/天/2023-02-28.md",
     "20_瞎折腾/梯子的选择.md",
