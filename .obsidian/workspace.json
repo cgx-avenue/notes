@@ -210,9 +210,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad5ab58859afc281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/大数据技术原理与应用_CH1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -294,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/大数据技术原理与应用_CH1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/大数据技术原理与应用_CH1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +346,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md"
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/大数据技术原理与应用_CH1.md"
               }
             }
           },
@@ -366,10 +378,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "787113852fd3ca30",
+  "active": "ad5ab58859afc281",
   "lastOpenFiles": [
-    "imgs/2023-03-07-14-47-56.png.md",
+    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-12-15-59-23.png",
+    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs",
     "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/大数据技术原理与应用_CH1.md",
+    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用",
+    "imgs/2023-03-07-14-47-56.png.md",
     "70_Onboarding/2023_机电高职_大数据",
     "70_Onboarding",
     "00_日志和总结/天/2023-03-10.md",
@@ -399,8 +415,6 @@
     "20_瞎折腾/梯子的选择.md",
     "00_日志和总结/天/2023-02-16.md",
     "00_日志和总结/天/2023-02-15.md",
-    "00_日志和总结/天/2023-02-13.md",
-    "00_日志和总结/天/2023-02-27.md",
-    "00_日志和总结/天/2023-02-24.md"
+    "00_日志和总结/天/2023-02-13.md"
   ]
 }
