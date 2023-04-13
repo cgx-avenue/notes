@@ -10,3 +10,4 @@
 2. Cloudera，CDH：cloudera distribution hadoop
 ![](imgs/2023-04-13-21-35-44.png)
 ![](imgs/2023-04-13-21-36-12.png)
+# 2.2 Hadoop项目结构
