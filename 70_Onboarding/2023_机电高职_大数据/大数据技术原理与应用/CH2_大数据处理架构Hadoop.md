@@ -5,4 +5,8 @@
 ![](imgs/2023-04-13-21-30-32.png)
 ![](imgs/2023-04-13-21-31-04.png)
 ![](imgs/2023-04-13-21-31-34.png)
-
+### 发行版
+1. Hortonworks 企业版
+2. Cloudera，CDH：cloudera distribution hadoop
+![](imgs/2023-04-13-21-35-44.png)
+![](imgs/2023-04-13-21-36-12.png)
