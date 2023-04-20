@@ -278,7 +278,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "numpy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -295,7 +295,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9ba3efb1286a7417",
@@ -402,7 +403,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f00f66efe3918f9a",
+  "active": "2316de639456b92c",
   "lastOpenFiles": [
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH2_大数据处理架构Hadoop.md",
     "70_Onboarding/2023_机电高职_大数据/redis/redis.md.md",
