@@ -246,9 +246,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab4b06a29b986dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "numpy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -295,8 +307,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ba3efb1286a7417",
@@ -331,7 +342,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/redis/redis.md.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -348,7 +359,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/redis/redis.md.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -371,7 +382,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/redis/redis.md.md"
+                "file": "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md"
               }
             }
           },
@@ -403,10 +414,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2316de639456b92c",
+  "active": "ab4b06a29b986dcb",
   "lastOpenFiles": [
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH2_大数据处理架构Hadoop.md",
+    "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
     "70_Onboarding/2023_机电高职_大数据/redis/redis.md.md",
+    "70_Onboarding/2023_机电高职_大数据/pytorch",
     "70_Onboarding/2023_机电高职_大数据/redis",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-10-04-11.png",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-10-03-14.png",
@@ -446,7 +459,6 @@
     "00_日志和总结/天/2023-03-02.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
     "20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境.md",
-    "imgs",
-    "20_瞎折腾/小小服务器/树莓派3B+(deprecated).md"
+    "imgs"
   ]
 }
