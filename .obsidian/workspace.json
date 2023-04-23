@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -259,8 +259,7 @@
               }
             }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,8 +306,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ba3efb1286a7417",
@@ -343,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -360,7 +358,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -383,7 +381,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md"
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md"
               }
             }
           },
@@ -415,8 +413,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2316de639456b92c",
+  "active": "01152c4b7816cc08",
   "lastOpenFiles": [
+    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH4_分布式数据库HBase.md",
+    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH9_数据仓库Hive.md",
+    "20_瞎折腾/小小服务器/树莓派4B.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH2_大数据处理架构Hadoop.md",
     "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
     "70_Onboarding/2023_机电高职_大数据/redis/redis.md.md",
@@ -433,13 +434,11 @@
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-09-57-35.png",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-09-43-44.png",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
-    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH9_数据仓库Hive.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH6_云数据库.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH5_NoSQL数据库.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md",
-    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH4_分布式数据库HBase.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH4_HBase.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/![](imgs",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH1_大数据概述.md",
@@ -458,7 +457,6 @@
     "00_日志和总结/天/2023-03-04.md",
     "00_日志和总结/天/2023-03-03.md",
     "00_日志和总结/天/2023-03-02.md",
-    "20_瞎折腾/小小服务器/树莓派4B.md",
     "20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境.md",
     "imgs"
   ]
