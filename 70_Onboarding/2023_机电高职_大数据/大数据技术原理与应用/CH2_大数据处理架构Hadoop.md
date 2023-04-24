@@ -1,6 +1,6 @@
 # 2.1 Hadoop简介和版本演变
 ## 2.1.1 Hadoop简介
-两大核心：HDS，MapReduce
+两大核心：HDFS，MapReduce
 ## 2.1.2 版本
 ![](imgs/2023-04-13-21-30-32.png)
 ![](imgs/2023-04-13-21-31-04.png)
