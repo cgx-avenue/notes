@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md",
                 "mode": "source",
                 "source": false
               }
@@ -341,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,7 +358,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,7 +381,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md"
+                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md"
               }
             }
           },
@@ -415,6 +415,7 @@
   },
   "active": "01152c4b7816cc08",
   "lastOpenFiles": [
+    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH6_云数据库.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH5_NoSQL数据库.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH4_分布式数据库HBase.md",
@@ -439,7 +440,6 @@
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-09-43-44.png",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md",
-    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH4_HBase.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/![](imgs",
     "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
