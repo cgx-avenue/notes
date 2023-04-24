@@ -6,5 +6,5 @@ https://www.mongodb.com/docs/mongodb-shell/install/
 
 
 # refs
-1. https://www.runoob.com/mongodb/mongodb-databases-documents-collections.html
-2. 
+1. mongodb course: https://www.runoob.com/mongodb/mongodb-databases-documents-collections.html
+2. python mongodb: https://www.runoob.com/python3/python-mongodb.html
