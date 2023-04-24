@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "137c8a124ca7df4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "70_Onboarding/2023_机电高职_大数据/mongodb/mongodb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4504cc956ba43056",
             "type": "leaf",
             "state": {
@@ -259,7 +271,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -341,7 +354,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/mongodb/mongodb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -358,7 +371,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/mongodb/mongodb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -381,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md"
+                "file": "70_Onboarding/2023_机电高职_大数据/mongodb/mongodb.md"
               }
             }
           },
@@ -413,12 +426,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "01152c4b7816cc08",
+  "active": "137c8a124ca7df4b",
   "lastOpenFiles": [
+    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
+    "70_Onboarding/2023_机电高职_大数据/mongodb/mongodb.md",
+    "70_Onboarding/2023_机电高职_大数据/mongodb",
     "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
     "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "70_Onboarding/2023_机电高职_大数据/redis/redis.md",
-    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH9_数据仓库Hive.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md",
@@ -457,7 +472,6 @@
     "00_日志和总结/天/2023-03-04.md",
     "00_日志和总结/天/2023-03-03.md",
     "00_日志和总结/天/2023-03-02.md",
-    "20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境.md",
     "imgs"
   ]
 }
