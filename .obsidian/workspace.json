@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/编程语言/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
+                "file": "80_Development/编程语言与设计模式/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
                 "mode": "source",
                 "source": false
               }
@@ -366,7 +366,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/编程语言/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
+                "file": "80_Development/编程语言与设计模式/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -383,7 +383,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/编程语言/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
+                "file": "80_Development/编程语言与设计模式/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -406,7 +406,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/编程语言/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md"
+                "file": "80_Development/编程语言与设计模式/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md"
               }
             }
           },
@@ -438,12 +438,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7a54927e3449e4c5",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
     "70_Onboarding/2023_机电高职_大数据/mongodb/mongodb.md",
-    "80_Development/编程语言/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
-    "80_Development/编程语言/Java",
-    "80_Development/编程语言",
+    "80_Development/编程语言与设计模式/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
+    "80_Development/编程语言与设计模式/Java",
+    "80_Development/编程语言与设计模式",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
     "70_Onboarding/2023_机电高职_大数据/mongodb",
     "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
