@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/【转】Python装饰器.md",
+                "file": "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
                 "mode": "source",
                 "source": false
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/【转】Python装饰器.md",
+                "file": "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -395,7 +395,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/【转】Python装饰器.md",
+                "file": "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -418,7 +418,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/【转】Python装饰器.md"
+                "file": "80_Development/编程语言与设计模式/Python/闭包和装饰器.md"
               }
             }
           },
@@ -453,7 +453,7 @@
   "active": "e0383db34819daba",
   "lastOpenFiles": [
     "80_Development/编程语言与设计模式/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
-    "80_Development/编程语言与设计模式/Python/【转】Python装饰器.md",
+    "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
     "80_Development/编程语言与设计模式/Python",
     "70_Onboarding/2023_机电高职_大数据/mongodb/mongodb.md",
     "80_Development/编程语言与设计模式/Java",
