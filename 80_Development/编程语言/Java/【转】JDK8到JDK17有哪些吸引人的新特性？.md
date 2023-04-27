@@ -1,4 +1,4 @@
-#java #jdk #jdk8 #jdk7
+#java #jdk #jdk8 #jdk7 #2023-04-27
 # 转载
 https://www.cnblogs.com/jingdongkeji/p/17328635.html
 
@@ -10,3 +10,4 @@ https://www.cnblogs.com/jingdongkeji/p/17328635.html
 首先这两个都是由Oracle维护，区别就是协议和免费使用以及支持的时间。
 
 ## 选择哪个版本
+虽然大势所趋，看起来应该选择JDK17，但实际上，比如前阵子安装的Hadoop，JDK17就失败了，换成JDK8就没事。
