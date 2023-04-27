@@ -326,7 +326,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -343,8 +343,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ba3efb1286a7417",
@@ -451,7 +450,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2316de639456b92c",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
     "80_Development/编程语言与设计模式/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
     "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
