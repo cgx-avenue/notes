@@ -49,19 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/笔记软件的选择.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba95871b17d22f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_瞎折腾/小小服务器/京东抢购工具和脚本.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
                 "mode": "source",
                 "source": false
               }
@@ -308,7 +296,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -390,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/小小服务器/京东抢购工具和脚本.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +395,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/小小服务器/京东抢购工具和脚本.md",
+                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -430,7 +418,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/小小服务器/京东抢购工具和脚本.md"
+                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md"
               }
             }
           },
@@ -462,9 +450,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ba95871b17d22f50",
+  "active": "e0383db34819daba",
   "lastOpenFiles": [
     "20_瞎折腾/笔记软件的选择.md",
+    "脱单doge.md",
+    "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "20_瞎折腾/小小服务器/京东抢购工具和脚本.md",
     "20_瞎折腾/小小服务器/斐讯T1.md",
     "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
@@ -476,7 +466,6 @@
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
     "70_Onboarding/2023_机电高职_大数据/mongodb",
     "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
-    "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "70_Onboarding/2023_机电高职_大数据/redis/redis.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH9_数据仓库Hive.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md",
@@ -508,7 +497,6 @@
     "70_Onboarding/2023_机电高职_大数据",
     "00_日志和总结/天/2023-03-10.md",
     "00_日志和总结/天/2023-03-09.md",
-    "00_日志和总结/天/2023-03-08.md",
-    "00_日志和总结/天/2023-03-07.md"
+    "00_日志和总结/天/2023-03-08.md"
   ]
 }
