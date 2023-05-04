@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md",
                 "mode": "source",
                 "source": false
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -395,7 +395,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -418,7 +418,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md"
+                "file": "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md"
               }
             }
           },
@@ -452,6 +452,7 @@
   },
   "active": "e0383db34819daba",
   "lastOpenFiles": [
+    "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-04-09-32-46.png",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-04-09-31-35.png",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-04-09-29-54.png",
@@ -462,11 +463,9 @@
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-02-15-29-17.png",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-02-15-28-55.png",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-02-15-27-59.png",
-    "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-02-15-25-34.png",
     "70_Onboarding/2023_机电高职_大数据/imgs",
     "20_瞎折腾/笔记软件的选择.md",
     "脱单doge.md",
-    "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "20_瞎折腾/小小服务器/京东抢购工具和脚本.md",
     "20_瞎折腾/小小服务器/斐讯T1.md",
     "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
