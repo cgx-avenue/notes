@@ -13,6 +13,10 @@ https://docs.docker.com/desktop/install/linux-install/
 3. 在服务型环境中部署和调整数据库或其他的后台应用。
 4. 从头编译或者扩展现有的 OpenShift 或 Cloud Foundry 平台来搭建自己的 PaaS 环境。
 
+# 架构
+https://www.runoob.com/docker/docker-architecture.html
+C/S 架构，看下图中的Host，对比Portainer里面的进入页。
+![](imgs/2023-05-05-14-00-35.png)
 
 
 
