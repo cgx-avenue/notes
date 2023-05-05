@@ -17,6 +17,9 @@ https://docs.docker.com/desktop/install/linux-install/
 https://www.runoob.com/docker/docker-architecture.html
 C/S 架构，看下图中的Host，对比Portainer里面的进入页。
 ![](imgs/2023-05-05-14-00-35.png)
+其他的就是关键词，镜像，容器，等等。
+
+# Docker image 镜像
 
 
 
