@@ -20,6 +20,13 @@ C/S 架构，看下图中的Host，对比Portainer里面的进入页。
 其他的就是关键词，镜像，容器，等等。
 
 # Docker image 镜像
+# Docker container 容器
 
+# 容器连接
+https://www.runoob.com/docker/docker-container-connection.html
+指定端口号
+
+# Dockerfile
+https://www.runoob.com/docker/docker-dockerfile.html
 
 
