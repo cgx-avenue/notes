@@ -3,4 +3,4 @@
 https://zhuanlan.zhihu.com/p/583359535
 https://zhuanlan.zhihu.com/p/426303359
 
-总结：RPC是用来
+总结：RPC是用来服务器调用服务器的接口，就像本地调用一样，但问题是有哪些接口，怎么调用，怎么传数据，需要提前协商并知晓。
