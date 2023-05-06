@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "20_瞎折腾/小小服务器/树莓派3B+.md",
                 "mode": "source",
                 "source": false
               }
@@ -414,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "20_瞎折腾/小小服务器/树莓派3B+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "20_瞎折腾/小小服务器/树莓派3B+.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -454,7 +454,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md"
+                "file": "20_瞎折腾/小小服务器/树莓派3B+.md"
               }
             }
           },
@@ -488,6 +488,8 @@
   },
   "active": "52f071be90f0ce1a",
   "lastOpenFiles": [
+    "20_瞎折腾/小小服务器/树莓派4B.md",
+    "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "80_Development/工具软件/Vim.md",
     "80_Development/Web/协议与标准/RPC与Restful API区别.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
@@ -495,10 +497,8 @@
     "80_Development/Web",
     "80_Development/容器Container/Docker/imgs/2023-05-05-14-00-35.png",
     "80_Development/容器Container/Docker/imgs",
-    "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "80_Development/容器Container/Docker",
     "80_Development/容器Container",
-    "20_瞎折腾/小小服务器/树莓派4B.md",
     "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-04-09-32-46.png",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-04-09-31-35.png",
