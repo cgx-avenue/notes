@@ -1,5 +1,4 @@
-# notes
-test  
-test again
-test again
-test on mac
+# 内容
+这里记录的不仅仅是生活，学习，更是我的生命。
+
+
