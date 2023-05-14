@@ -76,6 +76,16 @@
             }
           },
           {
+            "id": "f92b6ea7883fe3ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          },
+          {
             "id": "4504cc956ba43056",
             "type": "leaf",
             "state": {
@@ -316,7 +326,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -474,7 +484,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1ecf919ce9bb265d",
+  "active": "97d5c5c2617f712b",
   "lastOpenFiles": [
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/1.png",
     "80_Development/Web/协议与标准/RPC与Restful API区别.md",
