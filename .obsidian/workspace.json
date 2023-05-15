@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
+                "file": "80_Development/数据库Database/Milvus.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
+                "file": "80_Development/数据库Database/Milvus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
+                "file": "80_Development/数据库Database/Milvus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md"
+                "file": "80_Development/数据库Database/Milvus.md"
               }
             }
           },
@@ -196,8 +196,10 @@
   },
   "active": "9a3529c350208def",
   "lastOpenFiles": [
-    "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
     "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
+    "80_Development/数据库Database/Milvus.md",
+    "80_Development/数据库Database",
+    "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
     "80_Development/8010_工作环境搭建",
     "20_瞎折腾/小小服务器/树莓派4B.md",
     "80_Development/编程语言与设计模式/Python/环境搭建",
@@ -234,13 +236,11 @@
     "20_瞎折腾/小小服务器/斐讯T1.md",
     "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
     "80_Development/编程语言与设计模式/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
-    "80_Development/编程语言与设计模式/Python",
     "70_Onboarding/2023_机电高职_大数据/mongodb/mongodb.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
     "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
     "70_Onboarding/2023_机电高职_大数据/redis/redis.md",
     "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH9_数据仓库Hive.md",
-    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md",
-    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md"
+    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md"
   ]
 }
