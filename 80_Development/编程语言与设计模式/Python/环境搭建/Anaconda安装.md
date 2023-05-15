@@ -6,3 +6,7 @@
 ## Miniconda
 [[树莓派4B]]
 
+
+# 换源
+[anaconda | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
+
