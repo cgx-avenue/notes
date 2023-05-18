@@ -2,7 +2,8 @@
 [Vector database - Milvus](https://milvus.io/)
 
 # 安装
-
+参照的 [强大的向量数据库：Milvus - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/405186060) 
+用的docker-composegong
 
 
 # 参考
