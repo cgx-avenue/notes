@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
+                "file": "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
+                "file": "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
+                "file": "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/向量数据库.md"
+                "file": "80_Development/数据库Database/向量数据库/Milvus/Milvus.md"
               }
             }
           },
@@ -194,10 +194,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "787113852fd3ca30",
+  "active": "9a3529c350208def",
   "lastOpenFiles": [
-    "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
     "80_Development/数据库Database/向量数据库/向量数据库.md",
+    "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
     "80_Development/数据库Database/向量数据库/Milvus",
     "80_Development/数据库Database/向量数据库",
     "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
