@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/公开数据集/工业数据集.md",
+                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/公开数据集/工业数据集.md",
+                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/公开数据集/工业数据集.md",
+                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/公开数据集/工业数据集.md"
+                "file": "80_Development/数据库Database/向量数据库/向量数据库.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "2d8bb2c91b3b5dd4",
   "lastOpenFiles": [
-    "80_Development/数据库Database/数据库.md",
     "80_Development/DataScience/公开数据集/工业数据集.md",
+    "80_Development/数据库Database/数据库.md",
     "80_Development/数据库Database/向量数据库/数据库",
     "80_Development/DataScience/公开数据集/工业数据集",
     "80_Development/DataScience/公开数据集",
