@@ -1,4 +1,4 @@
-![](2022-07-21-15-31-03.png)
+![](imgs\imgs/2022-07-21-15-31-03.png)
 # 归因分析 Attribution Analysis
 1. Sharply value 夏普里值法
 2. 归因理论（心理学）
