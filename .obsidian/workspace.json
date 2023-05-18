@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "80_Development/DataAnalysis/归因分析AttributionAnalysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "80_Development/DataAnalysis/归因分析AttributionAnalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
+                "file": "80_Development/DataAnalysis/归因分析AttributionAnalysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md"
+                "file": "80_Development/DataAnalysis/归因分析AttributionAnalysis.md"
               }
             }
           },
@@ -183,6 +183,10 @@
   },
   "active": "e0383db34819daba",
   "lastOpenFiles": [
+    "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-18-15-18-07.png",
+    "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-18-15-17-43.png",
+    "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-18-15-17-32.png",
+    "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "80_Development/DataAnalysis/归因分析AttributionAnalysis.md",
     "80_Development/DataAnalysis/images/2022-07-21-15-31-03.png",
     "80_Development/DataAnalysis/Accoustic/Accoustic.md",
@@ -204,7 +208,6 @@
     "00_日志和总结/天/2023-05-11.md",
     "00_日志和总结/天/2023-01-09.md",
     "README.md",
-    "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-09-09-47-44.png",
     "20_瞎折腾/身体抱恙/高血压.md",
     "20_瞎折腾/身体抱恙",
@@ -218,8 +221,6 @@
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-04-09-32-46.png",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-04-09-31-35.png",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-04-09-29-54.png",
-    "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-04-09-28-13.png",
-    "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-04-09-24-26.png",
     "20_瞎折腾/笔记软件的选择.md",
     "脱单doge.md",
     "20_瞎折腾/小小服务器/京东抢购工具和脚本.md",
@@ -227,7 +228,6 @@
     "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
     "80_Development/编程语言与设计模式/Java/【转】JDK8到JDK17有哪些吸引人的新特性？.md",
     "70_Onboarding/2023_机电高职_大数据/mongodb/mongodb.md",
-    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
-    "70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md"
+    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md"
   ]
 }
