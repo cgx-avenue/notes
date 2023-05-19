@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/向量数据库.md"
+                "file": "80_Development/DataScience/异常检测/异常检测.md"
               }
             }
           },
@@ -181,8 +181,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "2d8bb2c91b3b5dd4",
   "lastOpenFiles": [
+    "80_Development/数据库Database/向量数据库/向量数据库.md",
+    "80_Development/DataScience/异常检测/异常检测.md",
     "80_Development/DataScience/异常检测/异常检测",
     "80_Development/DataScience/异常检测",
     "80_Development/DataScience/Accoustic声学信号/Accoustic.md",
@@ -209,8 +211,6 @@
     "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
     "80_Development/数据库Database/公开数据集",
     "80_Development/数据库Database/向量数据库/Milvus/imgs/2023-05-18-15-02-23.png",
-    "80_Development/数据库Database/向量数据库/Milvus/imgs",
-    "80_Development/数据库Database/向量数据库/向量数据库.md",
     "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
     "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
