@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md",
+                "file": "80_Development/DataScience/异常检测/PyOD.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md",
+                "file": "80_Development/DataScience/异常检测/PyOD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md",
+                "file": "80_Development/DataScience/异常检测/PyOD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md"
+                "file": "80_Development/DataScience/异常检测/PyOD.md"
               }
             }
           },
@@ -183,11 +183,12 @@
   },
   "active": "2d8bb2c91b3b5dd4",
   "lastOpenFiles": [
+    "80_Development/DataScience/异常检测/异常检测.md",
+    "80_Development/DataScience/异常检测/PyOD.md",
     "80_Development/DataScience/异常检测/imgs/2023-05-19-15-19-20.png",
     "80_Development/DataScience/异常检测/imgs/2023-05-19-15-13-05.png",
     "80_Development/DataScience/异常检测/imgs",
     "80_Development/数据库Database/向量数据库/向量数据库.md",
-    "80_Development/DataScience/异常检测/异常检测.md",
     "80_Development/DataScience/异常检测/异常检测",
     "80_Development/DataScience/异常检测",
     "80_Development/DataScience/Accoustic声学信号/Accoustic.md",
@@ -226,7 +227,6 @@
     "20_瞎折腾/小小服务器/树莓派3B+.md",
     "80_Development/工具软件/Vim.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
-    "80_Development/容器Container/Docker/imgs/2023-05-05-14-00-35.png",
     "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md",
     "20_瞎折腾/笔记软件的选择.md"
   ]
