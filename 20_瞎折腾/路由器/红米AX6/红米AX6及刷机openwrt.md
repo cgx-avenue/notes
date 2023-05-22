@@ -30,10 +30,12 @@
 
 ## 教程
 [红米AX6 Openwrt刷机教程（解锁步骤AX6000、AX9000通用）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1q94y1f7fj/?vd_source=462c9e0df89bcb23f1c5be85ce31d8ce)
-主要就是上面这个链接，视频里说的非常明白。
+主要就是上面这个链接，视频里说的非常明白。我用的非扩容刷机，本来是想简单点，没想到后来用到了恢复官方的需求。
+![](imgs/2023-05-22-22-28-06.png)
 需要用到的软件： 
 * winscp
 * virtualbox（因为给的vmdk格式op虚拟机）
+* mobaxterm
 
 ## 固件
 ### 教程里的
@@ -41,14 +43,27 @@
 ```txt
 帖子链接
 https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=5796487&extra=page%3D1%26filter%3Dtypeid%26typeid%3D64
-
+也就是这个
+[【20230215】红米AX6自用精简Openwrt，带酸爽乳-小米无线路由器以及小米无线相关的设备-恩山无线论坛 - Powered by Discuz! (right.com.cn)](https://www.right.com.cn/forum/thread-5796487-1-1.html)
 
 下载链接：
 百度网盘链接：https://pan.baidu.com/s/1zBtzdk1ERG4SYeTHu-b2lw
 提取码：2333
 ```
 后来我也找到了这个链接，里面的固件刷完了之后是没有无线功能的！
+ 
 ### 我刷的
-
+在这个链接里找到的[【Openwrt新5.15内核开发版每周五更新】AX6/AX6S/AX3600/AX9000,NSS,组网,及相关教程-小米无线路由器以及小米无线相关的设备-恩山无线论坛 - Powered by Discuz! (right.com.cn)](https://www.right.com.cn/forum/thread-4875974-1-1.html)
+> **AX6（含最新QSDK固件）**  
+**蓝奏云:****https://wws.lanzoui.com/b02c8p8ta**  
+**密码:****777s**  
+  
+ **AX6S**  
+**蓝奏云：[https://wwt.lanzouo.com/b02cojtqd](https://wwt.lanzouo.com/b02cojtqd)**  
+**密码:**78ey  
+  
+ **AX3600&AX9000（****含最新QSDK固件****）**  
+**蓝奏云:****https://wws.lanzoui.com/b02cafd6j**  
+**密码:****8jle**
 
 

@@ -181,13 +181,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "2d8bb2c91b3b5dd4",
   "lastOpenFiles": [
+    "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
+    "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
+    "20_瞎折腾/路由器/红米AX6/imgs/2023-05-22-22-28-06.png",
     "20_瞎折腾/路由器/红米AX6",
     "20_瞎折腾/路由器/红米AX6/imgs/2023-05-22-22-12-03.png",
     "20_瞎折腾/路由器/红米AX6/imgs",
     "80_Development/DataScience/异常检测/PyOD.md",
-    "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
     "20_瞎折腾/路由器",
     "80_Development/DataScience/异常检测/imgs/2023-05-19-15-49-22.png",
     "80_Development/DataScience/异常检测/异常检测.md",
@@ -209,7 +211,6 @@
     "80_Development/DataScience/Accoustic/Accoustic.md",
     "80_Development/DataScience/数据不够怎么办.md",
     "80_Development/DataScience/归因分析AttributionAnalysis.md",
-    "80_Development/DataScience/imgs",
     "80_Development/DataAnalysis/imgs/2022-07-21-15-31-03.png",
     "80_Development/DataAnalysis/Accoustic/Accoustic.md",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-18-15-18-07.png",
@@ -217,7 +218,6 @@
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-18-15-17-32.png",
     "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
-    "80_Development/数据库Database/向量数据库/Milvus/imgs/2023-05-18-15-02-23.png",
     "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
     "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
@@ -227,7 +227,6 @@
     "README.md",
     "20_瞎折腾/身体抱恙/高血压.md",
     "20_瞎折腾/小小服务器/树莓派3B+.md",
-    "80_Development/工具软件/Vim.md",
-    "80_Development/容器Container/Docker/Docker-1-基础.md"
+    "80_Development/工具软件/Vim.md"
   ]
 }
