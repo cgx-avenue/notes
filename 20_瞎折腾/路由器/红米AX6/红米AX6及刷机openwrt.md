@@ -36,6 +36,14 @@
 * winscp
 * virtualbox（因为给的vmdk格式op虚拟机）
 * mobaxterm
+### 步骤
+1. 解锁SSH
+	1. 降级固件，用1.0.18的
+	2. 虚拟机弄个op无线出来
+	3. 解锁SSH
+2. 刷入OP
+	1. 刷入名字里含factory的固件先
+	2. 然后在web里找到升级，再选sysupgrade的固件
 
 ## 固件
 ### 教程里的
@@ -51,9 +59,11 @@ https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=5796487&extra=page%3
 提取码：2333
 ```
 后来我也找到了这个链接，里面的固件刷完了之后是没有无线功能的！
+
  
 ### 我刷的
 在这个链接里找到的[【Openwrt新5.15内核开发版每周五更新】AX6/AX6S/AX3600/AX9000,NSS,组网,及相关教程-小米无线路由器以及小米无线相关的设备-恩山无线论坛 - Powered by Discuz! (right.com.cn)](https://www.right.com.cn/forum/thread-4875974-1-1.html)
+里面的这部分：
 > **AX6（含最新QSDK固件）**  
 **蓝奏云:****https://wws.lanzoui.com/b02c8p8ta**  
 **密码:****777s**  
@@ -66,4 +76,19 @@ https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=5796487&extra=page%3
 **蓝奏云:****https://wws.lanzoui.com/b02cafd6j**  
 **密码:****8jle**
 
+![](imgs/2023-05-22-22-31-28.png)
+
+里面的第一个，这里面有无线功能。
+
+这个Github里也有[Releases · yaya131/Openwrt_Beta (github.com)](https://github.com/yaya131/Openwrt_Beta/releases)
+
+注意里面写的ip地址，登录管理页面的时候要用到。
+
+## openwrt 应用过滤 OAF插件
+[用这些 OpenWRT 插件来武装你的路由器 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/103121214)
+[特征库 | 应用过滤(OAF) (destan19.github.io)](https://destan19.github.io/feature/)
+
+研究了一下，OAF是国人开发的，介绍视频里清晰的有屏蔽各种短视频，包括抖音在内的功能。其原理也是通过特征库（猜测是DNS或者hosts）禁止某些应用。后来作者甚至开发出了一个界面称之为路由系统。
+[FROS路由系统](http://www.fros.org.cn/ipk.html)
+又研究了一下，发现有固件安装和
 
