@@ -14,7 +14,7 @@
 
 [Redmi AX6路由器评测：六天线Wi-Fi 6新价格屠夫 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/188685681)
 
-![](imgs/2023-05-22-22-12-03.png)
+![](2023-05-22-22-12-03.png)
 缺点就是ROM只有128MB，导致后续的刷机有两种方式。
 
 # 刷机前的使用
@@ -26,6 +26,29 @@
 # 刷机openwrt
 折腾了一个晚上，成功的刷入了openwrt，也装上了所谓的应用过滤，但根本没用啊。
 怎么说呢，其实想想也能明白，是抖音太狡猾了，不停的更改服务器的ip地址和域名即可，我们被动的防御是没用的。
-除了更方便的科学上网和各种控制，zan's
+除了更方便的科学上网和各种控制，暂时没发现对于AX6这种小内存的不扩容刷机（一个分区只有30MB），安装完openwrt之后所剩无几的情况下，有什么更多的意义。
+
+## 教程
+[红米AX6 Openwrt刷机教程（解锁步骤AX6000、AX9000通用）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1q94y1f7fj/?vd_source=462c9e0df89bcb23f1c5be85ce31d8ce)
+主要就是上面这个链接，视频里说的非常明白。
+需要用到的软件： 
+* winscp
+* virtualbox（因为给的vmdk格式op虚拟机）
+
+## 固件
+### 教程里的
+视频里提到的是下面这个链接里面的固件，但是不要用！！！
+```txt
+帖子链接
+https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=5796487&extra=page%3D1%26filter%3Dtypeid%26typeid%3D64
+
+
+下载链接：
+百度网盘链接：https://pan.baidu.com/s/1zBtzdk1ERG4SYeTHu-b2lw
+提取码：2333
+```
+后来我也找到了这个链接，里面的固件刷完了之后是没有无线功能的！
+### 我刷的
+
 
 

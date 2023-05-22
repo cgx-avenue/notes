@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
+                "file": "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
+                "file": "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
+                "file": "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/路由器/红米AX6及刷机openwrt.md"
+                "file": "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md"
               }
             }
           },
@@ -181,12 +181,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2d8bb2c91b3b5dd4",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
-    "20_瞎折腾/路由器/imgs/2023-05-22-22-12-03.png",
-    "20_瞎折腾/路由器/imgs",
+    "20_瞎折腾/路由器/红米AX6",
+    "20_瞎折腾/路由器/红米AX6/imgs/2023-05-22-22-12-03.png",
+    "20_瞎折腾/路由器/红米AX6/imgs",
     "80_Development/DataScience/异常检测/PyOD.md",
-    "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
+    "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
     "20_瞎折腾/路由器",
     "80_Development/DataScience/异常检测/imgs/2023-05-19-15-49-22.png",
     "80_Development/DataScience/异常检测/异常检测.md",
@@ -220,7 +221,6 @@
     "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
     "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
-    "70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/1.png",
     "80_Development/Web/协议与标准/RPC与Restful API区别.md",
     "00_日志和总结/天/2023-05-11.md",
     "00_日志和总结/天/2023-01-09.md",
