@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyOD.md",
+                "file": "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyOD.md",
+                "file": "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyOD.md",
+                "file": "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyOD.md"
+                "file": "20_瞎折腾/路由器/红米AX6及刷机openwrt.md"
               }
             }
           },
@@ -183,9 +183,11 @@
   },
   "active": "2d8bb2c91b3b5dd4",
   "lastOpenFiles": [
+    "80_Development/DataScience/异常检测/PyOD.md",
+    "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
+    "20_瞎折腾/路由器",
     "80_Development/DataScience/异常检测/imgs/2023-05-19-15-49-22.png",
     "80_Development/DataScience/异常检测/异常检测.md",
-    "80_Development/DataScience/异常检测/PyOD.md",
     "80_Development/DataScience/异常检测/imgs/2023-05-19-15-19-20.png",
     "80_Development/DataScience/异常检测/imgs/2023-05-19-15-13-05.png",
     "80_Development/DataScience/异常检测/imgs",
@@ -206,7 +208,6 @@
     "80_Development/DataScience/归因分析AttributionAnalysis.md",
     "80_Development/DataScience/imgs",
     "80_Development/DataScience/Accoustic",
-    "80_Development/DataScience",
     "80_Development/DataAnalysis/imgs/2022-07-21-15-31-03.png",
     "80_Development/DataAnalysis/Accoustic/Accoustic.md",
     "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-18-15-18-07.png",
@@ -223,7 +224,6 @@
     "00_日志和总结/天/2023-05-11.md",
     "00_日志和总结/天/2023-01-09.md",
     "README.md",
-    "70_Onboarding/2023_机电高职_大数据/imgs/2023-05-09-09-47-44.png",
     "20_瞎折腾/身体抱恙/高血压.md",
     "20_瞎折腾/小小服务器/树莓派3B+.md",
     "80_Development/工具软件/Vim.md",
