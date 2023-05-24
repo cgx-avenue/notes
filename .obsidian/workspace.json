@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
+                "file": "20_瞎折腾/身体抱恙/新冠.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
+                "file": "20_瞎折腾/身体抱恙/新冠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
+                "file": "20_瞎折腾/身体抱恙/新冠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md"
+                "file": "20_瞎折腾/身体抱恙/新冠.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "2d8bb2c91b3b5dd4",
   "lastOpenFiles": [
-    "20_瞎折腾/小小服务器/斐讯T1.md",
     "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
+    "20_瞎折腾/身体抱恙/新冠.md",
+    "20_瞎折腾/小小服务器/斐讯T1.md",
     "20_瞎折腾/路由器/红米AX6/不扩容刷机软件及固件.7z",
     "20_瞎折腾/路由器/红米AX6/imgs/2023-05-22-22-31-28.png",
     "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
@@ -227,7 +228,6 @@
     "00_日志和总结/天/2023-01-09.md",
     "README.md",
     "20_瞎折腾/身体抱恙/高血压.md",
-    "20_瞎折腾/小小服务器/树莓派3B+.md",
-    "80_Development/工具软件/Vim.md"
+    "20_瞎折腾/小小服务器/树莓派3B+.md"
   ]
 }
