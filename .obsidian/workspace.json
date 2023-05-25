@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/身体抱恙/新冠.md",
+                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/身体抱恙/新冠.md",
+                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/身体抱恙/新冠.md",
+                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/身体抱恙/新冠.md"
+                "file": "20_瞎折腾/摄影/器材/尼康Z30.md"
               }
             }
           },
@@ -181,8 +181,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2d8bb2c91b3b5dd4",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
+    "20_瞎折腾/摄影/摄影技术与教程",
+    "20_瞎折腾/摄影/器材",
+    "20_瞎折腾/身体抱恙/新冠.md",
+    "20_瞎折腾/摄影/器材/尼康Z30.md",
+    "20_瞎折腾/摄影",
     "30_乱七八糟的知识/imgs/v2-03366460191fb6cbdc506ae5836604f1_720w.webp",
     "30_乱七八糟的知识/imgs/image-20230105163408385.png",
     "30_乱七八糟的知识/imgs",
@@ -195,22 +200,18 @@
     "20_瞎折腾/身体抱恙/imgs/2023-05-24-18-12-47.png",
     "20_瞎折腾/身体抱恙/imgs",
     "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
-    "20_瞎折腾/身体抱恙/新冠.md",
     "20_瞎折腾/小小服务器/斐讯T1.md",
     "20_瞎折腾/路由器/红米AX6/不扩容刷机软件及固件.7z",
     "20_瞎折腾/路由器/红米AX6/imgs/2023-05-22-22-31-28.png",
     "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
     "20_瞎折腾/路由器/红米AX6/imgs/2023-05-22-22-28-06.png",
     "20_瞎折腾/路由器/红米AX6",
-    "20_瞎折腾/路由器/红米AX6/imgs/2023-05-22-22-12-03.png",
     "20_瞎折腾/路由器/红米AX6/imgs",
     "80_Development/DataScience/异常检测/PyOD.md",
     "20_瞎折腾/路由器",
     "80_Development/DataScience/异常检测/异常检测.md",
     "80_Development/DataScience/异常检测/imgs",
     "80_Development/数据库Database/向量数据库/向量数据库.md",
-    "80_Development/DataScience/异常检测/异常检测",
-    "80_Development/DataScience/异常检测",
     "80_Development/DataScience/Accoustic声学信号/Accoustic.md",
     "80_Development/DataScience/公开数据集/工业数据集.md",
     "80_Development/数据库Database/数据库.md",
@@ -227,7 +228,6 @@
     "80_Development/Web/协议与标准/RPC与Restful API区别.md",
     "00_日志和总结/天/2023-05-11.md",
     "00_日志和总结/天/2023-01-09.md",
-    "README.md",
-    "20_瞎折腾/身体抱恙/高血压.md"
+    "README.md"
   ]
 }
