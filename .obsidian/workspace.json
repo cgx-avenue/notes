@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础一：光圈，快门，ISO.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础一：光圈，快门，ISO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础一：光圈，快门，ISO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md"
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础一：光圈，快门，ISO.md"
               }
             }
           },
@@ -181,14 +181,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "97d5c5c2617f712b",
+  "active": "2d8bb2c91b3b5dd4",
   "lastOpenFiles": [
+    "20_瞎折腾/摄影/摄影技术与教程/基础二：镜头.md",
+    "20_瞎折腾/摄影/摄影技术与教程/基础一：光圈，快门，ISO.md",
+    "20_瞎折腾/摄影/摄影技术与教程/ISO.md",
+    "20_瞎折腾/摄影/摄影技术与教程/快门.md",
+    "20_瞎折腾/摄影/摄影技术与教程/光圈.md",
+    "20_瞎折腾/摄影/器材/尼康Z30.md",
     "20_瞎折腾/无线电认证/A类题库.txt",
     "20_瞎折腾/无线电认证",
     "20_瞎折腾/摄影/摄影技术与教程",
     "20_瞎折腾/摄影/器材",
     "20_瞎折腾/身体抱恙/新冠.md",
-    "20_瞎折腾/摄影/器材/尼康Z30.md",
     "20_瞎折腾/摄影",
     "30_乱七八糟的知识/imgs/v2-03366460191fb6cbdc506ae5836604f1_720w.webp",
     "30_乱七八糟的知识/imgs/image-20230105163408385.png",
@@ -208,7 +213,6 @@
     "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
     "20_瞎折腾/路由器/红米AX6/imgs/2023-05-22-22-28-06.png",
     "20_瞎折腾/路由器/红米AX6",
-    "20_瞎折腾/路由器/红米AX6/imgs",
     "80_Development/DataScience/异常检测/PyOD.md",
     "80_Development/DataScience/异常检测/异常检测.md",
     "80_Development/数据库Database/向量数据库/向量数据库.md",
@@ -224,10 +228,6 @@
     "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
     "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
     "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
-    "20_瞎折腾/小小服务器/树莓派4B.md",
-    "80_Development/Web/协议与标准/RPC与Restful API区别.md",
-    "00_日志和总结/天/2023-05-11.md",
-    "00_日志和总结/天/2023-01-09.md",
-    "README.md"
+    "20_瞎折腾/小小服务器/树莓派4B.md"
   ]
 }
