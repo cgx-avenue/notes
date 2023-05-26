@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础六：配件.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础六：配件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础六：配件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md"
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础六：配件.md"
               }
             }
           },
@@ -183,6 +183,9 @@
   },
   "active": "2d8bb2c91b3b5dd4",
   "lastOpenFiles": [
+    "20_瞎折腾/摄影/摄影技术与教程/基础五：教材.md",
+    "20_瞎折腾/摄影/摄影技术与教程/基础六：配件.md",
+    "20_瞎折腾/摄影/器材/尼康Z30.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础四：题材.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础三：常见术语和问题.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础一：光圈，快门，ISO.md",
@@ -191,7 +194,6 @@
     "20_瞎折腾/摄影/摄影技术与教程/imgs/2023-05-26-15-19-16.png",
     "20_瞎折腾/摄影/摄影技术与教程/imgs",
     "20_瞎折腾/摄影/器材/配件.md",
-    "20_瞎折腾/摄影/器材/尼康Z30.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础二：镜头.md",
     "20_瞎折腾/摄影/摄影技术与教程/ISO.md",
     "20_瞎折腾/摄影/摄影技术与教程/快门.md",
@@ -226,8 +228,6 @@
     "80_Development/DataScience/Accoustic/Accoustic.md",
     "80_Development/DataScience/数据不够怎么办.md",
     "80_Development/DataScience/归因分析AttributionAnalysis.md",
-    "80_Development/DataAnalysis/Accoustic/Accoustic.md",
-    "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
-    "80_Development/数据库Database/向量数据库/Milvus/Milvus.md"
+    "80_Development/DataAnalysis/Accoustic/Accoustic.md"
   ]
 }
