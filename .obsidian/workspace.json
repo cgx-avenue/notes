@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
+                "file": "20_瞎折腾/摄影/器材/配件.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
+                "file": "20_瞎折腾/摄影/器材/配件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md",
+                "file": "20_瞎折腾/摄影/器材/配件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30.md"
+                "file": "20_瞎折腾/摄影/器材/配件.md"
               }
             }
           },
@@ -183,12 +183,13 @@
   },
   "active": "2d8bb2c91b3b5dd4",
   "lastOpenFiles": [
+    "20_瞎折腾/摄影/器材/尼康Z30.md",
+    "20_瞎折腾/摄影/器材/配件.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础一：光圈，快门，ISO.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础二：镜头.md",
     "20_瞎折腾/摄影/摄影技术与教程/ISO.md",
     "20_瞎折腾/摄影/摄影技术与教程/快门.md",
     "20_瞎折腾/摄影/摄影技术与教程/光圈.md",
-    "20_瞎折腾/摄影/器材/尼康Z30.md",
     "20_瞎折腾/无线电认证/A类题库.txt",
     "20_瞎折腾/无线电认证",
     "20_瞎折腾/摄影/摄影技术与教程",
@@ -227,7 +228,6 @@
     "70_Onboarding/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
     "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
-    "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
-    "20_瞎折腾/小小服务器/树莓派4B.md"
+    "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md"
   ]
 }
