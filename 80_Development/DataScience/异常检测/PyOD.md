@@ -12,7 +12,7 @@ pip install pyod
 ```
 
 # 算法
-[PyOD](https://link.zhihu.com/?target=https%3A//github.com/yzhao062/pyod)提供了约20种异常检测算法（详见图1），部分算法介绍可以参考「[数据挖掘中常见的「异常检测」算法有哪些？](https://www.zhihu.com/question/280696035/answer/417091151)」或异常检测领域的经典教科书[[7]](https://zhuanlan.zhihu.com/p/58313521#ref_7)。同时该工具库也包含了一系列辅助功能，包括数据可视化及结果评估等：
+[PyOD](https://link.zhihu.com/?target=https%3A//github.com/yzhao062/pyod)提供了约40种异常检测算法（详见图1），部分算法介绍可以参考「[数据挖掘中常见的「异常检测」算法有哪些？](https://www.zhihu.com/question/280696035/answer/417091151)」或异常检测领域的经典教科书[[7]](https://zhuanlan.zhihu.com/p/58313521#ref_7)。同时该工具库也包含了一系列辅助功能，包括数据可视化及结果评估等：
 ![](imgs/2023-05-19-15-49-22.png)
 
 # API

@@ -11,9 +11,11 @@
             "id": "8c861d6cb17ad0f2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/摄影/说明书/ZDX50-250_4.5-6.3VR_TH(7K_DL)03.pdf"
+                "file": "80_Development/DataScience/异常检测/PyOD.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
