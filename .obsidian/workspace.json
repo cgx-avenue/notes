@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyOD.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyOD.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyOD.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyOD.md"
+                "file": "80_Development/DataScience/异常检测/异常检测.md"
               }
             }
           },
@@ -183,9 +183,9 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
+    "80_Development/DataScience/异常检测/PyOD.md",
     "80_Development/DataScience/异常检测/异常检测.md",
     "80_Development/DataScience/异常检测/算法比较.md",
-    "80_Development/DataScience/异常检测/PyOD.md",
     "80_Development/DataScience/论文/22-neurips-adbench.pdf",
     "80_Development/DataScience/论文",
     "20_瞎折腾/摄影/摄影技术与教程/基础五：教程和教材.md",
