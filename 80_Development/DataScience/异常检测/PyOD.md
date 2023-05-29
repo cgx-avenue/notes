@@ -15,6 +15,9 @@ pip install pyod
 [PyOD](https://link.zhihu.com/?target=https%3A//github.com/yzhao062/pyod)提供了约40种异常检测算法（详见图1），部分算法介绍可以参考「[数据挖掘中常见的「异常检测」算法有哪些？](https://www.zhihu.com/question/280696035/answer/417091151)」或异常检测领域的经典教科书[[7]](https://zhuanlan.zhihu.com/p/58313521#ref_7)。同时该工具库也包含了一系列辅助功能，包括数据可视化及结果评估等：
 ![](imgs/2023-05-19-15-49-22.png)
 
+## 注意
+PyOD的Github里放了一个算法和数据集的对比，我放在这里了[[算法比较]]。里面的意思就是PyOD其实针对的也是Tabular类型的数据。如果是Time-series类型的，PyOD作者推荐了TODS。
+
 # API
 特别需要注意的是，**异常检测算法**基本都是**无监督学习**，所以只需要X（输入数据），而不需要y（标签）。[PyOD](https://link.zhihu.com/?target=https%3A//github.com/yzhao062/pyod)的使用方法和Sklearn中聚类分析很像，它的检测器（detector）均有统一的API。所有的[PyOD](https://link.zhihu.com/?target=https%3A//github.com/yzhao062/pyod)检测器clf均有统一的API以便使用，完整的API使用参考可以查阅（[API CheatSheet - pyod 0.6.8 documentation](https://link.zhihu.com/?target=https%3A//pyod.readthedocs.io/en/latest/api_cc.html)）：
 

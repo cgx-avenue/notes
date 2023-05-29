@@ -184,6 +184,10 @@
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
     "80_Development/DataScience/异常检测/PyOD.md",
+    "80_Development/DataScience/异常检测/算法比较.md",
+    "80_Development/DataScience/论文/22-neurips-adbench.pdf",
+    "80_Development/DataScience/论文",
+    "80_Development/DataScience/异常检测/异常检测.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础五：教程和教材.md",
     "20_瞎折腾/摄影/说明书/ZDX50-250_4.5-6.3VR_TH(7K_DL)03.pdf",
     "20_瞎折腾/摄影/说明书/ZDX16-50_3.5-6.3VR_PRC_DL(Sc)02.pdf",
@@ -206,9 +210,7 @@
     "20_瞎折腾/无线电认证/A类题库.txt",
     "20_瞎折腾/无线电认证",
     "20_瞎折腾/摄影/摄影技术与教程",
-    "20_瞎折腾/摄影/器材",
     "20_瞎折腾/身体抱恙/新冠.md",
-    "20_瞎折腾/摄影",
     "30_乱七八糟的知识/imgs/v2-03366460191fb6cbdc506ae5836604f1_720w.webp",
     "30_乱七八糟的知识/imgs/image-20230105163408385.png",
     "20_瞎折腾/imgs/image-20230105174221396.png",
@@ -219,14 +221,12 @@
     "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
     "20_瞎折腾/小小服务器/斐讯T1.md",
     "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
-    "80_Development/DataScience/异常检测/异常检测.md",
     "80_Development/数据库Database/向量数据库/向量数据库.md",
     "80_Development/DataScience/Accoustic声学信号/Accoustic.md",
     "80_Development/DataScience/公开数据集/工业数据集.md",
     "80_Development/数据库Database/数据库.md",
     "80_Development/DataAnalysis/归因分析AttributionAnalysis.md",
     "80_Development/DataScience/Accoustic/Accoustic.md",
-    "80_Development/DataScience/数据不够怎么办.md",
-    "80_Development/DataScience/归因分析AttributionAnalysis.md"
+    "80_Development/DataScience/数据不够怎么办.md"
   ]
 }
