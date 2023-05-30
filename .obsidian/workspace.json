@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md",
+                "file": "80_Development/DataScience/异常检测/TODS.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md",
+                "file": "80_Development/DataScience/异常检测/TODS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md",
+                "file": "80_Development/DataScience/异常检测/TODS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md"
+                "file": "80_Development/DataScience/异常检测/TODS.md"
               }
             }
           },
@@ -184,6 +184,7 @@
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
     "80_Development/DataScience/异常检测/TSOD.md",
+    "80_Development/DataScience/异常检测/TODS.md",
     "80_Development/DataScience/异常检测/异常检测.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
     "80_Development/DataScience/异常检测/PyOD.md",
@@ -227,7 +228,6 @@
     "80_Development/DataScience/Accoustic声学信号/Accoustic.md",
     "80_Development/DataScience/公开数据集/工业数据集.md",
     "80_Development/数据库Database/数据库.md",
-    "80_Development/DataAnalysis/归因分析AttributionAnalysis.md",
-    "80_Development/DataScience/Accoustic/Accoustic.md"
+    "80_Development/DataAnalysis/归因分析AttributionAnalysis.md"
   ]
 }
