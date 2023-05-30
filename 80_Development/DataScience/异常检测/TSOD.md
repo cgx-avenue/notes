@@ -7,7 +7,7 @@ Time-series Outlier Detection.
 
 上面摘抄自github他们自己的介绍，看得出来主要是针对Sensor+time-series数据。
 
-
+# 2种异常类型
 
 
 # Refs
