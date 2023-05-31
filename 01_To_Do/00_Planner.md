@@ -7,27 +7,17 @@
 * [x] Sun Peng - DCO, visual SMT defect（没打通电话，但无所谓了）
 * [x] PDSS QM
 visit 后续
-* [ ] 和yang chao需要后续交流的
-	* [ ] 5G + MEC
-	* [ ] Edge infracture + edge computing
-	* [ ] 能耗管理，采用电表？
+* [x] 和yang chao需要后续交流的
+	* [x] 5G + MEC
+	* [x] Edge infracture + edge computing
+	* [x] 能耗管理，采用电表？
 * [x] 和luo ruizhi需要后续交流的
 	* [x] 知识图谱
-	* [ ] 整理图数据库查询语言，试一试图数据库的相关demo
-
-
-# decoupling
-* [x] check slide and see if any feedback
-
-
-# VPN [[梯子的选择]]
-* [x] 到期了先试试蓝灯
-* [x] 不行的话买一个月的just my socks试试
-* [x] 有免费的可以选
+	* [x] 整理图数据库查询语言，试一试图数据库的相关demo
 
 # 专利
 * [ ] 声学检测的一篇
-* [ ] 自动化声学测试的一篇
+* [x] 自动化声学测试的一篇
 * [ ] sewc ict+lft的抽样测试[[230112_SEWC_visit]] 
 
 # 过年行程确定
@@ -58,8 +48,8 @@ visit 后续
 * [ ] NUC as server
 
 # 报销
-* [ ] Travel expense
-	* [ ] SEWC 出差
+* [x] Travel expense
+	* [x] SEWC 出差
 * [ ] GEC
 	* [ ] 话费 2022.11 -
 	* [ ] 采购
@@ -74,7 +64,9 @@ visit 后续
 	* [ ] ipv6
 	* [ ] 检查家里的nas
 	* [ ] 其实不仅仅是nas，而是家庭资料和备份的问题
-* [ ] Node-red
+* [x] Node-red
 * [ ] Thingsboard
-* [ ] knime
-* [ ] 
+* [x] knime
+* [ ] 异常检测
+	* [ ] [[PyCaret]] 里面的Ref 4，5 。 也就是学习下怎么用Pycaret
+	* [ ] 

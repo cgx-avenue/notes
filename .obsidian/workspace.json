@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/建模/PyCaret.md",
+                "file": "01_To_Do/00_Planner.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/建模/PyCaret.md",
+                "file": "01_To_Do/00_Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/建模/PyCaret.md",
+                "file": "01_To_Do/00_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/建模/PyCaret.md"
+                "file": "01_To_Do/00_Planner.md"
               }
             }
           },
@@ -183,8 +183,12 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
-    "80_Development/DataScience/异常检测/各种库/PyGOD.md",
+    "01_To_Do/日常感兴趣的东西.md",
+    "01_To_Do/书单.md",
+    "01_To_Do/00_Planner.md",
+    "80_Development/DataScience/异常检测/各种库/各种库的比较.md",
     "80_Development/DataScience/建模/PyCaret.md",
+    "80_Development/DataScience/异常检测/各种库/PyGOD.md",
     "80_Development/DataScience/建模",
     "80_Development/DataScience/异常检测/算法比较.md",
     "80_Development/DataScience/异常检测/各种库",
@@ -224,10 +228,6 @@
     "00_日志和总结/年/2022/imgs/image-20230102230513717.png",
     "00_日志和总结/年/2022/imgs/image-20221231212927242.png",
     "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md",
-    "20_瞎折腾/小小服务器/斐讯T1.md",
-    "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
-    "80_Development/数据库Database/向量数据库/向量数据库.md",
-    "80_Development/DataScience/Accoustic声学信号/Accoustic.md",
-    "80_Development/DataScience/公开数据集/工业数据集.md"
+    "20_瞎折腾/小小服务器/斐讯T1.md"
   ]
 }
