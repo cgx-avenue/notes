@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/异常检测/各种库/PyGOD.md",
+                "file": "80_Development/DataScience/建模/PyCaret.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/异常检测/各种库/PyGOD.md",
+                "file": "80_Development/DataScience/建模/PyCaret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/异常检测/各种库/PyGOD.md",
+                "file": "80_Development/DataScience/建模/PyCaret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/异常检测/各种库/PyGOD.md"
+                "file": "80_Development/DataScience/建模/PyCaret.md"
               }
             }
           },
@@ -183,10 +183,12 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
+    "80_Development/DataScience/异常检测/各种库/PyGOD.md",
+    "80_Development/DataScience/建模/PyCaret.md",
+    "80_Development/DataScience/建模",
     "80_Development/DataScience/异常检测/算法比较.md",
     "80_Development/DataScience/异常检测/各种库",
     "80_Development/DataScience/异常检测/异常检测.md",
-    "80_Development/DataScience/异常检测/各种库/PyGOD.md",
     "80_Development/DataScience/异常检测/各种库/TODS.md",
     "80_Development/DataScience/异常检测/各种库/TSOD.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
@@ -213,7 +215,6 @@
     "20_瞎折腾/摄影/摄影技术与教程/快门.md",
     "20_瞎折腾/摄影/摄影技术与教程/光圈.md",
     "20_瞎折腾/无线电认证/A类题库.txt",
-    "20_瞎折腾/无线电认证",
     "20_瞎折腾/身体抱恙/新冠.md",
     "30_乱七八糟的知识/imgs/v2-03366460191fb6cbdc506ae5836604f1_720w.webp",
     "30_乱七八糟的知识/imgs/image-20230105163408385.png",
