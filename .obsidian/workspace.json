@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyGOD.md",
+                "file": "80_Development/DataScience/异常检测/各种库/PyGOD.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyGOD.md",
+                "file": "80_Development/DataScience/异常检测/算法比较.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyGOD.md",
+                "file": "80_Development/DataScience/异常检测/算法比较.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/异常检测/PyGOD.md"
+                "file": "80_Development/DataScience/异常检测/算法比较.md"
               }
             }
           },
@@ -181,14 +181,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8c861d6cb17ad0f2",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
+    "80_Development/DataScience/异常检测/各种库",
     "80_Development/DataScience/异常检测/异常检测.md",
-    "80_Development/DataScience/异常检测/PyGOD.md",
-    "80_Development/DataScience/异常检测/TODS.md",
-    "80_Development/DataScience/异常检测/TSOD.md",
+    "80_Development/DataScience/异常检测/各种库/PyGOD.md",
+    "80_Development/DataScience/异常检测/各种库/TODS.md",
+    "80_Development/DataScience/异常检测/各种库/TSOD.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
-    "80_Development/DataScience/异常检测/PyOD.md",
+    "80_Development/DataScience/异常检测/各种库/PyOD.md",
     "80_Development/DataScience/异常检测/算法比较.md",
     "80_Development/DataScience/论文/22-neurips-adbench.pdf",
     "80_Development/DataScience/论文",
@@ -227,7 +228,6 @@
     "20_瞎折腾/路由器/红米AX6及刷机openwrt.md",
     "80_Development/数据库Database/向量数据库/向量数据库.md",
     "80_Development/DataScience/Accoustic声学信号/Accoustic.md",
-    "80_Development/DataScience/公开数据集/工业数据集.md",
-    "80_Development/数据库Database/数据库.md"
+    "80_Development/DataScience/公开数据集/工业数据集.md"
   ]
 }
