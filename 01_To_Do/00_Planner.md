@@ -1,20 +1,5 @@
 #to-do #siemens #daily #SEWC #decoupling #VPN
 
-# SEWC
-## 23-01-12 visit
-* [x] book ticket
-* [x] book hotel. Holiday inn express
-* [x] Sun Peng - DCO, visual SMT defect（没打通电话，但无所谓了）
-* [x] PDSS QM
-visit 后续
-* [x] 和yang chao需要后续交流的
-	* [x] 5G + MEC
-	* [x] Edge infracture + edge computing
-	* [x] 能耗管理，采用电表？
-* [x] 和luo ruizhi需要后续交流的
-	* [x] 知识图谱
-	* [x] 整理图数据库查询语言，试一试图数据库的相关demo
-
 # 专利
 * [ ] 声学检测的一篇
 * [x] 自动化声学测试的一篇
@@ -43,9 +28,12 @@ visit 后续
 		* [ ] 蛇蟠岛
 
 # 买点啥作为预研资金
-* [ ] 3D 打印机
-* [ ] 树莓派4b + 传感器，摄像头，雷达等套装
-* [ ] NUC as server
+* [x] 3D 打印机
+* [x] 树莓派4b + 
+	* [x] 传感器，
+	* [x] 摄像头，
+	* [ ] 雷达等套装（太贵了，暂时不买）
+* [x] NUC as server（不如树莓派4）
 
 # 报销
 * [x] Travel expense
@@ -70,4 +58,6 @@ visit 后续
 * [ ] 异常检测
 	* [ ] [[PyCaret]] 里面的Ref 4，5 。 也就是学习下怎么用Pycaret
 	* [ ] 过一下异常检测的各种库[[异常检测]]，特别是针对时序数据的
+* [ ] EasySpider
+	* [ ] [NaiboWang/EasySpider: A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务 (github.com)](https://github.com/NaiboWang/EasySpider)
 	* [ ] 
