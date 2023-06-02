@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/建模/PyCaret.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/建模/PyCaret.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/建模/PyCaret.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/建模/PyCaret.md"
+                "file": "80_Development/DataScience/异常检测/异常检测.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
+    "80_Development/DataScience/建模/PyCaret.md",
     "80_Development/DataScience/建模/imgs/2023-06-02-13-14-45.png",
     "80_Development/DataScience/建模/imgs/2023-06-02-11-29-15.png",
     "80_Development/DataScience/建模/imgs/2023-06-02-11-27-08.png",
@@ -192,7 +193,6 @@
     "80_Development/DataScience/建模/imgs/2023-06-02-11-02-46.png",
     "80_Development/DataScience/建模/imgs",
     "01_To_Do/00_Planner.md",
-    "80_Development/DataScience/建模/PyCaret.md",
     "01_To_Do/日常感兴趣的东西.md",
     "01_To_Do/书单.md",
     "80_Development/DataScience/异常检测/各种库/各种库的比较.md",
@@ -227,7 +227,6 @@
     "20_瞎折腾/摄影/摄影技术与教程/快门.md",
     "20_瞎折腾/摄影/摄影技术与教程/光圈.md",
     "20_瞎折腾/身体抱恙/新冠.md",
-    "30_乱七八糟的知识/imgs/v2-03366460191fb6cbdc506ae5836604f1_720w.webp",
     "20_瞎折腾/路由器/红米AX6/红米AX6及刷机openwrt.md"
   ]
 }

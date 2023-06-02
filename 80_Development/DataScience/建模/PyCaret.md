@@ -2,7 +2,7 @@
 可以快速的给出各种类型模型的比较，并从中选取最好的那个。
 
 # 教程
-[Quickstart - Docs (gitbook.io)](https://pycaret.gitbook.io/docs/get-started/quickstart)
+[Quickstart - Docs (gitbook.io)](https://pycaret.gitbook.io/docs/get-started/quickstart)  
 首先按照模型类型分类，其次每种类型的步骤基本上都是一致的。Classification，regression和time-series这种监督式的会多一个compare models的接口。对于非监督类，会多一个Assign model的接口，也就是把生成的label给弄上去。
 ## 接口
 所有的接口都有两种形式，functional api和OOP api。在开始时候import和调用的时候有区别。
@@ -129,7 +129,7 @@ print(loaded_model)
 ### Clustering
 
 ### Anomaly Detection
-pycaret把
+pycaret把anomaly detection划分成了无监督学习的一种。
 ### Time Series
 
 
