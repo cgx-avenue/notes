@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/异常检测/各种库/ARUNDO.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/异常检测/各种库/ARUNDO.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/异常检测/各种库/ARUNDO.md",
+                "file": "80_Development/DataScience/异常检测/异常检测.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/异常检测/各种库/ARUNDO.md"
+                "file": "80_Development/DataScience/异常检测/异常检测.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
+    "80_Development/DataScience/异常检测/各种库/ARUNDO.md",
     "80_Development/DataScience/异常检测/各种库/imgs/2023-06-02-16-33-15.png",
     "80_Development/DataScience/异常检测/各种库/imgs/2023-06-02-16-32-50.png",
     "80_Development/DataScience/异常检测/各种库/imgs/2023-06-02-16-32-17.png",
@@ -190,7 +191,6 @@
     "80_Development/DataScience/异常检测/各种库/imgs/2023-06-02-16-31-53.png",
     "80_Development/DataScience/异常检测/各种库/imgs",
     "01_To_Do/00_Planner.md",
-    "80_Development/DataScience/异常检测/各种库/ARUNDO.md",
     "01_To_Do/日常感兴趣的东西.md",
     "80_Development/DataScience/异常检测/各种库/PyOD.md",
     "80_Development/DataScience/异常检测/各种库/PyGOD.md",
@@ -202,7 +202,6 @@
     "80_Development/DataScience/建模/imgs/2023-06-02-11-27-08.png",
     "80_Development/DataScience/建模/imgs/2023-06-02-11-07-29.png",
     "80_Development/DataScience/建模/imgs/2023-06-02-11-07-09.png",
-    "80_Development/DataScience/建模/imgs/2023-06-02-11-05-58.png",
     "80_Development/DataScience/建模/imgs",
     "01_To_Do/书单.md",
     "80_Development/DataScience/异常检测/各种库/各种库的比较.md",
