@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md",
+                "file": "01_To_Do/00_Planner.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md",
+                "file": "01_To_Do/00_Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md",
+                "file": "01_To_Do/00_Planner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/DataScience/异常检测/异常检测.md"
+                "file": "01_To_Do/00_Planner.md"
               }
             }
           },
@@ -183,6 +183,10 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
+    "80_Development/DataScience/异常检测/各种库/PyOD.md",
+    "80_Development/DataScience/异常检测/各种库/PyGOD.md",
+    "80_Development/DataScience/异常检测/异常检测.md",
+    "80_Development/DataScience/异常检测/算法比较.md",
     "80_Development/DataScience/建模/PyCaret.md",
     "80_Development/DataScience/建模/imgs/2023-06-02-13-14-45.png",
     "80_Development/DataScience/建模/imgs/2023-06-02-11-29-15.png",
@@ -196,15 +200,11 @@
     "01_To_Do/日常感兴趣的东西.md",
     "01_To_Do/书单.md",
     "80_Development/DataScience/异常检测/各种库/各种库的比较.md",
-    "80_Development/DataScience/异常检测/各种库/PyGOD.md",
     "80_Development/DataScience/建模",
-    "80_Development/DataScience/异常检测/算法比较.md",
     "80_Development/DataScience/异常检测/各种库",
-    "80_Development/DataScience/异常检测/异常检测.md",
     "80_Development/DataScience/异常检测/各种库/TODS.md",
     "80_Development/DataScience/异常检测/各种库/TSOD.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
-    "80_Development/DataScience/异常检测/各种库/PyOD.md",
     "80_Development/DataScience/论文/22-neurips-adbench.pdf",
     "80_Development/DataScience/论文",
     "20_瞎折腾/摄影/摄影技术与教程/基础五：教程和教材.md",

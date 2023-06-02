@@ -56,10 +56,11 @@
 * [ ] Thingsboard
 * [x] knime
 * [ ] 异常检测
-	* [ ] [[PyCaret]] 里面的Ref 4，5 。 也就是学习下怎么用Pycaret
+	* [x] [[PyCaret]] 里面的Ref 4，5 。 也就是学习下怎么用Pycaret
 	* [ ] 过一下异常检测的各种库[[异常检测]]，特别是针对时序数据的
 * [ ] EasySpider
 	* [ ] [NaiboWang/EasySpider: A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务 (github.com)](https://github.com/NaiboWang/EasySpider)
 	* [ ] 
 
 * [ ] 红警mod？
+* [ ] 帝国时代4？
