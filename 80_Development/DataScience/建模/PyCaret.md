@@ -3,9 +3,16 @@
 
 # 教程
 [Quickstart - Docs (gitbook.io)](https://pycaret.gitbook.io/docs/get-started/quickstart)
+首先按照模型类型分类，其次每种类型的步骤基本上都是一致的。Classification，regression和time-series这种监督式的会多一个compare models的接口。
 ## 分类
 一个分类就是PyCaret里的一个类，需要用到的去里面选择就可以。
+### Classification
 
+### Regression
+
+### Clustering
+
+### Anomaly 
 
 # Ref
 1. [PyCaret 3.0 - Docs (gitbook.io)](https://pycaret.gitbook.io/docs/)
