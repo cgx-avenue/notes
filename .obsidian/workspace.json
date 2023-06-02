@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_To_Do/00_Planner.md",
+                "file": "80_Development/DataScience/异常检测/各种库/ARUNDO.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_To_Do/00_Planner.md",
+                "file": "80_Development/DataScience/异常检测/各种库/ARUNDO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_To_Do/00_Planner.md",
+                "file": "80_Development/DataScience/异常检测/各种库/ARUNDO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_To_Do/00_Planner.md"
+                "file": "80_Development/DataScience/异常检测/各种库/ARUNDO.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
-    "01_To_Do/日常感兴趣的东西.md",
     "01_To_Do/00_Planner.md",
+    "80_Development/DataScience/异常检测/各种库/ARUNDO.md",
+    "01_To_Do/日常感兴趣的东西.md",
     "80_Development/DataScience/异常检测/各种库/PyOD.md",
     "80_Development/DataScience/异常检测/各种库/PyGOD.md",
     "80_Development/DataScience/异常检测/异常检测.md",
