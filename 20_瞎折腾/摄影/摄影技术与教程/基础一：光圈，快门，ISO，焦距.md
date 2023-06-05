@@ -5,7 +5,7 @@
 # 光圈 Aperture
 
 
-# 快门
+# 快门 Shutter
 
 
 
