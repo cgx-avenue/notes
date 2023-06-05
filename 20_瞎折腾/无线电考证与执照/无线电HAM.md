@@ -33,4 +33,5 @@
 2. [业余无线电入门指南：概述、考证、购机、设台、呼号、备考难题本一网打尽 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/348499900)
 3. [业余无线电台执照申领指南 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/104765218)
 4. [业余无线电爱好者必须知道的事儿——关于电台执照的问与答 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/22588011)
-5. 
+5. [业余无线电 篇一：入坑和晒下手上设备_对讲机_什么值得买 (smzdm.com)](https://post.smzdm.com/p/a78eep7d/)
+6. 
