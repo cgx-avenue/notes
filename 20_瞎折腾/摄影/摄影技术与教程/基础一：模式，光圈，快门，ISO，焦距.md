@@ -4,6 +4,8 @@
 # 模式
 以Z30为例，[模式拨盘 (nikonimglib.com)](https://onlinemanual.nikonimglib.com/z30/zh-cn-prc/06-01.html)。
 ![](imgs/2023-06-05-11-07-32.png)
+一张图总结：
+![](imgs/2023-06-05-13-16-24.png)
 ## Auto档
 纯自动，很多参数都不能调。模式也不可以，比如测光啊什么的。
 ## P档
