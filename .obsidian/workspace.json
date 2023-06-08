@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_行万里路/202306_桂林/行程.md",
+                "file": "20_瞎折腾/无线电考证与执照/A类错题集知识点.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_行万里路/202306_桂林/行程.md",
+                "file": "20_瞎折腾/无线电考证与执照/A类错题集知识点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_行万里路/202306_桂林/行程.md",
+                "file": "20_瞎折腾/无线电考证与执照/A类错题集知识点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_行万里路/202306_桂林/行程.md"
+                "file": "20_瞎折腾/无线电考证与执照/A类错题集知识点.md"
               }
             }
           },
@@ -181,8 +181,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "787113852fd3ca30",
+  "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
+    "02_行万里路/202306_桂林/行程.md",
     "02_行万里路/202306_桂林/行程.pdf",
     "02_行万里路/202306_桂林/行程_tmp.html",
     "02_行万里路/202306_桂林/imgs/2023-06-07-15-31-37.png",
@@ -190,7 +191,6 @@
     "02_行万里路/202306_桂林/imgs/2023-06-07-15-30-01.png",
     "02_行万里路/202306_桂林/imgs",
     "20_瞎折腾/无线电考证与执照/A类错题集知识点.md",
-    "02_行万里路/202306_桂林/行程.md",
     "02_行万里路/202306_桂林",
     "02_行万里路",
     "20_瞎折腾/无线电考证与执照/imgs/2023-06-06-15-15-10.png",
@@ -220,7 +220,6 @@
     "01_To_Do/书单.md",
     "80_Development/DataScience/异常检测/各种库/各种库的比较.md",
     "80_Development/DataScience/建模",
-    "80_Development/DataScience/异常检测/各种库",
     "80_Development/DataScience/异常检测/各种库/TODS.md",
     "80_Development/DataScience/异常检测/各种库/TSOD.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
