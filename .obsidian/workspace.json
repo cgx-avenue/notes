@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_行万里路/202307_北京/行程计划.md",
+                "file": "02_行万里路/无锡/无锡的山.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_行万里路/202307_北京/行程计划.md",
+                "file": "02_行万里路/无锡/无锡的山.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_行万里路/202307_北京/行程计划.md",
+                "file": "02_行万里路/无锡/无锡的山.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_行万里路/202307_北京/行程计划.md"
+                "file": "02_行万里路/无锡/无锡的山.md"
               }
             }
           },
@@ -183,12 +183,14 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
+    "02_行万里路/202307_北京/行程计划.md",
+    "02_行万里路/无锡/无锡的山.md",
+    "02_行万里路/无锡",
     "02_行万里路/202307_北京/imgs/2023-06-27-10-30-32.png",
     "02_行万里路/202307_北京/imgs/2023-06-26-10-02-59.png",
     "02_行万里路/202307_北京/imgs/2023-06-26-10-02-10.png",
     "02_行万里路/202307_北京/imgs",
     "20_瞎折腾/无线电考证与执照/无线电HAM.md",
-    "02_行万里路/202307_北京/行程计划.md",
     "02_行万里路/202307_北京",
     "20_瞎折腾/无线电考证与执照/imgs/2023-06-25-15-51-00.png",
     "80_Development/OS/线程和进程.md",
@@ -206,7 +208,6 @@
     "02_行万里路/202306_桂林",
     "02_行万里路",
     "20_瞎折腾/无线电考证与执照/imgs/2023-06-06-15-15-10.png",
-    "20_瞎折腾/无线电考证与执照/imgs/2023-06-06-15-14-30.png",
     "20_瞎折腾/无线电考证与执照/imgs",
     "20_瞎折腾/摄影/摄影技术与教程/基础一：模式，光圈，快门，ISO，焦距.md",
     "20_瞎折腾/摄影/摄影技术与教程/尼康Z50官方视频教程.md",
@@ -215,7 +216,6 @@
     "20_瞎折腾/摄影/器材/尼康Z30.md",
     "80_Development/DataScience/异常检测/异常检测.md",
     "80_Development/DataScience/异常检测/各种库/ARUNDO.md",
-    "80_Development/DataScience/异常检测/各种库/imgs",
     "01_To_Do/00_Planner.md",
     "01_To_Do/日常感兴趣的东西.md",
     "80_Development/DataScience/异常检测/各种库/PyOD.md",
