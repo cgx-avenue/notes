@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_行万里路/202307_北京/行程计划.md",
+                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 393.5
   },
   "right": {
     "id": "d33b47c5d2a181f2",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_行万里路/202307_北京/行程计划.md",
+                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_行万里路/202307_北京/行程计划.md",
+                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_行万里路/202307_北京/行程计划.md"
+                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md"
               }
             }
           },
@@ -184,11 +183,11 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
+    "02_行万里路/202307_北京/行程计划.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
     "02_行万里路/无锡/无锡的山.md",
     "02_行万里路/无锡/imgs/2023-06-27-15-37-45.png",
     "02_行万里路/无锡/imgs",
-    "02_行万里路/202307_北京/行程计划.md",
     "02_行万里路/无锡",
     "02_行万里路/202307_北京/imgs/2023-06-27-10-30-32.png",
     "02_行万里路/202307_北京/imgs/2023-06-26-10-02-59.png",
