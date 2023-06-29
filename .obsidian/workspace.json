@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "02_行万里路/202307_北京/行程计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "02_行万里路/202307_北京/行程计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "02_行万里路/202307_北京/行程计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md"
+                "file": "02_行万里路/202307_北京/行程计划.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
+    "20_瞎折腾/小小服务器/树莓派4B.md",
     "02_行万里路/无锡/无锡的山.md",
     "02_行万里路/无锡/imgs/2023-06-27-15-37-45.png",
     "02_行万里路/无锡/imgs",
@@ -226,7 +227,6 @@
     "80_Development/DataScience/异常检测/各种库/各种库的比较.md",
     "80_Development/DataScience/异常检测/各种库/TODS.md",
     "80_Development/DataScience/异常检测/各种库/TSOD.md",
-    "20_瞎折腾/小小服务器/树莓派4B.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础五：教程和教材.md"
   ]
 }
