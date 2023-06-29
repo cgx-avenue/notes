@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-02-16.md",
+                "file": "02_行万里路/202307_北京/行程计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ba3efb1286a7417",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-02-16.md",
+                "file": "02_行万里路/202307_北京/行程计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-02-16.md",
+                "file": "02_行万里路/202307_北京/行程计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-02-16.md"
+                "file": "02_行万里路/202307_北京/行程计划.md"
               }
             }
           },
@@ -184,9 +183,9 @@
   },
   "active": "8c861d6cb17ad0f2",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-02-16.md",
     "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
     "00_日志和总结/天/2023-03-01.md",
-    "00_日志和总结/天/2023-02-16.md",
     "02_行万里路/202307_北京/行程计划.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
     "02_行万里路/无锡/无锡的山.md",
