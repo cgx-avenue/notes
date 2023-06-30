@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e50fab35688a98",
+        "id": "53a970fcb1ef9354",
         "type": "tabs",
         "children": [
           {
-            "id": "8c861d6cb17ad0f2",
+            "id": "e65567ec6e4b5a34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
+                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
+                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
+                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md"
+                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md"
               }
             }
           },
@@ -182,9 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c861d6cb17ad0f2",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
     "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
+    "90_Career/Siemens/FY23/230112_SEWC_visit.md",
+    "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/![](imgs/2023-04-17-19-01-20.png).png",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/![](imgs/2023-04-16-09-53-08.png).png",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-10-04-11.png",
@@ -227,8 +229,6 @@
     "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md",
     "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH6_云数据库.md",
     "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH5_NoSQL数据库.md",
-    "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md",
-    "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH4_分布式数据库HBase.md",
-    "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH1_大数据概述.md"
+    "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md"
   ]
 }
