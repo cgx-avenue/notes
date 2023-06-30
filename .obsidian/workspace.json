@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md",
+                "file": "20_瞎折腾/Switch/Switch开坑记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md",
+                "file": "20_瞎折腾/Switch/Switch开坑记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md",
+                "file": "20_瞎折腾/Switch/Switch开坑记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md"
+                "file": "20_瞎折腾/Switch/Switch开坑记录.md"
               }
             }
           },
@@ -184,6 +184,9 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md",
+    "20_瞎折腾/Switch/Switch开坑记录.md",
+    "20_瞎折腾/Switch",
     "20_瞎折腾/小小服务器/京东抢购工具和脚本.md",
     "20_瞎折腾/智能家居/home-assistant.md",
     "20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境.md",
@@ -225,10 +228,7 @@
     "90_Career/Onboardings/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "90_Career/Onboardings/2023_机电高职_大数据",
     "90_Career/Onboardings",
-    "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/imgs/![](imgs",
     "90_Career/70_Onboarding/2023_机电高职_大数据/pytorch/pytorch.md",
-    "90_Career/70_Onboarding/2023_机电高职_大数据/redis/redis.md",
-    "90_Career/70_Onboarding/2023_机电高职_大数据/mongodb/mongodb.md",
-    "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH9_数据仓库Hive.md"
+    "90_Career/70_Onboarding/2023_机电高职_大数据/redis/redis.md"
   ]
 }
