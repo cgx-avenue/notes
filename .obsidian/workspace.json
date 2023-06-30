@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
+                "file": "20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
+                "file": "20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
+                "file": "20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md"
+                "file": "20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境.md"
               }
             }
           },
@@ -182,8 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e65567ec6e4b5a34",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
+    "20_瞎折腾/梯子的选择.md",
+    "20_瞎折腾/笔记软件的选择.md",
     "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
     "90_Career/Siemens/FY23/230112_SEWC_visit.md",
     "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
@@ -227,8 +229,6 @@
     "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH9_数据仓库Hive.md",
     "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH8_Hadoop的优化与发展.md",
     "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH7_MapReduce.md",
-    "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH6_云数据库.md",
-    "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH5_NoSQL数据库.md",
-    "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md"
+    "90_Career/70_Onboarding/2023_机电高职_大数据/大数据技术原理与应用/CH6_云数据库.md"
   ]
 }

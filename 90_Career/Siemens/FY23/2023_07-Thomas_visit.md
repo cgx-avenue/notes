@@ -54,4 +54,4 @@ https://siemens.sharepoint.com/:f:/r/teams/CTRDAIOT478/Shared%20Documents/Genera
         * Active Learning for Object Detection, Usecase SIEAERO Overhead Line Monitoring Project, Olaf Kaehler, Leonard Galustian, AVT-AT
         
 
-# Tecktalks
+
