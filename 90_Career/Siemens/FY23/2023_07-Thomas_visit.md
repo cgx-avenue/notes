@@ -1,5 +1,12 @@
 # background
 Mattias granted me half an hour f2f talk with Thomas. Previously the topic would be delegation to Germany. Now the problem is no potential topics and I have to figure out myself.
+## Mattias Suggestions
+> No specific preparation needed. It's supposed to be a casual talk. You can mention that you could imagine spending some time in Germany and should expect that he may ask what you would like to do there  He will for sure ask your opinion about decoupling.
+## opinion about decoupling
+We've done pretty well about decoupling, things left are big stumbling rock. 2 Directions: one from BU, the other from us. China is moving fast on OSS including industrial OS. Innovation centers like Wuxi and Wuhan are perfect test field to try that.
+
+
+# Tasks
 Tasks here are 2:
 * Find a structure about the talk.
     * Motivition about the talk
