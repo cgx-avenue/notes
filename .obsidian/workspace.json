@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
+                "file": "80_Development/低碳和能源相关/Catena-X_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
+                "file": "80_Development/低碳和能源相关/Catena-X_notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90_Career/Siemens/FY23/2023_07-Thomas_visit.md"
+                "file": "80_Development/低碳和能源相关/Catena-X_notes.md"
               }
             }
           },
@@ -183,8 +183,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2316de639456b92c",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
     "20_瞎折腾/Switch/Switch开坑记录.md",
     "80_Development/低碳和能源相关/Catena-X_notes.md",
     "80_Development/低碳和能源相关",
@@ -196,7 +197,6 @@
     "20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境.md",
     "20_瞎折腾/梯子的选择.md",
     "20_瞎折腾/笔记软件的选择.md",
-    "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
     "90_Career/Siemens/FY23/230112_SEWC_visit.md",
     "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/![](imgs/2023-04-17-19-01-20.png).png",
