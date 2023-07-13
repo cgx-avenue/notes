@@ -99,7 +99,7 @@ kubectl -n kube-system describe secret default| awk '$1=="token:"{print $2}'
 
 # 6. Kubeapps
 Refer to Refs.5, type the scripts in WSL bash.
-
+如果显示失败，等一会就行了。
 
 
 # Refs
