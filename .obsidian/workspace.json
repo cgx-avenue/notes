@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/8010_工作环境搭建/WSL2.md",
+                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/8010_工作环境搭建/WSL2.md",
+                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/8010_工作环境搭建/WSL2.md",
+                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/8010_工作环境搭建/WSL2.md"
+                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md"
               }
             }
           },
@@ -184,8 +184,14 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
+    "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-27-04.png",
+    "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-26-48.png",
+    "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-26-23.png",
+    "80_Development/容器Container/Kubernetes/imgs",
     "80_Development/8010_工作环境搭建/WSL2.md",
+    "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
+    "80_Development/容器Container/Kubernetes",
+    "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
     "80_Development/低碳和能源相关/Catena-X_notes.md",
     "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
@@ -209,8 +215,6 @@
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-10-01-31.png",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-09-59-48.png",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-09-59-17.png",
-    "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-09-58-04.png",
-    "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-09-57-53.png",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/![](imgs",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH9_数据仓库Hive.md",
@@ -222,13 +226,9 @@
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH2_大数据处理架构Hadoop.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH1_大数据概述.md",
-    "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
-    "90_Career/Onboardings/2023_机电高职_大数据/redis/redis.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用",
     "90_Career/Onboardings/2023_机电高职_大数据/redis",
     "90_Career/Onboardings/2023_机电高职_大数据/pytorch",
-    "90_Career/Onboardings/2023_机电高职_大数据/mongodb",
-    "90_Career/Onboardings/2023_机电高职_大数据/imgs",
-    "90_Career/Onboardings/2023_机电高职_大数据"
+    "90_Career/Onboardings/2023_机电高职_大数据/mongodb"
   ]
 }
