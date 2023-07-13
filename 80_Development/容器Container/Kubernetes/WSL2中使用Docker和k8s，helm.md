@@ -50,8 +50,15 @@ git clone https://github.com/AliyunContainerService/k8s-for-docker-desktop.git
 如果不成功的话，点击setting->Kubernetes->Reset Kubernetes Cluster, 至少我是这么搞了才成功的。
 ![](imgs/2023-07-13-15-40-41.png)
 
-# 安装helm
+# 4. 安装helm
+参照refs 2里面的“用二进制版本安装”，注意操作都是在WSL里。
+
+# 5. 安装Dashboard
+使用recommended.yaml进行安装，先wget下来。
+
+
 
 
 # Refs
-https://zhuanlan.zhihu.com/p/407560411
+1. https://zhuanlan.zhihu.com/p/407560411
+2. https://helm.sh/zh/docs/intro/install/
