@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
+                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
+                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
+                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md"
+                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md"
               }
             }
           },
@@ -184,14 +184,15 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/8010_工作环境搭建/WSL2.md",
+    "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
+    "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-40-41.png",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-31-09.png",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-27-04.png",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-26-48.png",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-26-23.png",
     "80_Development/容器Container/Kubernetes/imgs",
-    "80_Development/8010_工作环境搭建/WSL2.md",
-    "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
     "80_Development/容器Container/Kubernetes",
     "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
@@ -214,7 +215,6 @@
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-10-04-11.png",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-10-03-14.png",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-10-02-36.png",
-    "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/2023-04-20-10-01-31.png",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs/![](imgs",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/imgs",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH9_数据仓库Hive.md",

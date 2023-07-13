@@ -33,7 +33,7 @@ Apply&Restart，重启docker desktop。
 换源之后其实也不成功，这时候docker desktop左下角的图标是红色的。但是没关系，继续往下走。
 ## 执行k8s-for-docker-desktop的脚本
 找个path放下面的git clone。
-```shell
+```bash
 git clone https://github.com/AliyunContainerService/k8s-for-docker-desktop.git
 ```
 > 注意：这里需要保持k8s-for-docker-desktop和docker desktop里的k8s版本要一致。一般我们都是直接最新的，所以应该是一致的。不一致的话参照refs里第一个。
@@ -53,12 +53,57 @@ git clone https://github.com/AliyunContainerService/k8s-for-docker-desktop.git
 # 4. 安装helm
 参照refs 2里面的“用二进制版本安装”，注意操作都是在WSL里。
 
-# 5. 安装Dashboard
+# 5. Dashboard
+## 安装
 使用recommended.yaml进行安装，先wget下来。
+```bash
+wget https://raw.githubusercontent.com/kubernetes/dashboard/v2.0.3/aio/deploy/recommended.yaml
+```
+然后使用kubectl安装。
+```bash
+$ kubectl apply -f recommended.yaml 
+namespace/kubernetes-dashboard created
+serviceaccount/kubernetes-dashboard created
+service/kubernetes-dashboard created
+secret/kubernetes-dashboard-certs created
+secret/kubernetes-dashboard-csrf created
+secret/kubernetes-dashboard-key-holder created
+configmap/kubernetes-dashboard-settings created
+role.rbac.authorization.k8s.io/kubernetes-dashboard created
+clusterrole.rbac.authorization.k8s.io/kubernetes-dashboard created
+rolebinding.rbac.authorization.k8s.io/kubernetes-dashboard created
+clusterrolebinding.rbac.authorization.k8s.io/kubernetes-dashboard created
+deployment.apps/kubernetes-dashboard created
+service/dashboard-metrics-scraper created
+deployment.apps/dashboard-metrics-scraper created
+```
+## 启动
+前台启动
+```bash
+$ kubectl proxy
+```
+后台启动
+```bash
+nohup kubectl proxy >/dev/null &
+```
+现在可以访问：http://localhost%3A8001/api/v1/namespaces/kubernetes-dashboard/services/https%3Akubernetes-dashboard%3A/proxy/
 
+## 登录
+再开一个wsl bash，登录需要获取token
+```bash
+kubectl -n kube-system describe secret default| awk '$1=="token:"{print $2}'
+```
+然后把token拷贝到网页里
+
+也可以用helm装，参照refs4
+
+# 6. Kubeapps
 
 
 
 # Refs
 1. https://zhuanlan.zhihu.com/p/407560411
 2. https://helm.sh/zh/docs/intro/install/
+3. https://zhuanlan.zhihu.com/p/405080558
+4. https://artifacthub.io/packages/helm/k8s-dashboard/kubernetes-dashboard
+5. 
