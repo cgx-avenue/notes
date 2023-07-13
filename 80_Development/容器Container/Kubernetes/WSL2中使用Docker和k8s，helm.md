@@ -47,8 +47,10 @@ git clone https://github.com/AliyunContainerService/k8s-for-docker-desktop.git
 或者你也可以在WSL内部切换到这个目录执行load_images.sh
 
 最后一步，setting->Kubernetes 确保Enable Kubernetes被勾选，然后Apply&Restart，这时候你的docker desktop左下角会出现k8s的图标，并逐渐从黄色变成绿色，代表你的k8s环境启动成功。
-如果不成功的话，点击setting->
+如果不成功的话，点击setting->Kubernetes->Reset Kubernetes Cluster, 至少我是这么搞了才成功的。
+![](imgs/2023-07-13-15-40-41.png)
 
+# 安装helm
 
 
 # Refs

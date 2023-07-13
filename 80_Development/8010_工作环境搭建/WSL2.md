@@ -31,3 +31,11 @@ sudo vim /etc/wsl.conf
 [user]
 default=lc
 ```
+
+# 启用systemd
+Refer to Refs.1
+
+
+# Refs
+1. https://cloud.tencent.com/developer/article/1645054
+2. 
