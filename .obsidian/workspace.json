@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/低碳和能源相关/Catena-X_notes.md",
+                "file": "80_Development/8010_工作环境搭建/WSL2.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "catena",
+                "query": "WSL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ba3efb1286a7417",
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 379.5
   },
   "right": {
     "id": "d33b47c5d2a181f2",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/低碳和能源相关/Catena-X_notes.md",
+                "file": "80_Development/8010_工作环境搭建/WSL2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/低碳和能源相关/Catena-X_notes.md",
+                "file": "80_Development/8010_工作环境搭建/WSL2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/低碳和能源相关/Catena-X_notes.md"
+                "file": "80_Development/8010_工作环境搭建/WSL2.md"
               }
             }
           },
@@ -185,9 +184,12 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
+    "80_Development/8010_工作环境搭建/WSL2.md",
+    "80_Development/容器Container/Docker/Docker-1-基础.md",
+    "80_Development/低碳和能源相关/Catena-X_notes.md",
     "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
     "20_瞎折腾/Switch/Switch开坑记录.md",
-    "80_Development/低碳和能源相关/Catena-X_notes.md",
     "80_Development/低碳和能源相关",
     "20_瞎折腾/Switch/Switch游戏合集.md",
     "20_瞎折腾/小小服务器/树莓派基础（软硬件）.md",
@@ -222,14 +224,11 @@
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH1_大数据概述.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH10_Spark.md",
     "90_Career/Onboardings/2023_机电高职_大数据/redis/redis.md",
-    "90_Career/Onboardings/2023_机电高职_大数据/pytorch/pytorch.md",
-    "90_Career/Onboardings/2023_机电高职_大数据/mongodb/mongodb.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用",
     "90_Career/Onboardings/2023_机电高职_大数据/redis",
     "90_Career/Onboardings/2023_机电高职_大数据/pytorch",
     "90_Career/Onboardings/2023_机电高职_大数据/mongodb",
     "90_Career/Onboardings/2023_机电高职_大数据/imgs",
-    "90_Career/Onboardings/2023_机电高职_大数据/2023_机电高职_大数据.md",
     "90_Career/Onboardings/2023_机电高职_大数据"
   ]
 }
