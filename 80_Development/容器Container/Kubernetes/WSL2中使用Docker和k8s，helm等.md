@@ -106,4 +106,4 @@ kubectl -n kube-system describe secret default| awk '$1=="token:"{print $2}'
 2. https://helm.sh/zh/docs/intro/install/
 3. https://zhuanlan.zhihu.com/p/405080558
 4. https://artifacthub.io/packages/helm/k8s-dashboard/kubernetes-dashboard
-5. 
+5. https://kubeapps.dev/
