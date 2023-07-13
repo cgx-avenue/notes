@@ -11,6 +11,7 @@
 ![](imgs/2023-07-13-15-27-04.png)
 出现这一堆说明安装成功。（如果不成功就重启ubuntu，或者重启docker desktop）
 # 3. k8s for docker desktop
+安装了docker desktop后，可以通过setting->Kubernetes，勾选Enable Kubernetes来为你的wsl提供k8s服务，但由于网络问题，通常不可能成功。
 ## 先换源（我挂的代理）
 打开setting->Docker Engine，将右侧配置文件改为：
 ```json
@@ -29,11 +30,24 @@
 ```
 ![](imgs/2023-07-13-15-31-09.png)
 Apply&Restart，重启docker desktop。
+换源之后其实也不成功，这时候docker desktop左下角的图标是红色的。但是没关系，继续往下走。
 ## 执行k8s-for-docker-desktop的脚本
 找个path放下面的git clone。
 ```shell
 git clone https://github.com/AliyunContainerService/k8s-for-docker-desktop.git
 ```
+> 注意：这里需要保持k8s-for-docker-desktop和docker desktop里的k8s版本要一致。一般我们都是直接最新的，所以应该是一致的。不一致的话参照refs里第一个。
+
+在当前目录下执行：
+```shell
+.\load_images.ps1
+```
+
+> 如果因为安全策略无法执行 PowerShell 脚本，请在 “以管理员身份运行” 的 PowerShell 中执行 Set-ExecutionPolicy RemoteSigned 命令
+或者你也可以在WSL内部切换到这个目录执行load_images.sh
+
+最后一步，setting->Kubernetes 确保Enable Kubernetes被勾选，然后Apply&Restart，这时候你的docker desktop左下角会出现k8s的图标，并逐渐从黄色变成绿色，代表你的k8s环境启动成功。
+如果不成功的话，点击setting->
 
 
 
