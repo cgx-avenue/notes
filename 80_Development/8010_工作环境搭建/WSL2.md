@@ -35,7 +35,12 @@ default=lc
 # 启用systemd
 Refer to Refs.1
 
+# WSL和windows共享文件
+参照Refs.2
+```
+\\wsl$
+``` 
 
 # Refs
 1. https://cloud.tencent.com/developer/article/1645054
-2. 
+2. https://blog.csdn.net/Caoyang_He/article/details/107898883
