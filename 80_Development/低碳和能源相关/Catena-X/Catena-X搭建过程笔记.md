@@ -9,3 +9,7 @@
 # Secret management
 ## HashiCorp vault
 [HashiCorp Vault - Manage Secrets & Protect Sensitive Data](https://www.hashicorp.com/products/vault)
+
+
+# infrastructure
+## Eclipse-temurin
