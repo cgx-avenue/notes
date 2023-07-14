@@ -15,6 +15,6 @@ sudo apt install openjdk-17-jdk
 还需要更换国内源，也参照上面链接。
 ## ubuntu
 [Gradle Distributions](https://services.gradle.org/distributions/)
-[如何在Ubuntu 20.04安装Gradle | myfreax](https://www.myfreax.com/how-to-install-gradle-on-ubuntu-20-04/)
+[Gradle | Installation](https://gradle.org/install/)
 用的是bin.zip,里面有win也有linux的启动脚本。
 
