@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
+                "file": "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WSL",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
+                "file": "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
+                "file": "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md"
+                "file": "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md"
               }
             }
           },
@@ -184,9 +184,10 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
+    "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md",
     "80_Development/8010_工作环境搭建/WSL2.md",
     "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
-    "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-40-41.png",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-31-09.png",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-27-04.png",
@@ -225,7 +226,6 @@
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH4_分布式数据库HBase.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH2_大数据处理架构Hadoop.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md",
-    "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH1_大数据概述.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用",
     "90_Career/Onboardings/2023_机电高职_大数据/redis",
     "90_Career/Onboardings/2023_机电高职_大数据/pytorch",
