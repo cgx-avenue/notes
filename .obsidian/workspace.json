@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md",
+                "file": "80_Development/低碳和能源相关/Catena-X/Catena-X搭建过程笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md",
+                "file": "80_Development/低碳和能源相关/Catena-X/Catena-X搭建过程笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md",
+                "file": "80_Development/低碳和能源相关/Catena-X/Catena-X搭建过程笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md"
+                "file": "80_Development/低碳和能源相关/Catena-X/Catena-X搭建过程笔记.md"
               }
             }
           },
@@ -184,8 +184,11 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
+    "80_Development/低碳和能源相关/Catena-X/Catena-X_notes.md",
+    "80_Development/低碳和能源相关/Catena-X/Catena-X搭建过程笔记.md",
+    "80_Development/低碳和能源相关/Catena-X",
     "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md",
+    "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm等.md",
     "80_Development/8010_工作环境搭建/WSL2.md",
     "80_Development/容器Container/Kubernetes/WSL2中使用Docker和k8s，helm.md",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-13-15-40-41.png",
@@ -197,7 +200,6 @@
     "80_Development/容器Container/Kubernetes",
     "80_Development/8010_工作环境搭建/Windows10工作环境搭建.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
-    "80_Development/低碳和能源相关/Catena-X_notes.md",
     "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
     "20_瞎折腾/Switch/Switch开坑记录.md",
     "80_Development/低碳和能源相关",
@@ -225,10 +227,8 @@
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH5_NoSQL数据库.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH4_分布式数据库HBase.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH2_大数据处理架构Hadoop.md",
-    "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用/CH3_分布式文件系统HDFS.md",
     "90_Career/Onboardings/2023_机电高职_大数据/大数据技术原理与应用",
     "90_Career/Onboardings/2023_机电高职_大数据/redis",
-    "90_Career/Onboardings/2023_机电高职_大数据/pytorch",
-    "90_Career/Onboardings/2023_机电高职_大数据/mongodb"
+    "90_Career/Onboardings/2023_机电高职_大数据/pytorch"
   ]
 }
