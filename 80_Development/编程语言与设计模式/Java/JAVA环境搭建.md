@@ -5,3 +5,6 @@ JDK的安装，主要是配置JAVA_HOME和CLASSPATH环境变量，同时把JDK\\
 [Gradle安装与配置教程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/626806226)
 配置GRADLE_HOME和添加GRADLE_HOME\\bin到PATH。
 还需要更换国内源，也参照上面链接。
+## ubuntu
+[Gradle Distributions](https://services.gradle.org/distributions/)
+用的是bin.zip,里面有win也有linux的启动脚本。
