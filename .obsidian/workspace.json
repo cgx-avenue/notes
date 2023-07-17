@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ba3efb1286a7417",
@@ -183,7 +182,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e65567ec6e4b5a34",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
     "80_Development/编程语言与设计模式/Java/JAVA环境搭建.md",
     "80_Development/低碳和能源相关/Catena-X/Catena-X搭建过程笔记.md",
