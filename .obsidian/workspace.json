@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_行万里路/202307_北京/2023带娃北京游记.md",
+                "file": "02_行万里路/202301&03_成都/2023成都游记.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_行万里路/202307_北京/2023带娃北京游记.md",
+                "file": "02_行万里路/202301&03_成都/2023成都游记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_行万里路/202307_北京/2023带娃北京游记.md",
+                "file": "02_行万里路/202301&03_成都/2023成都游记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_行万里路/202307_北京/2023带娃北京游记.md"
+                "file": "02_行万里路/202301&03_成都/2023成都游记.md"
               }
             }
           },
@@ -184,8 +184,10 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "00_日志和总结/天/2023-07-17.md",
     "02_行万里路/202307_北京/2023带娃北京游记.md",
+    "02_行万里路/202301&03_成都/2023成都游记.md",
+    "02_行万里路/202301&03_成都",
+    "00_日志和总结/天/2023-07-17.md",
     "90_Career/Siemens/FY23/230112_SEWC_visit.md",
     "02_行万里路/202307_北京/未命名",
     "mypython/data-analysis/2022_11_14-常用数据分析套路整理.md",
@@ -199,7 +201,6 @@
     "mypython/readings/Python编程从入门到实践_2nd_edition/Python编程 随书资源/souce_codes/cheat_sheets/beginners_python_cheat_sheet_pcc_testing.pdf",
     "mypython/readings/Python编程从入门到实践_2nd_edition/Python编程 随书资源/souce_codes/cheat_sheets/beginners_python_cheat_sheet_pcc_pygame.pdf",
     "mypython/readings/Python编程从入门到实践_2nd_edition/Python编程 随书资源/souce_codes/cheat_sheets/beginners_python_cheat_sheet_pcc_plotly.pdf",
-    "mypython/readings/Python编程从入门到实践_2nd_edition/Python编程 随书资源/souce_codes/cheat_sheets/beginners_python_cheat_sheet_pcc_matplotlib.pdf",
     "mypython/readings/Python编程从入门到实践_2nd_edition/Python编程 随书资源/souce_codes/chapter_14/scoring/images/ship.bmp",
     "mypython/readings/Python编程从入门到实践_2nd_edition/Python编程 随书资源/souce_codes/chapter_14/scoring/images/alien.bmp",
     "mypython/readings/Python编程从入门到实践_2nd_edition/Python编程 随书资源/souce_codes/chapter_14/leveling_up/images/alien.bmp",
@@ -228,7 +229,6 @@
     "mypython/machine-learning/README.md",
     "mypython/machine-learning/2022_11_29-流形学习.md",
     "mypython/machine-learning/2022_11_29-核密度估计.md",
-    "mypython/machine-learning/2022_11_29-机器学习资源.md",
-    "mypython/machine-learning/2022_11_29-主成分分析.md"
+    "mypython/machine-learning/2022_11_29-机器学习资源.md"
   ]
 }
