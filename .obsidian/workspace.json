@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
+                "file": "mypython/data-analysis/2022_11_14-常用数据分析套路整理.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
+                "file": "mypython/data-analysis/2022_11_14-常用数据分析套路整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
+                "file": "mypython/data-analysis/2022_11_14-常用数据分析套路整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md"
+                "file": "mypython/data-analysis/2022_11_14-常用数据分析套路整理.md"
               }
             }
           },
@@ -182,8 +182,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
     "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/tools/README.md",
     "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/tools/generate_contents.py",
     "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/tools/add_book_info.py",
@@ -228,7 +229,6 @@
     "mypython/machine-learning/2022_11_29-k-means聚类与高斯混合模型.md",
     "mypython/machine-learning/2022_11_18-推荐系统.md",
     "mypython/machine-learning/2022_11_18-MapReduce.md",
-    "mypython/machine-learning/2022_11_17-自然语言处理.md",
-    "mypython/machine-learning/2022_11_17-聚类分析.md"
+    "mypython/machine-learning/2022_11_17-自然语言处理.md"
   ]
 }
