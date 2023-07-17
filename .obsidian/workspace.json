@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_行万里路/202301&03_成都/2023成都游记.md",
+                "file": "00_日志和总结/天/2023-07-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_行万里路/202301&03_成都/2023成都游记.md",
+                "file": "00_日志和总结/天/2023-07-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_行万里路/202301&03_成都/2023成都游记.md",
+                "file": "00_日志和总结/天/2023-07-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_行万里路/202301&03_成都/2023成都游记.md"
+                "file": "00_日志和总结/天/2023-07-17.md"
               }
             }
           },
@@ -184,9 +184,10 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "02_行万里路/202307_北京/2023带娃北京游记.md",
+    "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
     "00_日志和总结/天/2023-07-17.md",
     "02_行万里路/202301&03_成都/2023成都游记.md",
-    "02_行万里路/202307_北京/2023带娃北京游记.md",
     "02_行万里路/202301&03_成都",
     "90_Career/Siemens/FY23/230112_SEWC_visit.md",
     "02_行万里路/202307_北京/未命名",
@@ -228,7 +229,6 @@
     "mypython/machine-learning/feature-engineering/2022_11_21-特征工程.md",
     "mypython/machine-learning/README.md",
     "mypython/machine-learning/2022_11_29-流形学习.md",
-    "mypython/machine-learning/2022_11_29-核密度估计.md",
-    "mypython/machine-learning/2022_11_29-机器学习资源.md"
+    "mypython/machine-learning/2022_11_29-核密度估计.md"
   ]
 }

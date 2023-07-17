@@ -61,4 +61,8 @@ https://siemens.sharepoint.com/:f:/r/teams/CTRDAIOT478/Shared%20Documents/Genera
         * Active Learning for Object Detection, Usecase SIEAERO Overhead Line Monitoring Project, Olaf Kaehler, Leonard Galustian, AVT-AT
         
 
-
+# 总结
+最终给了我半小时和Thomas谈话的时间。
+上来我先来了个自我介绍，介绍了下几段工作经历。Thomas询问了我在博世的team多大，我说16个人。后来我聊到了和FOA的合作，已经我特别喜欢T的BMC的工作模式，还说我想contribute到internalization里，Thomas表示没问题，然后询问了我能干什么，我说了一些，但他明显不感兴趣，直接说至少德国有4个RG会需要。后面的都是客套话，他说需要我去figure out，并且最终决定。
+出来后过了一会Mattias找我聊了个feedback，说Thomas被我positively suprised，但老马说我这样会很有压力，因为Thomas有了期望。
+管它呢，我累了。
