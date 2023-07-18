@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-07-17.md",
+                "file": "20_瞎折腾/Switch/Switch游戏合集.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "miniconda",
+                "query": "switch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9ba3efb1286a7417",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-07-17.md",
+                "file": "20_瞎折腾/Switch/Switch游戏合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-07-17.md",
+                "file": "20_瞎折腾/Switch/Switch游戏合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-07-17.md"
+                "file": "20_瞎折腾/Switch/Switch游戏合集.md"
               }
             }
           },
@@ -184,6 +185,7 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-07-17.md",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2002.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2001.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1999.txt",
@@ -194,10 +196,8 @@
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1995.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1994.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1992.txt",
-    "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1993.txt",
     "02_行万里路/202307_北京/2023带娃北京游记.md",
     "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
-    "00_日志和总结/天/2023-07-17.md",
     "02_行万里路/202301&03_成都/2023成都游记.md",
     "90_Career/Siemens/FY23/230112_SEWC_visit.md",
     "mypython/data-analysis/2022_11_14-常用数据分析套路整理.md",

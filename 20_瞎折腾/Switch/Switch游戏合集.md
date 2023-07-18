@@ -1,4 +1,10 @@
 # To find resources
+## website
+[掌游网 - Switch中文游戏XCI、NSP下载 (switchxiazai.com)](https://www.switchxiazai.com/index.html?sort_type=hot&page=1)
+资源都是百度网盘，所以就是先把资源弄到自己网盘里，然后下载一部分留着。
+
+
+
 ## For me
 1. Hades
 2. 俄罗斯方块 99
