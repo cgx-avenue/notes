@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-07-17.md",
+                "file": "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-07-17.md",
+                "file": "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-07-17.md",
+                "file": "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-07-17.md"
+                "file": "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "20_瞎折腾/Switch/Switch游戏合集.md",
     "00_日志和总结/天/2023-07-17.md",
+    "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
+    "20_瞎折腾/Switch/Switch游戏合集.md",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2002.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2001.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1999.txt",
@@ -228,7 +229,6 @@
     "mypython/readings/2022_11-My_Reading_Records.md",
     "mypython/math/2022_11_24-概率论.md",
     "mypython/machine-learning/feature-engineering/2022_11_21-特征工程.md",
-    "mypython/machine-learning/README.md",
-    "mypython/machine-learning/2022_11_29-流形学习.md"
+    "mypython/machine-learning/README.md"
   ]
 }
