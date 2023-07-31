@@ -184,6 +184,7 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mypython/network/Scapy_101.md",
     "80_Development/网络Network/Python网络开源库.md",
     "80_Development/网络Network",
     "mypython/network",
@@ -228,7 +229,6 @@
     "mypython/readings/02_利用python进行数据分析/notes.md",
     "mypython/readings/01_fluent_python_2nd_edition/notes.md",
     "mypython/readings/2022_11-My_Reading_Records.md",
-    "mypython/math/2022_11_24-概率论.md",
-    "mypython/machine-learning/feature-engineering/2022_11_21-特征工程.md"
+    "mypython/math/2022_11_24-概率论.md"
   ]
 }
