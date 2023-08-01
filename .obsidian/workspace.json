@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/网络Network/基础知识+名词解析+问题收集.md",
+                "file": "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/网络Network/基础知识+名词解析+问题收集.md",
+                "file": "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/网络Network/基础知识+名词解析+问题收集.md",
+                "file": "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/网络Network/基础知识+名词解析+问题收集.md"
+                "file": "80_Development/网络Network/网络基础知识+名词解析+问题收集.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,7 @@
     "80_Development/网络Network/imgs/2023-08-01-11-02-40.png",
     "80_Development/网络Network/imgs",
     "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
-    "80_Development/网络Network/基础知识+名词解析+问题收集.md",
+    "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
     "mypython/network/Scapy_101.md",
     "80_Development/网络Network/Python网络开源库.md",
     "80_Development/网络Network",
