@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
+                "file": "80_Development/网络Network/基础知识+名词解析+问题收集.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "switch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
+                "file": "80_Development/网络Network/基础知识+名词解析+问题收集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
+                "file": "80_Development/网络Network/基础知识+名词解析+问题收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md"
+                "file": "80_Development/网络Network/基础知识+名词解析+问题收集.md"
               }
             }
           },
@@ -184,6 +184,8 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
+    "80_Development/网络Network/基础知识+名词解析+问题收集.md",
     "mypython/network/Scapy_101.md",
     "80_Development/网络Network/Python网络开源库.md",
     "80_Development/网络Network",
@@ -199,7 +201,6 @@
     "80_Development/容器Container/Kubernetes/imgs/2023-07-18-16-15-55.png",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-18-16-15-09.png",
     "00_日志和总结/天/2023-07-17.md",
-    "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
     "20_瞎折腾/Switch/Switch游戏合集.md",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2002.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2001.txt",
@@ -228,7 +229,6 @@
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/README.md",
     "mypython/readings/02_利用python进行数据分析/notes.md",
     "mypython/readings/01_fluent_python_2nd_edition/notes.md",
-    "mypython/readings/2022_11-My_Reading_Records.md",
-    "mypython/math/2022_11_24-概率论.md"
+    "mypython/readings/2022_11-My_Reading_Records.md"
   ]
 }
