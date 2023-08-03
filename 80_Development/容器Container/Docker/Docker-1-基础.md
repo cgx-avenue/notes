@@ -27,6 +27,10 @@ https://www.runoob.com/docker/docker-architecture.html
 ![](imgs/2023-05-05-14-00-35.png)
 其他的就是关键词，镜像，容器，等等。
 
+另一个图
+
+
+
 
 ## 基本概念
 Docker 包括三个基本概念:
