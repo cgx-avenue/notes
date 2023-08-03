@@ -22,15 +22,7 @@ https://docs.docker.com/desktop/install/linux-install/
 
 # 架构
 https://www.runoob.com/docker/docker-architecture.html
-## C/S 架构
-看下图中的Host，对比Portainer里面的进入页。
-![](imgs/2023-05-05-14-00-35.png)
-其他的就是关键词，镜像，容器，等等。
-
-另一个图
-
-
-
+https://zhuanlan.zhihu.com/p/191539801
 
 ## 基本概念
 Docker 包括三个基本概念:
@@ -38,9 +30,52 @@ Docker 包括三个基本概念:
 2. 容器（Container）：镜像（Image）和容器（Container）的关系，就像是面向对象程序设计中的类和实例一样，镜像是静态的定义，容器是镜像运行时的实体。容器可以被创建、启动、停止、删除、暂停等。
  3. 仓库（Repository）：仓库可看成一个代码控制中心，用来保存镜像。
 
+## C/S 架构
+看下图中的Host，对比Portainer里面的进入页。
+![](imgs/2023-05-05-14-00-35.png)
+其他的就是关键词，镜像，容器，等等。
 
-# Docker image 镜像
-# Docker container 容器
+另一个图
+![](imgs/2023-08-03-15-03-37.png)
+
+## Docker daemon
+linux是在 
+```bash
+vim /etc/docker/daemon.json
+```
+文件里，可以做诸如镜像加速的事情。
+```json
+{
+  "registry-mirrors": ["http://hub-mirror.c.163.com", "https://docker.mirrors.ustc.edu.cn"]
+}
+```
+
+
+
+
+# 管理Docker命令
+## 启动与停止
+```bash
+```bash
+# 启动 docker
+sudo systemctl start docker
+# 停止 docker
+sudo systemctl stop docker
+# 重启 docker
+sudo systemctl restart docker
+# 设置开机启动
+sudo systemctl enable docker
+# 查看 docker 状态
+sudo systemctl status docker
+# 查看 docker 内容器的运行状态
+sudo docker stats
+# 查看 docker 概要信息
+sudo docker info
+# 查看 docker 帮助文档
+sudo docker --help
+```
+
+
 
 # 容器连接
 https://www.runoob.com/docker/docker-container-connection.html
@@ -55,4 +90,7 @@ https://juejin.cn/post/7042663735156015140
 
 
 # Docker 命令
+Official: https://docs.docker.com/reference/
 https://www.runoob.com/docker/docker-command-manual.html
+
+

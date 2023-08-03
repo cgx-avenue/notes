@@ -195,8 +195,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "b353470f69cf63c3",
   "lastOpenFiles": [
+    "80_Development/容器Container/Docker/imgs/2023-08-03-15-03-37.png",
     "80_Development/容器Container/Docker/Python应用Docker打包.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
     "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
@@ -241,7 +242,6 @@
     "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/website/theme/README.md",
     "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/website/README.md",
     "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/README.md",
-    "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/README.md",
-    "mypython/readings/02_利用python进行数据分析/notes.md"
+    "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/README.md"
   ]
 }
