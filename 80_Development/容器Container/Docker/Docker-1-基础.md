@@ -170,6 +170,17 @@ docker run -it --name 容器名称 镜像名称:标签 /bin/bash
 # create daemon container
 docker run -di --name container_name image_name:tag_name
 # logon to daemon container
+docker exec -it container_name|container_id /bin/bash
 
 
 ```
+
+### start & stop
+```bash
+# 停止容器
+docker stop 容器名称|容器ID
+# 启动容器
+docker start 容器名称|容器ID
+```
+
+### file copy
