@@ -92,5 +92,27 @@ https://juejin.cn/post/7042663735156015140
 # Docker 命令
 Official: https://docs.docker.com/reference/
 https://www.runoob.com/docker/docker-command-manual.html
+## image
+```bash
+# all run as root, if not, add sudo as prefix
+
+# list images
+docker images
+docker image ls
+# list all images id
+docker images -q
+# search images
+docker search image_name
+# pull image
+# e.g. docker pull centos:7
+docker pull image_name[:tag_name]
+# delete image
+docker rmi image_id
+docker rmi image_id1 image_id2 image_id3
+# delete all images
+docker rmi 'docker images -q'
 
 
+```
+
+## container
