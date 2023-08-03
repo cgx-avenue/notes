@@ -222,3 +222,16 @@ docker run -di -v /usr/local/data --name centos7-02 centos:7
 # 查看 volume 数据卷信息
 docker volume ls
 ```
+#### 具名挂载
+
+具名挂载就是给数据卷起了个名字，容器外对应的目录会在 `/var/lib/docker/volume` 中生成。
+
+```bash
+# 匿名挂载
+docker run -di -v docker_centos_data:/usr/local/data --name centos7-03 centos:7
+# 查看 volume 数据卷信息
+docker volume ls
+```
+
+
+
