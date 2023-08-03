@@ -233,5 +233,74 @@ docker run -di -v docker_centos_data:/usr/local/data --name centos7-03 centos:7
 docker volume ls
 ```
 
+#### 指定目录挂载
+一开始给大家讲解的方式就属于指定目录挂载，这种方式的挂载不会在 `/var/lib/docker/volume` 目录生成内容。
 
+```bash
+docker run -di -v /mydata/docker_centos/data:/usr/local/data --name centos7-01 centos:7
+# 多目录挂载
+docker run -di -v /宿主机目录:/容器目录 -v /宿主机目录2:/容器目录2 镜像名
+```
+
+#### ### 查看目录挂载关系
+
+通过 `docker volume inspect 数据卷名称` 可以查看该数据卷对应宿主机的目录地址。
+
+```text
+[root@localhost ~]# docker volume inspect docker_centos_data
+[
+    {
+        "CreatedAt": "2020-08-13T20:19:51+08:00",
+        "Driver": "local",
+        "Labels": null,
+        "Mountpoint": "/var/lib/docker/volumes/docker_centos_data/_data",
+        "Name": "docker_centos_data",
+        "Options": null,
+        "Scope": "local"
+    }
+]
+```
+
+通过 `docker inspect 容器ID或名称` ，在返回的 JSON 节点中找到 `Mounts`，可以查看详细的数据挂载信息。
+![](imgs/2023-08-03-16-29-51.png)
+#### 只读/读写
+
+```bash
+# 只读。只能通过修改宿主机内容实现对容器的数据管理。
+docker run -it -v /宿主机目录:/容器目录:ro 镜像名
+# 读写，默认。宿主机和容器可以双向操作数据。
+docker run -it -v /宿主机目录:/容器目录:rw 镜像名
+```
+
+#### volumes-from（继承）
+
+```bash
+# 容器 centos7-01 指定目录挂载
+docker run -di -v /mydata/docker_centos/data:/usr/local/data --name centos7-01 centos:7
+# 容器 centos7-04 和 centos7-05 相当于继承 centos7-01 容器的挂载目录
+docker run -di --volumes-from centos7-01 --name centos7-04 centos:7
+docker run -di --volumes-from centos7-01 --name centos7-05 centos:7
+```
+
+
+### 查看元信息
+我们可以通过以下命令查看容器的元信息。
+
+```bash
+docker inspect 容器名称|容器ID
+```
+
+也可以直接执行下面的命令直接输出 IP 地址。
+
+```bash
+docker inspect --format='{{.NetworkSettings.IPAddress}}' 容器名称|容器ID
+```
+
+### 删除容器
+```bash
+# 删除指定容器
+docker rm 容器名称|容器ID
+# 删除多个容器
+docker rm 容器名称|容器ID 容器名称|容器ID
+```
 
