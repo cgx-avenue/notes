@@ -10,7 +10,9 @@ pipreqs .
 
 ```
 
-
+注意生成的路径，和在dockerfile里面的requirement.txt的路径
+## Dockerfile
+路径，路径，还是路径。
 
 
 # Refs
