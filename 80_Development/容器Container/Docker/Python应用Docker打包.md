@@ -4,10 +4,10 @@
 ```bash
 pip install pipreqs
 # generate the dependency of current folder
+# format: pip
 # e.g. the folder where app.py locates
-pireqs .
-# or use explicit path
-# 
+pipreqs .
+
 ```
 
 
