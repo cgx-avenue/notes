@@ -135,6 +135,22 @@ docker ps -a
 docker ps -l
 ```
 ### create & run
+> 注意：Docker 容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为是空闲状态，就会自动退出。
+
+#### 为什么docker需要前台进程？
+https://www.bing.com/search?q=Docker+%E5%AE%B9%E5%99%A8%E8%BF%90%E8%A1%8C%E5%BF%85%E9%A1%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E5%89%8D%E5%8F%B0%E8%BF%9B%E7%A8%8B&aqs=edge..69i57j69i64&FORM=ANCMS9&PC=U531
+
+#### 守护进程
+https://blog.51cto.com/u_16175446/6627567
+https://www.yzktw.com.cn/post/1307727.html
+```txt
+Docker 守护进程
+Docker 是一种用于开发、交付和运行应用程序的开放平台。它可以通过在容器中打包应用程序及其所有依赖项，提供一种轻量级、可移植和自给自足的环境来运行应用程序。而 Docker 守护进程（Docker daemon）则是 Docker 的核心组件之一，它负责管理和运行容器。
+
+Docker 守护进程的作用
+Docker 守护进程是一个长时间运行的后台进程，负责管理 Docker 的主要功能。它负责处理容器的创建、启动、停止、删除等操作，并且监控容器的运行状态。它还负责管理 Docker 镜像的下载、更新和存储，以及网络和存储卷的管理。
+```
+#### docker run
 ```bash
 docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
 ```
@@ -148,3 +164,12 @@ docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
 `-P`：随机使用宿主机的可用端口与容器内暴露的端口映射。
 ```
 
+```bash
+# create a container based on a image, /bin/bash can be ignored if the image doesn't fit
+docker run -it --name 容器名称 镜像名称:标签 /bin/bash
+# create daemon container
+docker run -di --name container_name image_name:tag_name
+# logon to daemon container
+
+
+```
