@@ -282,6 +282,31 @@ docker run -di --volumes-from centos7-01 --name centos7-04 centos:7
 docker run -di --volumes-from centos7-01 --name centos7-05 centos:7
 ```
 
+### 端口映射
+https://www.runoob.com/docker/docker-container-connection.html
+容器中可以运行一些网络应用，要让外部也可以访问这些应用，可以通过 -P 或 -p 参数来指定端口映射。
+
+两种方式的是:
+
+- **-P :**是容器内部端口**随机**映射到主机的端口。
+- **-p :** 是容器内部端口绑定到**指定**的主机端口。
+
+```bash
+# use docker ps to check ports
+docker ps
+# -P randomly set host port to container port
+docker run -d -P training/webapp python app.py
+# -p explicitly sets the port 
+docker run -d -p 5000:5000 training/webapp python app.py
+# we could also set the host binding ip address
+docker run -d -p 127.0.0.1:5001:5000 training/webapp python app.py
+# default is tcp, is UDP is wanted, can be added /udp
+docker run -d -p 127.0.0.1:5000:5000/udp training/webapp python app.py
+# to check a container's port, use docker port
+docker port container_name|container_id
+
+```
+
 
 ### 查看元信息
 我们可以通过以下命令查看容器的元信息。
