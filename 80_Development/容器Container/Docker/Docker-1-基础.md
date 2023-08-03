@@ -92,10 +92,16 @@ https://juejin.cn/post/7042663735156015140
 # Docker 命令
 Official: https://docs.docker.com/reference/
 https://www.runoob.com/docker/docker-command-manual.html
+
+Generally speaking, use docker + type + command, for example, for image related, just type
+```bash
+docker image
+```
+
+And this will give you the instruction what to continue later.
+All below run as root, if not, add sudo as prefix
 ## image
 ```bash
-# all run as root, if not, add sudo as prefix
-
 # list images
 docker images
 docker image ls
@@ -112,7 +118,22 @@ docker rmi image_id1 image_id2 image_id3
 # delete all images
 docker rmi 'docker images -q'
 
-
 ```
 
 ## container
+### list
+```bash
+# list 
+docker container ls
+docker ps
+# list stopped containers
+docker ps -f status=exited
+# list all (including running and exited)
+docker ps -a
+# check last running container
+docker ps -l
+```
+### create & run
+
+
+
