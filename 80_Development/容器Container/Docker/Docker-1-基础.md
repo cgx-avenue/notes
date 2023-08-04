@@ -81,9 +81,6 @@ sudo docker --help
 https://www.runoob.com/docker/docker-container-connection.html
 指定端口号
 
-# Dockerfile
-https://www.runoob.com/docker/docker-dockerfile.html
-https://zhuanlan.zhihu.com/p/201218858
 # Docker compose
 https://www.runoob.com/docker/docker-compose.html
 https://juejin.cn/post/7042663735156015140
@@ -123,10 +120,20 @@ docker rmi 'docker images -q'
 
 ### 构建镜像
 #### Docker commit
-从现有container中
+从现有container中构建
+```bash
+docker commit [OPTIONS] CONTAINER [REPOSITORY[:TAG]]
+docker commit -a="mrhelloworld" -m="jdk11 and tomcat9" centos7 mycentos:7
+```
+
+- `-a`：提交的镜像作者；
+- `-c`：使用 Dockerfile 指令来创建镜像；
+- `-m`：提交时的说明文字；
+- `-p`：在 commit 时，将容器暂停。
 
 #### Dockerfile
-
+https://www.runoob.com/docker/docker-dockerfile.html
+https://zhuanlan.zhihu.com/p/201218858
 
 
 ## container
