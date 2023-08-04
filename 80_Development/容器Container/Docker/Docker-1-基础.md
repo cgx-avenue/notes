@@ -121,6 +121,11 @@ docker rmi 'docker images -q'
 
 ```
 
+### 构建镜像
+#### Docker commit
+从现有container中
+
+#### Dockerfile
 
 
 
