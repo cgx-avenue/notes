@@ -1,6 +1,10 @@
-https://zhuanlan.zhihu.com/p/211237898
+
 
 # DockerHub
+https://zhuanlan.zhihu.com/p/209047888
 
+# 私有仓库
+https://zhuanlan.zhihu.com/p/211237898
+为了解决以上问题，Docker 官方提供了一个叫做 `registry` 的镜像用于搭建本地私有仓库使用。在内部网络搭建的 Docker 私有仓库可以使内网人员下载、上传都非常快速，不受外网带宽等因素的影响，同时不在内网的人员也无法下载我们的镜像，并且私有仓库也支持配置仓库认证功能。接下来详细讲解 `registry` 私有仓库的搭建过程。
+思路就是在私有仓库的服务器上利用registry，加上一些安全机制，设置一个私有仓库。
 
-# 死
