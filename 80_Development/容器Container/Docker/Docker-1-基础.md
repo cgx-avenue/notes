@@ -156,7 +156,8 @@ docker load -i mycentos7.tar
 
 - `--input, -i`：指定导入的文件；
 - `--quiet, -q`：精简输出信息。
-
+#### 迁移
+物理拷贝或者靠仓库。
 
 
 ## container
