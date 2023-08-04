@@ -136,7 +136,29 @@ https://www.runoob.com/docker/docker-dockerfile.html
 下面这篇写的非常好
 https://zhuanlan.zhihu.com/p/201218858
 
-### 
+### 镜像备份恢复迁移
+#### 备份
+使用 `docker save` 将指定镜像保存成 tar 归档文件。
+
+```bash
+docker save [OPTIONS] IMAGE [IMAGE...]
+docker save -o /root/mycentos7.tar mycentos:7
+```
+
+- `-o`：镜像打包后的归档文件输出的目录。
+#### 恢复
+使用 `docker load` 导入 docker save 命令导出的镜像归档文件。
+
+```bash
+docker load [OPTIONS]
+docker load -i mycentos7.tar
+```
+
+- `--input, -i`：指定导入的文件；
+- `--quiet, -q`：精简输出信息。
+
+
+
 ## container
 ### list
 ```bash
