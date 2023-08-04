@@ -43,6 +43,7 @@ linux是在
 ```bash
 vim /etc/docker/daemon.json
 ```
+#### 镜像加速
 文件里，可以做诸如镜像加速的事情。
 ```json
 {
