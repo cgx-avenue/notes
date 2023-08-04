@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
+                "file": "80_Development/容器Container/Docker/Docker-n-privileged.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
+                "file": "80_Development/容器Container/Docker/Docker-n-privileged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
+                "file": "80_Development/容器Container/Docker/Docker-n-privileged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-1-基础.md"
+                "file": "80_Development/容器Container/Docker/Docker-n-privileged.md"
               }
             }
           },
@@ -197,8 +197,9 @@
   },
   "active": "b353470f69cf63c3",
   "lastOpenFiles": [
-    "80_Development/容器Container/Docker/Docker-n-仓库.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
+    "80_Development/容器Container/Docker/Docker-n-privileged.md",
+    "80_Development/容器Container/Docker/Docker-n-仓库.md",
     "80_Development/容器Container/Docker/imgs/2023-08-03-16-29-51.png",
     "80_Development/容器Container/Docker/imgs/2023-08-03-15-03-37.png",
     "80_Development/容器Container/Docker/Python应用Docker打包.md",
@@ -241,7 +242,6 @@
     "mypython/readings/04_数据科学入门/README.md",
     "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/website/theme/README.md",
     "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/website/README.md",
-    "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/README.md",
-    "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/README.md"
+    "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/README.md"
   ]
 }
