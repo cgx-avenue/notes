@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Python应用Docker打包.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b353470f69cf63c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础七：对焦模式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础七：对焦模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础七：对焦模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-1-基础.md"
+                "file": "20_瞎折腾/摄影/摄影技术与教程/基础七：对焦模式.md"
               }
             }
           },
@@ -195,14 +182,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b353470f69cf63c3",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/容器Container/Docker/Docker-n-privileged.md",
+    "20_瞎折腾/摄影/器材/尼康Z30.md",
+    "20_瞎折腾/摄影/摄影技术与教程/基础七：对焦模式.md",
+    "20_瞎折腾/摄影/摄影技术与教程/尼康Z50官方视频教程.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
-    "80_Development/容器Container/Docker/Docker-n-仓库.md",
     "80_Development/容器Container/Docker/imgs/2023-08-03-16-29-51.png",
     "80_Development/容器Container/Docker/imgs/2023-08-03-15-03-37.png",
     "80_Development/容器Container/Docker/Python应用Docker打包.md",
+    "80_Development/容器Container/Docker/Docker-n-仓库.md",
+    "80_Development/容器Container/Docker/Docker-n-privileged.md",
     "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
     "80_Development/网络Network/imgs/2023-08-01-13-13-59.png",
     "80_Development/网络Network/imgs/2023-08-01-11-02-40.png",
@@ -239,9 +229,6 @@
     "mypython/readings/04_数据科学入门/data-science-from-scratch-master/README.md",
     "mypython/readings/04_数据科学入门/data-science-from-scratch-master/links.md",
     "mypython/readings/04_数据科学入门/data-science-from-scratch-master/INSTALL.md",
-    "mypython/readings/04_数据科学入门/README.md",
-    "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/website/theme/README.md",
-    "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/website/README.md",
-    "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/README.md"
+    "mypython/readings/04_数据科学入门/README.md"
   ]
 }
