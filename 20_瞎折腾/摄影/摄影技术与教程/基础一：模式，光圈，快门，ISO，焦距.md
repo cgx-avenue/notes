@@ -146,7 +146,7 @@ Refs1里面写的非常好。
 # 焦距 Focal length
 
 
-# 测光
+
 
 
 
