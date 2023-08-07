@@ -12,7 +12,14 @@
 参见：https://www.cnblogs.com/davis12/p/14453690.html
 
 
+# 实例
+## 进入容器后查看素主机
+```bash
+$ sudo docker run -it --pid=host --privileged=true ubuntu /bin/bash
+# 进入容器内部之后执行
 
+/# nsenter -a -t 1 sh -c "ip addr"
+```
 
 
 
