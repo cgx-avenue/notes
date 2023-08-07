@@ -13,7 +13,7 @@
 
 
 # 实例
-## 进入容器后查看素主机
+## 进入容器后查看宿主机网络配置信息
 ```bash
 $ sudo docker run -it --pid=host --privileged=true ubuntu /bin/bash
 # 进入容器内部之后执行
