@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-n-privileged.md",
+                "file": "80_Development/容器Container/Docker/Docker container和主机互相通信.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-n-privileged.md",
+                "file": "80_Development/容器Container/Docker/Docker container和主机互相通信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-n-privileged.md",
+                "file": "80_Development/容器Container/Docker/Docker container和主机互相通信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-n-privileged.md"
+                "file": "80_Development/容器Container/Docker/Docker container和主机互相通信.md"
               }
             }
           },
@@ -197,12 +197,13 @@
   },
   "active": "b353470f69cf63c3",
   "lastOpenFiles": [
+    "80_Development/容器Container/Docker/Docker-n-privileged.md",
+    "80_Development/容器Container/Docker/Docker container和主机互相通信.md",
     "conflict-files-obsidian-git.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础八：对焦区域.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础九：曝光和对焦锁定，测光.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础七：对焦模式.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
-    "80_Development/容器Container/Docker/Docker-n-privileged.md",
     "80_Development/容器Container/Docker/Docker-n-仓库.md",
     "80_Development/容器Container/Docker/imgs/2023-08-03-16-29-51.png",
     "80_Development/容器Container/Docker/imgs/2023-08-03-15-03-37.png",
@@ -241,7 +242,6 @@
     "mypython/readings/Python编程从入门到实践_2nd_edition/Python编程 随书资源/souce_codes/README.md",
     "mypython/readings/python_cookbook_3rd_edition/notes.md",
     "mypython/readings/04_数据科学入门/data-science-from-scratch-master/README.md",
-    "mypython/readings/04_数据科学入门/data-science-from-scratch-master/links.md",
-    "mypython/readings/04_数据科学入门/data-science-from-scratch-master/INSTALL.md"
+    "mypython/readings/04_数据科学入门/data-science-from-scratch-master/links.md"
   ]
 }
