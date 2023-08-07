@@ -40,7 +40,16 @@ nsenter命令是一个可以在指定进程的命令空间下运行指定程序�
 ## 问题集
 ### 获取docker 容器的PID
 ```bash
-
+docker inspect -f <container_name|container_id> | grep Pid
+```
+### 进入容器命令空间
+```bash
+nsenter -n -t PID
+```
+注意：执行完不会有任何提示
+### 抓取数据包
+```bash
+tcpdump -nn -i veth22222 port 8081
 ```
 
 ## Refs：
