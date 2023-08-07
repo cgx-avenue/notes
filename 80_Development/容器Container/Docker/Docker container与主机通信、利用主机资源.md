@@ -52,8 +52,13 @@ nsenter -n -t PID
 tcpdump -nn -i veth22222 port 8081
 ```
 
+方式二：利用ssh，容器登录host
+https://juejin.cn/post/7090940431122300941
+
+
 ## Refs：
 1. https://www.cnblogs.com/ruhuanxingyun/p/16850950.html
 2. https://cloud.tencent.com/developer/article/1730699
 3. https://zhuanlan.zhihu.com/p/636269015
-4. 
+4. https://blog.csdn.net/gongdiwudu/article/details/128888497
+5. 
