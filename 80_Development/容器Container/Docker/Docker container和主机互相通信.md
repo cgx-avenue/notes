@@ -11,10 +11,17 @@ Docker和宿主机共用一个内核，Namespace的隔离依然没有完全隔�
 ## Proc或Pid空间
 使用Docker问题：在Docker容器中执行top、free命令，看到的资源情况是宿主机的资源消耗比例，而不是这个容器被限制了多少CPU、内存；
 
-## 
-　　　　C. 设置容器特权级运行：--privileged，比如容器内操作内核模块、挂载USB磁盘、修改MAC地址等，设置privileged=true即可；
+## --privileged 模式
+设置容器特权级运行：--privileged，比如容器内操作内核模块、挂载USB磁盘、修改MAC地址等，设置privileged=true即可；
 
-　　　　D. 设置容器特权白名单：--cap-add，privileged=true等同于cap-add=ALL，其权限非常大，接近于宿主机的权限，为了防止用户的滥用，需要增加权限限制，只提供给容器必须的权限。
+## 按需给予capability
+设置容器特权白名单：--cap-add，privileged=true等同于cap-add=ALL，其权限非常大，接近于宿主机的权限，为了防止用户的滥用，需要增加权限限制，只提供给容器必须的权限。
+
+## docker run
+比如如下docker 命令
+```bash
+docker run --privileged=true --pid=host
+```
 
 
 
