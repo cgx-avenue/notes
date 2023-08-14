@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Python应用Docker打包.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b353470f69cf63c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-08-10.md",
+                "file": "00_日志和总结/天/2023-08-14.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-10.md",
+                "file": "00_日志和总结/天/2023-08-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-10.md",
+                "file": "00_日志和总结/天/2023-08-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-10.md"
+                "file": "00_日志和总结/天/2023-08-14.md"
               }
             }
           },
@@ -175,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,15 +182,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b353470f69cf63c3",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "2023-08-09.md",
-    "2023-08-10.md",
-    "2023-08-08.md",
-    "2023-08-07.md",
+    "80_Development/容器Container/Docker/Python应用Docker打包.md",
+    "00_日志和总结/天/2023-08-14.md",
+    "00_日志和总结/天/2023-08-07.md",
+    "00_日志和总结/天/2023-08-10.md",
+    "00_日志和总结/天/2023-08-09.md",
+    "00_日志和总结/天/2023-08-08.md",
     "80_Development/容器Container/Docker/Docker-n-privileged.md",
     "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
-    "80_Development/容器Container/Docker/Python应用Docker打包.md",
     "conflict-files-obsidian-git.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础八：对焦区域.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础九：曝光和对焦锁定，测光.md",
@@ -241,7 +229,6 @@
     "02_行万里路/202301&03_成都/2023成都游记.md",
     "90_Career/Siemens/FY23/230112_SEWC_visit.md",
     "mypython/data-analysis/2022_11_14-常用数据分析套路整理.md",
-    "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md",
-    "mypython/readings/03_Python数据科学手册/PythonDataScienceHandbook-master/tools/README.md"
+    "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md"
   ]
 }
