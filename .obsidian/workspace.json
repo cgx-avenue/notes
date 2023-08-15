@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "80_Development/容器Container/Docker/Python应用Docker打包.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "80_Development/容器Container/Docker/Python应用Docker打包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "80_Development/容器Container/Docker/Python应用Docker打包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md"
+                "file": "80_Development/容器Container/Docker/Python应用Docker打包.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,20 +184,22 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/容器Container/Docker/Docker-n-privileged.md",
+    "80_Development/容器Container/Docker/Docker-n-仓库.md",
+    "80_Development/容器Container/Docker/Docker-1-基础.md",
+    "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
+    "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
+    "20_瞎折腾/小小服务器/树莓派4B.md",
     "00_日志和总结/天/2023-08-14.md",
     "80_Development/容器Container/Docker/Python应用Docker打包.md",
     "00_日志和总结/天/2023-08-07.md",
     "00_日志和总结/天/2023-08-10.md",
     "00_日志和总结/天/2023-08-09.md",
     "00_日志和总结/天/2023-08-08.md",
-    "80_Development/容器Container/Docker/Docker-n-privileged.md",
-    "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
     "conflict-files-obsidian-git.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础八：对焦区域.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础九：曝光和对焦锁定，测光.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础七：对焦模式.md",
-    "80_Development/容器Container/Docker/Docker-1-基础.md",
-    "80_Development/容器Container/Docker/Docker-n-仓库.md",
     "80_Development/容器Container/Docker/imgs/2023-08-03-16-29-51.png",
     "80_Development/容器Container/Docker/imgs/2023-08-03-15-03-37.png",
     "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
@@ -227,8 +229,6 @@
     "02_行万里路/202307_北京/2023带娃北京游记.md",
     "90_Career/Siemens/FY23/2023_07-Thomas_visit.md",
     "02_行万里路/202301&03_成都/2023成都游记.md",
-    "90_Career/Siemens/FY23/230112_SEWC_visit.md",
-    "mypython/data-analysis/2022_11_14-常用数据分析套路整理.md",
-    "80_Development/编程语言与设计模式/Python/环境搭建/Anaconda安装.md"
+    "90_Career/Siemens/FY23/230112_SEWC_visit.md"
   ]
 }
