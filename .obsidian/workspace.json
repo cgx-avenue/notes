@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-08-14.md",
+                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_日志和总结/天/2023-08-14.md",
+                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_日志和总结/天/2023-08-14.md",
+                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_日志和总结/天/2023-08-14.md"
+                "file": "20_瞎折腾/小小服务器/树莓派4B.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/容器Container/Docker/Python应用Docker打包.md",
     "00_日志和总结/天/2023-08-14.md",
+    "80_Development/容器Container/Docker/Python应用Docker打包.md",
     "00_日志和总结/天/2023-08-07.md",
     "00_日志和总结/天/2023-08-10.md",
     "00_日志和总结/天/2023-08-09.md",
