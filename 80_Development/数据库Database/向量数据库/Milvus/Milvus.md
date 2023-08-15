@@ -24,8 +24,28 @@ Milvus 采用共享存储架构，​存储计算完全分离​，计算节点�
 #### Collection
 包含一组entity，类似于RDBMS中的表。
 #### Entity
-包含一组field。类似于RDBMS中的
+包含一组field。类似于RDBMS中的行。field 与实际对象相对应。field 可以是代表对象属性的结构化数据，也可以是代表对象特征的向量。primary key 是用于指代一个 entity 的唯一值。
 
+​注意：​ 你可以自定义 primary key，否则 Milvus 将会自动生成 primary key。请注意，目前 Milvus 不支持 primary key 去重，因此有可能在一个 collection 内出现 primary key 相同的 entity。
+
+#### Field
+Entity的组成数据，类似于RDBMS中的列。Field可以是结构化数据，比如数字和字符串，也可以是向量。
+
+#### Partition
+分区是集合（Collection）的一个分区。Milvus 支持将收集数据划分为物理存储上的多个部分。这个过程称为分区，每个分区可以包含多个段。
+
+#### Segment
+Milvus 在数据插入时，通过合并数据自动创建的数据文件。一个 collection 可以包含多个 segment。一个 segment 可以包含多个 entity。在搜索中，Milvus 会搜索每个 segment，并返回合并后的结果。
+
+#### Sharding
+Shard 是指将数据写入操作分散到不同节点上，使 Milvus 能充分利用集群的并行计算能力进行写入。默认情况下，单个 Collection 包含 2 个分片（Shard）。目前 Milvus 采用基于​主键哈希​的分片方式，未来将支持随机分片、自定义分片等更加灵活的分片方式。
+
+​注意：​ 分区的意义在于通过划定分区减少数据读取，而分片的意义在于多台机器上并行写入操作。
+
+### 索引
+索引基于原始数据构建，可以提高对 collection 数据搜索的速度。Milvus 支持多种​ ​索引类型​​。为提高查询性能，你可以为每个向量字段指定一种索引类型。目前，一个向量字段仅支持一种索引类型。切换索引类型时，Milvus 自动删除之前的索引。
+
+​相似性搜索引擎的工作原理​是将输入的对象与数据库中的对象进行比较，找出与输入最相似的对象。索引是有效组织数据的过程，极大地加速了对大型数据集的查询，在相似性搜索的实现中起着重要作用。对一个大规模向量数据集创建索引后，查询可以被路由到最有可能包含与输入查询相似的向量的集群或数据子集。在实践中，这意味着要牺牲一定程度的准确性来加快对真正的大规模向量数据集的查询。
 
 
 
@@ -40,4 +60,5 @@ Milvus 采用共享存储架构，​存储计算完全分离​，计算节点�
 # 参考
 [强大的向量数据库：Milvus - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/405186060)
 [Milvus 开源向量数据库 - 知乎 (zhihu.com)](https://www.zhihu.com/column/ai-search)
+https://blog.51cto.com/liguodong/5110587 
 
