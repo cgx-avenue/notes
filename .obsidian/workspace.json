@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
+                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
+                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
+                "file": "80_Development/数据库Database/向量数据库/向量数据库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md"
+                "file": "80_Development/数据库Database/向量数据库/向量数据库.md"
               }
             }
           },
@@ -182,8 +182,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e65567ec6e4b5a34",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
+    "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
     "80_Development/OS/Linux/linux基础（二 软件安装）.md",
     "80_Development/OS/Linux/ARP嗅探局域网内的设备.md",
     "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.md",
@@ -196,7 +197,6 @@
     "80_Development/容器Container/Docker/Docker-n-privileged.md",
     "80_Development/容器Container/Docker/Docker-n-仓库.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
-    "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
     "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
     "00_日志和总结/天/2023-08-14.md",

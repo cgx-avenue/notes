@@ -62,4 +62,5 @@ https://juejin.cn/post/7090940431122300941
 3. https://zhuanlan.zhihu.com/p/636269015
 4. https://blog.csdn.net/gongdiwudu/article/details/128888497
 
-# 方式二
+# 方式二: 利用ssh
+参见：https://juejin.cn/post/7090940431122300941
