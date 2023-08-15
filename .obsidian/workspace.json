@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.md",
+                "file": "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 421.5
   },
   "right": {
     "id": "d33b47c5d2a181f2",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.md",
+                "file": "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.md",
+                "file": "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.md"
+                "file": "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md"
               }
             }
           },
@@ -184,9 +184,13 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/linux基础（二 软件安装）.md",
+    "80_Development/OS/Linux/ARP嗅探局域网内的设备.md",
+    "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.md",
+    "80_Development/OS/Linux/linux基础（一 文件系统）.md",
     "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.assets/image-20221018134213996.png",
-    "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.assets/image-20221018134213996-16660717405611.png",
-    "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.assets/image-20221018133833272.png",
+    "80_Development/OS/Linux/imgs/image-20221018134213996-16660717405611.png",
+    "80_Development/OS/Linux/imgs/image-20221018133833272.png",
     "80_Development/OS/线程和进程.md",
     "80_Development/容器Container/Docker/Python应用Docker打包.md",
     "80_Development/容器Container/Docker/Docker-n-privileged.md",
@@ -218,17 +222,13 @@
     "80_Development/容器Container/Kubernetes/imgs/2023-07-18-16-27-30.png",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-18-16-27-14.png",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-18-16-26-58.png",
-    "80_Development/容器Container/Kubernetes/imgs/2023-07-18-16-25-19.png",
     "00_日志和总结/天/2023-07-17.md",
-    "20_瞎折腾/Switch/Switch游戏合集.md",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2002.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2001.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1999.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2000.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1997.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1998.txt",
-    "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1996.txt",
-    "02_行万里路/202307_北京/2023带娃北京游记.md",
-    "90_Career/Siemens/FY23/2023_07-Thomas_visit.md"
+    "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1996.txt"
   ]
 }
