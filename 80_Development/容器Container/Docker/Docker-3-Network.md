@@ -35,7 +35,15 @@ docker run -p 127.0.0.1:8080:80 nginx
 参见refs1
 
 # Network drivers
-## Overv
+## Overview
+Docker的网络使用driver来提供功能。
+* bridge: 默认。
+* host: 直接使用host网络，没有网络隔离。
+* overlay: 连接多个Docker daemon，使得其中的容器可以通信，去除了OS层面的路由需要。
+* ipvlan: 给用户IPv4和IPv6上的完全控制。VLAN可以实现L2 VLAN tagging和IPvlan L3 routing。
+* macvlan: 可以给容器指派MAC地址，使其看起来像实际设备。Docker Daemon路由数据到MAC地址。面对需要和物理网络同信时，macvlan
+* none:
+* Network plugins:
 
 
 
