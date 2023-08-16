@@ -35,7 +35,7 @@ docker exec -it container_name|container_id /bin/bash
 # 参数
 ## --privileged
 参见
-[[Docker-2.1-privileged_mode]]
+[[Docker-2.1-Privileged_mode]]
 
 ## --pid=""
 > --pid=""  : Set the PID (Process) Namespace mode for the container,
@@ -66,6 +66,11 @@ If not specified, daemon default is used, which can either be `"private"` or 
 
 例子参见：
 https://docs.docker.com/engine/reference/run/#pid-settings---pid
+
+## Network-settings
+[[Docker-2.2-Network_settings]]
+
+
 
 # Refs
 1. https://docs.docker.com/engine/reference/run/
