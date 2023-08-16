@@ -68,7 +68,16 @@ Docker的网络使用driver来提供功能。
 
 #### 每个用户bridge是可配置的
 默认bridge也是可配置的，但是所有连上的container会采用相同配置，比如MTU和iptables规则。而且修改默认bridge需要重启docker。
-用户bridge使用`docker network create`创建和配置
+用户bridge使用`docker network create`创建和配置，不同的规则可以创建不同的bridge。
+
+#### 默认bridge共享环境变量
+最初，在两个容器间共享变量的唯一办法是使用`--link`标志，用户bridge不能共享。但现在有更好的办法：
+* 使用docker volume共享。
+* docker-compose可以设置共享变量。
+* 使用Swarm服务，利用secrets和configs。
+
+### 端口
+同一个用户bridge的容器间暴露所有端口，
 
 
 
