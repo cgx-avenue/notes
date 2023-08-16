@@ -1,4 +1,4 @@
-# Background - why sudo is needed for docker-cli
+# Background - why sudo is needed 
 When we use docker commands, we always use sudo as prefix, otherwise it wil show like below:
 ![](imgs/2023-08-16-09-47-43.png)
 which shows lacking of permission.
@@ -43,8 +43,26 @@ Check Refs 2.
 
 ## Best practices
 Check Refs 2.
+### Rootless docker in docker
 
+To run Rootless Docker inside “rootful” Docker, use the `docker:<version>-dind-rootless` image instead of `docker:<version>-dind`.
 
+```
+$ docker run -d --name dind-rootless --privileged docker:24.0-dind-rootless
+```
+
+The `docker:<version>-dind-rootless` image runs as a non-root user (UID 1000). However, `--privileged` is required for disabling seccomp, AppArmor, and mount masks.
+
+### Exposing privileged ports
+
+To expose privileged ports (< 1024), set `CAP_NET_BIND_SERVICE` on `rootlesskit` binary and restart the daemon.
+
+```
+$ sudo setcap cap_net_bind_service=ep $(which rootlesskit)
+$ systemctl --user restart docker
+```
+
+Or add `net.ipv4.ip_unprivileged_port_start=0` to `/etc/sysctl.conf` (or `/etc/sysctl.d`) and run `sudo sysctl --system`.
 
 # Userns-remap mode
 
