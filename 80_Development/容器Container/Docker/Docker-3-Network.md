@@ -62,7 +62,9 @@ Docker的网络使用driver来提供功能。
 
 ### 默认bridge和user-defined bridge的区别
 #### 用户定义的bridge提供自动DNS解析
-默认bridge网络只提供ip
+默认bridge网络只提供ip寻址。
+#### 用户bridge提供更好隔离性
+
 
 
 
