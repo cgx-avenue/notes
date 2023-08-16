@@ -192,6 +192,8 @@ Docker 守护进程的作用
 Docker 守护进程是一个长时间运行的后台进程，负责管理 Docker 的主要功能。它负责处理容器的创建、启动、停止、删除等操作，并且监控容器的运行状态。它还负责管理 Docker 镜像的下载、更新和存储，以及网络和存储卷的管理。
 ```
 #### docker run
+https://docs.docker.com/engine/reference/run/
+
 ```bash
 docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
 ```
