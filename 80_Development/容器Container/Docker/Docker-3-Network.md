@@ -64,8 +64,11 @@ Docker的网络使用driver来提供功能。
 #### 用户定义的bridge提供自动DNS解析
 默认bridge网络只提供ip寻址。
 #### 用户bridge提供更好隔离性
+因为其他采用默认网络的container都连在了默认bridge上。
 
-
+#### 每个用户bridge是可配置的
+默认bridge也是可配置的，但是所有连上的container会采用相同配置，比如MTU和iptables规则。而且修改默认bridge需要重启docker。
+用户bridge使用`docker network create`创建和配置
 
 
 
