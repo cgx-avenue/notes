@@ -1,6 +1,6 @@
 官方文档：
-https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities
-https://docs.docker.com/engine/reference/commandline/run/#privileged
+1. https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities
+2. https://docs.docker.com/engine/reference/commandline/run/#privileged
 官网的例子用的是mount，来看host的device相关的资源。
 
 # 原理
