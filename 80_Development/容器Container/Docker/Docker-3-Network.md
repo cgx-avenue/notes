@@ -85,6 +85,7 @@ Docker的网络使用driver来提供功能。
 ## 教程和实验
 https://docs.docker.com/network/network-tutorial-standalone/
 1. 默认bridge上果然不能ping container_name, 只能ping ip
+2. 
 
 
 # Refs
