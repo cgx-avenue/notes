@@ -18,8 +18,13 @@ But please be noted:
 Please refer to Refs 1.
 
 # Rootless mode
+In docker group, we're still using root-level privileges. Can we run the daemon and contianers as non-root? Yes, rootless mode.
 
+## Why we need rootless mode?
+> Rootless mode allows running the Docker daemon and containers as a non-root user to mitigate potential vulnerabilities in the daemon and the container runtime.
+	Rootless mode does not require root privileges even during the installation of the Docker daemon, as long as the [prerequisites](https://docs.docker.com/engine/security/rootless/#prerequisites) are met.
 
+In a nutshell, the container cannot use root priviledge in host, so this can **mitigate the most vulnerabilities to the host**.
 
 
 
