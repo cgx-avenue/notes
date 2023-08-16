@@ -98,7 +98,12 @@ Swarm还不太明白，先不看了。
 * 使用场景：
 	* 性能优化
 	* 容器需要大量端口
-* host模式
+* host模式只支持linux hosts，不支持任何其它。
+* host也可以用于swarm服务，但会有额外限制。
+
+### 教程和实验
+https://docs.docker.com/network/network-tutorial-host/
+
 
 
 # Refs

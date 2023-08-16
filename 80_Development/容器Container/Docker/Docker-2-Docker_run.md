@@ -70,6 +70,18 @@ https://docs.docker.com/engine/reference/run/#pid-settings---pid
 ## Network-settings
 [[Docker-3-Network]]
 
+## --rm (clean up)
+> --rm=false: Automatically remove the container when it exits
+
+**Note**
+
+If you set the `--rm` flag, Docker also removes the anonymous volumes associated with the container when the container is removed. This is similar to running `docker rm -v my-container`. Only volumes that are specified without a name are removed. For example, when running:
+
+```
+$ docker run --rm -v /foo -v awesome:/bar busybox top
+```
+
+the volume for `/foo` will be removed, but the volume for `/bar` will not. Volumes inherited via `--volumes-from` will be removed with the same logic: if the original volume was specified with a name it will **not** be removed.
 
 
 # Refs
