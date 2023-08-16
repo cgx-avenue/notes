@@ -1,0 +1,41 @@
+官方文档：
+1. https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities
+2. https://docs.docker.com/engine/reference/commandline/run/#privileged
+官网的例子用的是mount，来看host的device相关的资源。
+
+# 效果
+> 使Docker容器获得host的root权限。
+> 使用该参数，container内的root拥有host真正的root权限。否则，container内的root只是外部的一个普通用户权限。
+> privileged启动的容器，可以看到很多host上的设备，并且可以执行mount。
+> 甚至允许你在docker容器中启动docker容器。
+> https://blog.csdn.net/ichen820/article/details/120508201
+
+背后原理是Linux capabilities
+参见：https://www.cnblogs.com/davis12/p/14453690.html
+
+# 原理
+> By default, Docker containers are “unprivileged” and cannot, for example, run a Docker daemon inside a Docker container. This is because by default a container is not allowed to access any devices, but a “privileged” container is given access to all devices (see the documentation on [cgroups devices](https://www.kernel.org/doc/Documentation/cgroup-v1/devices.txt)).
+> The `--privileged` flag gives all capabilities to the container. When the operator executes `docker run --privileged`, Docker will enable access to all devices on the host as well as set some configuration in AppArmor or SELinux to allow the container nearly all the same access to the host as processes running outside containers on the host.
+
+## add or drop abilities
+|Option|Description|
+|---|---|
+|`--cap-add`|Add Linux capabilities|
+|`--cap-drop`|Drop Linux capabilities|
+|`--privileged`|Give extended privileges to this container|
+|`--device=[]`|Allows you to run devices inside the container without the `--privileged` flag.|
+
+For --device, --cap-add and --cap-drop, please refer to :
+https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities
+
+# 实例
+## 进入容器后查看宿主机网络配置信息
+```bash
+$ sudo docker run -it --pid=host --privileged=true ubuntu /bin/bash
+# 进入容器内部之后执行
+
+/# nsenter -a -t 1 sh -c "ip addr"
+```
+
+
+Refs：

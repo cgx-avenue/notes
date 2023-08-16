@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-3-privileged mode.md",
+                "file": "80_Development/容器Container/Docker/Docker-3-privileged_mode.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-3-privileged mode.md",
+                "file": "80_Development/容器Container/Docker/Docker-3-privileged_mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-3-privileged mode.md",
+                "file": "80_Development/容器Container/Docker/Docker-3-privileged_mode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-3-privileged mode.md"
+                "file": "80_Development/容器Container/Docker/Docker-3-privileged_mode.md"
               }
             }
           },
@@ -184,16 +184,17 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/容器Container/Docker/Docker-4-sudo&root.md",
-    "80_Development/容器Container/Docker/Docker-3-privileged mode.md",
+    "80_Development/容器Container/Docker/Docker-2-Docker_run.md",
+    "80_Development/容器Container/Docker/Docker-3-privileged_mode.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
+    "80_Development/容器Container/Docker/Docker-4-sudo&root.md",
     "80_Development/容器Container/Docker/Docker-1.1-Docker架构.md",
     "80_Development/容器Container/Docker/imgs/2023-08-16-11-02-38.png",
     "Pasted image 20230816110207.png",
     "80_Development/容器Container/Docker/Docker-4-sudo&priviledge.md",
     "80_Development/容器Container/Docker/imgs/2023-08-16-10-55-20.png",
     "80_Development/容器Container/Docker/imgs/2023-08-16-09-47-43.png",
-    "80_Development/容器Container/Docker/Docker-2-仓库.md",
+    "80_Development/容器Container/Docker/Docker-1.2-仓库.md",
     "80_Development/容器Container/Docker/Python应用Docker打包.md",
     "80_Development/数据库Database/向量数据库/向量数据库.md",
     "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
@@ -216,7 +217,6 @@
     "conflict-files-obsidian-git.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础八：对焦区域.md",
     "20_瞎折腾/摄影/摄影技术与教程/基础九：曝光和对焦锁定，测光.md",
-    "20_瞎折腾/摄影/摄影技术与教程/基础七：对焦模式.md",
     "80_Development/容器Container/Docker/imgs/2023-08-03-16-29-51.png",
     "80_Development/容器Container/Docker/imgs/2023-08-03-15-03-37.png",
     "80_Development/网络Network/imgs/2023-08-01-13-13-59.png",
