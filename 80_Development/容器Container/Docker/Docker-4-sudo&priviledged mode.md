@@ -101,6 +101,11 @@ Other details please check Refs 3.
 Check Refs 3.
 
 # Comparison
+* No UserNS: native docker
+* With UserNS: userns-remap
+* Rootless
+
+![](imgs/2023-08-16-11-02-38.png)
 
 
 # Refs

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-4-sudo&priviledged mode.md",
+                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-4-sudo&priviledged mode.md",
+                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-4-sudo&priviledged mode.md",
+                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-4-sudo&priviledged mode.md"
+                "file": "80_Development/容器Container/Docker/Docker-1-基础.md"
               }
             }
           },
@@ -184,12 +184,13 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/容器Container/Docker/Docker-3-privileged.md",
+    "80_Development/容器Container/Docker/Docker-4-sudo&priviledged mode.md",
+    "80_Development/容器Container/Docker/imgs/2023-08-16-11-02-38.png",
     "Pasted image 20230816110207.png",
     "80_Development/容器Container/Docker/Docker-4-sudo&priviledge.md",
-    "80_Development/容器Container/Docker/Docker-4-sudo&priviledged mode.md",
     "80_Development/容器Container/Docker/imgs/2023-08-16-10-55-20.png",
     "80_Development/容器Container/Docker/imgs/2023-08-16-09-47-43.png",
-    "80_Development/容器Container/Docker/Docker-3-privileged.md",
     "80_Development/容器Container/Docker/Docker-2-仓库.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
     "80_Development/容器Container/Docker/Python应用Docker打包.md",
@@ -218,11 +219,9 @@
     "80_Development/容器Container/Docker/imgs/2023-08-03-16-29-51.png",
     "80_Development/容器Container/Docker/imgs/2023-08-03-15-03-37.png",
     "80_Development/网络Network/imgs/2023-08-01-13-13-59.png",
-    "80_Development/网络Network/imgs/2023-08-01-11-02-40.png",
     "80_Development/网络Network/imgs",
     "80_Development/网络Network",
     "mypython/network",
-    "80_Development/容器Container/Kubernetes/imgs/2023-07-18-16-27-30.png",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2002.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2001.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1999.txt",
