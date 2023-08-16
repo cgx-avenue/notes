@@ -105,6 +105,17 @@ Swarm还不太明白，先不看了。
 https://docs.docker.com/network/network-tutorial-host/
 
 ## Macvlan
+以后看吧
+
+## IPvlan
+以后看吧
+
+## None(no networking)
+完全隔离容器网络环境，只有loopback被创建。
+也没有IPv6 loopback address被创建。
+
+
+
 
 
 
