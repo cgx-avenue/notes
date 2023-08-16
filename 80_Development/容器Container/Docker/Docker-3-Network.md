@@ -89,6 +89,11 @@ https://docs.docker.com/network/network-tutorial-standalone/
 2. 实验2使用用户bridge就可以ping container_name
 
 ## Overlay
+Swarm还不太明白，先不看了。
+
+
+## Host
+
 
 
 
