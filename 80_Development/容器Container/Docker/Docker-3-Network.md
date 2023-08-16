@@ -82,9 +82,9 @@ Docker的网络使用driver来提供功能。
 ## 操作
 参见 https://docs.docker.com/network/drivers/bridge/
 
-## 教程
+## 教程和实验
 https://docs.docker.com/network/network-tutorial-standalone/
-
+1. 默认bridge上果然不能ping container_name, 只能ping ip
 
 
 # Refs
