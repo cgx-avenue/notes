@@ -37,7 +37,7 @@ docker exec -it container_name|container_id /bin/bash
 参见
 [[Docker-2.1-privileged_mode]]
 
-## --pid
+## --pid=""
 > --pid=""  : Set the PID (Process) Namespace mode for the container,
              'container:<name|id>': joins another container's PID namespace
              'host': use the host's PID namespace inside the container
@@ -49,9 +49,20 @@ PID namespace provides separation of processes. The PID Namespace removes the vi
 简单说就是pid用谁的，比如--pid=container:my-redis， 那就用一个现有的叫做my-redis的container。
 
 ## --ipc="MODE"
-IPC： inter-process communication
+IPC： inter-process communication. The following values are accepted:
 
+|Value|Description|
+|---|---|
+|””|Use daemon’s default.|
+|“none”|Own private IPC namespace, with /dev/shm not mounted.|
+|“private”|Own private IPC namespace.|
+|“shareable”|Own private IPC namespace, with a possibility to share it with other containers.|
+|“container: <_name-or-ID_>"|Join another (“shareable”) container’s IPC namespace.|
+|“host”|Use the host system’s IPC namespace.|
 
+If not specified, daemon default is used, which can either be `"private"` or `"shareable"`, depending on the daemon version and configuration.
+
+简单来说，就是利用共享内存机制加速IPC通信。可以是自己的，其他container的，或者是host的。
 
 例子参见：
 https://docs.docker.com/engine/reference/run/#pid-settings---pid
