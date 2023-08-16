@@ -26,7 +26,30 @@ In docker group, we're still using root-level privileges. Can we run the daemon 
 
 In a nutshell, the container cannot use root priviledge in host, so this can **mitigate the most vulnerabilities to the host**.
 
+## How it works
+> Rootless mode executes the Docker daemon and containers inside a user namespace. This is very similar to [`userns-remap` mode](https://docs.docker.com/engine/security/userns-remap/), except that with `userns-remap` mode, the daemon itself is running with root privileges, whereas in rootless mode, both the daemon and the container are running without root privileges.
+
+
+## Prerequisites
+- You must install `newuidmap` and `newgidmap` on the host. These commands are provided by the `uidmap` package on most distros.
+    
+- `/etc/subuid` and `/etc/subgid` should contain at least 65,536 subordinate UIDs/GIDs for the user.
+
+## Known limitations
+Check Refs 2.
+
+## Install, Uninstall & Usage
+Check Refs 2.
+
+## Best practices
+Check Refs 2.
+
+
+
+# Userns-remap mode
+
 
 
 # Refs
 1. https://docs.docker.com/engine/install/linux-postinstall/
+2. https://docs.docker.com/engine/security/rootless/
