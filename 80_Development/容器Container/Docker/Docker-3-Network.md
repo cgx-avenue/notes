@@ -56,7 +56,13 @@ Docker的网络使用driver来提供功能。
 - Third-party network plugins allow you to integrate Docker with specialized network stacks.
 
 ## Bridge
+* Docker bridge network使用软实现，自动在host建立rules，不同的bridge网络不能互相访问。
+* Bridge network适用于同一个**Docker daemon**, 不同的docker daemon之间的通信参见overlay。
+* 虽然有默认的bridge网络，但**推荐使用user-defined bridge网络**。
 
+### 默认bridge和user-defined bridge的区别
+#### 用户定义的bridge提供自动DNS解析
+默认bridge网络只提供ip
 
 
 
