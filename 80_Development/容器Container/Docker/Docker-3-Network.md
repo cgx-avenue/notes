@@ -76,8 +76,14 @@ Docker的网络使用driver来提供功能。
 * docker-compose可以设置共享变量。
 * 使用Swarm服务，利用secrets和configs。
 
-### 端口
-同一个用户bridge的容器间暴露所有端口，
+## 端口
+同一个用户bridge的容器间暴露所有端口，不同网络的需要用`-p`暴露端口。
+
+## 操作
+参见 https://docs.docker.com/network/drivers/bridge/
+
+## 教程
+https://docs.docker.com/network/network-tutorial-standalone/
 
 
 
