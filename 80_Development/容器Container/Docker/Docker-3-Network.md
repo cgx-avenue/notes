@@ -117,6 +117,41 @@ https://docs.docker.com/network/network-tutorial-host/
 
 
 # Network Settings
+```txt
+--dns=[]           : Set custom dns servers for the container
+--network="bridge" : Connect a container to a network
+                      'bridge': create a network stack on the default Docker bridge
+                      'none': no networking
+                      'container:<name|id>': reuse another container's network stack
+                      'host': use the Docker host network stack
+                      '<network-name>|<network-id>': connect to a user-defined network
+--network-alias=[] : Add network-scoped alias for the container
+--add-host=""      : Add a line to /etc/hosts (host:IP)
+--mac-address=""   : Sets the container's Ethernet device's MAC address
+--ip=""            : Sets the container's Ethernet device's IPv4 address
+--ip6=""           : Sets the container's Ethernet device's IPv6 address
+--link-local-ip=[] : Sets one or more container's Ethernet device's link local IPv4/IPv6 addresses
+```
+
+### Supported networks 
+
+|Network|Description|
+|---|---|
+|**none**|No networking in the container.|
+|**bridge** (default)|Connect the container to the bridge via veth interfaces.|
+|**host**|Use the host's network stack inside the container.|
+|**container**:<name\|id>|Use the network stack of another container, specified via its _name_ or _id_.|
+|**NETWORK**|Connects the container to a user created network (using `docker network create` command)|
+
+### Network: host
+With the network set to `host` a container will share the host’s network stack and all interfaces from the host will be available to the container. The container’s hostname will match the hostname on the host system. Note that `--mac-address` is invalid in `host` netmode. Even in `host` network mode a container has its own UTS namespace by default. As such `--hostname` and `--domainname` are allowed in `host` network mode and will only change the hostname and domain name inside the container. Similar to `--hostname`, the `--add-host`, `--dns`, `--dns-search`, and `--dns-option` options can be used in `host` network mode. These options update `/etc/hosts` or `/etc/resolv.conf` inside the container. No change are made to `/etc/hosts` and `/etc/resolv.conf` on the host.
+
+Compared to the default `bridge` mode, the `host` mode gives _significantly_ better networking performance since it uses the host’s native networking stack whereas the bridge has to go through one level of virtualization through the docker daemon. It is recommended to run containers in this mode when their networking performance is critical, for example, a production Load Balancer or a High Performance Web Server.
+
+> **Note**
+> `--network="host"` gives the container full access to local system services such as D-bus and is therefore considered insecure.
+
+
 
 
 # Refs
