@@ -18,6 +18,11 @@ docker run -p 127.0.0.1:8080:80 nginx
 ```
 
 ## IP & Hostname
+* 默认情况下，Docker daemon动态分配子网和ip。
+* 当使用`docker network connect` 连接网络时，可以使用`--ip` or `--ip6` 来指定ip。
+* 容器默认hostname是容器ID，但可以用`--hostname`覆盖。当连接到现有network时候，可以用`docker network connect --alias`指定。
+
+## DNS
 
 
 
