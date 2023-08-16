@@ -55,6 +55,7 @@ Docker的网络使用driver来提供功能。
 - IPvlan is similar to Macvlan, but doesn’t assign unique MAC addresses to containers. Consider using IPvlan when there’s a restriction on the number of MAC addresses that can be assigned to a network interface or port.
 - Third-party network plugins allow you to integrate Docker with specialized network stacks.
 
+## Bridge
 
 
 
