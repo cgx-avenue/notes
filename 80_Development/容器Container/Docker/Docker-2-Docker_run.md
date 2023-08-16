@@ -3,8 +3,12 @@
 
 # 命令格式
 ## 格式
+
+
 ```bash
-docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
+# 基本格式
+docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND] [ARG...]
+# 常用参数
 `-i`：表示运行容器；
 `-t`：表示容器启动后会进入其命令行。加入这两个参数后，容器创建就能登录进去。即分配一个伪终端；
 `--name`：为创建的容器命名；
@@ -13,6 +17,10 @@ docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
 `-p`：表示端口映射，前者是宿主机端口，后者是容器内的映射端口。可以使用多个 -p 做多个端口映射。
 `-P`：随机使用宿主机的可用端口与容器内暴露的端口映射。
 ```
+
+常用的需要设置的选项：
+![](imgs/2023-08-16-13-36-27.png)
+
 
 ## 例子
 ```bash
@@ -37,6 +45,12 @@ docker exec -it container_name|container_id /bin/bash
 By default, all containers have the PID namespace enabled.
 
 PID namespace provides separation of processes. The PID Namespace removes the view of the system processes, and allows process ids to be reused including pid 1.
+
+简单说就是pid用谁的，比如--pid=container:my-redis， 那就用一个现有的叫做my-redis的container。
+
+## --ipc="MODE"
+IPC： inter-process communication
+
 
 
 例子参见：
