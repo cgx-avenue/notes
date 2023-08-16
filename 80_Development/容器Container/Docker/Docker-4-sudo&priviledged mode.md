@@ -65,9 +65,27 @@ $ systemctl --user restart docker
 Or add `net.ipv4.ip_unprivileged_port_start=0` to `/etc/sysctl.conf` (or `/etc/sysctl.d`) and run `sudo sysctl --system`.
 
 # Userns-remap mode
+> Linux namespaces provide isolation for running processes, limiting their access to system resources without the running process being aware of the limitations. For more information on Linux namespaces, see [Linux namespaces](https://www.linux.com/news/understanding-and-securing-linux-namespaces).
+> The best way to prevent privilege-escalation attacks from within a container is to configure your container’s applications to run as unprivileged users. For containers whose processes must run as the `root` user within the container, you can re-map this user to a less-privileged user on the Docker host. The mapped user is assigned a range of UIDs which function within the namespace as normal UIDs from 0 to 65536, but have no privileges on the host machine itself.
+
+
+## How it works
+### About remapping and subordinate user and group IDs
+
+The remapping itself is handled by two files: `/etc/subuid` and `/etc/subgid`. Each file works the same, but one is concerned with the user ID range, and the other with the group ID range. Consider the following entry in `/etc/subuid`:
+
+```none
+testuser:231072:65536
+```
+
+This means that `testuser` is assigned a subordinate user ID range of `231072` and the next 65536 integers in sequence. UID `231072` is mapped within the namespace (within the container, in this case) as UID `0` (`root`). UID `231073` is mapped as UID `1`, and so forth. If a process attempts to escalate privilege outside of the namespace, the process is running as an unprivileged high-number UID on the host, which does not even map to a real user. This means the process has no privileges on the host system at all.
+
+### Prerequisites
+Check Refs 3.
 
 
 
 # Refs
 1. https://docs.docker.com/engine/install/linux-postinstall/
 2. https://docs.docker.com/engine/security/rootless/
+3. https://docs.docker.com/engine/security/userns-remap/
