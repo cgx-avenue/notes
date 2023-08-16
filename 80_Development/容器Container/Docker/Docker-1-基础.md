@@ -192,35 +192,8 @@ Docker 守护进程的作用
 Docker 守护进程是一个长时间运行的后台进程，负责管理 Docker 的主要功能。它负责处理容器的创建、启动、停止、删除等操作，并且监控容器的运行状态。它还负责管理 Docker 镜像的下载、更新和存储，以及网络和存储卷的管理。
 ```
 #### docker run
-https://docs.docker.com/engine/reference/run/
-
-> Docker runs processes in isolated containers. A container is a process which runs on a host.
-
-
-```bash
-docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
-```
-```txt
-`-i`：表示运行容器；
-`-t`：表示容器启动后会进入其命令行。加入这两个参数后，容器创建就能登录进去。即分配一个伪终端；
-`--name`：为创建的容器命名；
-`-v`：表示目录映射关系（前者是宿主机目录，后者是映射到宿主机上的目录），可以使用多个 -v 做多个目录或文件映射。注意：最好做目录映射，在宿主机上做修改，然后共享到容器上；
-`-d`：在 run 后面加上 -d 参数，则会创建一个守护式容器在后台运行（这样创建容器后不会自动登录容器，如果只加 -i -t 两个参数，创建容器后就会自动进容器里）；
-`-p`：表示端口映射，前者是宿主机端口，后者是容器内的映射端口。可以使用多个 -p 做多个端口映射。
-`-P`：随机使用宿主机的可用端口与容器内暴露的端口映射。
-```
-
-```bash
-# create a container based on a image, /bin/bash can be ignored if the image doesn't fit
-docker run -it --name 容器名称 镜像名称:标签 /bin/bash
-# create daemon container
-docker run -di --name container_name image_name:tag_name
-# logon to daemon container
-docker exec -it container_name|container_id /bin/bash
-
-
-```
-
+参考下面笔记
+[[Docker-2-Docker_run]]
 ### start & stop
 ```bash
 # 停止容器
