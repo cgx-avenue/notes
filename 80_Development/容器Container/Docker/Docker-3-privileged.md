@@ -3,7 +3,7 @@
 2. https://docs.docker.com/engine/reference/commandline/run/#privileged
 官网的例子用的是mount，来看host的device相关的资源。
 
-# 原理
+# 效果
 > 使Docker容器获得host的root权限。
 > 使用该参数，container内的root拥有host真正的root权限。否则，container内的root只是外部的一个普通用户权限。
 > privileged启动的容器，可以看到很多host上的设备，并且可以执行mount。
@@ -12,6 +12,7 @@
 
 背后原理是Linux capabilities
 参见：https://www.cnblogs.com/davis12/p/14453690.html
+
 
 
 # 实例
