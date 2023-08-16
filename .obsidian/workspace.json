@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Python应用Docker打包.md",
+                "file": "80_Development/容器Container/Docker/Docker-4-sudo&priviledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Docker/Python应用Docker打包.md",
+                "file": "80_Development/容器Container/Docker/Docker-4-sudo&priviledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Docker/Python应用Docker打包.md",
+                "file": "80_Development/容器Container/Docker/Docker-4-sudo&priviledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Docker/Python应用Docker打包.md"
+                "file": "80_Development/容器Container/Docker/Docker-4-sudo&priviledge.md"
               }
             }
           },
@@ -184,6 +184,11 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/容器Container/Docker/Docker-3-privileged.md",
+    "80_Development/容器Container/Docker/Docker-4-sudo&priviledge.md",
+    "80_Development/容器Container/Docker/Docker-2-仓库.md",
+    "80_Development/容器Container/Docker/Docker-1-基础.md",
+    "80_Development/容器Container/Docker/Python应用Docker打包.md",
     "80_Development/数据库Database/向量数据库/向量数据库.md",
     "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
     "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
@@ -195,10 +200,6 @@
     "80_Development/OS/Linux/imgs/image-20221018134213996-16660717405611.png",
     "80_Development/OS/Linux/imgs/image-20221018133833272.png",
     "80_Development/OS/线程和进程.md",
-    "80_Development/容器Container/Docker/Python应用Docker打包.md",
-    "80_Development/容器Container/Docker/Docker-n-privileged.md",
-    "80_Development/容器Container/Docker/Docker-n-仓库.md",
-    "80_Development/容器Container/Docker/Docker-1-基础.md",
     "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
     "00_日志和总结/天/2023-08-14.md",
@@ -217,7 +218,6 @@
     "80_Development/网络Network/imgs/2023-08-01-11-02-40.png",
     "80_Development/网络Network/imgs",
     "80_Development/容器Container/Kubernetes/202307_k8s慕课教程笔记.md",
-    "mypython/network/Scapy_101.md",
     "80_Development/网络Network",
     "mypython/network",
     "80_Development/容器Container/Kubernetes/imgs/2023-07-18-16-27-30.png",
