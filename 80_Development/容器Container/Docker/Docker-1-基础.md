@@ -194,6 +194,9 @@ Docker 守护进程是一个长时间运行的后台进程，负责管理 Docker
 #### docker run
 https://docs.docker.com/engine/reference/run/
 
+> Docker runs processes in isolated containers. A container is a process which runs on a host.
+
+
 ```bash
 docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
 ```
