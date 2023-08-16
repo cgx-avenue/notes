@@ -31,12 +31,8 @@ Docker 包括三个基本概念:
  3. 仓库（Repository）：仓库可看成一个代码控制中心，用来保存镜像。
 
 ## C/S 架构
-看下图中的Host，对比Portainer里面的进入页。
-![](imgs/2023-05-05-14-00-35.png)
-其他的就是关键词，镜像，容器，等等。
+[[Docker-1.1-Docker架构]]
 
-另一个图
-![](imgs/2023-08-03-15-03-37.png)
 
 ## Docker daemon
 linux是在 

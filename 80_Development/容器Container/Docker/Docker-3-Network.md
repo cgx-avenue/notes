@@ -151,9 +151,21 @@ Compared to the default `bridge` mode, the `host` mode gives _significantly
 > **Note**
 > `--network="host"` gives the container full access to local system services such as D-bus and is therefore considered insecure.
 
+### Network: container
 
+With the network set to `container` a container will share the network stack of another container. The other container’s name must be provided in the format of `--network container:<name|id>`. Note that `--add-host` `--hostname` `--dns` `--dns-search` `--dns-option` and `--mac-address` are invalid in `container` netmode, and `--publish` `--publish-all` `--expose` are also invalid in `container` netmode.
 
+Example running a Redis container with Redis binding to `localhost` then running the `redis-cli` command and connecting to the Redis server over the `localhost` interface.
 
+``` bash
+$ docker run -d --name redis example/redis --bind 127.0.0.1
+$ # use the redis container's network stack to access localhost
+$ docker run --rm -it --network container:redis example/redis-cli -h 127.0.0.1
+```
+
+### Managing /etc/hosts[](https://docs.docker.com/engine/reference/run/#managing-etchosts)
+
+Your container will have lines in `/etc/hosts` which define the hostname of the container itself as well as `localhost` and a few other common things. The `--add-host` flag can be used to add additional lines to `/etc/hosts`.
 # Refs
 1. https://docs.docker.com/network/
 2. https://docs.docker.com/engine/reference/run/#network-settings
