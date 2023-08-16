@@ -23,7 +23,19 @@ docker run -p 127.0.0.1:8080:80 nginx
 * 容器默认hostname是容器ID，但可以用`--hostname`覆盖。当连接到现有network时候，可以用`docker network connect --alias`指定。
 
 ## DNS
+* 默认从host的`/etc/resolv.conf`继承。
+* 从custom network连接的容器，集成其DNS server。
+* 可以显示指定，如下表。
+![](imgs/2023-08-16-14-23-55.png)
 
+### Nameservers with IPv6
+参见Refs1
+
+### Custom hosts
+参见refs1
+
+# Network drivers
+## Overv
 
 
 
