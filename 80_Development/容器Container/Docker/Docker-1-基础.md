@@ -189,6 +189,11 @@ Docker 守护进程是一个长时间运行的后台进程，负责管理 Docker
 ```
 
 
+#### docker create
+* 创建一个container，但不运行它。
+* 和docker run共享大部分参数和命令。
+
+
 
 #### docker run
 参考下面笔记
