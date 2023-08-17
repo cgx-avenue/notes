@@ -106,6 +106,7 @@ https://docs.docker.com/network/network-tutorial-host/
 
 ## Macvlan
 以后看吧
+跨主机通信的例子，也有一个vlan的例子。可是我用了ubuntu的电脑和rbpi4b做demo，没成功啊。
 https://zhuanlan.zhihu.com/p/616504632
 
 ## IPvlan
