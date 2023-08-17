@@ -70,6 +70,10 @@ https://docs.docker.com/engine/reference/run/#pid-settings---pid
 ## Network-settings
 [[Docker-3-Network]]
 
+## -w(--workdir,Set working directory)
+设置工作目录，执行该目录下的命令。如果目录
+
+
 ## --rm (clean up)
 > --rm=false: Automatically remove the container when it exits
 
@@ -103,6 +107,18 @@ docker run -v /doesnt/exist:/foo -w /foo -i -t ubuntu bash
 `-v`和`--read-only`一起使用，可以控制容器写文件的位置。`--read-only`标志禁止除显示声明外的位置的写操作。
 ```bash
 docker run --read-only -v /icanwrite busybox touch /icanwrite/here
+```
+
+## --mount(add bind mounts or volumes)
+* `--mount` 可以添加volumes，host目录，容器的tmpfs。
+* `--mount`支持`-v`，但语法不同，详见文档。
+* `--mount`更推荐使用。
+
+举例：
+```bash
+docker run --read-only --mount type=volume,target=/icanwrite busybox touch /icanwrite/here
+
+docker run -t -i --mount type=bind,src=/data,dst=/data busybox sh
 ```
 
 
