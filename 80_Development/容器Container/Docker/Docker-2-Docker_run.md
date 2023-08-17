@@ -84,10 +84,26 @@ $ docker run --rm -v /foo -v awesome:/bar busybox top
 the volume for `/foo` will be removed, but the volume for `/bar` will not. Volumes inherited via `--volumes-from` will be removed with the same logic: if the original volume was specified with a name it will **not** be removed.
 
 ## -v (mount volume)
+创建映射，设置成工作目录，并在ubuntu里执行pwd命令。
 ```bash
 docker  run  -v $(pwd):$(pwd) -w $(pwd) -i -t  ubuntu pwd
 ```
 
+从Docker engine 23版本开始，可以使用host里的相对路径。
+```bash
+docker  run  -v ./content:/content -w /content -i -t  ubuntu pwd
+```
+
+如果host里的路径不存在，Docker会自动建立，比如下面的路径。
+```bash
+docker run -v /doesnt/exist:/foo -w /foo -i -t ubuntu bash
+```
+
+## --read-only
+`-v`和`--read-only`一起使用，可以控制容器写文件的位置。`--read-only`标志禁止除显示声明外的位置的写操作。
+```bash
+docker run --read-only -v /icanwrite busybox touch /icanwrite/here
+```
 
 
 
