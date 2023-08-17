@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/linux基础（零 杂记）.md",
+                "file": "80_Development/OS/Linux/linux基础（三 内核态和用户态）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/linux基础（零 杂记）.md",
+                "file": "80_Development/OS/Linux/linux基础（三 内核态和用户态）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/linux基础（零 杂记）.md",
+                "file": "80_Development/OS/Linux/linux基础（三 内核态和用户态）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/linux基础（零 杂记）.md"
+                "file": "80_Development/OS/Linux/linux基础（三 内核态和用户态）.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/OS/Linux/linux基础（二 软件安装）.md",
     "80_Development/OS/Linux/linux基础（零 杂记）.md",
+    "80_Development/OS/Linux/linux基础（三 内核态和用户态）.md",
+    "80_Development/OS/Linux/linux基础（二 软件安装）.md",
     "80_Development/OS/Linux/linux基础（一 文件系统）.md",
     "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
     "80_Development/容器Container/Docker/Docker-4-Dockerfile.md",
@@ -219,7 +220,6 @@
     "00_日志和总结/天/2023-08-14.md",
     "00_日志和总结/天/2023-08-07.md",
     "00_日志和总结/天/2023-08-10.md",
-    "00_日志和总结/天/2023-08-09.md",
     "80_Development/网络Network/imgs",
     "80_Development/网络Network",
     "mypython/network",
