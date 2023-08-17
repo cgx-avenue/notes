@@ -71,7 +71,11 @@ https://docs.docker.com/engine/reference/run/#pid-settings---pid
 [[Docker-3-Network]]
 
 ## -w(--workdir,Set working directory)
-设置工作目录，执行该目录下的命令。如果目录
+设置工作目录，执行该目录下的命令。如果目录不存在，docker会自动创建。比如：
+```bash
+docker  run -w /path/to/dir/ -i -t  ubuntu pwd
+```
+
 
 
 ## --rm (clean up)

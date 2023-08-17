@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-2-Docker_run.md",
+                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-2-Docker_run.md",
+                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-2-Docker_run.md",
+                "file": "80_Development/容器Container/Docker/Docker-1-基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-2-Docker_run.md"
+                "file": "80_Development/容器Container/Docker/Docker-1-基础.md"
               }
             }
           },
@@ -182,18 +182,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/容器Container/Docker/Docker-4-Docker compose.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
+    "80_Development/容器Container/Docker/Docker-1.3-sudo&root.md",
+    "80_Development/容器Container/Docker/Docker-2-Docker_run.md",
     "80_Development/容器Container/Docker/Docker-1.1-Docker架构.md",
     "80_Development/容器Container/Docker/Docker-3-Network.md",
-    "80_Development/容器Container/Docker/Docker-2-Docker_run.md",
     "80_Development/容器Container/Docker/imgs/2023-08-16-14-23-55.png",
     "80_Development/容器Container/Docker/imgs/2023-08-16-14-11-46.png",
     "80_Development/容器Container/Docker/image.png",
     "80_Development/容器Container/Docker/Docker-2.1-Privileged_mode.md",
     "80_Development/容器Container/Docker/imgs/2023-08-16-13-36-27.png",
-    "80_Development/容器Container/Docker/Docker-4-sudo&root.md",
     "80_Development/容器Container/Docker/imgs/2023-08-16-11-02-38.png",
     "Pasted image 20230816110207.png",
     "80_Development/容器Container/Docker/Docker-4-sudo&priviledge.md",
