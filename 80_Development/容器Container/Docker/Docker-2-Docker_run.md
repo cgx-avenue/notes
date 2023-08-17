@@ -83,6 +83,13 @@ $ docker run --rm -v /foo -v awesome:/bar busybox top
 
 the volume for `/foo` will be removed, but the volume for `/bar` will not. Volumes inherited via `--volumes-from` will be removed with the same logic: if the original volume was specified with a name it will **not** be removed.
 
+## -v (mount volume)
+```bash
+docker  run  -v $(pwd):$(pwd) -w $(pwd) -i -t  ubuntu pwd
+```
+
+
+
 
 # Refs
 1. https://docs.docker.com/engine/reference/run/
