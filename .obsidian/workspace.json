@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-4-Dockerfile.md",
+                "file": "80_Development/OS/Linux/linux基础（零 杂记）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-4-Dockerfile.md",
+                "file": "80_Development/OS/Linux/linux基础（零 杂记）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-4-Dockerfile.md",
+                "file": "80_Development/OS/Linux/linux基础（零 杂记）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-4-Dockerfile.md"
+                "file": "80_Development/OS/Linux/linux基础（零 杂记）.md"
               }
             }
           },
@@ -184,8 +184,12 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/容器Container/Docker/Docker-5-Docker compose.md",
+    "80_Development/OS/Linux/linux基础（二 软件安装）.md",
+    "80_Development/OS/Linux/linux基础（零 杂记）.md",
+    "80_Development/OS/Linux/linux基础（一 文件系统）.md",
+    "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
     "80_Development/容器Container/Docker/Docker-4-Dockerfile.md",
+    "80_Development/容器Container/Docker/Docker-5-Docker compose.md",
     "80_Development/容器Container/Docker/Docker-1.1-Docker架构.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
     "80_Development/容器Container/Docker/Docker-1.3-sudo&root.md",
@@ -204,12 +208,9 @@
     "80_Development/容器Container/Docker/Docker-1.2-仓库.md",
     "80_Development/容器Container/Docker/Python应用Docker打包.md",
     "80_Development/数据库Database/向量数据库/向量数据库.md",
-    "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
     "80_Development/容器Container/Docker/Docker container与主机通信、利用主机资源.md",
-    "80_Development/OS/Linux/linux基础（二 软件安装）.md",
     "80_Development/OS/Linux/ARP嗅探局域网内的设备.md",
     "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.md",
-    "80_Development/OS/Linux/linux基础（一 文件系统）.md",
     "80_Development/OS/Linux/ubuntu20.04物理机安装和开发环境配置.assets/image-20221018134213996.png",
     "80_Development/OS/Linux/imgs/image-20221018134213996-16660717405611.png",
     "80_Development/OS/线程和进程.md",
@@ -219,7 +220,6 @@
     "00_日志和总结/天/2023-08-07.md",
     "00_日志和总结/天/2023-08-10.md",
     "00_日志和总结/天/2023-08-09.md",
-    "00_日志和总结/天/2023-08-08.md",
     "80_Development/网络Network/imgs",
     "80_Development/网络Network",
     "mypython/network",
