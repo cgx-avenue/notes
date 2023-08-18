@@ -90,6 +90,12 @@ https://docs.docker.com/network/network-tutorial-standalone/
 
 ## Overlay
 Swarm还不太明白，先不看了。
+不错的文章
+https://blog.csdn.net/weixin_43501172/article/details/123819062
+这个关于swarm的。
+https://www.cnblogs.com/zhujingzhi/p/9792432.html
+ingress
+https://blog.csdn.net/weixin_43501172/article/details/123819075
 
 
 ## Host
@@ -111,6 +117,10 @@ https://zhuanlan.zhihu.com/p/616504632
 
 ## IPvlan
 以后看吧
+找到了非常好的文章，也有macvlan的。
+https://blog.csdn.net/weixin_43501172/article/details/123818737?spm=1001.2014.3001.5502
+https://blog.csdn.net/weixin_43501172/article/details/123819039
+
 
 ## None(no networking)
 完全隔离容器网络环境，只有loopback被创建。
