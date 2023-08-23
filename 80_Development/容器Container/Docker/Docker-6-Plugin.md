@@ -106,10 +106,19 @@ API version：`application/vnd.docker.plugins.v1+json`.
 ## 握手API
 插件是通过握手API调用被激活。
 
+### /Plugin.Activate
+请求：空body
+返回：插件类型
 
+## Plugin retries
+最多30s。
+
+## 插件Helpers
+To ease plugins development, we're providing an `sdk` for each kind of plugins currently supported by Docker at [docker/go-plugins-helpersopen_in_new](https://github.com/docker/go-plugins-helpers).
 
 # Refs
 1. https://docs.docker.com/engine/extend/
 2. https://docs.docker.com/engine/extend/legacy_plugins/
 3. https://docs.docker.com/engine/extend/config/
 4. https://docs.docker.com/engine/extend/plugin_api/
+5. 
