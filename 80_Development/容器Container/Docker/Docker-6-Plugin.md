@@ -92,9 +92,19 @@ There are three types of files which can be put in the plugin directory.
 插件不随Docker daemon自动启动，相反，被需要时才lazily加载。
 
 ## Systemd socket 激活
-plugins可以被systemd通过socket激活。可以下
+plugins可以被systemd通过socket激活。此举允许插件在Docker daemon连接到监听的端口时启动。
 参见Refs4.
 
+## API设计
+插件API是HTTP RPC风格的JSON。
+请求从Docker daemon发送至插件。所以插件需要实现HTTP server，绑定“plugin discovery”中涉及的UNIX socket。
+
+所有请求都是HTTP post。
+
+API version：`application/vnd.docker.plugins.v1+json`.
+
+## 握手API
+插件是通过握手API调用被激活。
 
 
 
