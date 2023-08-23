@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-6.2-Docker network driver plugins.md",
+                "file": "80_Development/容器Container/Docker/Docker-7-Docker命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-6.2-Docker network driver plugins.md",
+                "file": "80_Development/容器Container/Docker/Docker-7-Docker命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-6.2-Docker network driver plugins.md",
+                "file": "80_Development/容器Container/Docker/Docker-7-Docker命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/容器Container/Docker/Docker-6.2-Docker network driver plugins.md"
+                "file": "80_Development/容器Container/Docker/Docker-7-Docker命令.md"
               }
             }
           },
@@ -185,10 +185,11 @@
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
     "80_Development/容器Container/Docker/Docker-6.4-Docker_go_plugins_helpers.md",
+    "80_Development/容器Container/Docker/Docker-7-Docker命令.md",
+    "80_Development/容器Container/Docker/Docker-6.3-Volume plugins.md",
     "80_Development/容器Container/Docker/Docker-6.2-Docker network driver plugins.md",
     "80_Development/容器Container/Docker/Docker-6.1-Access authorization.md",
     "80_Development/容器Container/Docker/Docker-6-Plugin.md",
-    "80_Development/容器Container/Docker/Docker-6.3-Volume plugins.md",
     "80_Development/容器Container/Docker/Docker-1.4-安装目录.md",
     "80_Development/容器Container/Docker/imgs/Pasted image 20230823143312.png",
     "80_Development/网络Network/VLAN与VXLAN.md",
@@ -219,7 +220,6 @@
     "80_Development/容器Container/Docker/Docker-2-Docker_run.md",
     "80_Development/容器Container/Docker/Docker-2.1-Privileged_mode.md",
     "80_Development/容器Container/Docker/Docker-4-sudo&priviledge.md",
-    "80_Development/容器Container/Docker/Docker-1.2-仓库.md",
     "80_Development/网络Network/imgs",
     "80_Development/网络Network",
     "mypython/network",

@@ -1,4 +1,6 @@
+Docker Engine network插件是LibNetwork中“remote driver”的实现，参见Refs2.
 
+没啥好说的，Refs1里都有，又好像什么都没说。
 
 
 
