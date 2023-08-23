@@ -10,7 +10,7 @@ Docker plugin本质上也是docker image，可以放在Docker hub或者私有仓
 
 # Managed plugin system
 
-## install and use plugin
+## Install and use plugin
 ```bash
 # install a plugin
 docker plugin install plugin-name
@@ -20,7 +20,7 @@ docker plugin ls
 docker volume rm plugin-name
 ```
 
-## develop a plugin
+## Develop a plugin
 ### rootfs 目录
 `rootfs`目录代表的是plugin的根文件系统，是docker和插件文件系统通信的基础。下面的例子是官网的，我加了注释。
 ```bash
@@ -38,8 +38,17 @@ docker rmi rootfsimage
 
 ### config.json 文件
 The `config.json` file describes the plugin. See the [plugins config reference](https://docs.docker.com/engine/extend/config/).
-里面放着
+里面放着描述插件细节和能力的选项。
 
+### Create the plugin
+A new plugin can be created by running `docker plugin create <plugin-name> ./path/to/plugin/data` where the plugin data contains a plugin configuration file `config.json` and a root filesystem in subdirectory `rootfs`.
+
+After that the plugin `<plugin-name>` will show up in `docker plugin ls`. Plugins can be pushed to remote registries with `docker plugin push <plugin-name>`.
+
+在rootfs目录的例子里，实际场景和操作如下：
+![[imgs/Pasted image 20230823143312.png]]
+
+## Debugging plugins
 
 # Refs
 1. https://docs.docker.com/engine/extend/
