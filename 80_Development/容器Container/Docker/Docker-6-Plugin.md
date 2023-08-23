@@ -74,7 +74,7 @@ see the [docker plugins reference](https://docs.docker.com/engine/extend/plugin
 插件可以在容器内或外运行，目前推荐在容器外。
 
 ## 插件发现
-Docker通过寻找在插件目录里的对应文件来发现插件。
+Docker通过寻找在插件目录里的对应文件来发现插件。插件目录参照[[Docker-1.4-安装目录]]
 There are three types of files which can be put in the plugin directory.
 
 - `.sock` files are UNIX domain sockets.
@@ -88,6 +88,13 @@ There are three types of files which can be put in the plugin directory.
 升级插件时，必须先停止Docker daemon，然后升级插件，再启动Docker。
 
 ## 插件激活
+当首次被用户用`--`refer to by name，比如`docker run --volume-driver=foo`，或者是使用插件配置的容器被启动，Docker会在plugin目录里寻找该插件，通过握手API激活。
+插件不随Docker daemon自动启动，相反，被需要时才lazily加载。
+
+## Systemd socket 激活
+plugins可以被systemd通过socket激活。可以下
+参见Refs4.
+
 
 
 
