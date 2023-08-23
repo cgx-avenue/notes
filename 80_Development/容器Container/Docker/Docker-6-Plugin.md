@@ -23,10 +23,16 @@ docker volume rm plugin-name
 ## develop a plugin
 ### rootfs 目录
 `rootfs`目录代表的是plugin的根文件系统，是docker和插件文件系统通信的基础。下面的例子是官网的，我加了注释。
-```
+```bash
 git clone https://github.com/vieux/docker-volume-sshfscd docker-volume-sshfs
+# 先build成image
 docker build -t rootfsimage .
-id=$(docker create rootfsimage true) # id was cd851ce43a403 when the image was createdsudo mkdir -p myplugin/rootfssudo docker export "$id" | sudo tar -x -C myplugin/rootfsdocker rm -vf "$id"docker rmi rootfsimage
+# 建立container，获取container id
+id=$(sudo docker create rootfsimage true) # id was cd851ce43a403 when the image was created
+
+sudo mkdir -p myplugin/rootfssudo docker export "$id" | sudo tar -x -C myplugin/rootfs
+docker rm -vf "$id"
+docker rmi rootfsimage
 ```
 
 # Refs
