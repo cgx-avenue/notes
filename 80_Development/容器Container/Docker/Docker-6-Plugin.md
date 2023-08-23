@@ -54,10 +54,26 @@ After that the plugin `<plugin-name>` will show up in `docker plugin ls`. Plu
 主要使用的是docker-runc等工具来显示logfiles，参见Refs1.
 
 # Extending Docker Engine plugins
+主要介绍有哪些plugin。
 
+## 种类
+* Authorization
+* Volume
+* Network driver
+
+## 举例
+参见Refs2.
+
+## 写插件
+see the [docker plugins reference](https://docs.docker.com/engine/extend/plugin_api/).
+
+# Docker plugin API
+## 什么是
 
 
 
 # Refs
 1. https://docs.docker.com/engine/extend/
-2. 
+2. https://docs.docker.com/engine/extend/legacy_plugins/
+3. https://docs.docker.com/engine/extend/config/
+4. 
