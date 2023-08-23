@@ -68,7 +68,26 @@ After that the plugin `<plugin-name>` will show up in `docker plugin ls`. Plu
 see the [docker plugins reference](https://docs.docker.com/engine/extend/plugin_api/).
 
 # Docker plugin API
-## 什么是
+## 什么是插件
+运行在与Docker daemon相同或者不同的host的进程，在plugin目录里放置对应的文件。
+插件通常都是小写字符串，比如`weave`。
+插件可以在容器内或外运行，目前推荐在容器外。
+
+## 插件发现
+Docker通过寻找在插件目录里的对应文件来发现插件。
+There are three types of files which can be put in the plugin directory.
+
+- `.sock` files are UNIX domain sockets.
+- `.spec` files are text files containing a URL, such as `unix:///other.sock` or `tcp://localhost:8080`.
+- `.json` files are text files containing a full json specification for the plugin.
+
+其他细节参见Refs3.
+
+## 插件生命周期
+插件在Docker启动前启动，在Docker停止后停止。
+升级插件时，必须先停止Docker daemon，然后升级插件，再启动Docker。
+
+## 插件激活
 
 
 
@@ -76,4 +95,4 @@ see the [docker plugins reference](https://docs.docker.com/engine/extend/plugin
 1. https://docs.docker.com/engine/extend/
 2. https://docs.docker.com/engine/extend/legacy_plugins/
 3. https://docs.docker.com/engine/extend/config/
-4. 
+4. https://docs.docker.com/engine/extend/plugin_api/
