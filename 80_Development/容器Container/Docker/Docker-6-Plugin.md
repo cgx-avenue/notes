@@ -29,11 +29,17 @@ git clone https://github.com/vieux/docker-volume-sshfscd docker-volume-sshfs
 docker build -t rootfsimage .
 # 建立container，获取container id
 id=$(sudo docker create rootfsimage true) # id was cd851ce43a403 when the image was created
-
+# 把container里的文件系统解压到这个目录里，再加上config.json就可以重新build新plugin了
 sudo mkdir -p myplugin/rootfssudo docker export "$id" | sudo tar -x -C myplugin/rootfs
+# 删掉container和image
 docker rm -vf "$id"
 docker rmi rootfsimage
 ```
+
+### config.json 文件
+The `config.json` file describes the plugin. See the [plugins config reference](https://docs.docker.com/engine/extend/config/).
+里面放着
+
 
 # Refs
 1. https://docs.docker.com/engine/extend/
