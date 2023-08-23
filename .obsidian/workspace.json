@@ -184,6 +184,8 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/hello/go.mod",
+    "mygo/hello",
     "80_Development/编程语言与设计模式/Go/Go语言环境搭建.md",
     "80_Development/编程语言与设计模式/Go/Go语言教程.md",
     "mygo",
@@ -221,14 +223,12 @@
     "80_Development/容器Container/Docker/Docker-5-Docker compose.md",
     "80_Development/容器Container/Docker/Docker-1.1-Docker架构.md",
     "80_Development/容器Container/Docker/Docker-1-基础.md",
-    "80_Development/容器Container/Docker/Docker-1.3-sudo&root.md",
     "80_Development/网络Network/imgs",
     "80_Development/网络Network",
     "mypython/network",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2002.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2001.txt",
     "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1999.txt",
-    "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2000.txt",
-    "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob1997.txt"
+    "mypython/readings/02_利用python进行数据分析/pydata-book-2nd-edition/datasets/babynames/yob2000.txt"
   ]
 }
