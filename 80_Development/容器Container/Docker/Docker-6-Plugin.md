@@ -1,5 +1,7 @@
 Docker plugin是从engine层面支持的，在Docker的安装目录里有plugin文件夹，docker从中发现新插件。
 
+我换了下官网文档的顺序。
+
 Docker的插件类型大概分为:
 * Access authorization plugin
 * Network driver plugin
@@ -49,6 +51,12 @@ After that the plugin `<plugin-name>` will show up in `docker plugin ls`. Plu
 ![[imgs/Pasted image 20230823143312.png]]
 
 ## Debugging plugins
+主要使用的是docker-runc等工具来显示logfiles，参见Refs1.
+
+# Extending Docker Engine plugins
+
+
+
 
 # Refs
 1. https://docs.docker.com/engine/extend/
