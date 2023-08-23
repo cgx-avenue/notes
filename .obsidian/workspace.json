@@ -184,6 +184,9 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/greetings/greetings.go",
+    "mygo/greetings/go.mod",
+    "mygo/greetings",
     "mygo/hello/go.sum",
     "mygo/hello/hello.go~",
     "mygo/hello/hello.go",
@@ -226,9 +229,6 @@
     "80_Development/容器Container/Docker/Docker-4-Dockerfile.md",
     "80_Development/容器Container/Docker/Docker-5-Docker compose.md",
     "80_Development/容器Container/Docker/Docker-1.1-Docker架构.md",
-    "80_Development/容器Container/Docker/Docker-1-基础.md",
-    "80_Development/网络Network/imgs",
-    "80_Development/网络Network",
-    "mypython/network"
+    "80_Development/容器Container/Docker/Docker-1-基础.md"
   ]
 }
