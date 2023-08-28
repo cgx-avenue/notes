@@ -182,8 +182,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e65567ec6e4b5a34",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
+    "80_Development/网络Network/imgs/Pasted image 20230828094335.png",
+    "80_Development/网络Network/网络基础知识二.md",
+    "01_To_Do/技术啊要学习.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
     "80_Development/编程语言与设计模式/Go/Go语言教程.md",
     "mygo/official/hei/go.mod",
@@ -226,9 +229,6 @@
     "80_Development/OS/Linux/linux基础（二 软件安装）.md",
     "80_Development/OS/Linux/linux基础（一 文件系统）.md",
     "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
-    "80_Development/容器Container/Docker/Docker-4-Dockerfile.md",
-    "80_Development/容器Container/Docker/Docker-5-Docker compose.md",
-    "80_Development/容器Container/Docker/Docker-1.1-Docker架构.md",
-    "80_Development/容器Container/Docker/Docker-1-基础.md"
+    "80_Development/容器Container/Docker/Docker-4-Dockerfile.md"
   ]
 }
