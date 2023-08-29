@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_日志和总结/天/2023-02-10.md",
+                "file": "80_Development/OS/Linux/ubuntu 20.04修改扩展屏幕分辨率.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xran",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ba3efb1286a7417",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/网络Network/Python网络开源库.md",
+                "file": "80_Development/OS/Linux/ubuntu 20.04修改扩展屏幕分辨率.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/网络Network/Python网络开源库.md",
+                "file": "80_Development/OS/Linux/ubuntu 20.04修改扩展屏幕分辨率.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/网络Network/Python网络开源库.md"
+                "file": "80_Development/OS/Linux/ubuntu 20.04修改扩展屏幕分辨率.md"
               }
             }
           },
@@ -183,8 +182,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2316de639456b92c",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "00_日志和总结/天/2023-02-10.md",
+    "80_Development/OS/Linux/ubuntu 20.04修改扩展屏幕分辨率.md",
+    "未命名.canvas",
+    "80_Development/网络Network/Python网络开源库.md",
     "80_Development/网络Network/imgs/Pasted image 20230828094335.png",
     "80_Development/网络Network/网络基础知识二.md",
     "01_To_Do/技术啊要学习.md",
@@ -224,12 +227,9 @@
     "Pasted image 20230817161943.png",
     "00_日志和总结/天/imgs/2023-08-17-15-54-39.png",
     "00_日志和总结/天/imgs/2023-08-17-14-56-49.png",
-    "00_日志和总结/天/imgs/2023-08-17-14-53-31.png",
     "80_Development/OS/Linux/linux书籍.md",
     "80_Development/OS/Linux/linux基础（三 内核态和用户态）.md",
     "80_Development/OS/Linux/linux基础（二 软件安装）.md",
-    "80_Development/OS/Linux/linux基础（一 文件系统）.md",
-    "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
-    "80_Development/容器Container/Docker/Docker-4-Dockerfile.md"
+    "80_Development/OS/Linux/linux基础（一 文件系统）.md"
   ]
 }
