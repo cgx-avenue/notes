@@ -5,6 +5,10 @@ iptables 是 Linux 防火墙工作在用户空间的管理工具，是 `netfilte
 
 我的理解是：iptables控制对linux系统网络数据包`进、出和转发`的控制。
 
+# 四表五链（三表五链）
+
+
+
 
 # Refs
 1. https://cloud.tencent.com/developer/article/1632776
