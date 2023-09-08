@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/ubuntu 20.04修改扩展屏幕分辨率.md",
+                "file": "80_Development/OS/Linux/Linux网络（一 Iptables原理）.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2a21993baa8777f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/ubuntu 20.04修改扩展屏幕分辨率.md",
+                "file": "80_Development/OS/Linux/Linux网络（一 Iptables原理）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/ubuntu 20.04修改扩展屏幕分辨率.md",
+                "file": "80_Development/OS/Linux/Linux网络（一 Iptables原理）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/ubuntu 20.04修改扩展屏幕分辨率.md"
+                "file": "80_Development/OS/Linux/Linux网络（一 Iptables原理）.md"
               }
             }
           },
@@ -193,10 +182,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c2a21993baa8777f",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/使用技巧/ubuntu 20.04修改扩展屏幕分辨率.md",
+    "80_Development/OS/Linux/Linux网络（一 Iptables原理）.md",
+    "80_Development/OS/Linux/Linux网络",
+    "80_Development/OS/Linux/使用技巧",
     "00_日志和总结/天/2023-02-10.md",
-    "80_Development/OS/Linux/ubuntu 20.04修改扩展屏幕分辨率.md",
     "未命名.canvas",
     "80_Development/网络Network/Python网络开源库.md",
     "80_Development/网络Network/imgs/Pasted image 20230828094335.png",
@@ -212,8 +204,6 @@
     "mygo/official/hello/hello.go",
     "mygo/official/hello/go.mod",
     "mygo/official/greetings/greetings.go",
-    "mygo/official/greetings/go.mod",
-    "mygo/official/hello",
     "80_Development/编程语言与设计模式/Go/Go语言环境搭建.md",
     "80_Development/编程语言与设计模式/Go/我为什么要学Go.md",
     "80_Development/容器Container/Docker/Docker-1.4-安装目录.md",
@@ -240,7 +230,6 @@
     "00_日志和总结/天/imgs/2023-08-17-14-56-49.png",
     "80_Development/OS/Linux/linux书籍.md",
     "80_Development/OS/Linux/linux基础（三 内核态和用户态）.md",
-    "80_Development/OS/Linux/linux基础（二 软件安装）.md",
-    "80_Development/OS/Linux/linux基础（一 文件系统）.md"
+    "80_Development/OS/Linux/linux基础（二 软件安装）.md"
   ]
 }
