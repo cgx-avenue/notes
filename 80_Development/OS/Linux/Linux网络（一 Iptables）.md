@@ -9,6 +9,8 @@ iptables 是 Linux 防火墙工作在用户空间的管理工具，是 `netfilte
 # 四表五链（三表五链）
 iptables内置了
 ![[imgs/Pasted image 20230911091029.png]]
+`三表`和`四表`的区别就是`raw`表，
+
 
 # Linux防火墙过滤框架
 ![[imgs/Pasted image 20230911091130.png]]
