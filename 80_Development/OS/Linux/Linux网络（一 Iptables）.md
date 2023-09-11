@@ -12,6 +12,7 @@ iptables内置了
 
 # Linux防火墙过滤框架
 ![[imgs/Pasted image 20230911091130.png]]
+上图即为
 
 
 
