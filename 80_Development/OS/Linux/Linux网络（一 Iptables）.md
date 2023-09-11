@@ -58,11 +58,24 @@ mangle > nat > filter
 
 > **总结**：整体数据包分两类：1、发给防火墙本身的数据包 ；2、需要经过防火墙的数据包
 
-# iptables操作
+# iptables规则和操作
+参见refs4，5
+## 规则格式
+![[imgs/Pasted image 20230911095047.png]]
+`-t`就是操作哪张表，默认filter，`chain`部分就是五链当中哪一个，其余的都是条件、动作之类的，详见refs5.
+
+## 显示当前的rule
+```bash
+sudo iptables -L
+```
+
+## 添加rule
+
 
 
 # Refs
 1. https://cloud.tencent.com/developer/article/1632776
 2. https://cloud.tencent.com/developer/article/1632774
 3. https://blog.csdn.net/daocaokafei/article/details/115091313
-4. 
+4. https://upcloud.com/resources/tutorials/configure-iptables-ubuntu
+5. https://cloud.tencent.com/developer/article/1632774
