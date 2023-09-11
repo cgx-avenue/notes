@@ -5,3 +5,4 @@
 
 # Refs
 1. https://zhuanlan.zhihu.com/p/45549931
+2. https://www.cnblogs.com/wanng/p/nc-command.html

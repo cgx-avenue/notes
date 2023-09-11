@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/实用linux命令.md",
+                "file": "80_Development/OS/Linux/linux网络（二 nc命令）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/实用linux命令.md",
+                "file": "80_Development/OS/Linux/linux网络（二 nc命令）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/实用linux命令.md",
+                "file": "80_Development/OS/Linux/linux网络（二 nc命令）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/实用linux命令.md"
+                "file": "80_Development/OS/Linux/linux网络（二 nc命令）.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/OS/Linux/linux网络（二 nc命令）.md",
     "80_Development/OS/Linux/使用技巧/实用linux命令.md",
+    "80_Development/OS/Linux/linux网络（二 nc命令）.md",
     "80_Development/OS/Linux/Linux网络（一 Iptables）.md",
     "80_Development/OS/Linux/imgs/Pasted image 20230911095047.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230911094058.png",
