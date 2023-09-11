@@ -8,9 +8,11 @@ iptables 是 Linux 防火墙工作在用户空间的管理工具，是 `netfilte
 
 # 四表五链（三表五链）
 iptables内置了如下四张表。表是根据目的或者功能进行的划分，链是根据数据的处理步骤进行的划分，参照过滤框架那张图。每个表根据其功能，能够操作的链不同，也就是下面这个图。
-![[imgs/Pasted image 20230911091029.png]]
+
 `三表`和`四表`的区别就是`raw`表，有的算进去有的不算。
 ## 四表
+![[imgs/Pasted image 20230911091029.png]]
+
 ### raw
 用于处理异常，包括的规则链有：prerouting，output；一般使用不到。
 
@@ -23,17 +25,37 @@ iptables内置了如下四张表。表是根据目的或者功能进行的划分
 ### mangle
 主要应用在修改数据包、流量整形、给数据包打标识，默认的规则链有：`INPUT`，`OUTPUT`、 `forward`，`POSTROUTING`，`PREROUTING`
 
-## 优先级
+### 优先级
 
 mangle > nat > filter
 
 
 
-# Linux防火墙过滤框架
-![[imgs/Pasted image 20230911091130.png]]
-上图即为
+## 五链
+即Linux防火墙过滤框架，也就是数据来了怎么进行的处理。图中的`路由决策`和`Local Process`不算做五链。
+![[imgs/Pasted image 20230911094058.png]]
+### input
+匹配目标IP是本机的数据包
 
+### output
+出口数据包 ， 一般不在此链上做配置
 
+### forward
+匹配流经本机的数据包
+
+### prerouting
+修改目的地址，用来做 DNAT 。如：把内网中的 80 端口映射到互联网端口
+
+### postrouting
+修改源地址，用来做 SNAT。如：局域网共享一个[公网IP](https://cloud.tencent.com/product/eip?from_column=20065&from=20065)接入Internet。
+
+### 数据流
+1. 当一个数据包进入网卡时，它首先进入 `PREROUTING` 链，内核根据数据包目的 IP 判断是否需要转送出去。
+2. 如果数据包就是进入本机的，它就会沿着图向下移动，到达 `INPUT` 链。数据包到了 INPUT 链后，任何进程都会收到它。
+3. 本机上运行的程序可以发送数据包，这些数据包会经过 `OUTPUT` 链，然后到达`POSTROUTING` 链输出。
+4. 如果数据包是要转发出去的，且内核允许转发，数据包就会如图所示向右移动，经过 `FORWARD` 链，然后到达 `POSTROUTING` 链输出。
+
+> **总结**：整体数据包分两类：1、发给防火墙本身的数据包 ；2、需要经过防火墙的数据包
 
 
 # Refs
