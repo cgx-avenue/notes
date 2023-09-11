@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/Linux网络（一 Iptables）.md",
+                "file": "80_Development/OS/Linux/使用技巧/实用linux命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/Linux网络（一 Iptables）.md",
+                "file": "80_Development/OS/Linux/使用技巧/实用linux命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/Linux网络（一 Iptables）.md",
+                "file": "80_Development/OS/Linux/使用技巧/实用linux命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/Linux网络（一 Iptables）.md"
+                "file": "80_Development/OS/Linux/使用技巧/实用linux命令.md"
               }
             }
           },
@@ -184,12 +184,14 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/linux网络（二 nc命令）.md",
+    "80_Development/OS/Linux/使用技巧/实用linux命令.md",
+    "80_Development/OS/Linux/Linux网络（一 Iptables）.md",
     "80_Development/OS/Linux/imgs/Pasted image 20230911095047.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230911094058.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230911091130.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230911091029.png",
     "80_Development/OS/Linux/使用技巧/ubuntu 20.04修改扩展屏幕分辨率.md",
-    "80_Development/OS/Linux/Linux网络（一 Iptables）.md",
     "80_Development/OS/Linux/Linux网络",
     "80_Development/OS/Linux/使用技巧",
     "00_日志和总结/天/2023-02-10.md",
@@ -228,8 +230,6 @@
     "00_日志和总结/天/2023-08-10.md",
     "00_日志和总结/天/2023-08-14.md",
     "00_日志和总结/天/imgs/Pasted image 20230817162057.png",
-    "00_日志和总结/天/imgs/2023-08-17-16-19-57.png",
-    "80_Development/OS/Linux/linux书籍.md",
-    "80_Development/OS/Linux/linux基础（三 内核态和用户态）.md"
+    "80_Development/OS/Linux/linux书籍.md"
   ]
 }
