@@ -69,7 +69,6 @@ mangle > nat > filter
 sudo iptables -L
 ```
 
-## 添加rule
 
 
 
@@ -79,3 +78,4 @@ sudo iptables -L
 3. https://blog.csdn.net/daocaokafei/article/details/115091313
 4. https://upcloud.com/resources/tutorials/configure-iptables-ubuntu
 5. https://cloud.tencent.com/developer/article/1632774
+6. https://zhuanlan.zhihu.com/p/618848653
