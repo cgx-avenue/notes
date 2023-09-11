@@ -50,12 +50,15 @@ mangle > nat > filter
 修改源地址，用来做 SNAT。如：局域网共享一个[公网IP](https://cloud.tencent.com/product/eip?from_column=20065&from=20065)接入Internet。
 
 ### 数据流
+参照上面的图
 1. 当一个数据包进入网卡时，它首先进入 `PREROUTING` 链，内核根据数据包目的 IP 判断是否需要转送出去。
 2. 如果数据包就是进入本机的，它就会沿着图向下移动，到达 `INPUT` 链。数据包到了 INPUT 链后，任何进程都会收到它。
 3. 本机上运行的程序可以发送数据包，这些数据包会经过 `OUTPUT` 链，然后到达`POSTROUTING` 链输出。
 4. 如果数据包是要转发出去的，且内核允许转发，数据包就会如图所示向右移动，经过 `FORWARD` 链，然后到达 `POSTROUTING` 链输出。
 
 > **总结**：整体数据包分两类：1、发给防火墙本身的数据包 ；2、需要经过防火墙的数据包
+
+# iptables操作
 
 
 # Refs
