@@ -37,6 +37,7 @@ systemctl --version
 
 # Unit
 systemd可以管理**所有**系统资源，不同资源统称为Unit（单位）。
+共12种，包含常用的`Service`。参见Refs2.
 
 
 # refs
