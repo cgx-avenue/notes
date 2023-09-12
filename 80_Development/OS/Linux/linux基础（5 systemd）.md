@@ -40,6 +40,59 @@ systemd可以管理**所有**系统资源，不同资源统称为Unit（单位�
 共12种，包含常用的`Service`。参见Refs2.
 `systemctl list-units`命令可以查看当前系统的所有 Unit 。
 `systemctl status`命令用于查看系统状态和单个 Unit 的状态。
+对于用户来说，最常用的是下面这些命令，用于启动和停止 Unit（主要是 service）。
+## Unit 管理
+ ```bash
+ 
+# 立即启动一个服务
+sudo systemctl start apache.service
+ 
+# 立即停止一个服务
+sudo systemctl stop apache.service
+ 
+# 重启一个服务
+sudo systemctl restart apache.service
+ 
+# 杀死一个服务的所有子进程
+sudo systemctl kill apache.service
+ 
+# 重新加载一个服务的配置文件
+sudo systemctl reload apache.service
+ 
+# 重载所有修改过的配置文件
+sudo systemctl daemon-reload
+ 
+# 显示某个 Unit 的所有底层参数
+sudo systemctl show httpd.service
+ 
+# 显示某个 Unit 的指定属性的值
+sudo systemctl show -p CPUShares httpd.service
+ 
+# 设置某个 Unit 的指定属性
+sudo systemctl set-property httpd.service CPUShares=500
+ ```
+
+## 依赖管理
+Unit 之间存在依赖关系：A 依赖于 B，就意味着 Systemd 在启动 A 的时候，同时会去启动 B。
+
+`systemctl list-dependencies`命令列出一个 Unit 的所有依赖。
+
+```bash 
+systemctl list-dependencies nginx.service
+```
+
+上面命令的输出结果之中，有些依赖是 Target 类型（详见下文），默认不会展开显示。如果要展开 Target，就需要使用`--all`参数。
+
+```bash
+systemctl list-dependencies --all nginx.service
+```
+
+## 配置文件
+参见Refs2
+
+# Target
+
+
 
 
 
