@@ -21,6 +21,21 @@ Systemd 的优点是功能强大，使用方便，缺点是体系庞大，非常
 ![[imgs/Pasted image 20230912142900.png]]
 systemd架构图
 
+systemctl是其中重要的命令行工具：
+```bash
+systemctl --version
+```
+
+# systemd 系统管理
+通过各种命令实现
+1. systemctl
+2. systemd-analyze
+3. hostnamectl
+4. localectl
+5. timedatectl
+6. loginctl
+
+# Unit
 
 
 # refs
