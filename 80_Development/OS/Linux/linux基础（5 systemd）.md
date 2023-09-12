@@ -36,6 +36,7 @@ systemctl --version
 6. loginctl
 
 # Unit
+systemd可以管理**所有**系统资源，不同资源统称为Unit（单位）。
 
 
 # refs
