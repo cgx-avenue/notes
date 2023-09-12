@@ -184,6 +184,7 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/imgs/Pasted image 20230912160003.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230912155645.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230912155500.png",
     "80_Development/OS/Linux/Linux基础（5 systemd）.md",
@@ -229,7 +230,6 @@
     "80_Development/容器Container/Docker/imgs/Pasted image 20230823153509.png",
     "80_Development/容器Container/Docker/Docker-7-Docker命令.md",
     "80_Development/容器Container/Docker/Docker-6.4-Docker_go_plugins_helpers.md",
-    "80_Development/容器Container/Docker/Docker-6.3-Volume plugins.md",
-    "80_Development/容器Container/Docker/imgs/Pasted image 20230823143312.png"
+    "80_Development/容器Container/Docker/Docker-6.3-Volume plugins.md"
   ]
 }
