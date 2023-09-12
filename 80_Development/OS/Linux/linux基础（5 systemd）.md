@@ -38,6 +38,9 @@ systemctl --version
 # Unit
 systemd可以管理**所有**系统资源，不同资源统称为Unit（单位）。
 共12种，包含常用的`Service`。参见Refs2.
+`systemctl list-units`命令可以查看当前系统的所有 Unit 。
+`systemctl status`命令用于查看系统状态和单个 Unit 的状态。
+
 
 
 # refs
