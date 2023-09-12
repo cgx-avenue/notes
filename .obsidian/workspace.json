@@ -184,6 +184,8 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/imgs/Pasted image 20230912155645.png",
+    "80_Development/OS/Linux/imgs/Pasted image 20230912155500.png",
     "80_Development/OS/Linux/Linux基础（5 systemd）.md",
     "80_Development/OS/Linux/Linux基础（6 启动流程）.md",
     "80_Development/OS/Linux/Linux书籍.md",
@@ -228,8 +230,6 @@
     "80_Development/容器Container/Docker/Docker-7-Docker命令.md",
     "80_Development/容器Container/Docker/Docker-6.4-Docker_go_plugins_helpers.md",
     "80_Development/容器Container/Docker/Docker-6.3-Volume plugins.md",
-    "80_Development/容器Container/Docker/Docker-6.2-Docker network driver plugins.md",
-    "80_Development/容器Container/Docker/imgs/Pasted image 20230823143312.png",
-    "80_Development/OS/Linux/imgs/Pasted image 20230818144551.png"
+    "80_Development/容器Container/Docker/imgs/Pasted image 20230823143312.png"
   ]
 }
