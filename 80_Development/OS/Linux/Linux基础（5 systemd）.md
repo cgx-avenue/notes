@@ -1,6 +1,6 @@
-systemd不是单纯的一个命令，而是一个框架，用来管理从启动，用户到定时等很多任务。这里牵扯到linux的启动过程（参见下一篇）。
+systemd不是单纯的一个命令，而是一个框架，用来管理从启动，用户到定时等很多任务。这里牵扯到linux的启动过程（参见下一篇）。[[Linux基础（6 启动流程）]]
 # 背景
-systemd用来替代曾经混乱的Linux启动管理，`init`进程。这么多年来，关于如何在Linux里设置服务启动时生效，真的是烦不剩烦。systemd貌似能统一，但随着Linux发行版的不同，也并不是所有发行版都采用了systemd。
+systemd用来替代曾经混乱的Linux启动管理，`init`进程（init架构参见Refs3）。这么多年来，关于如何在Linux里设置服务启动时生效，真的是烦不剩烦。systemd貌似能统一，但随着Linux发行版的不同，也并不是所有发行版都采用了systemd。
 `init`如此启动服务：
 ```bash
 sudo /etc/init.d/apache2 start
@@ -129,3 +129,5 @@ Systemd 统一管理所有 Unit 的启动日志。带来的好处就是，可以
 1. https://systemd.io/
 2. https://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html
 3. https://ruanyifeng.com/blog/2016/03/systemd-tutorial-part-two.html
+4. 这个讲的也很好 https://blog.csdn.net/weixin_37766296/article/details/80192633
+5. 
