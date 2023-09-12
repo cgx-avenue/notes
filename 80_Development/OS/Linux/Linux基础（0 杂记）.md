@@ -16,22 +16,5 @@ bash sysctl -w net.ipv4.ip_local_port_range="1024 65535" sysctl -p
 版权声明：本文为CSDN博主「star9595」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/u014042372/article/details/85261871
 
-# linux中如何将网卡设置成混杂模式
-https://blog.csdn.net/hexf9632/article/details/105127765
-## 混杂模式与非混杂模式
-网卡本身有混杂模式和非混杂模式两种工作模式。
-网卡正常情况下，即非混杂混杂模式下，只接收目的地址是本机的数据包。在以太网上，有大量的数据包，但真正发送给自己的非常少，所以非混杂模式下可以极大的减轻网卡的处理负担。 **混杂模式（Promiscuous Mode）则是相反，网卡能够接收所有经过它的数据流，而不论其目的地址是否是它自己。**
-
-有时候为嗅探到网络上的数据，需要将网卡设置到混杂模式。进入该模式将网络上的数据一并抓获。
-
-## linux中的设置
-利用ifconfig命令。比如操作eth1网卡：
-```bash
-ifconfig eth1 promisc		#设置混杂模式
-ifconfig eth1 -promisc	#取消混杂模式
-```
-执行前后对比，观察第三行，多了一个`PROMISC`。
-![[imgs/Pasted image 20230818144551.png]] 
-
 
 
