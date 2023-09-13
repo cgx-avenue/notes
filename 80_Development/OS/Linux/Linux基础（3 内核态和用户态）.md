@@ -13,9 +13,15 @@
 
 ![](imgs/2023-08-17-10-45-45.png)
 
+# 什么时候需要kernel space？
+
+
+
 
 # Refs
 1. https://blog.csdn.net/kking_edc/article/details/108980811
 2. https://www.zhihu.com/question/397142622
 3. https://blog.csdn.net/ludan_xia/article/details/105695961
 4. [User space(用户空间) 与 Kernel space(内核空间) - myseries - 博客园 (cnblogs.com)](https://www.cnblogs.com/myseries/p/12056078.html)
+5. https://drawings.jvns.ca/userspace/
+6. 
