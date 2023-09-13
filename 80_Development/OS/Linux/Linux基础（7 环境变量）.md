@@ -23,7 +23,13 @@ export
 ```
 ![[imgs/Pasted image 20230913153709.png]]
 
+## env
+查看当前系统定义的所有环境变量。
+![[imgs/Pasted image 20230913155020.png]]
 
+## set
+查看所有本地定义的环境变量。
+![[imgs/Pasted image 20230913155229.png]]
 
 # 设置环境变量
 设置环境变量时，需要考虑：
@@ -149,6 +155,16 @@ $ printenv NODE_ENV
 $ NODE_ENV=production npm run build
 ```
 
+# 删除环境变量
+**使用 `unset` 删除指定的环境变量**，`set` 也可以设置某个环境变量的值。清除环境变量的值用 unset 命令。如果未指定值，则该变量值将被设为 NULL。示例如下：
+
+```bash
+export TEST="Test..."  # 增加一个环境变量 TEST
+env | grep TEST  # 此命令有输入，证明环境变量 TEST 已经存在了
+TEST=Test...
+unset  TEST  # 删除环境变量 TEST
+env |grep TEST  # 此命令没有输出，证明环境变量 TEST 已经删除
+```
 
 # 环境变量原理和顺序
 环境变量的分类
@@ -160,8 +176,20 @@ $ NODE_ENV=production npm run build
 
 另外在用户环境变量中，系统会首先读取~/.bash_profile（或者~/.profile）文件，如果没有该文件则读取~/.bash_login，根据这些文件中内容再去读取~/.bashrc。
 
+可以推测出Linux加载环境变量的顺序如下：
 
+```ini
+/etc/environment
+/etc/profile
+/etc/bash.bashrc
+/etc/profile.d/test.sh
+~/.profile
+~/.bashrc
+```
 
+由上面的测试可容易得出Linux加载环境变量的顺序如下，：
+
+系统环境变量 -> 用户自定义环境变量 /etc/environment -> /etc/profile -> ~/.profile
 
 
 # 常用环境变量
@@ -172,16 +200,13 @@ echo $HOME
 echo $USER
 # 当前shell工具
 echo $SHELL
-
 # PATH
 echo $PATH
-
-
-#航班查询 
 
 
 ```
 
 # Refs
 1. https://cloud.tencent.com/developer/article/2149492
-2. 
+2. https://zhuanlan.zhihu.com/p/317282094
+3. 
