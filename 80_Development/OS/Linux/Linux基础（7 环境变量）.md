@@ -26,7 +26,12 @@ export
 
 
 # 设置环境变量
-## export临时修改
+设置环境变量时，需要考虑：
+1. 生效时间，是否立即
+2. 生效期限，是否永久
+3. 生效范围，是否只针对当前用户
+4. 配置范围，是否保留原配置并添加
+## 1. export临时配置
 通过 `export` 可配置环境变量
 ```bash
 export A=3
@@ -46,7 +51,7 @@ export PATH=$PATH:/home/uusama/mysql/bin
 - 生效期限：当前终端有效，窗口关闭后无效
 - 生效范围：仅对当前用户有效
 - 配置的环境变量中不要忘了加上原来的配置，即$PATH部分，避免覆盖原来配置
-## 长期修改1：vim ~/.bashrc
+## 2. 长期配置1：vim ~/.bashrc
 **「如果需要使得配置的环境变量永久有效，需要写入 `~/.bashrc` 或者 `~/.zshrc`」**
 通过修改用户目录下的~/.bashrc文件进行配置：
 
@@ -61,8 +66,71 @@ export PATH=$PATH:/home/uusama/mysql/bin
 - 生效期限：永久有效
 - 生效范围：仅对当前用户有效
 - 如果有后续的环境变量加载文件覆盖了PATH定义，则可能不生效
-## 长期修改2：
-### 前置环境变量
+## 3. 长期配置2：vim ~/.bash_profile
+和修改~/.bashrc文件类似，也是要在文件最后加上新的路径即可：
+
+```text
+vim ~/.bash_profile
+# 在最后一行加上
+export PATH=$PATH:/home/uusama/mysql/bin
+```
+
+注意事项：
+- 生效时间：使用相同的用户打开新的终端时生效，或者手动source ~/.bash_profile生效
+- 生效期限：永久有效
+- 生效范围：仅对当前用户有效
+- 如果没有~/.bash_profile文件，则可以编辑~/.profile文件或者新建一个
+
+## 4. 长期配置3： vim /etc/bashrc
+该方法是修改系统配置，需要管理员权限（如root）或者对该文件的写入权限：
+
+```text
+# 如果/etc/bashrc文件不可编辑，需要修改为可编辑
+chmod -v u+w /etc/bashrc
+vim /etc/bashrc
+# 在最后一行加上
+export PATH=$PATH:/home/uusama/mysql/bin
+```
+
+注意事项：
+- 生效时间：新开终端生效，或者手动source /etc/bashrc生效
+- 生效期限：永久有效
+- 生效范围：对所有用户有效
+
+## 5. 长期配置4：vim /etc/profile
+该方法修改系统配置，需要管理员权限或者对该文件的写入权限，和vim /etc/bashrc类似：
+```text
+# 如果/etc/profile文件不可编辑，需要修改为可编辑
+chmod -v u+w /etc/profile
+vim /etc/profile
+# 在最后一行加上
+export PATH=$PATH:/home/uusama/mysql/bin
+```
+
+注意事项：
+- 生效时间：新开终端生效，或者手动source /etc/profile生效
+- 生效期限：永久有效
+- 生效范围：对所有用户有效
+
+## 6. 长期配置5：vim /etc/environment
+该方法是修改系统环境配置文件，需要管理员权限或者对该文件的写入权限：
+```text
+# 如果/etc/bashrc文件不可编辑，需要修改为可编辑
+chmod -v u+w /etc/environment
+vim /etc/profile
+# 在最后一行加上
+export PATH=$PATH:/home/uusama/mysql/bin
+```
+
+注意事项：
+- 生效时间：新开终端生效，或者手动source /etc/environment生效
+- 生效期限：永久有效
+- 生效范围：对所有用户有效
+
+
+
+
+## 前置环境变量
 
 在执行命令之前置入环境变量，可以用以指定仅在该命令中有效的环境变量。
 
@@ -80,6 +148,21 @@ $ printenv NODE_ENV
 ```javascript
 $ NODE_ENV=production npm run build
 ```
+
+
+# 环境变量原理和顺序
+环境变量的分类
+
+环境变量可以简单的分成用户自定义的环境变量以及系统级别的环境变量。
+
+- 用户级别环境变量定义文件：~/.bashrc、~/.profile（部分系统为：~/.bash_profile）
+- 系统级别环境变量定义文件：/etc/bashrc、/etc/profile(部分系统为：/etc/bash_profile）、/etc/environment
+
+另外在用户环境变量中，系统会首先读取~/.bash_profile（或者~/.profile）文件，如果没有该文件则读取~/.bash_login，根据这些文件中内容再去读取~/.bashrc。
+
+
+
+
 
 # 常用环境变量
 ```bash
