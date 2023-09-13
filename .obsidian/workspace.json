@@ -184,6 +184,7 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/imgs/Pasted image 20230913160640.png",
     "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
     "80_Development/网络Network/VLAN与VXLAN.md",
     "80_Development/网络Network/Python网络开源库.md",
@@ -229,7 +230,6 @@
     "mygo/official/hello/go.mod",
     "mygo/official/greetings/greetings.go",
     "80_Development/编程语言与设计模式/Go/Go语言环境搭建.md",
-    "80_Development/编程语言与设计模式/Go/我为什么要学Go.md",
-    "80_Development/容器Container/Docker/Docker-1.4-安装目录.md"
+    "80_Development/编程语言与设计模式/Go/我为什么要学Go.md"
   ]
 }

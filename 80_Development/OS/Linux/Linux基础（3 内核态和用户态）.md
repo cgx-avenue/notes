@@ -14,6 +14,10 @@
 ![](imgs/2023-08-17-10-45-45.png)
 
 # 什么时候需要kernel space？
+答：当需要操作一些内核控制的IO读写资源时候，就需要切换到内核space。
+![[imgs/Pasted image 20230913160640.png]]
+
+# kernel space与root有什么关系吗？程序跑在kernel必须要root权限吗？
 
 
 
