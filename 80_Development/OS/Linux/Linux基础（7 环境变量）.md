@@ -161,13 +161,23 @@ $ NODE_ENV=production npm run build
 ```bash
 export TEST="Test..."  # 增加一个环境变量 TEST
 env | grep TEST  # 此命令有输入，证明环境变量 TEST 已经存在了
-TEST=Test...
+TEST = Test...
 unset  TEST  # 删除环境变量 TEST
-env |grep TEST  # 此命令没有输出，证明环境变量 TEST 已经删除
+env | grep TEST  # 此命令没有输出，证明环境变量 TEST 已经删除
 ```
 
-# 环境变量原理和顺序
-环境变量的分类
+# 环境变量分类和顺序
+## 分类
+1，按照变量的生存周期划分，Linux 变量可分为两类：
+
+- 永久的：需要修改配置文件，变量永久生效。
+- 临时的：使用 `export` 命令声明即可，变量在关闭 `shell` 时失效。
+
+2，按作用的范围分，在 Linux 中的变量，可以分为环境变量和本地变量：
+
+- 环境变量：相当于全局变量，存在于所有的 Shell 中，具有继承性；
+- 本地变量：相当于局部变量只存在当前 Shell 中，本地变量包含环境变量，非环境变量不具有继承性。
+
 
 环境变量可以简单的分成用户自定义的环境变量以及系统级别的环境变量。
 
@@ -176,6 +186,7 @@ env |grep TEST  # 此命令没有输出，证明环境变量 TEST 已经删除
 
 另外在用户环境变量中，系统会首先读取~/.bash_profile（或者~/.profile）文件，如果没有该文件则读取~/.bash_login，根据这些文件中内容再去读取~/.bashrc。
 
+## 顺序
 可以推测出Linux加载环境变量的顺序如下：
 
 ```ini
@@ -193,6 +204,15 @@ env |grep TEST  # 此命令没有输出，证明环境变量 TEST 已经删除
 
 
 # 常用环境变量
+- `PATH`：决定了 `shell` 将到哪些目录中寻找命令或程序
+- `HOME`：当前用户主目录
+- `HISTSIZE`：历史记录数
+- `LOGNAME`：当前用户的登录名
+- `HOSTNAME`：指主机的名称
+- `SHELL`：当前用户 Shell 类型
+- `LANGUGE`：语言相关的环境变量，多语言可以修改此环境变量
+- `MAIL`：当前用户的邮件存放目录
+- `PS1`：基本提示符，对于 root 用户是 `#`，对于普通用户是 `$`
 ```bash
 # 当前用户目录，等与 ~
 echo $HOME
@@ -209,4 +229,4 @@ echo $PATH
 # Refs
 1. https://cloud.tencent.com/developer/article/2149492
 2. https://zhuanlan.zhihu.com/p/317282094
-3. 
+3. https://zhuanlan.zhihu.com/p/557885534

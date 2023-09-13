@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（7 环境变量）.md",
+                "file": "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（7 环境变量）.md",
+                "file": "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（7 环境变量）.md",
+                "file": "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（7 环境变量）.md"
+                "file": "80_Development/网络Network/网络基础知识+名词解析+问题收集.md"
               }
             }
           },
@@ -184,13 +184,17 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/网络Network/VLAN与VXLAN.md",
+    "80_Development/网络Network/Python网络开源库.md",
+    "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
+    "80_Development/网络Network/网络基础知识二.md",
+    "80_Development/OS/Linux/Linux基础（7 环境变量）.md",
     "80_Development/OS/Linux/imgs/Pasted image 20230913155229.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230913155020.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230913153709.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230913152309.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230913152249.png",
     "80_Development/OS/Linux/Linux网络（3 网卡混杂模式）.md",
-    "80_Development/OS/Linux/Linux基础（7 环境变量）.md",
     "80_Development/OS/Linux/Linux基础（0 杂记）.md",
     "80_Development/OS/Linux/Linux基础（6 启动流程）.md",
     "80_Development/OS/Linux/imgs/Pasted image 20230912161127.png",
@@ -208,14 +212,11 @@
     "80_Development/OS/Linux/Linux网络（1 Iptables）.md",
     "80_Development/OS/Linux/ARP嗅探局域网内的设备.md",
     "80_Development/OS/Linux/使用技巧/实用linux命令.md",
-    "80_Development/OS/Linux/imgs/Pasted image 20230911095047.png",
     "80_Development/OS/Linux/使用技巧/ubuntu 20.04修改扩展屏幕分辨率.md",
     "80_Development/OS/Linux/Linux网络",
     "80_Development/OS/Linux/使用技巧",
     "00_日志和总结/天/2023-02-10.md",
     "未命名.canvas",
-    "80_Development/网络Network/Python网络开源库.md",
-    "80_Development/网络Network/网络基础知识二.md",
     "01_To_Do/技术啊要学习.md",
     "20_瞎折腾/小小服务器/树莓派4B.md",
     "80_Development/编程语言与设计模式/Go/Go语言教程.md",
@@ -229,7 +230,6 @@
     "mygo/official/greetings/greetings.go",
     "80_Development/编程语言与设计模式/Go/Go语言环境搭建.md",
     "80_Development/编程语言与设计模式/Go/我为什么要学Go.md",
-    "80_Development/容器Container/Docker/Docker-1.4-安装目录.md",
-    "80_Development/容器Container/Docker/Docker-7-Docker命令.md"
+    "80_Development/容器Container/Docker/Docker-1.4-安装目录.md"
   ]
 }
