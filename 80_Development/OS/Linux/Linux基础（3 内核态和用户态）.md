@@ -18,7 +18,7 @@
 ![[imgs/Pasted image 20230913160640.png]]
 
 # kernel space与root有什么关系吗？程序跑在kernel必须要root权限吗？
-
+我的理解是不用，查到的资料也都是不用，但我没办法举反例。
 
 
 
