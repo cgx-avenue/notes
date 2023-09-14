@@ -41,3 +41,4 @@ Linux CPU stats参见Refs 6
 6. https://scoutapm.com/blog/understanding-linuxs-cpu-stats
 7. https://www.zhihu.com/question/306127044
 8. https://zhuanlan.zhihu.com/p/472598132
+9. https://www.zhihu.com/question/42926491

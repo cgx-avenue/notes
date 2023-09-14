@@ -16,5 +16,12 @@ bash sysctl -w net.ipv4.ip_local_port_range="1024 65535" sysctl -p
 版权声明：本文为CSDN博主「star9595」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/u014042372/article/details/85261871
 
+#  [What do 'real', 'user' and 'sys' mean in the output of time(1)?](https://stackoverflow.com/questions/556405/what-do-real-user-and-sys-mean-in-the-output-of-time1)
+https://stackoverflow.com/questions/556405/what-do-real-user-and-sys-mean-in-the-output-of-time1
 
+# Linux帮助命令
+- help 命令与 --help 参数
+- man 命令
+- info 命令
 
+https://zhuanlan.zhihu.com/p/105096446

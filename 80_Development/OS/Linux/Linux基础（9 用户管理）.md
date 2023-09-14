@@ -37,6 +37,7 @@ Linux中一切都是文件，所有的管理都是针对“文件”的管理，
 ## 0号用户 root
 
 在这里不得不提 Linux 系统中，具有最高权限的用户——root。
+超级用户的[命令提示符](https://so.csdn.net/so/search?q=%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E7%AC%A6&spm=1001.2101.3001.7020)是“#”，普通用户的命令提示符是“$”。
 
 root的UID=0，root组的GID=0.
 ![[imgs/Pasted image 20230914135548.png]]
