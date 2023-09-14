@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（9 用户管理）.md",
+                "file": "80_Development/OS/Linux/Linux基础（8 权限管理）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（9 用户管理）.md",
+                "file": "80_Development/OS/Linux/Linux基础（8 权限管理）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（9 用户管理）.md",
+                "file": "80_Development/OS/Linux/Linux基础（8 权限管理）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（9 用户管理）.md"
+                "file": "80_Development/OS/Linux/Linux基础（8 权限管理）.md"
               }
             }
           },
@@ -184,19 +184,20 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/imgs/Pasted image 20230914145244.png",
+    "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
+    "80_Development/OS/Linux/Linux基础（8 权限管理）.md",
+    "80_Development/OS/Linux/Linux基础（9 用户管理）.md",
     "80_Development/OS/Linux/imgs/Pasted image 20230914144730.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914143650.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914135831.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914135752.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914135548.png",
-    "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
     "80_Development/OS/Linux/Linux基础（3 内核态和用户态）.md",
     "80_Development/OS/Linux/Linux网络 （4 ARP）.md",
     "80_Development/OS/Linux/Linux网络（3 网卡混杂模式）.md",
     "80_Development/OS/Linux/Linux网络（2 nc命令）.md",
     "80_Development/OS/Linux/Linux网络（1 Iptables）.md",
-    "80_Development/OS/Linux/Linux基础（9 用户管理）.md",
-    "80_Development/OS/Linux/Linux基础（8 权限管理）.md",
     "80_Development/OS/Linux/Linux基础（4 POSIX标准）.md",
     "80_Development/OS/Linux/imgs/Pasted image 20230913160640.png",
     "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
@@ -208,7 +209,6 @@
     "80_Development/OS/Linux/imgs/Pasted image 20230913155020.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230913153709.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230913152309.png",
-    "80_Development/OS/Linux/imgs/Pasted image 20230913152249.png",
     "80_Development/OS/Linux/Linux基础（0 杂记）.md",
     "80_Development/OS/Linux/Linux基础（6 启动流程）.md",
     "80_Development/OS/Linux/Linux基础（5 systemd）.md",

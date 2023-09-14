@@ -41,7 +41,7 @@ https://linux.cn/article-7669-1.html
 ls -l
 ```
 ![](imgs/2023-02-22-16-14-10.png)
-
+权限部分参见[[Linux基础（8 权限管理）]]
 ## 文件数据
 ![](imgs/2023-02-22-16-18-37.png)
 所以在linux中，文件属性和数据是分开存储的。通过inode进行mapping。
