@@ -2,6 +2,8 @@
 参见Refs2，说的非常好。
 简单说，内核态与用户态，对应的是CPU提供的权限分级功能的一层封装抽象。设计目标是为了多任务系统：权限分级、数据隔离、任务切换。
 
+Linux CPU stats参见Refs 6
+
 由此简单定义：
 参见Refs3
 
@@ -28,4 +30,4 @@
 3. https://blog.csdn.net/ludan_xia/article/details/105695961
 4. [User space(用户空间) 与 Kernel space(内核空间) - myseries - 博客园 (cnblogs.com)](https://www.cnblogs.com/myseries/p/12056078.html)
 5. https://drawings.jvns.ca/userspace/
-6. 
+6. https://scoutapm.com/blog/understanding-linuxs-cpu-stats
