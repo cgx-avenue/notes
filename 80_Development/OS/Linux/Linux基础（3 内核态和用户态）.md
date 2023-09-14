@@ -4,6 +4,8 @@
 
 Linux CPU stats参见Refs 6
 
+神文！Refs7. 包括
+
 由此简单定义：
 参见Refs3
 
@@ -31,3 +33,4 @@ Linux CPU stats参见Refs 6
 4. [User space(用户空间) 与 Kernel space(内核空间) - myseries - 博客园 (cnblogs.com)](https://www.cnblogs.com/myseries/p/12056078.html)
 5. https://drawings.jvns.ca/userspace/
 6. https://scoutapm.com/blog/understanding-linuxs-cpu-stats
+7. https://www.zhihu.com/question/306127044
