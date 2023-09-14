@@ -26,6 +26,7 @@ https://blog.csdn.net/weixin_44614230/article/details/127661184
 https://scoolor.github.io/2018/11/08/linux-everything-is-file/
 用户，文件权限，chmod
 https://zhuanlan.zhihu.com/p/150886291
+[[Linux基础（9 用户管理）]]
 每种文件类型举了例子
 https://linux.cn/article-7669-1.html
 
