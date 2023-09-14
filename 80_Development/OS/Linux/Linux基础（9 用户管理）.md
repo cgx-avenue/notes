@@ -259,6 +259,14 @@ groupdel [options] [groupname]
 
 与 deluser 性质相似。
 
+### gpasswd
+用户组管理的命令是gpasswd，通常用来给用户组添加或移除用户，其基本语法如下：
+```bash
+gpasswd [option] GroupName
+gpasswd -a user1 Group2 #将用户user1添加到用户组Group2中；
+gpasswd -d user1 Group1 #将用户user1从用户组Group1中移除；
+```
+![[imgs/Pasted image 20230914144730.png]]
 
 # 用户身份切换
 涉及用户身份切换的命令有两个：su、sudo
