@@ -122,6 +122,130 @@ root : : : root
 
 一般用户组不使用用户组管理员，相应地也就不需要设置密码。
 
+# 命令
+## 用户
+### useradd
+```bash
+useradd [options] [username]
+```
+
+在使用 useradd 时，可以通过不同的参数 options，达到不同的创建用户的效果，例如指定UID、指定初始用户组、指定次要用户组、指定主文件夹等。
+
+具体参数请利用 man 命令进行查询。
+
+useradd 在不指定任何参数的时候，会参考两个主要配置文件的默认值来新增用户
+
+```text
+文件路径：/etc/default/useradd
+GROUP = 100                                 # 默认的用户组
+HOME = /home                                # 默认的主文件夹所在目录
+INACTIVE = -1                               # 密码失效日
+EXPIRE =                                        # 账号失效日
+SHELL = /bin/shell                  # 默认shell
+SKEL = /etc/skel                        # 用户主文件夹的内容数据参考目录
+CREATE_MAIL_SPOOL = yes         # 是否创建邮件信箱
+
+
+文件路径：/etc/login.defs
+PASS_MAX_DAYS           99999               # 多久必须重设密码（天）
+PASS_MIN_DAYS       0                       # 距上次修改密码多久不可重设密码（天）
+PASS_MIN_LEN            5                       # 密码最短的字符长度
+PASS_WARN_AGE           7                       # 距离多少天过期会报警提示
+UID_MIN                     500                 # 创建用户的UID默认最小值
+UID_MAX                     60000               # 创建用户的UID上限
+GID_MIN                     500                 # 创建用户的GID默认最小值
+GID_MAX                     60000               # 创建用户的GID上限
+USERGROUPS_ENAB     yes                 # 删除用户时是否删除初始用户组（组内不再有其他成员）
+MD5_CRYPT_ENAB      yes                 # 密码是否经过MD5加密
+```
+
+useradd 通过参考这两个文件的配置信息，赋予创建的用户默认值。
+另外，useradd 默认不会在 /home 下创建用户同名的主目录；
+同时，useradd 创建的用户还没有设置登录密码，需要利用passwd进行密码设置。
+
+### passwd
+利用 passwd 命令，可以设置或重置密码
+
+```text
+passwd [options] [username]
+```
+
+与 useradd 相同，不同的 options 参数能够满足不同的密码设置需求，包括失效时间、密码改动时间等。
+
+具体请查询 passwd 命令的帮助手册。
+
+### adduser
+adduser 与 useradd 的功能一样，都是为了创建新用户而存在的命令，但是 adduser 与 useradd 在一些方面存在不同。
+
+1. useradd 创建用户，但是不创建密码等其他用户信息，需要使用 passwd 设置密码才能使用；而 adduser 能通过交互界面，由用户直接输入密码等，设置用户信息。
+2. useradd 默认不在 /home 下创建用户同名的主文件夹，而 adduser 默认创建。
+3. useradd 是一个命令，而 adduser 被理解为一个 “简单的应用程序”。
+
+在实用性上，adduser 确实要实用不少。
+
+**相似地，有 addgroup、deluder、delgroup 命令，与 adduser 的性质相似，下面不再赘述**。
+
+### change
+chage 命令用来修改与用户密码相关的过期信息，如密码失效日、密码最短保留天数、失效前警告天数等。
+
+```text
+chage [option] [username]
+```
+
+当然，passwd 也可以做相应的修改.
+
+### usermod
+usermod 命令用来修改用户信息。
+
+```text
+usermod [options] [username]
+```
+
+usermod 通过选用不同的 options 参数，可以修改存储在 etc/passwd 内的用户信息。
+
+### userdel
+userdel 命令用来删除用户的相关的所有数据。
+
+```text
+userdel [options] [username]
+```
+
+### deluser
+与 adduser 性质相似
+
+## 用户组
+### groupadd
+使用方式与 useradd 非常相似，与 useradd 不同的是，新建的用户组通常不需要设置密码。
+
+```text
+groupadd [options] [groupname]
+```
+
+### addgroup
+
+与 adduser 性质相似。
+
+### groupmod
+
+groupmod 命令用来修改 group 相关的参数，不过通常不建议修改 GID
+
+```text
+groupmod [options] [groupname]
+```
+
+### groupdel
+
+groupdel 删除用户组之前，**必须保证没有任何一个用户使用这个用户组作为初始用户组，否则无法删除**。
+
+```text
+groupdel [options] [groupname]
+```
+
+- delgroup
+
+与 deluser 性质相似。
+
+
 
 
 
