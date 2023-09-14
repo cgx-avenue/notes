@@ -122,6 +122,20 @@ root : : : root
 
 一般用户组不使用用户组管理员，相应地也就不需要设置密码。
 
+
+# 查询用户信息
+涉及用户信息查询的命令主要有：
+
+```text
+id <user>                           # 展示指定user的UID、GID、用户组信息等，默认为当前有效用户
+who am i                            # 等同于 who -m，仅显示当前登录用户相关信息
+whoami                              #   仅显示当前有效用户的用户名
+w                                           # 展示当前正在登录主机的用户信息及正在执行的操作
+who                                     # 展示当前正在登录主机的用户信息
+last <user>                     # 展示指定用户的历史登录信息，默认为当前有效用户
+lastlog -u <user>           # 展示指定用户最近的一次登录信息，默认显示所有用户
+```
+
 # 命令
 ## 用户
 ### useradd
@@ -241,12 +255,87 @@ groupdel 删除用户组之前，**必须保证没有任何一个用户使用这
 groupdel [options] [groupname]
 ```
 
-- delgroup
+### delgroup
 
 与 deluser 性质相似。
 
 
+# 用户身份切换
+涉及用户身份切换的命令有两个：su、sudo
+## su
 
+```text
+su [options] [username]
+
+options：
+-：代表使用 login-shell 的变量文件读取方式来登录系统
+-l：同上
+-m：表示使用当前的环境设置，而不读取新用户的配置文件
+-c：仅进行一次命令，执行完后直接回到目前的用户身份
+```
+
+如果 username 为空，则默认切换为 root 用户。
+
+这里需要十分注意，**options 中是否带 “-” 的区别是很大的**。
+
+“su” 表示读取变量设置方式为 non-login shell，即切换身份但不读取目标用户的 shell 变量，因此很多变量不会发生改变，例如 PATH、MAIL 等重要变量，仍然保持切换前用户的变量信息。
+
+“su -” 表示切换身份的同时读取目标用户的 login-shell ，通常建议使用这一方式切换身份。
+
+完成工作后，可以以 exit 命令返回到原用户。
+
+另外，在普通用户切换到 root 用户时，需要 root 用户的登录密码，才能成功切换。这里又涉及到一个安全问题，如何让指定的普通用户具备 root 权限的同时，不让其知道 root 的登录密码呢？这就需要使用 sudo 命令了。
+
+## sudo
+
+普通用户可以通过 sudo 命令，使用 root 用户权限来执行命令。
+
+当然，不是所有的用户都能执行 sudo 命令的，而是在 /etc/sudoers 文件内的用户才能执行这个命令。
+
+sudo 的执行流程大致为：
+
+- 系统到 /etc/sudoers 下检查用户是否有执行 sudo 的权限
+- 若有 sudo 权限，则需要输入本用户的密码（root 用户执行 sudo 不需要密码）
+- 验证成功后执行命令
+
+因此，关键在于执行 sudo 的用户是否存在于 /etc/sudoers 文件内。
+
+我们不妨打开 sudoers 文件查看相关信息。
+![[imgs/Pasted image 20230914143650.png]]
+
+在 sudoers 文件中，我们发现两行关键信息
+
+图中第一行，表示可执行 sudo 的单个用户白名单
+
+```text
+root                                            ALL=(ALL:ALL)                                           ALL
+用户账号            登录者来源主机名=(可切换身份：身份所在用户组)             可执行命令
+```
+
+图中第二行，表示可执行 sudo 的用户组白名单
+
+```text
+root                                            ALL=(ALL:ALL)                                           ALL
+用户账号            登录者来源主机名=(可切换身份：身份所在用户组)             可执行命令
+```
+
+通过修改 ”可切换身份“，可以限制用户执行 sudo 的目标身份；
+
+通过修改 ”可执行命令“，可以限制用户利用 sudo 执行的命令内容，达到局部授权的作用。
+
+以下为样例：
+
+```text
+testuser            ALL=(ALL:ALL)                   ALL
+testuser            ALL=(root:root)             ALL
+testuser            ALL=(root:root)             /usr/bin/passwd
+```
+
+第一行表示 testuser 可以利用 sudo 以任何身份执行任何命令
+
+第二行表示 testuser 仅可以以 root 身份执行任何命令
+
+第三行表示 testuser 仅可以以 root 身份执行 passwd 命令
 
 
 # Refs
