@@ -28,7 +28,9 @@ Linux CPU stats参见Refs 6
 # kernel space与root有什么关系吗？程序跑在kernel必须要root权限吗？
 我的理解是不用，查到的资料也都是不用，但我没办法举反例。
 
-
+从这个话题又引申出一个问题：Linux的用户管理，而用户管理，又何权限紧密相关，即Linux权限管理。
+[[Linux基础（8 权限管理）]]
+[[Linux基础（9 用户管理）]]
 
 # Refs
 1. https://blog.csdn.net/kking_edc/article/details/108980811
