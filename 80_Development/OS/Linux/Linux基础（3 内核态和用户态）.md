@@ -4,7 +4,7 @@
 
 Linux CPU stats参见Refs 6
 
-神文！Refs7. 包括
+神文！Refs7. 包括地址空间映射的问题也说明白了！
 
 由此简单定义：
 参见Refs3
