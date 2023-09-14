@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
+                "file": "80_Development/OS/Linux/Linux基础（3 内核态和用户态）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
+                "file": "80_Development/OS/Linux/Linux基础（3 内核态和用户态）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
+                "file": "80_Development/OS/Linux/Linux基础（3 内核态和用户态）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（1 文件系统）.md"
+                "file": "80_Development/OS/Linux/Linux基础（3 内核态和用户态）.md"
               }
             }
           },
@@ -184,6 +184,8 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/Linux基础（4 POSIX标准）.md",
+    "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
     "80_Development/OS/Linux/Linux基础（3 内核态和用户态）.md",
     "80_Development/OS/Linux/imgs/Pasted image 20230913160640.png",
     "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
@@ -205,9 +207,7 @@
     "80_Development/OS/Linux/imgs/Pasted image 20230912155500.png",
     "80_Development/OS/Linux/Linux基础（5 systemd）.md",
     "80_Development/OS/Linux/Linux书籍.md",
-    "80_Development/OS/Linux/Linux基础（4 POSIX标准）.md",
     "80_Development/OS/Linux/Linux基础（2 软件安装）.md",
-    "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
     "80_Development/OS/Linux/Linux网络（2 nc命令）.md",
     "80_Development/OS/Linux/Linux网络（1 Iptables）.md",
     "80_Development/OS/Linux/ARP嗅探局域网内的设备.md",
