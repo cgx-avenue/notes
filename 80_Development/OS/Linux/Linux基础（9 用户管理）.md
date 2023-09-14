@@ -38,19 +38,61 @@ Linux中一切都是文件，所有的管理都是针对“文件”的管理，
 
 在这里不得不提 Linux 系统中，具有最高权限的用户——root。
 
+root的UID=0，root组的GID=0.
+![[imgs/Pasted image 20230914135548.png]]
+
 root 用户是系统中唯一的一个超级管理员，拥有了系统中的所有权限，可以执行任何想要执行的操作，也正因为如此，处于安全考虑，一般情况下不推荐使用 root 用户进行日常使用。
 
 root 用户所在的用户组称为 “root组”，处于 root 组的普通用户，能够通过 sudo 命令获取 root 权限。
 
-但是root组里的其他成员，并没有和root一样的高权限，参见refs2.
+但是root组里的其他成员，并没有和root一样的高权限，参见refs2. 但要注意，比root组更高的wheel组，在ubuntu中并不存在。refs3
 
 
+# Linux 用户管理相关文件
+Linux 将用户账号、密码等相关的信息分别存储在四个文件夹下：
 
+- /etc/passwd —— 管理用户UID/GID重要参数
+- /etc/shadow —— 管理用户密码
+- /etc/group —— 管理用户组相关信息
+- /etc/gshadow —— 管理用户组管理员相关信息
 
+这些文件中，每一行代表一个用户或一个用户组，并存储了相关的用户或用户组信息。
 
+## /etc/passwd
+![[imgs/Pasted image 20230914135752.png]]
+
+该文件中，每一行的存储格式为：
+
+```text
+账号名称 : 密码 : UID : GID : 用户信息说明列 : 主文件夹 : shell
+
+root : x : 0 : 0 : root : /root : /bin/bash
+```
+
+其中，密码项显示 “x” 是出于安全考虑，Linux 将密码信息移到 /etc/shadow 进行存储；
+
+每一个用户都有一个UID、GID，对应的含义就是UserID、GroupID，UID 会映射到 /etc/shadow 以获得密码信息，GID 会映射到 /etc/group 以获取用户的用户组信息。
+
+## /etc/shadow
+![[imgs/Pasted image 20230914135831.png]]
+该文件中，每一行的存储格式为：
+
+```text
+账号名称 : 密码 : 最近改动密码的日期 : 密码不可被改变的天数 : 密码需要重新更改的天数 : 更改提醒天数 : 密码过期后账号的宽限时间 : 账号失效日期 : 保留
+
+root : (字符串，此处打码) : 200 : 0 : 99999 : 7 : : :
+```
+
+其中，第二列表示密码加密后的字符串。
+
+/etc/passwd 通过 UID，在该文件中找出对应 UID 的用户，并提取对应密码用于登陆验证。
+
+## /etc/group
 
 
 
 # Refs
 1. https://zhuanlan.zhihu.com/p/105482468
-2. 
+2. https://blog.csdn.net/iamwayne10/article/details/109464971
+3. https://cn.bing.com/search?q=ubuntu+wheel&cvid=0753dd7a7cf64925980b9fc68fcdf7c2&aqs=edge.0.0l9.2808j0j1&FORM=ANNTA1&PC=U531
+4. 
