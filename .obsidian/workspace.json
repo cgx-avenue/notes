@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
+                "file": "80_Development/网络Network/DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
+                "file": "80_Development/网络Network/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
+                "file": "80_Development/网络Network/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/Linux基础（1 文件系统）.md"
+                "file": "80_Development/网络Network/DNS.md"
               }
             }
           },
@@ -184,6 +184,8 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
+    "80_Development/网络Network/DNS.md",
     "80_Development/OS/Linux/Linux基础（0 杂记）.md",
     "80_Development/OS/Linux/Linux基础（8 权限管理）.md",
     "80_Development/OS/Linux/Linux基础（9 用户管理）.md",
@@ -191,7 +193,6 @@
     "80_Development/OS/Linux/imgs/Pasted image 20230914145553.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914145345.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914145244.png",
-    "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
     "80_Development/OS/Linux/imgs/Pasted image 20230914144730.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914143650.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914135831.png",
