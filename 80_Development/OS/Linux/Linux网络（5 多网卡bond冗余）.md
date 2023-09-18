@@ -24,7 +24,16 @@ Linux bonding 驱动模块 提供了一种方法，用以把多个网络接口�
 * 输出负载均衡模式（transmit load balancing），mode=5，输出负载均衡模式，只有输出实现负载均衡，输入数据时则只选定其中一块网卡接收，需要网卡和驱动支持ethtool命令 
 * 输入/输出负载均衡模式（adaptive load balancing），mode=6，输入和输出都实现负载均衡，需要网卡和驱动支持ethtool命令
 
+常用的有三种
+
+mode=0：平衡负载模式，有自动备援，但需要”Switch”支援及设定。
+
+mode=1：自动备援模式，其中一条线若断线，其他线路将会自动备援。
+
+mode=6：平衡负载模式，有自动备援，不必”Switch”支援及设定。
+
 # Refs
 1. https://cloud.tencent.com/developer/article/1923889
 2. https://www.cnblogs.com/lcword/p/5914089.html
-3. 
+3. https://www.cnblogs.com/lcword/p/5914089.html
+4. 
