@@ -36,4 +36,4 @@ mode=6：平衡负载模式，有自动备援，不必”Switch”支援及设�
 1. https://cloud.tencent.com/developer/article/1923889
 2. https://www.cnblogs.com/lcword/p/5914089.html
 3. https://www.cnblogs.com/lcword/p/5914089.html
-4. 
+4. https://zhuanlan.zhihu.com/p/352814803
