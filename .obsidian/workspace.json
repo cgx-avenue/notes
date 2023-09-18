@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/网络Network/DNS.md",
+                "file": "30_乱七八糟的知识/井字棋.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/网络Network/DNS.md",
+                "file": "30_乱七八糟的知识/井字棋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/网络Network/DNS.md",
+                "file": "30_乱七八糟的知识/井字棋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/网络Network/DNS.md"
+                "file": "30_乱七八糟的知识/井字棋.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
     "80_Development/网络Network/DNS.md",
+    "30_乱七八糟的知识/井字棋.md",
+    "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
     "80_Development/OS/Linux/Linux基础（0 杂记）.md",
     "80_Development/OS/Linux/Linux基础（8 权限管理）.md",
     "80_Development/OS/Linux/Linux基础（9 用户管理）.md",
@@ -222,7 +223,6 @@
     "00_日志和总结/天/2023-02-10.md",
     "未命名.canvas",
     "01_To_Do/技术啊要学习.md",
-    "20_瞎折腾/小小服务器/树莓派4B.md",
     "mygo/official/hei/go.mod",
     "mygo/official/hei",
     "mygo/official/test",
