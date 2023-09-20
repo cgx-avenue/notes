@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21_3D打印/3D打印（1 基础）.md",
+                "file": "21_3D建模与打印/3D建模 （1 3D扫描）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21_3D打印/3D打印（1 基础）.md",
+                "file": "21_3D建模与打印/3D建模 （1 3D扫描）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21_3D打印/3D打印（1 基础）.md",
+                "file": "21_3D建模与打印/3D建模 （1 3D扫描）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21_3D打印/3D打印（1 基础）.md"
+                "file": "21_3D建模与打印/3D建模 （1 3D扫描）.md"
               }
             }
           },
@@ -192,15 +192,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "21_3D打印/3D打印（2 软件）.md",
-    "21_3D打印/3D打印（1 基础）.md",
-    "21_3D打印/Bambu_X1/常见问题+使用技巧.md",
+    "21_3D建模与打印/imgs/Pasted image 20230920132709.png",
+    "21_3D建模与打印/imgs",
+    "21_3D建模与打印/3D打印（1 基础）.md",
+    "21_3D建模与打印/3D建模 （1 3D扫描）.md",
+    "21_3D建模与打印/3D打印（2 软件）.md",
+    "21_3D建模与打印/Bambu_X1/常见问题+使用技巧.md",
     "80_Development/网络Network/PRP冗余.md",
-    "21_3D打印/Bambu_X1",
+    "21_3D建模与打印/Bambu_X1",
     "未命名",
-    "21_3D打印",
+    "21_3D建模与打印",
     "20_瞎折腾/小小服务器/玩客云wky.md",
     "80_Development/网络Network/imgs/Pasted image 20230918163131.png",
     "80_Development/网络Network/imgs/Pasted image 20230918163026.png",
@@ -231,15 +234,12 @@
     "80_Development/网络Network/网络基础知识二.md",
     "80_Development/OS/Linux/Linux基础（7 环境变量）.md",
     "80_Development/OS/Linux/Linux基础（6 启动流程）.md",
-    "80_Development/OS/Linux/Linux基础（5 systemd）.md",
-    "80_Development/OS/Linux/Linux书籍.md",
     "80_Development/OS/Linux/Linux网络",
     "80_Development/OS/Linux/使用技巧",
     "未命名.canvas",
     "mygo/official/hei/go.mod",
     "mygo/official/hei",
     "mygo/official/test",
-    "mygo/official/hello/hello",
-    "mygo/official/greetings/greetings_test.go"
+    "mygo/official/hello/hello"
   ]
 }
