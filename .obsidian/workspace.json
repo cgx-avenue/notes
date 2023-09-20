@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21_3D打印/3D打印软件.md",
+                "file": "21_3D打印/3D打印（1 基础）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21_3D打印/3D打印软件.md",
+                "file": "21_3D打印/3D打印（1 基础）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21_3D打印/3D打印软件.md",
+                "file": "21_3D打印/3D打印（1 基础）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21_3D打印/3D打印软件.md"
+                "file": "21_3D打印/3D打印（1 基础）.md"
               }
             }
           },
@@ -192,10 +192,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e65567ec6e4b5a34",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
+    "21_3D打印/3D打印（2 软件）.md",
+    "21_3D打印/3D打印（1 基础）.md",
     "21_3D打印/Bambu_X1/常见问题+使用技巧.md",
-    "21_3D打印/3D打印软件.md",
     "80_Development/网络Network/PRP冗余.md",
     "21_3D打印/Bambu_X1",
     "未命名",
@@ -232,7 +233,6 @@
     "80_Development/OS/Linux/Linux基础（6 启动流程）.md",
     "80_Development/OS/Linux/Linux基础（5 systemd）.md",
     "80_Development/OS/Linux/Linux书籍.md",
-    "80_Development/OS/Linux/Linux基础（2 软件安装）.md",
     "80_Development/OS/Linux/Linux网络",
     "80_Development/OS/Linux/使用技巧",
     "未命名.canvas",
