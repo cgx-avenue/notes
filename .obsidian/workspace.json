@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30镜头.md",
+                "file": "20_瞎折腾/笔记软件的选择.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30镜头.md",
+                "file": "20_瞎折腾/笔记软件的选择.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30镜头.md",
+                "file": "20_瞎折腾/笔记软件的选择.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/摄影/器材/尼康Z30镜头.md"
+                "file": "20_瞎折腾/笔记软件的选择.md"
               }
             }
           },
@@ -194,9 +194,12 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "20_瞎折腾/梯子的选择.md",
+    "20_瞎折腾/Switch/Switch游戏合集.md",
+    "20_瞎折腾/Switch/Switch开坑记录.md",
+    "20_瞎折腾/摄影/器材/尼康Z30购买和使用.md",
     "20_瞎折腾/摄影/器材/配件.md",
     "20_瞎折腾/摄影/器材/尼康Z30镜头.md",
-    "20_瞎折腾/摄影/器材/尼康Z30.md",
     "21_3D建模与打印/3D打印 （3 模型文件和Gcode）.md",
     "21_3D建模与打印/3D打印 （4 材料）.md",
     "21_3D建模与打印/3D打印（1 基础）.md",
@@ -231,9 +234,6 @@
     "80_Development/OS/Linux/Linux网络 （4 ARP）.md",
     "80_Development/OS/Linux/Linux网络（3 网卡混杂模式）.md",
     "80_Development/OS/Linux/Linux网络（2 nc命令）.md",
-    "80_Development/OS/Linux/Linux网络（1 Iptables）.md",
-    "80_Development/OS/Linux/Linux基础（4 POSIX标准）.md",
-    "80_Development/网络Network/网络基础知识+名词解析+问题收集.md",
     "80_Development/OS/Linux/Linux网络",
     "80_Development/OS/Linux/使用技巧",
     "未命名.canvas",
