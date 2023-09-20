@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21_3D建模与打印/3D建模 （1 3D扫描）.md",
+                "file": "21_3D建模与打印/3D建模 （2 软件）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21_3D建模与打印/3D建模 （1 3D扫描）.md",
+                "file": "21_3D建模与打印/3D建模 （2 软件）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21_3D建模与打印/3D建模 （1 3D扫描）.md",
+                "file": "21_3D建模与打印/3D建模 （2 软件）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21_3D建模与打印/3D建模 （1 3D扫描）.md"
+                "file": "21_3D建模与打印/3D建模 （2 软件）.md"
               }
             }
           },
@@ -194,12 +194,13 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "21_3D建模与打印/3D打印（2 切片和显示软件）.md",
+    "21_3D建模与打印/3D建模 （2 软件）.md",
+    "21_3D建模与打印/3D打印（1 基础）.md",
+    "21_3D建模与打印/3D建模 （1 3D扫描）.md",
     "21_3D建模与打印/imgs/Pasted image 20230920133326.png",
     "21_3D建模与打印/imgs/Pasted image 20230920132709.png",
     "21_3D建模与打印/imgs",
-    "21_3D建模与打印/3D打印（1 基础）.md",
-    "21_3D建模与打印/3D建模 （1 3D扫描）.md",
-    "21_3D建模与打印/3D打印（2 软件）.md",
     "21_3D建模与打印/Bambu_X1/常见问题+使用技巧.md",
     "80_Development/网络Network/PRP冗余.md",
     "21_3D建模与打印/Bambu_X1",
@@ -222,7 +223,6 @@
     "80_Development/OS/Linux/imgs/Pasted image 20230914144730.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914143650.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914135831.png",
-    "80_Development/OS/Linux/imgs/Pasted image 20230914135752.png",
     "80_Development/OS/Linux/Linux网络 （4 ARP）.md",
     "80_Development/OS/Linux/Linux网络（3 网卡混杂模式）.md",
     "80_Development/OS/Linux/Linux网络（2 nc命令）.md",
