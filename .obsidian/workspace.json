@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21_3D建模与打印/3D打印 （3 模型文件和Gcode）.md",
+                "file": "21_3D建模与打印/3D打印（1 基础）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "21_3D建模与打印/3D打印 （3 模型文件和Gcode）.md",
+                "file": "21_3D建模与打印/3D打印（1 基础）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "21_3D建模与打印/3D打印 （3 模型文件和Gcode）.md",
+                "file": "21_3D建模与打印/3D打印（1 基础）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "21_3D建模与打印/3D打印 （3 模型文件和Gcode）.md"
+                "file": "21_3D建模与打印/3D打印（1 基础）.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "21_3D建模与打印/3D打印 （4 材料）.md",
     "21_3D建模与打印/3D打印（1 基础）.md",
     "21_3D建模与打印/3D打印 （3 模型文件和Gcode）.md",
     "21_3D建模与打印/3D建模 （2 软件）.md",
@@ -233,7 +234,6 @@
     "80_Development/网络Network/VLAN与VXLAN.md",
     "80_Development/网络Network/Python网络开源库.md",
     "80_Development/网络Network/网络基础知识二.md",
-    "80_Development/OS/Linux/Linux基础（7 环境变量）.md",
     "80_Development/OS/Linux/Linux网络",
     "80_Development/OS/Linux/使用技巧",
     "未命名.canvas",
