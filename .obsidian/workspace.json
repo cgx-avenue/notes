@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/网络Network/PRP冗余.md",
+                "file": "21_3D打印/Bambu_X1/常见问题+使用技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/网络Network/PRP冗余.md",
+                "file": "21_3D打印/Bambu_X1/常见问题+使用技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/网络Network/PRP冗余.md",
+                "file": "21_3D打印/Bambu_X1/常见问题+使用技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/网络Network/PRP冗余.md"
+                "file": "21_3D打印/Bambu_X1/常见问题+使用技巧.md"
               }
             }
           },
@@ -192,13 +192,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/网络Network/PRP冗余.md",
+    "21_3D打印/Bambu_X1/常见问题+使用技巧.md",
+    "21_3D打印/Bambu_X1",
+    "未命名",
+    "21_3D打印",
     "20_瞎折腾/小小服务器/玩客云wky.md",
     "80_Development/网络Network/imgs/Pasted image 20230918163131.png",
     "80_Development/网络Network/imgs/Pasted image 20230918163026.png",
     "80_Development/OS/Linux/Linux网络（5 多网卡bond冗余）.md",
-    "80_Development/网络Network/PRP冗余.md",
     "30_乱七八糟的知识/井字棋.md",
     "80_Development/网络Network/DNS.md",
     "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
@@ -229,7 +233,6 @@
     "80_Development/OS/Linux/Linux书籍.md",
     "80_Development/OS/Linux/Linux基础（2 软件安装）.md",
     "80_Development/OS/Linux/ARP嗅探局域网内的设备.md",
-    "80_Development/OS/Linux/使用技巧/实用linux命令.md",
     "80_Development/OS/Linux/Linux网络",
     "80_Development/OS/Linux/使用技巧",
     "未命名.canvas",
@@ -237,9 +240,6 @@
     "mygo/official/hei",
     "mygo/official/test",
     "mygo/official/hello/hello",
-    "mygo/official/greetings/greetings_test.go",
-    "mygo/official/hello/hello.go",
-    "mygo/official/hello/go.mod",
-    "mygo/official/greetings/greetings.go"
+    "mygo/official/greetings/greetings_test.go"
   ]
 }
