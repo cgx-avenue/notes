@@ -10,9 +10,29 @@ STL文件不同于其他一些基于特征的实体模型，STL用三角形网�
 
 但是——正因为数据简化，格式简单，STL普及很快应用广泛，“简单易用”说的就是它。随着3DSYSTEMS的快速崛起， STL已经成为快速原型系统事实上的数据标准。STL 文件有2 种类型：文本文件(ASCII格式)和二进制文件(BINARY)，相比之下ASCII格式更加通用一些。
 
+## STL文件格式详解
+参见Refs2，3
+
+
+
+
 # OBJ
+OBJ文件是Alias|Wavefront公司为它的一套基于工作站的3D建模和动画软件"AdvancedVisualizer"开发的一种标准3D模型文件格式，很适合用于3D软件模型之间的数据交换，比如你在3dsMax或LightWave中建了一个模型，想把它调到Maya里面渲染或动画，导出OBJ文件就是一种很好的选择。
+
+  
+
+OBJ主要支持多边形(Polygons)模型。不包含动画、材质特性、贴图路径、动力学、粒子等信息。
+
+由于OBJ格式在数据交换方面的便捷性，目前大多数的三维CAD软件都支持OBJ格式，大多数3D打印机也支持使用OBJ格式进行打印。
+
+**PS：虽然OBJ格式诞生得晚一些，也比STL有所进步，但并无实质区别。**
+
+# AMF 3MF
+参见Refs1.
 
 
 
 # Refs
 1. https://zhuanlan.zhihu.com/p/39649027
+2. https://zhuanlan.zhihu.com/p/649115246
+3. https://zhuanlan.zhihu.com/p/622392420
