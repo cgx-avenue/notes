@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ee757f88cb6c68a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_瞎折腾/小小服务器/玩客云wky.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/小小服务器/玩客云wky.md",
+                "file": "80_Development/网络Network/PRP冗余.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/小小服务器/玩客云wky.md",
+                "file": "80_Development/网络Network/PRP冗余.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/小小服务器/玩客云wky.md"
+                "file": "80_Development/网络Network/PRP冗余.md"
               }
             }
           },
@@ -205,7 +192,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ee757f88cb6c68a4",
+  "active": "e3d8e81824724d6f",
   "lastOpenFiles": [
     "20_瞎折腾/小小服务器/玩客云wky.md",
     "80_Development/网络Network/imgs/Pasted image 20230918163131.png",
