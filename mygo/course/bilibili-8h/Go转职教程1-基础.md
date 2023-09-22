@@ -21,6 +21,7 @@ bin里是go的命令。
 ![[imgs/Pasted image 20230922132557.png]]
 
 # Go的分析
+## Go的优势
 ![[imgs/Pasted image 20230922132906.png]]
 ![[imgs/Pasted image 20230922133917.png]]
 ![[imgs/Pasted image 20230922134003.png]]
@@ -29,5 +30,11 @@ bin里是go的命令。
 
 ![[imgs/Pasted image 20230922134234.png]]
 
+![[imgs/Pasted image 20230922135222.png]]
+
+## Go适合用来干什么？
+![[imgs/Pasted image 20230922135326.png]]
+
+## Go的不足
 
 
