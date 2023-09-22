@@ -194,6 +194,9 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/course/bilibili-8h/GolangStudy/1stGolang/hello.go",
+    "mygo/course/bilibili-8h/GolangStudy/1stGolang",
+    "mygo/course/bilibili-8h/GolangStudy",
     "mygo/course/bilibili-8h/Go转职教程1-基础.md",
     "mygo/course/bilibili-8h/Go转职教程2-语言.md",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230922135641.png",
@@ -237,9 +240,6 @@
     "80_Development/OS/Linux/Linux基础（0 杂记）.md",
     "80_Development/OS/Linux/Linux基础（8 权限管理）.md",
     "80_Development/OS/Linux/Linux基础（9 用户管理）.md",
-    "80_Development/OS/Linux/Linux基础（3 内核态和用户态）.md",
-    "80_Development/OS/Linux/Linux网络",
-    "80_Development/OS/Linux/使用技巧",
     "未命名.canvas"
   ]
 }
