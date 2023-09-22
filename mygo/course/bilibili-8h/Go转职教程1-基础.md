@@ -22,5 +22,12 @@ bin里是go的命令。
 
 # Go的分析
 ![[imgs/Pasted image 20230922132906.png]]
+![[imgs/Pasted image 20230922133917.png]]
+![[imgs/Pasted image 20230922134003.png]]
+
+![[imgs/Pasted image 20230922134106.png]]
+
+![[imgs/Pasted image 20230922134234.png]]
+
 
 
