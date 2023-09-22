@@ -10,9 +10,12 @@ sudo tar -zxvf go----- -C /usr/local
 cd /usr/local/go
 # 加入path
 export PATH=$PATH:/usr/local/go/bin
+# 测试
+go version
 ```
 ![[imgs/Pasted image 20230922113245.png]]
 src里是源代码，go是开源的。
 bin里是go的命令。
+
 
 
