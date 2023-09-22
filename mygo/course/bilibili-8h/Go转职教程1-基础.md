@@ -17,5 +17,10 @@ go version
 src里是源代码，go是开源的。
 bin里是go的命令。
 
+下面的是视频里的，不配置白不配置吧。
+![[imgs/Pasted image 20230922132557.png]]
+
+# Go的分析
+![[imgs/Pasted image 20230922132906.png]]
 
 
