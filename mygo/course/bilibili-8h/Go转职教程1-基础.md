@@ -36,5 +36,8 @@ bin里是go的命令。
 ![[imgs/Pasted image 20230922135326.png]]
 
 ## Go的不足
+![[imgs/Pasted image 20230922135641.png]]
+
+
 
 
