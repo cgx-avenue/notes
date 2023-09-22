@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程1-基础.md",
+                "file": "mygo/course/bilibili-8h/Go转职教程2-语言.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程1-基础.md",
+                "file": "mygo/course/bilibili-8h/Go转职教程2-语言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程1-基础.md",
+                "file": "mygo/course/bilibili-8h/Go转职教程2-语言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程1-基础.md"
+                "file": "mygo/course/bilibili-8h/Go转职教程2-语言.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/course/bilibili-8h/Go转职教程1-基础.md",
     "mygo/course/bilibili-8h/Go转职教程2-语言.md",
     "mygo/course/bilibili-8h/GolangStudy/var/test1.go",
     "mygo/course/bilibili-8h/GolangStudy/var",
@@ -201,7 +202,6 @@
     "mygo/course/bilibili-8h/GolangStudy/1stGolang/hello.go",
     "mygo/course/bilibili-8h/GolangStudy/1stGolang",
     "mygo/course/bilibili-8h/GolangStudy",
-    "mygo/course/bilibili-8h/Go转职教程1-基础.md",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230922135641.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230922135555.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230922135326.png",
