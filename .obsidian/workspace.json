@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程2-语言.md",
+                "file": "mygo/course/bilibili-8h/Go转职教程1-基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程2-语言.md",
+                "file": "mygo/course/bilibili-8h/Go转职教程1-基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程2-语言.md",
+                "file": "mygo/course/bilibili-8h/Go转职教程1-基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程2-语言.md"
+                "file": "mygo/course/bilibili-8h/Go转职教程1-基础.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/course/bilibili-8h/Go转职教程2-语言.md",
     "mygo/course/bilibili-8h/GolangStudy/var/test1.go",
     "mygo/course/bilibili-8h/GolangStudy/var",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230922140945.png",
@@ -201,7 +202,6 @@
     "mygo/course/bilibili-8h/GolangStudy/1stGolang",
     "mygo/course/bilibili-8h/GolangStudy",
     "mygo/course/bilibili-8h/Go转职教程1-基础.md",
-    "mygo/course/bilibili-8h/Go转职教程2-语言.md",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230922135641.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230922135555.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230922135326.png",
@@ -231,7 +231,6 @@
     "21_3D建模与打印/imgs",
     "21_3D建模与打印/Bambu_X1/常见问题+使用技巧.md",
     "80_Development/网络Network/PRP冗余.md",
-    "21_3D建模与打印/Bambu_X1",
     "20_瞎折腾/小小服务器/玩客云wky.md",
     "80_Development/OS/Linux/Linux网络（5 多网卡bond冗余）.md",
     "30_乱七八糟的知识/井字棋.md",
