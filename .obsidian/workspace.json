@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/笔记软件的选择.md",
+                "file": "mygo/course/bilibili-8h/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/笔记软件的选择.md",
+                "file": "mygo/course/bilibili-8h/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/笔记软件的选择.md",
+                "file": "mygo/course/bilibili-8h/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/笔记软件的选择.md"
+                "file": "mygo/course/bilibili-8h/1.md"
               }
             }
           },
@@ -194,6 +194,13 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/course/bilibili-8h/imgs/Pasted image 20230922103323.png",
+    "mygo/course/bilibili-8h/imgs",
+    "20_瞎折腾/笔记软件的选择.md",
+    "mygo/course/bilibili-8h/1.md",
+    "mygo/course/bilibili-8h/1",
+    "mygo/course/bilibili-8h",
+    "mygo/course",
     "20_瞎折腾/梯子的选择.md",
     "20_瞎折腾/Switch/Switch游戏合集.md",
     "20_瞎折腾/Switch/Switch开坑记录.md",
@@ -231,15 +238,8 @@
     "80_Development/OS/Linux/imgs/Pasted image 20230914144730.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914143650.png",
     "80_Development/OS/Linux/imgs/Pasted image 20230914135831.png",
-    "80_Development/OS/Linux/Linux网络 （4 ARP）.md",
-    "80_Development/OS/Linux/Linux网络（3 网卡混杂模式）.md",
-    "80_Development/OS/Linux/Linux网络（2 nc命令）.md",
     "80_Development/OS/Linux/Linux网络",
     "80_Development/OS/Linux/使用技巧",
-    "未命名.canvas",
-    "mygo/official/hei/go.mod",
-    "mygo/official/hei",
-    "mygo/official/test",
-    "mygo/official/hello/hello"
+    "未命名.canvas"
   ]
 }
