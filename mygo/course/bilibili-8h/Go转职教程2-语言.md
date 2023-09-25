@@ -24,5 +24,7 @@ iota不能单独使用，只能配合const
 ![[imgs/Pasted image 20230925151848.png]]
 
 # 指针
+视频里讲的很好，指针的概念和含义
+https://www.bilibili.com/video/BV1gf4y1r79E?p=10&vd_source=462c9e0df89bcb23f1c5be85ce31d8ce
 
 
