@@ -20,5 +20,9 @@ iota不能单独使用，只能配合const
 ![[imgs/Pasted image 20230925144927.png]]
 ![[imgs/Pasted image 20230925145655.png]]
 
+# import匿名及别名导包方法
+![[imgs/Pasted image 20230925151848.png]]
+
+# 指针
 
 
