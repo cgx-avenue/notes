@@ -30,5 +30,8 @@ https://www.bilibili.com/video/BV1gf4y1r79E?p=10&vd_source=462c9e0df89bcb23f1c5b
 
 # defer
 在所在的函数或流程结束前执行的。
+可以有多个，按照堆找方式执行。
+![[imgs/Pasted image 20230925162550.png]]
+![[imgs/Pasted image 20230925162614.png]]
 
 
