@@ -17,5 +17,7 @@ iota不能单独使用，只能配合const
 ![[imgs/Pasted image 20230925144108.png]]
 
 # 导包路径与init方法调用流程
+![[imgs/Pasted image 20230925144927.png]]
+
 
 
