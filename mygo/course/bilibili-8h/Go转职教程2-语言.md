@@ -45,4 +45,7 @@ https://www.bilibili.com/video/BV1gf4y1r79E?p=10&vd_source=462c9e0df89bcb23f1c5b
 ![[imgs/Pasted image 20230926134801.png]]
 1. cap函数，长度是len函数，长度与容量不同。
 2. 添加新元素用append函数
-3. 
+3. 截取语法也是[a:b]
+4. 截取是浅拷贝，深拷贝需要用copy函数
+
+# map
