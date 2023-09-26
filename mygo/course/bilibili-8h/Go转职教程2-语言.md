@@ -58,4 +58,6 @@ https://www.bilibili.com/video/BV1gf4y1r79E?p=10&vd_source=462c9e0df89bcb23f1c5b
 # struct与面向对象
 1. type关键字
 2. 通过this关键字扩展
-3. 
+3. 用指针
+![[imgs/Pasted image 20230926141924.png]]
+
