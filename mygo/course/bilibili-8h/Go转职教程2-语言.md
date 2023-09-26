@@ -70,6 +70,8 @@ https://www.bilibili.com/video/BV1gf4y1r79E?p=10&vd_source=462c9e0df89bcb23f1c5b
 
 ## interface通用万能类型
 interface{}
+![[imgs/Pasted image 20230926150034.png]]
+
 
 
 
