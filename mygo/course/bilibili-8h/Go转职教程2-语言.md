@@ -83,6 +83,10 @@ TypeOf和ValueOf方法
 \`\` 来定义
 作用：转换数据格式
 ## json
+利用`encoding/json`库
+![[imgs/Pasted image 20230926162927.png]]
+
+
 
 
 
