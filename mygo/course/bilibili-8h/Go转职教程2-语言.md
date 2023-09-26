@@ -76,7 +76,8 @@ interface{}
 ## 变量的内置pair结构详细说明
 ![[imgs/Pasted image 20230926150538.png]]
 
-
+## reflect包
+TypeOf和ValueOf方法
 
 
 
