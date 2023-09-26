@@ -72,6 +72,9 @@ https://www.bilibili.com/video/BV1gf4y1r79E?p=10&vd_source=462c9e0df89bcb23f1c5b
 interface{}
 ![[imgs/Pasted image 20230926150034.png]]
 
+# 反射
+## 变量的内置pair结构详细说明
+![[imgs/Pasted image 20230926150538.png]]
 
 
 
