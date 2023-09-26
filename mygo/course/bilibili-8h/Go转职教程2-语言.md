@@ -49,3 +49,7 @@ https://www.bilibili.com/video/BV1gf4y1r79E?p=10&vd_source=462c9e0df89bcb23f1c5b
 4. 截取是浅拷贝，深拷贝需要用copy函数
 
 # map
+语法：map[key]value
+1. 也需要使用make进行初始化
+2. map里没有固定顺序
+![[imgs/Pasted image 20230926140115.png]]
