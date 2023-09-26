@@ -55,4 +55,7 @@ https://www.bilibili.com/video/BV1gf4y1r79E?p=10&vd_source=462c9e0df89bcb23f1c5b
 ![[imgs/Pasted image 20230926140115.png]]
 3. map在函数中是引用传递
 
-# struct
+# struct与面向对象
+1. type关键字
+2. 通过this关键字扩展
+3. 
