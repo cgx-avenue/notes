@@ -37,5 +37,12 @@ https://www.bilibili.com/video/BV1gf4y1r79E?p=10&vd_source=462c9e0df89bcb23f1c5b
 # 数组与动态数组（slice）
 ![[imgs/Pasted image 20230926113145.png]]
 ## slice切片的4种声明定义方式
+![[imgs/Pasted image 20230926134459.png]]
+核心就是突出一个，空间要提前分配，否则要用make。
 
 
+## slice切片追加与截取
+![[imgs/Pasted image 20230926134801.png]]
+1. cap函数，长度是len函数，长度与容量不同。
+2. 添加新元素用append函数
+3. 
