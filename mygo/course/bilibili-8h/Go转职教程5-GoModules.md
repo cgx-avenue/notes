@@ -5,3 +5,11 @@
 # GoModules模式基础环境说明
 ![[imgs/Pasted image 20230927155431.png]]
 
+![[imgs/Pasted image 20230927161143.png]]
+![[imgs/Pasted image 20230927161304.png]]
+
+
+
+
+
+
