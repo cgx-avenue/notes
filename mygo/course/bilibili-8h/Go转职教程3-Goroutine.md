@@ -10,6 +10,12 @@
 ![[imgs/Pasted image 20230927140552.png]]
 ![[imgs/Pasted image 20230927140725.png]]
 ![[imgs/Pasted image 20230927140753.png]]
+![[imgs/Pasted image 20230927140900.png]]
+![[imgs/Pasted image 20230927140911.png]]
+![[imgs/Pasted image 20230927141023.png]]
+![[imgs/Pasted image 20230927141236.png]]
+![[imgs/Pasted image 20230927141344.png]]
+![[imgs/Pasted image 20230927141414.png]]
 
 
 
