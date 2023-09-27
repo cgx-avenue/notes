@@ -7,5 +7,9 @@
 ![[imgs/Pasted image 20230927145825.png]]
 
 # channel与range
+![[imgs/Pasted image 20230927151000.png]]
+
+# channel与select
+![[imgs/Pasted image 20230927151120.png]]
 
 
