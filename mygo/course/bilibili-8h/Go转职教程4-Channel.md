@@ -11,5 +11,6 @@
 
 # channel与select
 ![[imgs/Pasted image 20230927151120.png]]
+![[imgs/Pasted image 20230927151517.png]]
 
 
