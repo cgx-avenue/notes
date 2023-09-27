@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程3-Goroutine.md",
+                "file": "mygo/course/bilibili-8h/Go转职教程4-Channel.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程3-Goroutine.md",
+                "file": "mygo/course/bilibili-8h/Go转职教程4-Channel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程3-Goroutine.md",
+                "file": "mygo/course/bilibili-8h/Go转职教程4-Channel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程3-Goroutine.md"
+                "file": "mygo/course/bilibili-8h/Go转职教程4-Channel.md"
               }
             }
           },
@@ -194,6 +194,10 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/course/bilibili-8h/imgs/Pasted image 20230927144127.png",
+    "mygo/course/bilibili-8h/Go转职教程3-Goroutine.md",
+    "mygo/course/bilibili-8h/Go转职教程4-Channel.md",
+    "mygo/course/bilibili-8h/imgs/Pasted image 20230927143915.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927142256.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927142100.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927142045.png",
@@ -203,10 +207,7 @@
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927141236.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927141023.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927140911.png",
-    "mygo/course/bilibili-8h/imgs/Pasted image 20230927140900.png",
-    "mygo/course/bilibili-8h/imgs/Pasted image 20230927140753.png",
     "mygo/course/bilibili-8h/Go转职教程2-语言.md",
-    "mygo/course/bilibili-8h/Go转职教程3-Goroutine.md",
     "mygo/course/bilibili-8h/Go转职教程1-基础.md",
     "mygo/course/bilibili-8h/GolangStudy/var/test1.go",
     "mygo/course/bilibili-8h/GolangStudy/var",
@@ -239,7 +240,6 @@
     "80_Development/网络Network/DNS.md",
     "80_Development/OS/Linux/Linux基础（1 文件系统）.md",
     "80_Development/OS/Linux/Linux基础（0 杂记）.md",
-    "80_Development/OS/Linux/Linux基础（8 权限管理）.md",
     "未命名.canvas"
   ]
 }
