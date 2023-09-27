@@ -4,5 +4,8 @@
 ![[imgs/Pasted image 20230927144910.png]]
 ![[imgs/Pasted image 20230927145432.png]]
 # 关闭channel
+![[imgs/Pasted image 20230927145825.png]]
+
+# channel与range
 
 
