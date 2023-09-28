@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程5-GoModules.md",
+                "file": "mygo/Go学习杂记（1 Go的正交）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程5-GoModules.md",
+                "file": "mygo/Go学习杂记（1 Go的正交）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程5-GoModules.md",
+                "file": "mygo/Go学习杂记（1 Go的正交）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mygo/course/bilibili-8h/Go转职教程5-GoModules.md"
+                "file": "mygo/Go学习杂记（1 Go的正交）.md"
               }
             }
           },
@@ -194,12 +194,13 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/course/bilibili-8h/Go转职教程5-GoModules.md",
+    "mygo/Go学习杂记（1 Go的正交）.md",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927161304.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927161143.png",
     "mygo/course/bilibili-8h/GolangStudy/go.mod",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927155431.png",
     "mygo/course/bilibili-8h/Go转职教程4-Channel.md",
-    "mygo/course/bilibili-8h/Go转职教程5-GoModules.md",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927151517.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927151120.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927151000.png",
@@ -207,7 +208,6 @@
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927145432.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927144910.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927144757.png",
-    "mygo/course/bilibili-8h/imgs/Pasted image 20230927144127.png",
     "mygo/course/bilibili-8h/Go转职教程3-Goroutine.md",
     "mygo/course/bilibili-8h/Go转职教程2-语言.md",
     "mygo/course/bilibili-8h/Go转职教程1-基础.md",
