@@ -42,6 +42,7 @@ https://link.zhihu.com/?target=https%3A//talks.golang.org/2010/ExpressivenessOfG
 # 官方解释Go的来源和特性
 https://go.dev/talks/2010/ExpressivenessOfGo-2010.pdf
 
+# 其它
 
 
 
@@ -49,5 +50,6 @@ https://go.dev/talks/2010/ExpressivenessOfGo-2010.pdf
 # Refs
 1. https://www.zhihu.com/question/27867348
 2. https://www.cnblogs.com/niuben/p/16172538.html
-3. 
+3. https://blog.csdn.net/m0_51180924/article/details/122640308
+4. https://golang3.eddycjy.com/posts/less-is-more/
 
