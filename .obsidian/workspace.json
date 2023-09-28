@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mygo/Go学习杂记（3 GoModule）.md",
+                "file": "mygo/Go学习杂记（4 Gopls）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mygo/Go学习杂记（3 GoModule）.md",
+                "file": "mygo/Go学习杂记（4 Gopls）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mygo/Go学习杂记（3 GoModule）.md",
+                "file": "mygo/Go学习杂记（4 Gopls）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mygo/Go学习杂记（3 GoModule）.md"
+                "file": "mygo/Go学习杂记（4 Gopls）.md"
               }
             }
           },
@@ -192,13 +192,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e3d8e81824724d6f",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/Go学习杂记（3 GoModules）.md",
+    "mygo/Go学习杂记（4 Gopls）.md",
     "mygo/course/未命名",
     "mygo/course/official/go.work",
     "mygo/course/bilibili-8h/GolangStudy/go.work",
     "mygo/Go学习杂记（2 Go为什么类型后置）.md",
-    "mygo/Go学习杂记（3 GoModule）.md",
     "mygo/Go学习杂记（1 Go的设计哲学）.md",
     "mygo/course/bilibili-8h/GolangStudy/m",
     "mygo/course/bilibili-8h/GolangStudy/go.sum",
@@ -223,7 +224,6 @@
     "mygo/course/bilibili-8h/GolangStudy/var/test1.go",
     "mygo/course/bilibili-8h/GolangStudy/var",
     "mygo/course/bilibili-8h/GolangStudy/1stGolang/hello.go",
-    "mygo/course/bilibili-8h/GolangStudy/1stGolang",
     "20_瞎折腾/笔记软件的选择.md",
     "20_瞎折腾/梯子的选择.md",
     "20_瞎折腾/Switch/Switch游戏合集.md",
