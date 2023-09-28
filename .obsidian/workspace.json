@@ -194,6 +194,9 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/course/bilibili-8h/GolangStudy/m",
+    "mygo/course/bilibili-8h/GolangStudy/go.sum",
+    "mygo/course/bilibili-8h/GolangStudy/main.go",
     "mygo/Go学习杂记（0 好的教程）.md",
     "mygo/Go学习杂记（1 Go的设计哲学）.md",
     "mygo/Go学习杂技（2 Go为什么类型后置）.md",
@@ -221,8 +224,6 @@
     "mygo/course/bilibili-8h/imgs",
     "20_瞎折腾/笔记软件的选择.md",
     "mygo/course/bilibili-8h/1",
-    "mygo/course/bilibili-8h",
-    "mygo/course",
     "20_瞎折腾/梯子的选择.md",
     "20_瞎折腾/Switch/Switch游戏合集.md",
     "20_瞎折腾/Switch/Switch开坑记录.md",
@@ -239,7 +240,6 @@
     "80_Development/网络Network/PRP冗余.md",
     "20_瞎折腾/小小服务器/玩客云wky.md",
     "80_Development/OS/Linux/Linux网络（5 多网卡bond冗余）.md",
-    "30_乱七八糟的知识/井字棋.md",
     "未命名.canvas"
   ]
 }
