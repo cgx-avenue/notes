@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mygo/Go学习杂记（1 Go的正交）.md",
+                "file": "mygo/Go学习杂记（1 Go的设计哲学）.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mygo/Go学习杂记（1 Go的正交）.md",
+                "file": "mygo/Go学习杂记（1 Go的设计哲学）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mygo/Go学习杂记（1 Go的正交）.md",
+                "file": "mygo/Go学习杂记（1 Go的设计哲学）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mygo/Go学习杂记（1 Go的正交）.md"
+                "file": "mygo/Go学习杂记（1 Go的设计哲学）.md"
               }
             }
           },
@@ -195,7 +195,7 @@
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
     "mygo/course/bilibili-8h/Go转职教程5-GoModules.md",
-    "mygo/Go学习杂记（1 Go的正交）.md",
+    "mygo/Go学习杂记（1 Go的设计哲学）.md",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927161304.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927161143.png",
     "mygo/course/bilibili-8h/GolangStudy/go.mod",
