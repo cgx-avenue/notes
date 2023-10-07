@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mygo/Go学习杂记（4 Gopls）.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e4776bec183963e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
+                "file": "mygo/Go学习杂记（0 好的教程）.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ba3efb1286a7417",
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mygo/Go学习杂记（4 Gopls）.md",
+                "file": "mygo/Go学习杂记（0 好的教程）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mygo/Go学习杂记（4 Gopls）.md",
+                "file": "mygo/Go学习杂记（0 好的教程）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mygo/Go学习杂记（4 Gopls）.md"
+                "file": "mygo/Go学习杂记（0 好的教程）.md"
               }
             }
           },
@@ -206,12 +192,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2316de639456b92c",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "mygo/Go学习杂记（4 Gopls）.md",
+    "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
     "mygo/imgs/Pasted image 20230928152810.png",
     "mygo/imgs",
     "mygo/Go学习杂记（3 GoModules）.md",
-    "mygo/Go学习杂记（4 Gopls）.md",
     "mygo/course/未命名",
     "mygo/course/official/go.work",
     "mygo/course/bilibili-8h/GolangStudy/go.work",
@@ -233,7 +220,6 @@
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927145825.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927145432.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927144910.png",
-    "mygo/course/bilibili-8h/imgs/Pasted image 20230927144757.png",
     "mygo/course/bilibili-8h/Go转职教程3-Goroutine.md",
     "mygo/course/bilibili-8h/Go转职教程2-语言.md",
     "mygo/course/bilibili-8h/Go转职教程1-基础.md",
