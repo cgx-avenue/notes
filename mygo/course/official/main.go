@@ -7,7 +7,8 @@ import (
 )
 
 func myWeb(w http.ResponseWriter, r *http.Request){
-	fmt.Fprintf(w,"this is a beginning")
+	r.ParseForm()
+	for k,v :=
 }
 
 func main(){
