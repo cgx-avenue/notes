@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md",
+                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20_瞎折腾/小小服务器/树莓派4B.md"
+                "file": "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "20_瞎折腾/小小服务器/树莓派4B.md",
     "mygo/Go学习杂记（0 好的教程）.md",
     "mygo/Go学习杂记（4 Gopls）.md",
     "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
@@ -239,7 +240,6 @@
     "21_3D建模与打印/3D建模 （1 3D扫描）.md",
     "21_3D建模与打印/3D建模 （2 软件）.md",
     "21_3D建模与打印/Bambu_X1/常见问题+使用技巧.md",
-    "80_Development/网络Network/PRP冗余.md",
     "未命名.canvas"
   ]
 }
