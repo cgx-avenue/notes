@@ -7,7 +7,13 @@ import (
 )
 
 func myWeb(w http.ResponseWriter, r *http.Request) {
-	
+	t := template.New("index")
+	t.Parse("<div id='templateTextDiv'>Hi, {{.name}},{{.someStr}}</div>")
+	data := map[string]string{
+		"name":"zeta",
+		"someStr":"this is a beginning",
+	}
+	t.Execute(w,data)
 }
 
 func main() {
