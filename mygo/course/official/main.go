@@ -3,17 +3,11 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"text/template"
 )
 
 func myWeb(w http.ResponseWriter, r *http.Request) {
-	r.ParseForm()
-	for k, v := range r.URL.Query() {
-		fmt.Println("key:", k, ",value:", v[0])
-	}
-	for k, v := range r.PostForm {
-		fmt.Println("key:", k, ",value:", v[0])
-	}
-	fmt.Fprintln(w, "this is a beginning")
+	
 }
 
 func main() {
