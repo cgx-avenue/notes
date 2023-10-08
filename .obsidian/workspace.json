@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
+                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
+                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
+                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/搜索文件的命令.md"
+                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md"
               }
             }
           },
@@ -194,10 +194,11 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
+    "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
     "80_Development/OS/Linux/使用技巧/imgs/Pasted image 20231008144449.png",
     "80_Development/OS/Linux/使用技巧/imgs/Pasted image 20231008143852.png",
     "80_Development/OS/Linux/使用技巧/实用linux命令.md",
-    "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
     "80_Development/OS/Linux/使用技巧/imgs/Pasted image 20231008143430.png",
     "80_Development/OS/Linux/使用技巧/imgs/Pasted image 20231008143311.png",
     "80_Development/OS/Linux/使用技巧/imgs",
@@ -225,7 +226,6 @@
     "mygo/course/bilibili-8h/Go转职教程4-Channel.md",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927151517.png",
     "mygo/course/bilibili-8h/imgs/Pasted image 20230927151120.png",
-    "mygo/course/bilibili-8h/imgs/Pasted image 20230927151000.png",
     "mygo/course/bilibili-8h/Go转职教程3-Goroutine.md",
     "mygo/course/bilibili-8h/Go转职教程2-语言.md",
     "mygo/course/bilibili-8h/Go转职教程1-基础.md",
