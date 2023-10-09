@@ -65,6 +65,15 @@ pip install -r requirements.txt
 ```
 ![[imgs/Pasted image 20231009160229.png]]
 
+# 初步使用感受
+## 只能生成512×512的图
+一大了就out of memory。
+## 生成图片的速度
+如下，说快不快说慢不满
+![[imgs/Pasted image 20231009161254.png]]
+比较玄学的事不知道训练几次之后，也会out of memory。
+## 例子
+![[imgs/Pasted image 20231009161721.png]]
 
 
 # 一些坑和解决办法
