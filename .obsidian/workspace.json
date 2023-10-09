@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
+                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
+                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
+                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md"
+                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md"
               }
             }
           },
@@ -194,8 +194,10 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
     "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
+    "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
+    "80_Development/人工智能AI",
+    "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
     "80_Development/OS/Linux/使用技巧/imgs/Pasted image 20231008144449.png",
     "80_Development/OS/Linux/使用技巧/imgs/Pasted image 20231008143852.png",
     "80_Development/OS/Linux/使用技巧/实用linux命令.md",
@@ -216,7 +218,6 @@
     "mygo/Go学习杂记（3 GoModules）.md",
     "mygo/course/未命名",
     "mygo/course/official/go.work",
-    "mygo/course/bilibili-8h/GolangStudy/go.work",
     "mygo/Go学习杂记（2 Go为什么类型后置）.md",
     "mygo/Go学习杂记（1 Go的设计哲学）.md",
     "mygo/course/bilibili-8h/Go转职教程5-GoModules.md",
@@ -239,7 +240,6 @@
     "21_3D建模与打印/3D打印 （3 模型文件和Gcode）.md",
     "21_3D建模与打印/3D打印 （4 材料）.md",
     "21_3D建模与打印/3D打印（1 基础）.md",
-    "21_3D建模与打印/3D打印（2 切片和显示软件）.md",
     "未命名.canvas"
   ]
 }
