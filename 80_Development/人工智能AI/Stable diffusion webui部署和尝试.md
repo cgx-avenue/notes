@@ -56,9 +56,17 @@ pip install -r requirements.txt
 2. 安装那两个txt时候可能会不停出问题，多重复几次，搞不定的依赖就用aliyun的源手动安装。
 
 # 启动
-由于我的显卡只有4G VRAM，所以我也只能
+由于我的显卡只有4G VRAM，所以我也只能用--lowvram（https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/7018），同时只能把精度降低，用--no-half和--disable-nan-check.
+不用launch.py 是因为webui.sh里调用了launch.py.
+不用webui-user.py是因为我这跑不起来（权限不够，懒得改了），同时webui.sh也接受命令行参数。反正跑起来了就是了。
 ```bash
 # 用webui.sh
 ./webui.sh --lowvram --no-half --disable-nan-check
 ```
 ![[imgs/Pasted image 20231009160229.png]]
+
+
+
+# 一些坑和解决办法
+1. https://zhuanlan.zhihu.com/p/610773810
+2. https://www.krwoo.com/ai-hui-hua-jiao-cheng/stable-diffusion-sheng-cheng-chu-xian-cuo-wu-nansexception-a-tensor-with-all-nans-was-produced-in/
