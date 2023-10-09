@@ -11,11 +11,9 @@
             "id": "e65567ec6e4b5a34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
-                "mode": "source",
-                "source": false
+                "file": "80_Development/人工智能AI/imgs/Pasted image 20231009161721.png"
               }
             }
           }
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
+                "file": "80_Development/人工智能AI/imgs/Pasted image 20231009161721.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
+                "file": "80_Development/人工智能AI/imgs/Pasted image 20231009161721.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md"
+                "file": "80_Development/人工智能AI/imgs/Pasted image 20231009161721.png"
               }
             }
           },
@@ -194,6 +192,7 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
     "80_Development/人工智能AI/imgs/Pasted image 20231009161721.png",
     "80_Development/人工智能AI/imgs/Pasted image 20231009161254.png",
     "80_Development/人工智能AI/imgs/Pasted image 20231009160229.png",
@@ -205,11 +204,9 @@
     "80_Development/人工智能AI/imgs/Pasted image 20231009153101.png",
     "80_Development/人工智能AI/imgs",
     "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
-    "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
     "80_Development/人工智能AI",
     "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
     "80_Development/OS/Linux/使用技巧/imgs/Pasted image 20231008144449.png",
-    "80_Development/OS/Linux/使用技巧/imgs/Pasted image 20231008143852.png",
     "80_Development/OS/Linux/使用技巧/实用linux命令.md",
     "80_Development/OS/Linux/使用技巧/imgs",
     "20_瞎折腾/小小服务器/树莓派4B.md",
