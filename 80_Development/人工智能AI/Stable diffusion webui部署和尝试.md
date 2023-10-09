@@ -10,5 +10,10 @@ Thinkpad X1 Extreme Gen3
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 # 安装
 参照了：
-https://blog.csdn.net/formaever/article/details/129649684
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
+* https://blog.csdn.net/formaever/article/details/129649684
+* https://github.com/AUTOMATIC1111/stable-diffusion-webui
+## 我的成功步骤
+### 安装cuda
+ubuntu里可以通过`nvidia-smi`查看，我之前已经安装过了cuda，显示如下：
+![[imgs/Pasted image 20231009153723.png]]
+## conda创建python环境
