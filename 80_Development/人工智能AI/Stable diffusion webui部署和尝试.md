@@ -79,3 +79,7 @@ pip install -r requirements.txt
 # 一些坑和解决办法
 1. https://zhuanlan.zhihu.com/p/610773810
 2. https://www.krwoo.com/ai-hui-hua-jiao-cheng/stable-diffusion-sheng-cheng-chu-xian-cuo-wu-nansexception-a-tensor-with-all-nans-was-produced-in/
+
+# 模型下在
+1. https://civitai.com/
+2. 
