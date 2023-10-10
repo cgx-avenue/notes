@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
+                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "torch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
