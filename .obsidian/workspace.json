@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
+                "file": "80_Development/编程语言与设计模式/Python/Python中的各种符号.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
+                "file": "80_Development/编程语言与设计模式/Python/Python中的各种符号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
+                "file": "80_Development/编程语言与设计模式/Python/Python中的各种符号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/编程语言与设计模式/Python/闭包和装饰器.md"
+                "file": "80_Development/编程语言与设计模式/Python/Python中的各种符号.md"
               }
             }
           },
@@ -194,6 +194,8 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
+    "80_Development/编程语言与设计模式/Python/Python中的各种符号.md",
     "80_Development/人工智能AI/imgs/Pasted image 20231009161721.png",
     "80_Development/人工智能AI/imgs/Pasted image 20231009153723.png",
     "80_Development/人工智能AI/imgs/Pasted image 20231009155323.png",
@@ -238,7 +240,6 @@
     "20_瞎折腾/摄影/器材/配件.md",
     "20_瞎折腾/摄影/器材/尼康Z30镜头.md",
     "21_3D建模与打印/3D打印 （3 模型文件和Gcode）.md",
-    "21_3D建模与打印/3D打印 （4 材料）.md",
     "未命名.canvas"
   ]
 }
