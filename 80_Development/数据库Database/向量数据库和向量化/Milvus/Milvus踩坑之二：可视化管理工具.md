@@ -1,4 +1,4 @@
-# ~~milvus-insight
+# milvus-insight
 已弃用
 
 # Attu
@@ -12,4 +12,19 @@ docker run -p 8000:3000 -e MILVUS_URL={milvus server IP}:19530 zilliz/attu:v2.3.
 但是打开后怎么也连不上本机的Milvus，要么`no connection`，要么`Milvus not ready`，虽然官网里说了这么一句：
 > Note that "127.0.0.1" or "localhost" will not work when running Attu on Docker.
 
-但是换成本机真实IP也还是不行，所以我就猜应该也是要用Docker network里的172开头的地址。但Attu的container就需要
+但是换成本机真实IP也还是不行，所以我就猜应该也是要用Docker network里的172开头的地址。但Attu的container就需要连接到Milvus所在的network，默认名称也是`Milvus`。
+
+此外，上面的`8000`端口，也提示我已经被占用了，索性改成`8003`。
+## 正确做法
+如下：
+1. `{milvus server IP`使用172开头的IP
+2. docker run命令里增加`--network milvus`
+3. 端口8000修改到8003
+```bash
+sudo docker run -p 8003:3000 --network milvus -e MILVUS_URL={milvus server IP}:19530 zilliz/attu:v2.3.1
+```
+![[imgs/Pasted image 20231012140351.png]]
+
+## 实际效果
+访问的时候用172开头的，默认用户名和密码均为空。
+![[imgs/Pasted image 20231012140447.png]]
