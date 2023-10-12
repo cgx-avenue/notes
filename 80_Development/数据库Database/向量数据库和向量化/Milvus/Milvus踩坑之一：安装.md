@@ -12,6 +12,7 @@ Prerequisites: Docker
 按照官网下载Docker compose file之后，直接`sudo docker compose up -d` 运行。安装好后去portainer里把standalone，etcd和minio一起多重启几次，终于跑起来了。状态都是healthy的话也没关系，如下图。
 ![[imgs/Pasted image 20231012134616.png]]
 ## 注意
-注意portainer里IP Address一栏里standalone 这个container的地址，如果使用Towhee、Attu等连接到
+注意portainer里IP Address一栏里standalone 这个container的地址，如果使用Towhee、Attu等连接时，要用172开头的ip地址。
+
 
 
