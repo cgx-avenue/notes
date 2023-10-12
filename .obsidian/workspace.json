@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus安装.md",
+                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之一：安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus安装.md",
+                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之一：安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus安装.md",
+                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之一：安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus安装.md"
+                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之一：安装.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/数据库Database/向量数据库和向量化/Milvus/imgs/Pasted image 20231012134616.png",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus.md",
-    "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus安装.md",
+    "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之一：安装.md",
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee安装和初步使用.md",
     "80_Development/数据库Database/向量数据库和向量化/向量数据库.md",
     "80_Development/数据库Database/向量数据库和向量化/Towhee",
@@ -239,7 +240,6 @@
     "20_瞎折腾/笔记软件的选择.md",
     "20_瞎折腾/梯子的选择.md",
     "20_瞎折腾/Switch/Switch游戏合集.md",
-    "20_瞎折腾/Switch/Switch开坑记录.md",
     "未命名.canvas"
   ]
 }

@@ -59,7 +59,7 @@ Shard 是指将数据写入操作分散到不同节点上，使 Milvus 能充分
 
 
 # 安装
-[[Milvus安装]]
+[[Milvus踩坑之一：安装]]
 
 # 参考
 [强大的向量数据库：Milvus - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/405186060)

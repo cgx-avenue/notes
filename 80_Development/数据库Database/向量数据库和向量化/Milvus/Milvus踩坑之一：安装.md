@@ -7,4 +7,11 @@
 ![](imgs/2023-05-18-15-02-23.png)
 
 # Ubuntu 20.04
+Prerequisites: Docker
+参照： https://milvus.io/docs/install_standalone-docker.md
+按照官网下载Docker compose file之后，直接`sudo docker compose up -d` 运行。安装好后去portainer里把standalone，etcd和minio一起多重启几次，终于跑起来了。状态都是healthy的话也没关系，如下图。
+![[imgs/Pasted image 20231012134616.png]]
+## 注意
+注意portainer里IP Address一栏里standalone 这个container的地址，如果使用Towhee、Attu等连接到
+
 
