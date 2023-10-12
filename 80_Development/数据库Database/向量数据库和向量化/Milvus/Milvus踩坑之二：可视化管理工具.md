@@ -3,6 +3,7 @@
 
 # Attu
 https://github.com/zilliztech/attu
+官方吹水？：https://zhuanlan.zhihu.com/p/473624021
 ## 踩坑过程
 千万别用下面的这个！！！官方教程里只有一个命令：
 ```bash
@@ -15,13 +16,16 @@ docker run -p 8000:3000 -e MILVUS_URL={milvus server IP}:19530 zilliz/attu:v2.3.
 但是换成本机真实IP也还是不行，所以我就猜应该也是要用Docker network里的172开头的地址。但Attu的container就需要连接到Milvus所在的network，默认名称也是`Milvus`。
 
 此外，上面的`8000`端口，也提示我已经被占用了，索性改成`8003`。
+
+关于`Milvus not reay`，参见https://github.com/zilliztech/attu/issues/249，Attu降级到2.2.2.
 ## 正确做法
 如下：
 1. `{milvus server IP`使用172开头的IP
 2. docker run命令里增加`--network milvus`
 3. 端口8000修改到8003
+4. 使用2.2.2版本
 ```bash
-sudo docker run -p 8003:3000 --network milvus -e MILVUS_URL={milvus server IP}:19530 zilliz/attu:v2.3.1
+sudo docker run -p 8003:3000 --network milvus -e MILVUS_URL={milvus server IP}:19530 zilliz/attu:v2.2.2
 ```
 ![[imgs/Pasted image 20231012140351.png]]
 
