@@ -13,4 +13,6 @@
 pip install gradio
 ```
 
-
+# 文档
+1. https://www.gradio.app/guides/quickstart
+2. 

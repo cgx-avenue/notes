@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/人工智能AI/Gradio.md",
+                "file": "03_读书笔记/2023/傅盛认知三部曲.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/人工智能AI/Gradio.md",
+                "file": "03_读书笔记/2023/傅盛认知三部曲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/人工智能AI/Gradio.md",
+                "file": "03_读书笔记/2023/傅盛认知三部曲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/人工智能AI/Gradio.md"
+                "file": "03_读书笔记/2023/傅盛认知三部曲.md"
               }
             }
           },
@@ -194,12 +194,15 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "00_日志和总结/天/2023-10-12.md",
+    "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列2：概念，基础.md",
+    "03_读书笔记/2023/傅盛认知三部曲.md",
+    "03_读书笔记/2023",
+    "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列3：算子.md",
     "80_Development/人工智能AI/Gradio.md",
+    "00_日志和总结/天/2023-10-12.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之二：可视化管理工具.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之三：PyMilvus.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus.md",
-    "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列2：概念，基础.md",
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列1：安装和示例.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/imgs/Pasted image 20231012140447.png",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/imgs/Pasted image 20231012140351.png",
@@ -232,14 +235,11 @@
     "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
     "mygo/Go学习杂记（0 好的教程）.md",
     "mygo/Go学习杂记（4 Gopls）.md",
-    "mygo/imgs",
     "mygo/Go学习杂记（3 GoModules）.md",
     "mygo/Go学习杂记（2 Go为什么类型后置）.md",
     "mygo/Go学习杂记（1 Go的设计哲学）.md",
     "mygo/course/bilibili-8h/Go转职教程5-GoModules.md",
     "mygo/course/bilibili-8h/Go转职教程4-Channel.md",
-    "mygo/course/bilibili-8h/Go转职教程3-Goroutine.md",
-    "mygo/course/bilibili-8h/Go转职教程2-语言.md",
     "未命名.canvas"
   ]
 }
