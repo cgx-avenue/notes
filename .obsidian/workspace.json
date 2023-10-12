@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
+                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus安装.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "milvus",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ba3efb1286a7417",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
+                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/Milvus/Milvus.md",
+                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/数据库Database/向量数据库/Milvus/Milvus.md"
+                "file": "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus安装.md"
               }
             }
           },
@@ -195,6 +194,11 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus.md",
+    "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus安装.md",
+    "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee安装和初步使用.md",
+    "80_Development/数据库Database/向量数据库和向量化/向量数据库.md",
+    "80_Development/数据库Database/向量数据库和向量化/Towhee",
     "80_Development/编程语言与设计模式/Python/Python中的各种符号.md",
     "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
     "80_Development/人工智能AI/imgs/Pasted image 20231009161721.png",
@@ -225,7 +229,6 @@
     "mygo/Go学习杂记（4 Gopls）.md",
     "mygo/imgs",
     "mygo/Go学习杂记（3 GoModules）.md",
-    "mygo/course/未命名",
     "mygo/Go学习杂记（2 Go为什么类型后置）.md",
     "mygo/Go学习杂记（1 Go的设计哲学）.md",
     "mygo/course/bilibili-8h/Go转职教程5-GoModules.md",
@@ -237,10 +240,6 @@
     "20_瞎折腾/梯子的选择.md",
     "20_瞎折腾/Switch/Switch游戏合集.md",
     "20_瞎折腾/Switch/Switch开坑记录.md",
-    "20_瞎折腾/摄影/器材/尼康Z30购买和使用.md",
-    "20_瞎折腾/摄影/器材/配件.md",
-    "20_瞎折腾/摄影/器材/尼康Z30镜头.md",
-    "21_3D建模与打印/3D打印 （3 模型文件和Gcode）.md",
     "未命名.canvas"
   ]
 }
