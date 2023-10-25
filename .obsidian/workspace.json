@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础2：工作原理.md",
+                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础3：种类和工作模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础2：工作原理.md",
+                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础3：种类和工作模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础2：工作原理.md",
+                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础3：种类和工作模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础2：工作原理.md"
+                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础3：种类和工作模式.md"
               }
             }
           },
@@ -194,11 +194,13 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/传感器/激光雷达LiDAR/激光雷达基础2：工作原理.md",
+    "80_Development/传感器/激光雷达LiDAR/激光雷达基础3：种类和工作模式.md",
+    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025144743.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025144516.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025143511.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025143420.png",
     "80_Development/传感器/激光雷达LiDAR/激光雷达基础1：Lidar，Radar.md",
-    "80_Development/传感器/激光雷达LiDAR/激光雷达基础2：工作原理.md",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025142900.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025142807.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025142710.png",
@@ -210,8 +212,6 @@
     "03_读书笔记/2023/傅盛认知三部曲.md",
     "03_读书笔记/2023/imgs/Pasted image 20231012154612.png",
     "03_读书笔记/2023/imgs/Pasted image 20231012154553.png",
-    "03_读书笔记/2023/imgs/Pasted image 20231012154536.png",
-    "03_读书笔记/2023/imgs/Pasted image 20231012154518.png",
     "03_读书笔记/2023/imgs",
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列2：概念，基础.md",
     "03_读书笔记/2023",
