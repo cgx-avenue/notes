@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础4：数据集和点云库.md",
+                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础1：Lidar，Radar.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础4：数据集和点云库.md",
+                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础1：Lidar，Radar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础4：数据集和点云库.md",
+                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础1：Lidar，Radar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础4：数据集和点云库.md"
+                "file": "80_Development/传感器/激光雷达LiDAR/激光雷达基础1：Lidar，Radar.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "80_Development/传感器/激光雷达LiDAR/激光雷达基础2：工作原理.md",
+    "80_Development/传感器/激光雷达LiDAR/激光雷达基础5：安全性.md",
     "80_Development/传感器/激光雷达LiDAR/激光雷达基础4：数据集和点云库.md",
+    "80_Development/传感器/激光雷达LiDAR/激光雷达基础2：工作原理.md",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151749.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151718.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151602.png",
@@ -239,7 +240,6 @@
     "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
     "mygo/Go学习杂记（0 好的教程）.md",
     "mygo/Go学习杂记（4 Gopls）.md",
-    "mygo/Go学习杂记（3 GoModules）.md",
     "未命名.canvas"
   ]
 }
