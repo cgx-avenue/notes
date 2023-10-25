@@ -194,6 +194,10 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025145717.png",
+    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025145554.png",
+    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025145445.png",
+    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025145420.png",
     "80_Development/传感器/激光雷达LiDAR/激光雷达基础2：工作原理.md",
     "80_Development/传感器/激光雷达LiDAR/激光雷达基础3：种类和工作模式.md",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025144743.png",
@@ -204,14 +208,11 @@
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025142900.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025142807.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025142710.png",
-    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025142415.png",
     "80_Development/传感器/激光雷达LiDAR/imgs",
     "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
     "80_Development/传感器/激光雷达LiDAR",
     "80_Development/传感器",
     "03_读书笔记/2023/傅盛认知三部曲.md",
-    "03_读书笔记/2023/imgs/Pasted image 20231012154612.png",
-    "03_读书笔记/2023/imgs/Pasted image 20231012154553.png",
     "03_读书笔记/2023/imgs",
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列2：概念，基础.md",
     "03_读书笔记/2023",
@@ -239,7 +240,6 @@
     "mygo/Go学习杂记（0 好的教程）.md",
     "mygo/Go学习杂记（4 Gopls）.md",
     "mygo/Go学习杂记（3 GoModules）.md",
-    "mygo/Go学习杂记（2 Go为什么类型后置）.md",
     "未命名.canvas"
   ]
 }
