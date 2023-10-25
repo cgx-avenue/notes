@@ -194,6 +194,10 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025142807.png",
+    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025142710.png",
+    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025142415.png",
+    "80_Development/传感器/激光雷达LiDAR/imgs",
     "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
     "80_Development/传感器/激光雷达LiDAR/激光雷达基础1：Lidar，Radar.md",
     "80_Development/传感器/激光雷达LiDAR",
@@ -217,8 +221,6 @@
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之三：PyMilvus.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus.md",
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列1：安装和示例.md",
-    "80_Development/数据库Database/向量数据库和向量化/Milvus/imgs/Pasted image 20231012140447.png",
-    "80_Development/数据库Database/向量数据库和向量化/Milvus/imgs/Pasted image 20231012140351.png",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之一：安装.md",
     "80_Development/数据库Database/向量数据库和向量化/向量数据库.md",
     "80_Development/数据库Database/向量数据库和向量化/Towhee",
@@ -232,14 +234,12 @@
     "80_Development/OS/Linux/使用技巧/imgs",
     "20_瞎折腾/小小服务器/树莓派4B.md",
     "mypython/difs.txt",
-    "mypython/delete_nefs_based_on_jpgs.py",
     "20_瞎折腾/小小服务器/青龙面板&每日签到配置.md",
     "mygo/Go学习杂记（0 好的教程）.md",
     "mygo/Go学习杂记（4 Gopls）.md",
     "mygo/Go学习杂记（3 GoModules）.md",
     "mygo/Go学习杂记（2 Go为什么类型后置）.md",
     "mygo/Go学习杂记（1 Go的设计哲学）.md",
-    "mygo/course/bilibili-8h/Go转职教程5-GoModules.md",
     "未命名.canvas"
   ]
 }
