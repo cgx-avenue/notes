@@ -11,6 +11,8 @@ Radar的全称是**Ra**dio **D**etection **a**nd **R**anging，无线电的�
 
 ![[imgs/Pasted image 20231025142415.png]]
 
+看一下Refs2
+
 # 测量原理
 详细的参见[[激光雷达基础2：工作原理]]
 ![[imgs/Pasted image 20231025142710.png]]
@@ -35,7 +37,13 @@ Radar的全称是**Ra**dio **D**etection **a**nd **R**anging，无线电的�
 
 其余的细节请参照refs1
 
+# 与视觉派之争
+https://blog.csdn.net/hhaowang/article/details/121267571
+
+
+
+
 
 # Refs
 1. https://zhuanlan.zhihu.com/p/449269751
-2. 
+2. https://www.zhihu.com/question/387137737
