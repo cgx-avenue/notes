@@ -8,4 +8,6 @@ select * from pg_available_extensions;
 select * from pg_availabe_extensions where name like 'timescaledb'
 ```
 
+![[imgs/Pasted image 20231026104925.png]]
+
 
