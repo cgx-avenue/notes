@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/数据库Database/postgresql/postgresql查看版本，插件.md",
+                "file": "81_开源项目/00_Readme.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/数据库Database/postgresql/postgresql查看版本，插件.md",
+                "file": "81_开源项目/00_Readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/数据库Database/postgresql/postgresql查看版本，插件.md",
+                "file": "81_开源项目/00_Readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/数据库Database/postgresql/postgresql查看版本，插件.md"
+                "file": "81_开源项目/00_Readme.md.md"
               }
             }
           },
@@ -194,10 +194,13 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "20_瞎折腾/Switch/Switch开坑记录.md",
+    "81_开源项目/00_Readme.md.md",
+    "81_开源项目",
+    "80_Development/数据库Database/postgresql/postgresql查看版本，插件.md",
     "80_Development/数据库Database/postgresql/imgs/Pasted image 20231026104925.png",
     "80_Development/数据库Database/postgresql/imgs",
     "80_Development/数据库Database/数据库.md",
-    "80_Development/数据库Database/postgresql/postgresql查看版本，插件.md",
     "80_Development/数据库Database/postgresql",
     "80_Development/传感器/激光雷达LiDAR/激光雷达基础1：Lidar，Radar.md",
     "80_Development/传感器/激光雷达LiDAR/激光雷达基础5：安全性.md",
@@ -213,7 +216,6 @@
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151236.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151204.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151051.png",
-    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151029.png",
     "80_Development/传感器/激光雷达LiDAR/imgs",
     "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
     "80_Development/传感器/激光雷达LiDAR",
@@ -236,10 +238,8 @@
     "80_Development/编程语言与设计模式/Python/闭包和装饰器.md",
     "80_Development/人工智能AI/imgs",
     "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
-    "80_Development/人工智能AI",
     "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
     "80_Development/OS/Linux/使用技巧/实用linux命令.md",
-    "20_瞎折腾/小小服务器/树莓派4B.md",
     "未命名.canvas"
   ]
 }
