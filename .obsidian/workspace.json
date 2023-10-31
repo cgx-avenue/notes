@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/ubuntu20.04物理机安装和开发环境配置.md",
+                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ubuntu",
+                "query": "cuda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,7 +193,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e65567ec6e4b5a34",
+  "active": "2316de639456b92c",
   "lastOpenFiles": [
     "81_开源项目/00_Readme.md.md",
     "30_乱七八糟的知识/NAS折腾何时是个头.md",
