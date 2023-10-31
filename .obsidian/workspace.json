@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "81_开源项目/00_Readme.md.md",
+                "file": "80_Development/OS/Linux/使用技巧/ubuntu20.04物理机安装和开发环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "81_开源项目/00_Readme.md.md",
+                "file": "80_Development/OS/Linux/使用技巧/ubuntu20.04物理机安装和开发环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "81_开源项目/00_Readme.md.md"
+                "file": "80_Development/OS/Linux/使用技巧/ubuntu20.04物理机安装和开发环境配置.md"
               }
             }
           },
@@ -193,10 +193,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2316de639456b92c",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "30_乱七八糟的知识/NAS折腾何时是个头.md",
     "81_开源项目/00_Readme.md.md",
+    "30_乱七八糟的知识/NAS折腾何时是个头.md",
     "README.md",
     "20_瞎折腾/Switch/Switch开坑记录.md",
     "81_开源项目",
