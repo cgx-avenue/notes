@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/版本管理/git/git配置和ssh.md",
+                "file": "20_瞎折腾/梯子的选择.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "v2ray",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9ba3efb1286a7417",
@@ -192,7 +193,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e65567ec6e4b5a34",
+  "active": "2316de639456b92c",
   "lastOpenFiles": [
     "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
     "80_Development/版本管理/git/git配置和ssh.md",
