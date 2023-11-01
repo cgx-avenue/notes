@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
+                "file": "20_瞎折腾/梯子的选择.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "l",
+                "query": "indi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
+                "file": "80_Development/版本管理/git/git配置和ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
+                "file": "80_Development/版本管理/git/git配置和ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md"
+                "file": "80_Development/版本管理/git/git配置和ssh.md"
               }
             }
           },
@@ -181,13 +181,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
@@ -195,7 +195,6 @@
   },
   "active": "2316de639456b92c",
   "lastOpenFiles": [
-    "20_瞎折腾/梯子的选择.md",
     "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
     "80_Development/版本管理/git/git配置和ssh.md",
     "80_Development/版本管理/git",
@@ -241,6 +240,7 @@
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列1：安装和示例.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之一：安装.md",
     "80_Development/数据库Database/向量数据库和向量化/向量数据库.md",
+    "80_Development/编程语言与设计模式/Python/Python中的各种符号.md",
     "未命名.canvas"
   ]
 }
