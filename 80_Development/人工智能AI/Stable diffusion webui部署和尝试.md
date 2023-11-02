@@ -18,7 +18,8 @@ ubuntu里可以通过`nvidia-smi`查看，我之前已经安装过了cuda，显�
 ![[imgs/Pasted image 20231009153723.png]]
 ## conda创建python环境
 ```bash
-conda create -n sdwebui python==3.10.9
+# use python 3.8
+conda create -n sdwebui python=3.8 
 # activate conda env
 conda activate sdwebui
 # upgrade pip and change pip source
