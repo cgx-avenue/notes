@@ -43,8 +43,27 @@ from sh import ifconfig
 print ifconfig("eth0")
 ```
 
-# 9.python-fire
+# 9. python-fire
 [python-fire](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/python-fire)：Fire 是 Google 开源的 Python 库，可自动将您的代码转变成 CLI，无需您做任何额外工作。您不必定义参数，设置帮助信息，或者编写定义代码运行方式的 main 函数。相反，您只需从 main 模块调用“Fire”函数，其余工作全部交由 Python Fire 来完成。示例代码如下：
 
 # 10. ltp
 语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心开源的一整套中文语言处理系统。提供了一系列中文自然语言处理工具，这些工具可以用于中文文本进行分词、词性标注、句法分析等工作
+
+# 11. freezegun
+[freezegun](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spulec/freezegun)：时间漫步模块，模拟到某一个时间，使用简单方式多样，实现了装饰器、上下文等调用方式。示例代码如下：
+
+```python
+from freezegun import freeze_time
+import datetime
+import unittest
+
+
+@freeze_time("2012-01-14")
+def test():
+    assert datetime.datetime.now() == datetime.datetime(2012, 1, 14)
+```
+
+
+
+
+
