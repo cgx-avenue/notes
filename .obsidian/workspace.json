@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "81_开源项目/02__Go开源项目.md",
+                "file": "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tushare",
+                "query": "find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9ba3efb1286a7417",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "81_开源项目/02__Go开源项目.md",
+                "file": "80_Development/版本管理/git/git配置和ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "81_开源项目/02__Go开源项目.md",
+                "file": "80_Development/版本管理/git/git配置和ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "81_开源项目/02__Go开源项目.md"
+                "file": "80_Development/版本管理/git/git配置和ssh.md"
               }
             }
           },
@@ -180,37 +181,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "e65567ec6e4b5a34",
+  "active": "2316de639456b92c",
   "lastOpenFiles": [
     "81_开源项目/imgs/Pasted image 20231102145055.png",
-    "81_开源项目/00_Readme.md.md",
     "81_开源项目/02__Go开源项目.md",
-    "81_开源项目/01_Python开源项目.md",
-    "81_开源项目/99_未分类的开源项目.md",
     "81_开源项目/imgs/Pasted image 20231102142643.png",
     "81_开源项目/imgs",
-    "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
-    "80_Development/人工智能AI/Gradio.md",
+    "81_开源项目/99_未分类的开源项目.md",
+    "81_开源项目/01_Python开源项目.md",
     "80_Development/人工智能AI/imgs/Pasted image 20231102134949.png",
     "80_Development/人工智能AI/imgs/Pasted image 20231102134857.png",
-    "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
-    "20_瞎折腾/梯子的选择.md",
+    "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
     "80_Development/版本管理/git/git配置和ssh.md",
     "80_Development/版本管理/git",
     "80_Development/版本管理",
     "80_Development/OS/Linux/使用技巧/ubuntu20.04物理机安装和开发环境配置.md",
+    "81_开源项目/00_Readme.md.md",
     "30_乱七八糟的知识/NAS折腾何时是个头.md",
     "README.md",
     "20_瞎折腾/Switch/Switch开坑记录.md",
@@ -238,8 +236,11 @@
     "03_读书笔记/2023/imgs",
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列2：概念，基础.md",
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列3：算子.md",
+    "80_Development/人工智能AI/Gradio.md",
     "00_日志和总结/天/2023-10-12.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之二：可视化管理工具.md",
+    "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之三：PyMilvus.md",
+    "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus.md",
     "未命名.canvas"
   ]
 }
