@@ -1,4 +1,5 @@
-Date： 2023-10-09
+	Date:2023-10-09
+update:
 # 部署环境
 Thinkpad X1 Extreme Gen3
 ![[imgs/Pasted image 20231009153101.png]]
