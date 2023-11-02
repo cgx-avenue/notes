@@ -92,6 +92,7 @@ python launch.py --no-half --disable-nan-check
 ```
 
 # 初步使用感受
+## T
 ## 只能生成512×512的图
 一大了就out of memory。
 ## 生成图片的速度

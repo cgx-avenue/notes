@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "80_Development/OS/Linux/使用技巧/搜索文件的命令.md",
+                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "stable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9ba3efb1286a7417",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "80_Development/版本管理/git/git配置和ssh.md",
+                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "80_Development/版本管理/git/git配置和ssh.md",
+                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "80_Development/版本管理/git/git配置和ssh.md"
+                "file": "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md"
               }
             }
           },
@@ -181,23 +180,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "2316de639456b92c",
+  "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "80_Development/人工智能AI/Gradio.md",
+    "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
     "80_Development/人工智能AI/imgs/Pasted image 20231102134949.png",
     "80_Development/人工智能AI/imgs/Pasted image 20231102134857.png",
-    "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
+    "80_Development/OS/Linux/使用技巧/Ubuntu下为AppImage应用添加图标并添加到应用.md",
+    "20_瞎折腾/梯子的选择.md",
     "80_Development/版本管理/git/git配置和ssh.md",
     "80_Development/版本管理/git",
     "80_Development/版本管理",
@@ -224,7 +226,6 @@
     "80_Development/传感器/激光雷达LiDAR/激光雷达基础3：种类和工作模式.md",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151248.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151236.png",
-    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151204.png",
     "80_Development/传感器/激光雷达LiDAR/imgs",
     "80_Development/传感器/激光雷达LiDAR",
     "80_Development/传感器",
@@ -233,14 +234,11 @@
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列2：概念，基础.md",
     "03_读书笔记/2023",
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列3：算子.md",
-    "80_Development/人工智能AI/Gradio.md",
     "00_日志和总结/天/2023-10-12.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之二：可视化管理工具.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之三：PyMilvus.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus.md",
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列1：安装和示例.md",
-    "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之一：安装.md",
-    "80_Development/数据库Database/向量数据库和向量化/向量数据库.md",
     "未命名.canvas"
   ]
 }
