@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "81_开源项目/01_Python开源项目.md",
+                "file": "81_开源项目/99_未分类的开源项目.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "81_开源项目/01_Python开源项目.md",
+                "file": "81_开源项目/99_未分类的开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "81_开源项目/01_Python开源项目.md",
+                "file": "81_开源项目/99_未分类的开源项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "81_开源项目/01_Python开源项目.md"
+                "file": "81_开源项目/99_未分类的开源项目.md"
               }
             }
           },
@@ -194,17 +194,17 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
-    "81_开源项目/02_Go开源项目.md",
-    "81_开源项目/99_未分类的开源项目.md",
     "81_开源项目/01_Python开源项目.md",
+    "81_开源项目/00_Readme.md.md",
+    "81_开源项目/99_未分类的开源项目.md",
     "81_开源项目/04_Csharp开源项目.md",
     "81_开源项目/03_Javascript开源项目.md",
+    "81_开源项目/02_Go开源项目.md",
     "81_开源项目/imgs/Pasted image 20231102151736.png",
     "81_开源项目/imgs/Pasted image 20231102151037.png",
     "81_开源项目/imgs/Pasted image 20231102145459.png",
     "81_开源项目/imgs/Pasted image 20231102145310.png",
     "81_开源项目/imgs/Pasted image 20231102145055.png",
-    "81_开源项目/00_Readme.md.md",
     "81_开源项目/imgs/Pasted image 20231102142643.png",
     "81_开源项目/imgs",
     "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
