@@ -18,8 +18,8 @@ ubuntu里可以通过`nvidia-smi`查看，我之前已经安装过了cuda，显�
 ![[imgs/Pasted image 20231009153723.png]]
 ## conda创建python环境
 ```bash
-# use python 3.8
-conda create -n sdwebui python=3.8 
+# use python 3.10.6 recommended by official git repo
+conda create -n sdwebui python=3.10.6
 # activate conda env
 conda activate sdwebui
 # upgrade pip and change pip source
@@ -31,7 +31,9 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```bash
 pip install -i tb-nightly https://mirrors.aliyun.com/pypi/simple
 ```
-参照：https://www.fujieace.com/python/error-no-matching-distribution-found-for-tb-nightly.html 
+参照：
+1. https://www.fujieace.com/python/error-no-matching-distribution-found-for-tb-nightly.html
+2. https://blog.csdn.net/lsb2002/article/details/131646853
 ## 安装torch
 torch的安装要手动，https://pytorch.org/get-started/locally/ 。因为我的cuda是12.0,所以选择如下之后，用图里生成的命令直接安装。
 ![[imgs/Pasted image 20231009155323.png]]
