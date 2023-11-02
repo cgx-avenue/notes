@@ -1,10 +1,17 @@
-	Date:2023-10-09
-update:
+Date:        2023-10-09
+update:    2023-11-02
 # 部署环境
-Thinkpad X1 Extreme Gen3
+## Thinkpad X1 Extreme Gen3
 ![[imgs/Pasted image 20231009153101.png]]
 ![[imgs/Pasted image 20231009153138.png]]
 显卡4GB显存，官方推荐6GB以上，这也导致了后面发生的一系列问题。
+
+## Dell Tower 5820
+鸟枪换炮，张总非常给力的升级了塔式工作站，显卡3090.
+![[imgs/Pasted image 20231102134857.png]]
+![[imgs/Pasted image 20231102134949.png]]
+
+
 
 # Stable diffusion webui
 ## 官方
@@ -15,9 +22,13 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 * https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ## 安装cuda
-ubuntu里可以通过`nvidia-smi`查看，我之前已经安装过了cuda，显示如下：
+cuda其实在安装好nvidia的driver之后就有了，ubuntu里可以通过`nvidia-smi`查看：
 ![[imgs/Pasted image 20231009153723.png]]
+T5820的图在上面。
+
+
 ## conda创建python环境
+
 ```bash
 # use python 3.10.6 recommended by official git repo
 conda create -n sdwebui python=3.10.6
@@ -27,14 +38,7 @@ conda activate sdwebui
 python -m pip install --upgrade pip
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
-### 注意
-1. pip source这里有问题，后面有些依赖安装不上的时候（特别是`tb-nightly`和几个txt文件里的），需要手动切换到aliyun的。
-```bash
-pip install -i tb-nightly https://mirrors.aliyun.com/pypi/simple
-```
-参照：
-1. https://www.fujieace.com/python/error-no-matching-distribution-found-for-tb-nightly.html
-2. https://blog.csdn.net/lsb2002/article/details/131646853
+
 ## 安装torch
 torch的安装要手动，https://pytorch.org/get-started/locally/ 。因为我的cuda是12.0,所以选择如下之后，用图里生成的命令直接安装。
 ![[imgs/Pasted image 20231009155323.png]]
