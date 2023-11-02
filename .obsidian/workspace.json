@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "81_开源项目/02__Go开源项目.md",
+                "file": "81_开源项目/01_Python开源项目.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "81_开源项目/02__Go开源项目.md",
+                "file": "81_开源项目/01_Python开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "81_开源项目/02__Go开源项目.md",
+                "file": "81_开源项目/01_Python开源项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "81_开源项目/02__Go开源项目.md"
+                "file": "81_开源项目/01_Python开源项目.md"
               }
             }
           },
@@ -194,9 +194,12 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "81_开源项目/imgs/Pasted image 20231102145459.png",
+    "81_开源项目/03_Javascript开源项目.md",
+    "81_开源项目/imgs/Pasted image 20231102145310.png",
+    "81_开源项目/02_Go开源项目.md",
     "81_开源项目/imgs/Pasted image 20231102145055.png",
     "81_开源项目/00_Readme.md.md",
-    "81_开源项目/02__Go开源项目.md",
     "81_开源项目/01_Python开源项目.md",
     "81_开源项目/99_未分类的开源项目.md",
     "81_开源项目/imgs/Pasted image 20231102142643.png",
@@ -228,9 +231,7 @@
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151718.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151602.png",
     "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151530.png",
-    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151511.png",
     "80_Development/传感器/激光雷达LiDAR/激光雷达基础3：种类和工作模式.md",
-    "80_Development/传感器/激光雷达LiDAR/imgs/Pasted image 20231025151248.png",
     "80_Development/传感器/激光雷达LiDAR/imgs",
     "80_Development/传感器/激光雷达LiDAR",
     "80_Development/传感器",
@@ -239,7 +240,6 @@
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列2：概念，基础.md",
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列3：算子.md",
     "00_日志和总结/天/2023-10-12.md",
-    "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之二：可视化管理工具.md",
     "未命名.canvas"
   ]
 }
