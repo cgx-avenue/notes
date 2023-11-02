@@ -56,7 +56,8 @@ cd stable-diffusion-webui/
 pip install -r requirements_versions.txt
 pip install -r requirements.txt
 ```
-### 注意
+
+**注意**
 1. 上面的模型可能后面加载不了，那就在安装好stable-diffusion-webui之后重新下载模型，再copy到所需目录。
 2. 安装那两个txt时候可能会不停出问题，多重复几次，搞不定的依赖就用aliyun的源手动安装。
 3. 第一个txt文件安装时后，pip source这里有问题，后面有些依赖安装不上的时候（特别是`tb-nightly`和几个txt文件里的），需要手动切换到aliyun的。
@@ -73,7 +74,7 @@ https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-p
 ![[imgs/Pasted image 20231009155613.png]]
 
 # 启动
-注意还是推荐参考
+注意还是推荐参考1, 官方是推荐`webui.sh` 但是实际上这个要重新build一个python环境。
 ## X1EG3
 由于我的显卡只有4G VRAM，所以我也只能用--lowvram（https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/7018），同时只能把精度降低，用--no-half和--disable-nan-check.
 不用launch.py 是因为webui.sh里调用了launch.py.
@@ -85,9 +86,9 @@ https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-p
 ![[imgs/Pasted image 20231009160229.png]]
 
 ## T5820
-
+参照的Refs1
 ```bash
-
+python launch.py --no-half --disable-nan-check
 ```
 
 # 初步使用感受
