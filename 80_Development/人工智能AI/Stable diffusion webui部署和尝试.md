@@ -44,7 +44,7 @@ pip3 install torch torchvision torchaudio
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 ```
 ### 下载模型
-打开v2-1_768-ema-pruned.ckpt · stabilityai/stable-diffusion-2-1 at main，下载训练模型。下载完成后，把v2-1_768-ema-pruned.ckpt这个训练模型放入stable-diffusion-webui的models/Stable-diffusion目录下，这个目录专门存放用于生成AI绘图的绘图元素的基础模型库。后续如果在其他网站比如civitai之类的地方下载的ckpt或者safetensors文件也是放在这个文件夹里面。
+打开[v2-1_768-ema-pruned.ckpt · stabilityai/stable-diffusion-2-1 at main](https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-pruned.ckpt)，下载训练模型。下载完成后，把v2-1_768-ema-pruned.ckpt这个训练模型放入stable-diffusion-webui的models/Stable-diffusion目录下，这个目录专门存放用于生成AI绘图的绘图元素的基础模型库。后续如果在其他网站比如civitai之类的地方下载的ckpt或者safetensors文件也是放在这个文件夹里面。
 https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-pruned.ckpt
 ![[imgs/Pasted image 20231009155613.png]]
 
