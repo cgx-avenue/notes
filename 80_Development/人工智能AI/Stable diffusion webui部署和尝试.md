@@ -17,12 +17,10 @@ update:    2023-11-02
 ## 官方
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 # 安装--我的成功步骤
-参照了：
-* https://blog.csdn.net/formaever/article/details/129649684
-* https://github.com/AUTOMATIC1111/stable-diffusion-webui
+重点参照Refs1
 
 ## 安装cuda
-cuda其实在安装好nvidia的driver之后就有了，ubuntu里可以通过`nvidia-smi`查看：
+cuda其实在安装好nvidia的driver之后就有了，ubuntu里可以通过`nvidia-smi`查看，第一行：
 ![[imgs/Pasted image 20231009153723.png]]
 T5820的图在上面。
 
@@ -51,10 +49,6 @@ pip3 install torch torchvision torchaudio
 ```bash
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 ```
-### 下载模型
-打开[v2-1_768-ema-pruned.ckpt · stabilityai/stable-diffusion-2-1 at main](https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-pruned.ckpt)，下载训练模型。下载完成后，把v2-1_768-ema-pruned.ckpt这个训练模型放入stable-diffusion-webui的models/Stable-diffusion目录下，这个目录专门存放用于生成AI绘图的绘图元素的基础模型库。后续如果在其他网站比如civitai之类的地方下载的ckpt或者safetensors文件也是放在这个文件夹里面。
-https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-pruned.ckpt
-![[imgs/Pasted image 20231009155613.png]]
 
 ### 安装
 ```bash
@@ -65,8 +59,22 @@ pip install -r requirements.txt
 ### 注意
 1. 上面的模型可能后面加载不了，那就在安装好stable-diffusion-webui之后重新下载模型，再copy到所需目录。
 2. 安装那两个txt时候可能会不停出问题，多重复几次，搞不定的依赖就用aliyun的源手动安装。
+3. 第一个txt文件安装时后，pip source这里有问题，后面有些依赖安装不上的时候（特别是`tb-nightly`和几个txt文件里的），需要手动切换到aliyun的。
+```bash
+pip install -i tb-nightly https://mirrors.aliyun.com/pypi/simple
+```
+参照：
+1. https://www.fujieace.com/python/error-no-matching-distribution-found-for-tb-nightly.html
+2. https://blog.csdn.net/lsb2002/article/details/131646853
+
+### 下载模型
+打开[v2-1_768-ema-pruned.ckpt · stabilityai/stable-diffusion-2-1 at main](https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-pruned.ckpt)，下载训练模型。下载完成后，把v2-1_768-ema-pruned.ckpt这个训练模型放入stable-diffusion-webui的models/Stable-diffusion目录下，这个目录专门存放用于生成AI绘图的绘图元素的基础模型库。后续如果在其他网站比如civitai之类的地方下载的ckpt或者safetensors文件也是放在这个文件夹里面。
+https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-pruned.ckpt
+![[imgs/Pasted image 20231009155613.png]]
 
 # 启动
+注意还是推荐参考
+## X1EG3
 由于我的显卡只有4G VRAM，所以我也只能用--lowvram（https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/7018），同时只能把精度降低，用--no-half和--disable-nan-check.
 不用launch.py 是因为webui.sh里调用了launch.py.
 不用webui-user.py是因为我这跑不起来（权限不够，懒得改了），同时webui.sh也接受命令行参数。反正跑起来了就是了。
@@ -75,6 +83,12 @@ pip install -r requirements.txt
 ./webui.sh --lowvram --no-half --disable-nan-check
 ```
 ![[imgs/Pasted image 20231009160229.png]]
+
+## T5820
+
+```bash
+
+```
 
 # 初步使用感受
 ## 只能生成512×512的图
@@ -93,4 +107,9 @@ pip install -r requirements.txt
 
 # 模型下载
 1. https://civitai.com/
-2. 
+
+
+
+# Refs
+1. https://blog.csdn.net/formaever/article/details/129649684
+2. https://github.com/AUTOMATIC1111/stable-diffusion-webui
