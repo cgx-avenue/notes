@@ -34,6 +34,9 @@ pip install -i tb-nightly https://mirrors.aliyun.com/pypi/simple
 ## 安装torch
 torch的安装要手动，https://pytorch.org/get-started/locally/ 。因为我的cuda是12.0,所以选择如下之后，用图里生成的命令直接安装。
 ![[imgs/Pasted image 20231009155323.png]]
+```bash
+pip3 install torch torchvision torchaudio
+```
 ## 安装stable-diffusion-webui
 切换到当前用户目录下，使用git命令下载stable-diffusion-webui源码
 
