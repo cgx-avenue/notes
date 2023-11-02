@@ -23,4 +23,10 @@
 ![[imgs/Pasted image 20231102145459.png]]
 
 
+# 4. superset
+[superset](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/superset)：企业级的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
+![[imgs/Pasted image 20231102151037.png]]
+
+
+
 
