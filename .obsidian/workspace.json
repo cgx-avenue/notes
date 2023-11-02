@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "81_开源项目/00_Readme.md.md",
+                "file": "81_开源项目/02__Go开源项目.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "81_开源项目/00_Readme.md.md",
+                "file": "81_开源项目/02__Go开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "81_开源项目/00_Readme.md.md",
+                "file": "81_开源项目/02__Go开源项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "81_开源项目/00_Readme.md.md"
+                "file": "81_开源项目/02__Go开源项目.md"
               }
             }
           },
@@ -194,11 +194,13 @@
   },
   "active": "e65567ec6e4b5a34",
   "lastOpenFiles": [
+    "81_开源项目/imgs/Pasted image 20231102145055.png",
+    "81_开源项目/00_Readme.md.md",
+    "81_开源项目/02__Go开源项目.md",
     "81_开源项目/01_Python开源项目.md",
     "81_开源项目/99_未分类的开源项目.md",
     "81_开源项目/imgs/Pasted image 20231102142643.png",
     "81_开源项目/imgs",
-    "81_开源项目/00_Readme.md.md",
     "80_Development/人工智能AI/Stable diffusion webui部署和尝试.md",
     "80_Development/人工智能AI/Gradio.md",
     "80_Development/人工智能AI/imgs/Pasted image 20231102134949.png",
@@ -238,8 +240,6 @@
     "80_Development/数据库Database/向量数据库和向量化/Towhee/Towhee系列3：算子.md",
     "00_日志和总结/天/2023-10-12.md",
     "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之二：可视化管理工具.md",
-    "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus踩坑之三：PyMilvus.md",
-    "80_Development/数据库Database/向量数据库和向量化/Milvus/Milvus.md",
     "未命名.canvas"
   ]
 }
