@@ -63,7 +63,27 @@ def test():
     assert datetime.datetime.now() == datetime.datetime(2012, 1, 14)
 ```
 
+# 12. faker
+[faker](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/joke2k/faker)：用于生成假数据的库，支持多种语言，你值得拥有。示例代码：
+```python
+fake.address()
+# '辽宁省雪市静安廉街b座 998259'
 
+fake.street_address()
+# '巢湖街U座'
+
+fake.building_number()
+# 'x座'
+
+fake.city_suffix()
+# '市'
+
+fake.latitude()
+# Decimal('-0.295126')
+
+fake.province()
+# '湖北省'
+```
 
 
 
