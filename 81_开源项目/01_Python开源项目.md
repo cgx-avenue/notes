@@ -139,3 +139,6 @@ import synonyms
 synonyms.seg("能量")
 ```
 
+# 17. wtfpython
+[wtfpython](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/satwikkansal/wtfpython)：有趣、令人惊讶（坑爹）、鲜为人知的 Python 代码片段集合。[中文](https://github.com/leisurelicht/wtfpython-cn)
+
