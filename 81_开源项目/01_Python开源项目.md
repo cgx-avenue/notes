@@ -23,4 +23,47 @@
 ![[imgs/Pasted image 20231102145459.png]]
 
 
+# 4. superset
+[superset](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/apache/superset)：企业级的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
+![[imgs/Pasted image 20231102151037.png]]
+
+# 5. amazing-qr
+[amazing-qr](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/x-hw/amazing-qr)：Python 写的生成动态、彩色、各式各样的二维码，详细的[中文文档](https://github.com/sylnsfar/qrcode/blob/master/README-cn.md)，通过 `qrcode` 生成的二维码样式如下
+
+# 6. flask-limiter
+[flask-limiter](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/alisaifee/flask-limiter)：一个 Flask 的扩展库，它可以根据访问者的 IP 限制其访问频率、次数等
+
+# 7. fasttext
+[fastText](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/facebookresearch/fastText)：fastText 简而言之，就是把文档中所有词通过 lookup table 变成向量，取平均后直接用线性分类器得到分类结果。[fastText 的实现](https://www.zybuluo.com/Wayne-Z/note/460881)
+
+# 8. sh
+[sh](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/amoffat/sh)：sh 是一个成熟，用于替代 subprocess，它允许你调用任何程序，就像它是一个函数，支持 Python2.6 - 3.5
+```python
+from sh import ifconfig
+print ifconfig("eth0")
+```
+
+# 9. python-fire
+[python-fire](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/python-fire)：Fire 是 Google 开源的 Python 库，可自动将您的代码转变成 CLI，无需您做任何额外工作。您不必定义参数，设置帮助信息，或者编写定义代码运行方式的 main 函数。相反，您只需从 main 模块调用“Fire”函数，其余工作全部交由 Python Fire 来完成。示例代码如下：
+
+# 10. ltp
+语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心开源的一整套中文语言处理系统。提供了一系列中文自然语言处理工具，这些工具可以用于中文文本进行分词、词性标注、句法分析等工作
+
+# 11. freezegun
+[freezegun](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/spulec/freezegun)：时间漫步模块，模拟到某一个时间，使用简单方式多样，实现了装饰器、上下文等调用方式。示例代码如下：
+
+```python
+from freezegun import freeze_time
+import datetime
+import unittest
+
+
+@freeze_time("2012-01-14")
+def test():
+    assert datetime.datetime.now() == datetime.datetime(2012, 1, 14)
+```
+
+
+
+
 
