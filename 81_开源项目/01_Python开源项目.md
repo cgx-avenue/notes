@@ -85,5 +85,19 @@ fake.province()
 # '湖北省'
 ```
 
+# 13. HanLP
+[HanLP](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/hankcs/HanLP)：一系列模型与算法组成的 NLP 工具包，目标是普及自然语言处理在生产环境中的应用。具备功能完善、性能高效、架构清晰、语料时新、可自定义的特点，功能包括：中文分词、词性标注、命名实体识别、关键词提取等。示例代码：
 
+```java
+String[] testCase = new String[]{
+    "北川景子参演了林诣彬导演的《速度与激情3》",
+    "林志玲亮相网友:确定不是波多野结衣？",
+};
+Segment segment = HanLP.newSegment().enableJapaneseNameRecognize(true);
+for (String sentence : testCase)
+{
+    List termList = segment.seg(sentence);
+    System.out.println(termList);
+}
+```
 

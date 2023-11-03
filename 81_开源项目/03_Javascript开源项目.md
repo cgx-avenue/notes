@@ -24,3 +24,9 @@
 </script>
 ```
 
+# 5. IDValidator
+[IDValidator](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mc-zone/IDValidator)：中国大陆个人身份证号验证，支持 15、18 位身份证号，API 如下：
+
+- `isValid` 验证号码是否合法，合法返回 True，不合法返回 False
+- `getInfo` 号码合法时返回分析信息（地区、出生日期、性别、校验位），不合法返回 False
+- `makeID` 伪造一个符合校验的 ID
