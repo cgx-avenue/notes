@@ -30,3 +30,7 @@
 - `isValid` 验证号码是否合法，合法返回 True，不合法返回 False
 - `getInfo` 号码合法时返回分析信息（地区、出生日期、性别、校验位），不合法返回 False
 - `makeID` 伪造一个符合校验的 ID
+
+# 6. 33-js-concepts
+[33-js-concepts](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/leonardomso/33-js-concepts)：该项目介绍了每个 Javascript 开发者应该知道的 33 个概念。列举了 Javascript 中非常常见的 33 个概念，对于深入了解 Javascript 语言有很大的帮助
+
