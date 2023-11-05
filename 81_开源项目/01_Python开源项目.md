@@ -170,7 +170,8 @@ Hello, Click!
 Hello, Click!
 ```
 
-
+# 20. stanza
+[stanza](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/stanfordnlp/stanza)：适用于多种人类语言的 Stanford NLP 官方 Python 库。包含用于运行 CoNLL 2018 共享任务的最新完全神经管道以及访问 Java Stanford CoreNLP 服务器的软件包。实例代码
 
 
 
