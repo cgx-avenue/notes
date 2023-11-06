@@ -262,7 +262,24 @@ async def read_item(item_id: int, q: str = None):
 # 启动命令：uvicorn main:app --reload
 ```
 
+# 30. python-dotenv
+[python-dotenv](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/theskumar/python-dotenv)：帮你更好的管理 Python 项目中敏感配置信息的开源三方库。在项目中会有一些数据库、账户、KEY 等敏感信息，这些信息最好不要写在源代码中。为了降低泄漏风险，一般会通过环境变量来设置，这个库可以很方便帮你在 Python 项目中管理这些信息。示例代码：
 
+```python
+# 安装：pip install -U python-dotenv
+# 目录结构：
+.
+├── .env
+└── settings.py
+# 示例代码
+# settings.py
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+SECRET_KEY = os.getenv("EMAIL")
+DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
+```
 
 
 
