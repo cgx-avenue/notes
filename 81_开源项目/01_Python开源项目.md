@@ -281,6 +281,8 @@ SECRET_KEY = os.getenv("EMAIL")
 DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 ```
 
+# 31. requests-html
+https://github.com/psf/requests-html
 
 
 
