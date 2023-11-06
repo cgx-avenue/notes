@@ -40,4 +40,7 @@
 # 8. three.js
 [three.js](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mrdoob/three.js)：一个知名的 JavaScript 3D 库。随着数据可视化以及 Web AR 的流行，会越来越多使用到 three.js ，尤其是和 Vue/React 前端框架结合使用。官方网站包含丰富的[示例](https://threejs.org/examples/)和全面的[中文文档](https://threejs.org/docs/)，赶快去写几个 demo 熟悉下该库吧
 
+# 9. city-roads
+[city-roads](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/anvaka/city-roads)：自动生成任意城市的道路图。采用 OpenStreetMap 的免费数据实现城市道路可视化，还支持导出图片用这些图片做壁纸感觉很酷。[在线尝试](https://anvaka.github.io/city-roads/)
+
 

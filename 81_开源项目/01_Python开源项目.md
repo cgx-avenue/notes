@@ -289,5 +289,8 @@ https://github.com/psf/requests-html
 # 33. moviepy
 [moviepy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Zulko/moviepy)：用于处理视频的 Python 库，它支持视频剪辑、自定义效果、视频合成、格式转化、插入文字等功能。专于注视频但不局限于此，还支持处理音频和 GIF 图片。虽然现在视频剪辑的工具很丰富，但如果要批量处理视频，用 Python+moviepy 写个脚本应该可以一劳永逸，节省时间
 
+# 34. tinker-designer
+[Tkinter-Designer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ParthJadhav/Tkinter-Designer)：用拖动的方式创建漂亮的桌面软件。它的操作十分简单，首先在 Figma 网站通过拖拽的方式构建应用，然后把设计好的应用地址和 token 输入到 Tkinter-Designer 自动生成 Python 代码，最后就能得到界面简洁大方的桌面应用啦。不用代码做出基于 tkinter 的桌面应用
+
 
 
