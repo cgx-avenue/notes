@@ -286,4 +286,8 @@ https://github.com/psf/requests-html
 
 # 32.  [TqSdk 天勤量化交易策略程序开发包](https://github.com/shinnytech/tqsdk-python#tqsdk-%E5%A4%A9%E5%8B%A4%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%8C%85)
 
+# 33. moviepy
+[moviepy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Zulko/moviepy)：用于处理视频的 Python 库，它支持视频剪辑、自定义效果、视频合成、格式转化、插入文字等功能。专于注视频但不局限于此，还支持处理音频和 GIF 图片。虽然现在视频剪辑的工具很丰富，但如果要批量处理视频，用 Python+moviepy 写个脚本应该可以一劳永逸，节省时间
+
+
 
