@@ -284,5 +284,6 @@ DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD")
 # 31. requests-html
 https://github.com/psf/requests-html
 
+# 32.  [TqSdk 天勤量化交易策略程序开发包](https://github.com/shinnytech/tqsdk-python#tqsdk-%E5%A4%A9%E5%8B%A4%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%8C%85)
 
 
