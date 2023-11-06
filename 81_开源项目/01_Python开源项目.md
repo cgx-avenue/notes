@@ -240,6 +240,30 @@ print(bond_df)
 4        15附息国债05  102.95   3.0359   -1.41   3.0359   None
 ```
 
+# 28. python-small-examples
+https://github.com/jackzhenguo/python-small-examples
+
+# 29. fastapi
+[fastapi](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/tiangolo/fastapi)：基于 Python 3.6+ 的高性能 Web 框架。“人如其名”用 FastAPI 写接口那叫一个快、调试方便，Python 在进步而它基于这些进步，让 Web 开发变得更快、更强。示例代码：
+
+```python
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/")
+async def read_root():
+    return {"Hello": "World"}
+
+@app.get("/items/{item_id}")
+async def read_item(item_id: int, q: str = None):
+    return {"item_id": item_id, "q": q}
+
+# 启动命令：uvicorn main:app --reload
+```
+
+
+
 
 
 
