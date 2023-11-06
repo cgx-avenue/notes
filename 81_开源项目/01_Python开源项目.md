@@ -211,6 +211,18 @@ Line #    Mem usage  Increment   Line Contents
      8     13.61 MB    0.00 MB       return a
 ```
 
+# 26. world_count
+[word_cloud](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/amueller/word_cloud)：Python 的词云生成工具。示例代码：
+
+```python
+# 加载内容
+text = open(path.join(d, 'constitution.txt')).read()
+# 生成词云图片
+wordcloud = WordCloud().generate(text)
+# 展示生成的图片
+image = wordcloud.to_image()
+image.show()
+```
 
 
 
