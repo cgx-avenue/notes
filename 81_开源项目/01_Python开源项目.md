@@ -298,4 +298,6 @@ https://github.com/psf/requests-html
 # 36. label-studio
 [label-studio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HumanSignal/label-studio)：开源的数据标注工具。支持音频、文本、图像、视频、时间序列等，多种类型数据的标注和注释工具。
 
+# 37. python
+[schedule](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbader/schedule)：简单友好的 Python 任务调度库。该项目人性化的 API 设计，让开发者仅用几行代码就能轻松实现定时任务。它不依赖任何第三方库，全部代码也就一个文件 800 多行，拥有丰富的注释和单元测试，源码阅读起来十分轻松。
 
