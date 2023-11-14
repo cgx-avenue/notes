@@ -298,7 +298,12 @@ https://github.com/psf/requests-html
 # 36. label-studio
 [label-studio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HumanSignal/label-studio)：开源的数据标注工具。支持音频、文本、图像、视频、时间序列等，多种类型数据的标注和注释工具。
 
-# 37. python
+# 37. schedule
 [schedule](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/dbader/schedule)：简单友好的 Python 任务调度库。该项目人性化的 API 设计，让开发者仅用几行代码就能轻松实现定时任务。它不依赖任何第三方库，全部代码也就一个文件 800 多行，拥有丰富的注释和单元测试，源码阅读起来十分轻松。
 
+# 38. funNLP
+中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
+https://github.com/fighting41love/funNLP
 
+# 39. openpilot
+[openpilot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/commaai/openpilot)：comma.ai 开源的自动驾驶系统
