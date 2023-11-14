@@ -43,4 +43,6 @@
 # 9. city-roads
 [city-roads](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/anvaka/city-roads)：自动生成任意城市的道路图。采用 OpenStreetMap 的免费数据实现城市道路可视化，还支持导出图片用这些图片做壁纸感觉很酷。[在线尝试](https://anvaka.github.io/city-roads/)
 
+# 10. jsoncrack
+[jsoncrack.com](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/AykutSarac/jsoncrack.com)：优雅的 JSON 数据可视化工具。该项目不是简单的展示 JSON 数据，而是将其转化为类似脑图的形式，支持放大/缩小、展开/收缩、搜索节点、导出图片等操作，还可以快速部署成服务。
 
