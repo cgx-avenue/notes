@@ -292,5 +292,10 @@ https://github.com/psf/requests-html
 # 34. tinker-designer
 [Tkinter-Designer](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/ParthJadhav/Tkinter-Designer)：用拖动的方式创建漂亮的桌面软件。它的操作十分简单，首先在 Figma 网站通过拖拽的方式构建应用，然后把设计好的应用地址和 token 输入到 Tkinter-Designer 自动生成 Python 代码，最后就能得到界面简洁大方的桌面应用啦。不用代码做出基于 tkinter 的桌面应用
 
+# 35. gradio
+[gradio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/gradio-app/gradio)：用 Python 为模型创建演示界面。这是一个用于构建机器学习和数据科学演示的 Python 库，它包含多种输入和展示的组件，使用起来极其方便，只用几行代码就可以创建出演示机器学习模型的 Web 界面。
+
+# 36. label-studio
+[label-studio](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/HumanSignal/label-studio)：开源的数据标注工具。支持音频、文本、图像、视频、时间序列等，多种类型数据的标注和注释工具。
 
 
