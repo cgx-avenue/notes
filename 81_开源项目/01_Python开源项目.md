@@ -317,3 +317,6 @@ https://github.com/fighting41love/funNLP
 # 42. musicpy
 [musicpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Rainbow-Dreamer/musicpy)：用 Python 创作音乐。该项目可以用简洁的 Python 代码生成一段音乐，它提供了和弦、音符和音阶等几个基本类型，需要具备一定的音理基础才能上手。
 
+# 43. donkeycar
+https://github.com/autorope/donkeycar
+
