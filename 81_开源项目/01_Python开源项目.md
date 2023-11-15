@@ -328,3 +328,9 @@ https://github.com/autorope/donkeycar
 
 # 46. python-weekly 
 [python-weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chinesehuazhou/python-weekly)：Python 潮流周刊。这是一份由「豌豆花下猫」制作的每周更新的 Python 周刊，内容包括 Python 的精品文章、教程、开源项目、工具、视频和热门话题等。
+
+# 47. python-holidays
+[python-holidays](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vacanza/python-holidays)：处理假期的 Python 库。该项目支持动态生成国家/地区和省份公布的法定节假日，可以快速地判断指定日期是否为节假日。
+
+# 48. 
+
