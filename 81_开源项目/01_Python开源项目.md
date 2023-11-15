@@ -307,3 +307,6 @@ https://github.com/fighting41love/funNLP
 
 # 39. openpilot
 [openpilot](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/commaai/openpilot)：comma.ai 开源的自动驾驶系统
+
+# 40. python-systemd
+[python-systemd-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/torfsen/python-systemd-tutorial)：用 Python 编写 systemd 服务的教程。许多 Linux 发行版都用 systemd 来管理系统的服务，比如开机启动、自动重启、守护进程等。该项目讲解了如何入门 systemd，并提供了一个 Python 脚本和 systemd unit 文件，可以在此基础上快速开发出 systemd 服务。
