@@ -313,3 +313,7 @@ https://github.com/fighting41love/funNLP
 
 # 41. mercury
 [mercury](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mljar/mercury)：能够将 Jupyter Notebook 变成 Web 应用的框架。该项目可以让你在 Python Notebook 中添加交互式部件，实现自动生成一个漂亮的 Web 应用，方便分享和展示你的成果。
+
+# 42. musicpy
+[musicpy](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/Rainbow-Dreamer/musicpy)：用 Python 创作音乐。该项目可以用简洁的 Python 代码生成一段音乐，它提供了和弦、音符和音阶等几个基本类型，需要具备一定的音理基础才能上手。
+
