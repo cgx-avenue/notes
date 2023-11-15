@@ -323,3 +323,8 @@ https://github.com/autorope/donkeycar
 # 44. cudf
 [cudf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rapidsai/cudf)：支持 GPU 的数据库处理 Python 库。它相当于支持 GPU 的 pandas，处理数据的速度直接起飞。提供了类似 pandas 的 API，支持加载、合并、聚合、过滤等方式操作数据。
 
+# 45. nvitop
+[nvitop](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/XuehaiPan/nvitop)：用 top 命令的方式查看 NVIDIA GPU 和进程状态。这是一款 NVIDIA 设备和进程监控工具，拥有多彩高亮的界面，实时更新的进程和设备信息，支持过滤进程、鼠标控制、发送信号等功能。
+
+# 46. python-weekly 
+[python-weekly](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/chinesehuazhou/python-weekly)：Python 潮流周刊。这是一份由「豌豆花下猫」制作的每周更新的 Python 周刊，内容包括 Python 的精品文章、教程、开源项目、工具、视频和热门话题等。
