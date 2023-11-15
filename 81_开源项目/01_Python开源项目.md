@@ -320,3 +320,6 @@ https://github.com/fighting41love/funNLP
 # 43. donkeycar
 https://github.com/autorope/donkeycar
 
+# 44. cudf
+[cudf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/rapidsai/cudf)：支持 GPU 的数据库处理 Python 库。它相当于支持 GPU 的 pandas，处理数据的速度直接起飞。提供了类似 pandas 的 API，支持加载、合并、聚合、过滤等方式操作数据。
+
