@@ -310,3 +310,6 @@ https://github.com/fighting41love/funNLP
 
 # 40. python-systemd
 [python-systemd-tutorial](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/torfsen/python-systemd-tutorial)：用 Python 编写 systemd 服务的教程。许多 Linux 发行版都用 systemd 来管理系统的服务，比如开机启动、自动重启、守护进程等。该项目讲解了如何入门 systemd，并提供了一个 Python 脚本和 systemd unit 文件，可以在此基础上快速开发出 systemd 服务。
+
+# 41. mercury
+[mercury](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/mljar/mercury)：能够将 Jupyter Notebook 变成 Web 应用的框架。该项目可以让你在 Python Notebook 中添加交互式部件，实现自动生成一个漂亮的 Web 应用，方便分享和展示你的成果。
