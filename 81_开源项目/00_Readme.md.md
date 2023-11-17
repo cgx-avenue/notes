@@ -17,7 +17,7 @@ Date: 2023-10-30
 3. 过期的不收录，比如 https://github.com/codelucas/newspaper ，最后更新是2020年了
 4. 作为备选solution
 
-# 来源
+# 收录源
 1. [HelloGithub](https://github.com/521xueweihan/HelloGitHub)
 2. [Python-Weekly](https://github.com/chinesehuazhou/python-weekly)
 3. 
