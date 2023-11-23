@@ -51,4 +51,7 @@ Git就是这样一个例子
 
 
 # Strangled Tree
+![[imgs/Pasted image 20231123154933.png]]
+![[imgs/Pasted image 20231123155011.png]]
+
 
