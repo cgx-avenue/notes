@@ -19,5 +19,9 @@
 # Refs 
 1. https://zhuanlan.zhihu.com/p/38144484
 2. https://www.atlascopco.com.cn/cn/itba/insights/tightening1
+3. https://www.atlascopco.com.cn/cn/itba/insights/tightening2
+4. https://www.atlascopco.com.cn/cn/itba/insights/tightening3
+5. http://danikor.com.cn/newsinfo/161.html
+6. 
 
 
