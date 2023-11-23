@@ -54,6 +54,9 @@
 
 ## Bosch
 
+# 不错的材料
+下面这个写列结合了总装拧紧工艺
+zhuanlan.zhihu.com/p/616270983
 
 
 # Refs
