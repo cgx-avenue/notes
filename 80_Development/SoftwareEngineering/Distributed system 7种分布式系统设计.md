@@ -43,4 +43,12 @@ Git就是这样一个例子
 
 # Sharding
 ![[imgs/Pasted image 20231123154055.png]]
+![[imgs/Pasted image 20231123154117.png]]
+
+![[imgs/Pasted image 20231123154138.png]]
+
+![[imgs/Pasted image 20231123154147.png]]
+
+
+# Strangled Tree
 
