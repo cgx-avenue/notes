@@ -35,9 +35,12 @@
   
 **绿线**是考虑材料形变实际应用中的拧紧策略，在力矩到达后，短暂停扭，让应力释放，再继续拧紧，到达目标力矩。大扭矩场景甚至会退半圈，再拧紧。
 
-## 屈服点
+## 屈服点，屈服强度
+屈服强度是用于表示物质在不引起其[塑性变形](https://www.zhihu.com/search?q=%E5%A1%91%E6%80%A7%E5%8F%98%E5%BD%A2&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1402985910%7D)的情况下可以产生的[最大应力](https://www.zhihu.com/search?q=%E6%9C%80%E5%A4%A7%E5%BA%94%E5%8A%9B&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1402985910%7D)的指示，以N /m²或[帕斯卡](https://www.zhihu.com/search?q=%E5%B8%95%E6%96%AF%E5%8D%A1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1402985910%7D)为单位。
 
+**屈服强度是材料永久变形的应力点**，提供了该材料[弹性极限](https://www.zhihu.com/search?q=%E5%BC%B9%E6%80%A7%E6%9E%81%E9%99%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1402985910%7D)的有用近似值。在达到屈服点之前，材料将发生[弹性变形](https://www.zhihu.com/search?q=%E5%BC%B9%E6%80%A7%E5%8F%98%E5%BD%A2&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1402985910%7D)，但是在去除施加的应力后，它将始终恢复到其原始形状。一旦超过[屈服点](https://www.zhihu.com/search?q=%E5%B1%88%E6%9C%8D%E7%82%B9&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1402985910%7D)，所经历的变形的一小部分将变得永久且不可逆。当受到应力时，材料会经历可恢复的变形。
 
+参见Refs2,3
 
 # 常见失效
 ![[imgs/Pasted image 20231123105727.png]]
@@ -54,4 +57,5 @@
 
 # Refs
 1. https://zhuanlan.zhihu.com/p/445485059
-2. 
+2. https://www.zhihu.com/question/304165655
+3. https://baike.baidu.com/item/%E5%B1%88%E6%9C%8D%E7%82%B9/949525
