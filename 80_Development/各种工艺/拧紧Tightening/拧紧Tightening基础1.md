@@ -5,6 +5,7 @@
 ![[imgs/Pasted image 20231123104034.png]]
 
 ## 什么是拧紧
+![[imgs/Pasted image 20231123131720.png]]
 拧紧就是通过螺丝受力变长，从而产生轴向的夹紧力，夹紧连接件。
 ![[imgs/Pasted image 20231123104102.png]]
 ## 为什么监控扭矩？
