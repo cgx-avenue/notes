@@ -339,4 +339,8 @@ https://medium.com/@i18nsolutionspy/exploring-global-diversity-pyetho-python-lib
 ![[imgs/Pasted image 20231124151104.png]]
 中国的居然有这么多。
 
+# 49. keep
+https://github.com/keephq/keep
+报警管理和自动化库，可以连接到不同的前端接受多种报警系统，然后建立workflow来自动化执行一些工作。
+>Keep makes it easy to consolidate all your alerts into a single pane of glass and to orchestrate workflows to automate your end-to-end processes.
 
