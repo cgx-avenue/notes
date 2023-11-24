@@ -332,5 +332,11 @@ https://github.com/autorope/donkeycar
 # 47. python-holidays
 [python-holidays](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/vacanza/python-holidays)：处理假期的 Python 库。该项目支持动态生成国家/地区和省份公布的法定节假日，可以快速地判断指定日期是否为节假日。
 
-# 48. 
+# 48. pyetho
+Exploring Global Diversity: Pyetho — Python Library for Language and Country Insights
+https://medium.com/@i18nsolutionspy/exploring-global-diversity-pyetho-python-library-for-language-and-country-insights-4a688958ea83
+返回每个国家的语言，按照ISO标准。
+![[imgs/Pasted image 20231124151104.png]]
+中国的居然有这么多。
+
 
