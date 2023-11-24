@@ -22,4 +22,10 @@ _When people say "Python", they usually mean CPython, the reference Python imple
     
 - _**Unladen swallow**, **Cinder** and **Pyston**: aka, FAANGS used Python a lot and now they need it to be faster_
 
-简而言之，就是个中
+简而言之，就是Python的各种解释器版本。默认的和用的最多的是Cpython。
+
+
+
+# Refs
+1. https://www.bitecode.dev/p/whats-the-deal-with-cpython-pypy
+2. 
