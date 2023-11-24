@@ -14,6 +14,13 @@
 1. 肯定不够灵活，页面布局也不够好看
 2. 扩展困难，如果需要集成到其它系统里，就得重新来做
 
+# 常用
+## Streamlit
+[Streamlit](https://link.zhihu.com/?target=https%3A//streamlit.io/)是一个将Python脚本转换为可共享的Web应用程序的库。Streamlit 应用专为数据科学和机器学习社区而设计，可轻松构建仪表板和交互式 ML 模型。Streamlit之所以如此受欢迎，是因为它的简单性。使用 Streamlit 库既快速又直观，这意味着您无需任何 Web 开发经验即可创建数据应用程序。  
+虽然 Streamlit 是一个很棒的工具，但它可能会不足，具体取决于您的用例。Streamlit应用程序的布局和样式非常僵化，所以除非你愿意编写一些HTML，JS和CSS，否则你所有的应用程序看起来都差不多。Streamlit也存在[速度问题](https://link.zhihu.com/?target=https%3A//medium.com/%40ramiromedina/like-streamlit-but-fast-enabling-low-latency-data-apps-948b95b098a2)，因为它在前端的每次交互后重新运行为应用程序提供服务的Python脚本。
+
+# Gradio
+用于构建机器学习演示的 Python
 
 
 
