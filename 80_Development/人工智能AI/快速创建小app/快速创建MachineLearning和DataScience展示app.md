@@ -57,6 +57,12 @@ Plotly是一个绘图库，[Dash](https://link.zhihu.com/?target=https%3A//dash.
 
 还有其他的可以参见Refs1
 
+# Shiny
+https://shiny.posit.co/
+这个标题说明了一切
+> Easy web apps for data science without the compromises
+    No web development skills required
+
 
 
 
