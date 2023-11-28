@@ -12,14 +12,17 @@ https://www.globenewswire.com/news-release/2021/11/30/2342612/0/en/Catena-X-to-d
 https://zhuanlan.zhihu.com/p/373960075
 ![[imgs/Pasted image 20231128111522.png]]
 BigchainDB GmbH代表海洋协议(Ocean Protocol)一种用于数据货币化的分散式数据交换协议，加入了Catena-X。
+BigchainDB是GAIA-X协会的第一天会员，该协会正在建立欧洲云数据基础架构。 Ocean致力于为欧洲制定优先考虑效率，安全性和可信赖性的数据基础设施标准。
 
 
 
 
 
 
-
-# 各个blockchain的官网
-1. solona
-2. bigchaindb
-3. 
+# 各个blockchain及其相关的官网
+1. Solona
+2. Bigchaindb https://www.bigchaindb.com/
+3. Cardano
+4. Ethereum
+5. Openprotocol（ocean protocol） https://oceanprotocol.com/
+6. 
