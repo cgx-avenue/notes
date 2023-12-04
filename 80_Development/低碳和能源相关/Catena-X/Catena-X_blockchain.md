@@ -5,6 +5,7 @@
 下面的第一条，说的是基于币安和solona。但里面也说得很清楚，catena-x是一个基于cross chain的目标。
 **引起了我的一个新的思考：区块链的下一步-》跨链**
 
+
 # Catena-X 
 ## BSC & Solona
 https://www.coinbase.com/price/catena-x
