@@ -1,7 +1,15 @@
 Date:2023-11-28
 根据我之前的理解，Catena-X其实本身并没有blockchain，它关注的是contract本身，并不关心具体各家使用的是什么链。在Catena-X的官方资料里，暂时也没有显示其使用的到底是哪个blockchain。但FASO最近表现的意思不像是这样。那我借机再检查下。
+Date: 2023-12-04
+
 
 # Catena-X 
+## BSC & Solona
+https://www.coinbase.com/price/catena-x
+>[Catena X](https://catenax.org/index.html) (CEX) is a cross-chain transitionary platform built on Binance Smart Chain ([BSC](https://www.coinbase.com/cloud/discover/protocol-guides/guide-to-bsc)) and [Solana](https://www.coinbase.com/learn/crypto-basics/what-is-solana) network. Catena X aims to deliver a decentralized and efficient multichain transfer [protocol](https://www.coinbase.com/learn/crypto-basics/what-is-a-protocol) to bridge multiple [blockchains](https://www.coinbase.com/learn/crypto-basics/what-is-a-blockchain). Besides this, users can seek to easily access a community-driven [DeFi](https://www.coinbase.com/learn/crypto-basics/what-is-defi) ecosystem without censorship using the Catena platform.
+
+
+
 ## Solona, Cardano, Ethereum.
 https://www.globenewswire.com/news-release/2021/11/30/2342612/0/en/Catena-X-to-deploy-on-the-Solana-blockchain-in-the-upcoming-weeks.html#:~:text=Catena%20X%20%28CEX%29%20is%20one%20of%20the%20latest,allowing%20trades%20and%20transactions%20between%20different%20crypto%20ecosystems.
 21年的新闻，写的是用Solona。
