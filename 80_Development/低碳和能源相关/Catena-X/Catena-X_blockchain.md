@@ -1,7 +1,9 @@
-Date:2023-11-28
+# History
+## Date:2023-11-28
 根据我之前的理解，Catena-X其实本身并没有blockchain，它关注的是contract本身，并不关心具体各家使用的是什么链。在Catena-X的官方资料里，暂时也没有显示其使用的到底是哪个blockchain。但FASO最近表现的意思不像是这样。那我借机再检查下。
-Date: 2023-12-04
-
+## Date: 2023-12-04
+下面的第一条，说的是基于币安和solona。但里面也说得很清楚，catena-x是一个基于cross chain的目标。
+**引起了我的一个新的思考：区块链的下一步-》跨链**
 
 # Catena-X 
 ## BSC & Solona
