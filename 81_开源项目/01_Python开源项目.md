@@ -346,3 +346,20 @@ https://github.com/keephq/keep
 
 # 50. cleanlab
 https://github.com/cleanlab/cleanlab
+
+
+# 51. Self-operating-computer
+[self-operating-computer：使多模态模型能够操作计算机](https://github.com/OthersideAI/self-operating-computer)
+
+这是近期基于 GPT-4v 的最火项目之一。让大语言模型像人类一样查看屏幕内容，操作鼠标和键盘来实现特定的目标。当前的挑战是 GPT-4v 在鼠标点击位置方面的错误率很高。（star 5.1K）
+
+
+# 52. wechatmsg
+[WeChatMsg：导出微信聊天记录成 HTML/Word/CSV文档](https://github.com/LC044/WeChatMsg)
+
+本周火爆朋友圈的项目，作者是一名在校大学生。支持导出微信聊天记录，支持生成年度聊天报告。Slogan 不错：“我的数据我做主”。可以导出数据用于训练个人 AI！（star 12.5K）
+
+# 53. pywxdump
+[PyWxDump：获取微信账号信息、导出聊天记录](https://github.com/xaoyaoo/PyWxDump)
+
+这是上一个项目的依赖，可解密数据库，查看和导出聊天记录，支持微信多开场景获取多用户信息。（star 1.6K）（PS. 总感觉这两个项目会被某信针对，你觉得呢？）
