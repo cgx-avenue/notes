@@ -2,6 +2,8 @@
 1. https://github.com/eclipse-edc
 2. https://github.com/eclipse-tractusx/tutorial-resources/tree/main/mxd
 3. https://github.com/eclipse-edc/MinimumViableDataspace
+4. Introductory videos: https://www.youtube.com/@eclipsedataspaceconnector9622/featured
+5. 
 
 
 # 新的知识点和术语
