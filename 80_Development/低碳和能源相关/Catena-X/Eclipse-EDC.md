@@ -9,10 +9,13 @@
 # 新的知识点和术语
 1. JSON-LD https://json-ld.org/
 2. Terminology
+* connector: can be a standalone application. could be run in docker container or embedded into another java application. `A concept of a gateway into a data space`. 
+	* connector: a control plane runtime and 1...N data plane runtimes. Sometimes used interchangeably with _distribution_.
+* extension: an implementation of an interface which resides in the spi which enriches the core with functionality
 - runtime: a Java process executing code written in the EDC programming model (e.g. a control plane)
 - distribution: a specific assortment of modules, compiled into a runnable form, e.g. a JAR file, a Docker image etc.
 - launcher: a runnable Java module, that pulls in other modules to form a distribution, sometimes used synonymously with distribution.
-- connector: a control plane runtime and 1...N data plane runtimes. Sometimes used interchangeably with _distribution_.
+
 
 # 仓库和目录解析
 ## Connector
