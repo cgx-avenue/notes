@@ -13,6 +13,7 @@
 	* connector: a control plane runtime and 1...N data plane runtimes. Sometimes used interchangeably with _distribution_.
 * extension: an implementation of an interface which resides in the spi which enriches the core with functionality
 - runtime: a Java process executing code written in the EDC programming model (e.g. a control plane)
+	- a class defines a main method
 - distribution: a specific assortment of modules, compiled into a runnable form, e.g. a JAR file, a Docker image etc.
 - launcher: a runnable Java module, that pulls in other modules to form a distribution, sometimes used synonymously with distribution.
 
