@@ -16,6 +16,13 @@
 ![[imgs/Pasted image 20231220153142.png]]
 ![[imgs/Pasted image 20231220153249.png]]
 ![[imgs/Pasted image 20231220153337.png]]
+![[imgs/Pasted image 20231220161559.png]]
+![[imgs/Pasted image 20231220161730.png]]
+
+
+
+
+
 
 
 
