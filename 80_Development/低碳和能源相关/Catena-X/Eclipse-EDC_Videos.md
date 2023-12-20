@@ -4,3 +4,9 @@
 ![[imgs/Pasted image 20231220151439.png]]
 ![[imgs/Pasted image 20231220151532.png]]
 ![[imgs/Pasted image 20231220151845.png]]
+![[imgs/Pasted image 20231220152008.png]]
+![[imgs/Pasted image 20231220152153.png]]
+![[imgs/Pasted image 20231220152313.png]]
+![[imgs/Pasted image 20231220152332.png]]
+![[imgs/Pasted image 20231220152500.png]]
+
