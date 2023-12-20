@@ -14,6 +14,14 @@
 - launcher: a runnable Java module, that pulls in other modules to form a distribution, sometimes used synonymously with distribution.
 - connector: a control plane runtime and 1...N data plane runtimes. Sometimes used interchangeably with _distribution_.
 
+# 仓库和目录解析
+## Connector
+https://github.com/eclipse-edc/Connector
+视频讲解列表
+https://www.youtube.com/watch?v=_YiSzTALTCA&list=PLw-f_YoTxWJVVPkuj1vDb6tLPM2_Cm1hR&index=2
+
+
+
 
 # 搭建过程
 
