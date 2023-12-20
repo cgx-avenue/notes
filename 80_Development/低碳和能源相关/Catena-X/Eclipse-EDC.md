@@ -33,6 +33,12 @@ service provider interface. 最重要的目录，修改啥都要改里面的东�
 4. extensions
 为了各种功能的扩展，比如扩展不同类型的数据库。
 
+## core classes and items
+1. vault
+something that can store secrets securely
+vault.java and other .java files
+2. monitor
+a monitor is essentially a logger
 
 
 # 搭建过程
