@@ -26,6 +26,8 @@ service provider interface. 最重要的目录，修改啥都要改里面的东�
 各种基础服务。
 3. data-protocol
 包含connector-to-connector通信的内容。
+4. extensions
+为了各种功能的扩展，比如扩展不同类型的数据库。
 
 
 
