@@ -26,10 +26,12 @@
 ![[imgs/Pasted image 20231221091226.png]]
 ![[imgs/Pasted image 20231221091439.png]]
 ![[imgs/Pasted image 20231221091738.png]]
-
-
-
-
+![[imgs/Pasted image 20231221092005.png]]
+![[imgs/Pasted image 20231221092104.png]]
+![[imgs/Pasted image 20231221092139.png]]
+![[imgs/Pasted image 20231221092220.png]]
+![[imgs/Pasted image 20231221092358.png]]
+![[imgs/Pasted image 20231221092408.png]]
 
 
 
