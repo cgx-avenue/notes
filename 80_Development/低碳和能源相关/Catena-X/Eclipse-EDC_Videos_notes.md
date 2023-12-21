@@ -1,4 +1,4 @@
-# Overview and architecture
+# EDC Conceptual Overview and architecture
 ![[imgs/Pasted image 20231220151117.png]]
 ![[imgs/Pasted image 20231220151313.png]]
 ![[imgs/Pasted image 20231220151439.png]]
@@ -34,5 +34,8 @@
 ![[imgs/Pasted image 20231221092408.png]]
 ![[imgs/Pasted image 20231221092551.png]]
 
+# Decentralized Identidy for true Digital Sovereignty
+https://youtu.be/srTwPeFJQjo
+![[imgs/Pasted image 20231221094130.png]]
 
 
