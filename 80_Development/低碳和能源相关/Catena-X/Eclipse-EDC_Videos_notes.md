@@ -42,4 +42,10 @@ https://youtu.be/srTwPeFJQjo
 ![[imgs/Pasted image 20231221095445.png]]
 Distributed identifier can be blockchain.
 ![[imgs/Pasted image 20231221095505.png]]
+did: Decentralized Identifiers
+![[imgs/Pasted image 20231221095813.png]]
+![[imgs/Pasted image 20231221095959.png]]
+
+
+
 
