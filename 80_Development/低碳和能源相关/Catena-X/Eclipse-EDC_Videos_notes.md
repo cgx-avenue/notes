@@ -56,5 +56,6 @@ DID method: where the data is stored and how to read and write the document
 ![[imgs/Pasted image 20231221101459.png]]
 ![[imgs/Pasted image 20231221101811.png]]
 ![[imgs/Pasted image 20231221102539.png]]
+![[imgs/Pasted image 20231221102819.png]]
 
 
