@@ -32,6 +32,7 @@
 ![[imgs/Pasted image 20231221092220.png]]
 ![[imgs/Pasted image 20231221092358.png]]
 ![[imgs/Pasted image 20231221092408.png]]
+![[imgs/Pasted image 20231221092551.png]]
 
 
 
