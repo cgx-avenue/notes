@@ -62,5 +62,8 @@ Identity hub now is part of EDC, but maybe in the future could be run independen
 ![[imgs/Pasted image 20231221104159.png]]
 **Identity Hub provides trust for metdata like authentication and authorization data, not the final data set which needs transferred.**
 
+# A peek into the future
+https://youtu.be/S8pZgPj3IBA
+![[imgs/Pasted image 20231221105959.png]]
 
 
