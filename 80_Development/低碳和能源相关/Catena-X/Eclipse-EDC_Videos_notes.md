@@ -40,10 +40,10 @@ https://youtu.be/srTwPeFJQjo
 ![[imgs/Pasted image 20231221095317.png]]
 ![[imgs/Pasted image 20231221095356.png]]
 ![[imgs/Pasted image 20231221095445.png]]
-Distributed identifier can be blockchain.
+**Distributed identifier can be blockchain.**
 ![[imgs/Pasted image 20231221095505.png]]
-did: Decentralized Identifiers
-DID method: where the data is stored and how to read and write the document
+**did: Decentralized Identifiers
+DID method: where the data is stored and how to read and write the document**
 ![[imgs/Pasted image 20231221095813.png]]
 ![[imgs/Pasted image 20231221095959.png]]
 
@@ -57,7 +57,10 @@ DID method: where the data is stored and how to read and write the document
 ![[imgs/Pasted image 20231221101811.png]]
 ![[imgs/Pasted image 20231221102539.png]]
 ![[imgs/Pasted image 20231221104337.png]]
-Identi
+Identity hub now is part of EDC, but maybe in the future could be run independently.
 ![[imgs/Pasted image 20231221102819.png]]
 ![[imgs/Pasted image 20231221104159.png]]
+**Identity Hub provides trust for metdata like authentication and authorization data, not the final data set which needs transferred.**
+
+
 
