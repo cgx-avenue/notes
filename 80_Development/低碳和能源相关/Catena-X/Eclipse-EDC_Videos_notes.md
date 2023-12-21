@@ -43,9 +43,12 @@ https://youtu.be/srTwPeFJQjo
 Distributed identifier can be blockchain.
 ![[imgs/Pasted image 20231221095505.png]]
 did: Decentralized Identifiers
+DID method: where and how the data is stored
 ![[imgs/Pasted image 20231221095813.png]]
 ![[imgs/Pasted image 20231221095959.png]]
 
+![[imgs/Pasted image 20231221100335.png]]
+![[imgs/Pasted image 20231221100445.png]]
 
 
 
