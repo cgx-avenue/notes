@@ -81,7 +81,9 @@ https://youtu.be/S8pZgPj3IBA
 **A trace represents an end-to-end data request flow that goes through a distributed system.**
 
 ![[imgs/Pasted image 20231221135339.png]]
-**A metric is a measurement about service captured **
+**A metric is a measurement about service captured at runtime**. EDC uses a library called micrometer that provides a vendor agnostic facet.
+![[imgs/Pasted image 20231221135643.png]]
+
 
 
 
