@@ -16,7 +16,8 @@
 	- a class defines a main method
 - distribution: a specific assortment of modules, compiled into a runnable form, e.g. a JAR file, a Docker image etc.
 - launcher: a runnable Java module, that pulls in other modules to form a distribution, sometimes used synonymously with distribution.
-
+3. OpenTelemetry
+4. 
 
 # 仓库和目录解析
 ## Connector

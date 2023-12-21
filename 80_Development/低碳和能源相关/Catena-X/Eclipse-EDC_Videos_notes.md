@@ -77,8 +77,11 @@ https://youtu.be/S8pZgPj3IBA
 
 # EDC - Observability with Application Insights
 ![[imgs/Pasted image 20231221134931.png]]
+![[imgs/Pasted image 20231221135033.png]]
+**A trace represents an end-to-end data request flow that goes through a distributed system.**
 
-
+![[imgs/Pasted image 20231221135339.png]]
+**A metric is a measurement about service captured **
 
 
 
