@@ -65,5 +65,6 @@ Identity hub now is part of EDC, but maybe in the future could be run independen
 # A peek into the future
 https://youtu.be/S8pZgPj3IBA
 ![[imgs/Pasted image 20231221105959.png]]
+![[imgs/Pasted image 20231221110142.png]]
 
 
