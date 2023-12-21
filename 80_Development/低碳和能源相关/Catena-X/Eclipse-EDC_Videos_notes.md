@@ -76,6 +76,7 @@ https://youtu.be/S8pZgPj3IBA
 ![[imgs/Pasted image 20231221133741.png]]
 
 # EDC - Observability with Application Insights
+![[imgs/Pasted image 20231221134931.png]]
 
 
 
