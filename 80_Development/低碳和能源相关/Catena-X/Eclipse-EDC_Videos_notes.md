@@ -37,5 +37,9 @@
 # Decentralized Identidy for true Digital Sovereignty
 https://youtu.be/srTwPeFJQjo
 ![[imgs/Pasted image 20231221094130.png]]
-
+![[imgs/Pasted image 20231221095317.png]]
+![[imgs/Pasted image 20231221095356.png]]
+![[imgs/Pasted image 20231221095445.png]]
+Distributed identifier can be blockchain.
+![[imgs/Pasted image 20231221095505.png]]
 
