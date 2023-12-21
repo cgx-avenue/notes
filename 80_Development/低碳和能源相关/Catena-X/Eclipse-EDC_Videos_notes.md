@@ -70,6 +70,9 @@ https://youtu.be/S8pZgPj3IBA
 ![[imgs/Pasted image 20231221132015.png]]
 ![[imgs/Pasted image 20231221132553.png]]
 ![[imgs/Pasted image 20231221132957.png]]
+![[imgs/Pasted image 20231221133228.png]]
+![[imgs/Pasted image 20231221133323.png]]
+![[imgs/Pasted image 20231221133524.png]]
 
 
 
