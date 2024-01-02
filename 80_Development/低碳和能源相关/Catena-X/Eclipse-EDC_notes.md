@@ -18,7 +18,10 @@
 	- Typically, consists of a control plane and one or more data planes.
 - launcher: a runnable Java module, that pulls in other modules to form a distribution, sometimes used synonymously with distribution.
 3. OpenTelemetry
-4. 
+4. jaegar
+5. micrometer
+6. prometheus
+7. 
 
 # 仓库和目录解析
 ## Connector
