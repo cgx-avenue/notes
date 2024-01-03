@@ -7,7 +7,7 @@
 
 
 # 新的知识点和术语
-1. JSON-LD https://json-ld.org/
+~~1. JSON-LD https://json-ld.org/~~
 2. Terminology
 * connector: can be a standalone application. could be run in docker container or embedded into another java application. `A concept of a gateway into a data space`. 
 	* connector: a control plane runtime and 1...N data plane runtimes. Sometimes used interchangeably with _distribution_.
