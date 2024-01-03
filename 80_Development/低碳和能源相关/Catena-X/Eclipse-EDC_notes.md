@@ -74,5 +74,13 @@ a monitor is essentially a logger
 1. 缺失high-level表述
 https://github.com/eclipse-edc/docs/blob/main/developer/handbook.md
 Therefore, if you are a solution architect looking for a high-level description on how to integrate EDC, or a developer wanting to contribute to the project itself, this guide is not for you. More suitable resources can be found [here](https://github.com/eclipse-edc/docs/blob/main/docs/documentation) and [here](https://github.com/eclipse-edc/docs/blob/main/docs/documentation/CONTRIBUTING.md) respectively.
-两个超链接失效了。除此外，缺失architecture diagram，比如为什么选择用
-2. provider和consumer
+两个超链接失效了。除此外，缺失architecture diagram，比如为什么选择用IDS数据，JSON-LD的数据类型选择依据等。
+2. provider和consumer是单项的，则如果要实现双向通信，必须要在两个服务器的每个点上，即安装provider，又安装consumer。
+3. 怎么理解下面这句话？contract definition居然不是双向保存的？！Negotiate时候不是由consumer发起的吗？
+```markdown
+It is important to note that contract definitions are a _internal objects_, i.e. they **never** leave the realm of the provider, and they are **never** sent to the consumer.
+```
+
+
+
+
