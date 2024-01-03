@@ -74,5 +74,5 @@ a monitor is essentially a logger
 1. 缺失high-level表述
 https://github.com/eclipse-edc/docs/blob/main/developer/handbook.md
 Therefore, if you are a solution architect looking for a high-level description on how to integrate EDC, or a developer wanting to contribute to the project itself, this guide is not for you. More suitable resources can be found [here](https://github.com/eclipse-edc/docs/blob/main/docs/documentation) and [here](https://github.com/eclipse-edc/docs/blob/main/docs/documentation/CONTRIBUTING.md) respectively.
-两个超链接失效了。
-3. asdf
+两个超链接失效了。除此外，缺失architecture diagram，比如为什么选择用
+2. provider和consumer
