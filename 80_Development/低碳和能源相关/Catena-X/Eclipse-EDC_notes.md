@@ -17,10 +17,10 @@
 - distribution: a specific assortment of modules, compiled into a runnable form, e.g. a JAR file, a Docker image etc.
 	- Typically, consists of a control plane and one or more data planes.
 - launcher: a runnable Java module, that pulls in other modules to form a distribution, sometimes used synonymously with distribution.
-3. OpenTelemetry
-4. jaegar
-5. micrometer
-6. prometheus
+~~3. OpenTelemetry~~
+~~4. jaegar~~
+~~5. micrometer~~
+~~6. prometheus~~
 7. 
 
 
