@@ -23,10 +23,27 @@ A data-sharing system requires a protocol implementation for policy enforcement 
 ### EDC vs. DSC
 DSC is Dataspace Connector. 两者code不同，但是遵循同样的sovereign data spaces理念。DSC之前是Fraunhofer ISST开发的，目标是给catana-x,gaia-x等等提供IDS兼容的connector。后来搞不下去了，决定由Eclipse Foundation继续。交接之后，Thereby, the EDC can support IDS(A)-based components like the DAPS (Identity), or Metadata Broker (Catalog) as well as other approaches like WEB-DID (Identity) or Federated Catalog (Catalog).
 
+### Distribution
+参见下面怎么用第2点。
+
+### Extention
+new capabilities -> Extention
+they are dynamically loaded at startup to extend the functionality of a runtime. For example, adding you favorite authentication backend can be done through extensions.
+
+
+
 
 
 # 怎么用
-The Eclipse Dataspace Components projects is **not** a ready-to-use application, but rather a comprehensive collection of libraries and modules, that are published as Maven artifacts, and that developers can use and extend.
+1. The Eclipse Dataspace Components projects is **not** a ready-to-use application, but rather a comprehensive collection of libraries and modules, that are published as Maven artifacts, and that developers can use and extend.
+2. 分发的是什么？distribution。 
+```markdown
+In the EDC terminology, a "distribution" is an executable fat jar file, that consists of a compilation of specific EDC modules. It is sometimes sloppily referred to as "runtime", which is not _quite_ correct, but it does loosely compare to the notion of a Linux distribution.
+
+Typically, distributions consist of a [control plane](https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=the-control-plane) and one or more [data planes](https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=the-data-plane). The former takes care of data manipulation, contract negotiation and transfer setup, and is geared toward reliability, whereas the job of the latter is to actually shovel bits from A to B.
+```
+举个例子，是一个gradle build 文件。https://eclipse-edc.github.io/docs/#/documentation/docs/samples/basic/basic-01-basic-connector/
+
 
 
 
@@ -35,7 +52,7 @@ The Eclipse Dataspace Components projects is **not** a ready-to-use application,
 2. Terminology
 * connector: can be a standalone application. could be run in docker container or embedded into another java application. `A concept of a gateway into a data space`. 
 	* connector: a control plane runtime and 1...N data plane runtimes. Sometimes used interchangeably with _distribution_.
-* extension: an implementation of an interface which resides in the spi which enriches the core with functionality
+* extension: an implementation of an interface which resides in the api which enriches the core with functionality
 - runtime: a Java process executing code written in the EDC programming model (e.g. a control plane)
 	- a class defines a main method
 - distribution: a specific assortment of modules, compiled into a runnable form, e.g. a JAR file, a Docker image etc.
