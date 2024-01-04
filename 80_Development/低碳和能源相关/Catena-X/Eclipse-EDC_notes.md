@@ -43,7 +43,18 @@ Policies are [ODRL](https://www.w3.org/TR/odrl-model/) serialized as JSON-LD.
 例子参见文档。
 Policy可以多个，可以组合。
 
-#### Contract definit
+#### Contract definition
+Contract definitions are how [assets](https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=assets) and [policies](https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=policies) are linked together, comprised of a _contract policy_ and an _access policy_. 
+- **access policy**: determines whether a particular consumer is offered an asset or not. For example, we may want to restrict certain assets such that only consumers within a particular geography can see them. Consumers outside that geography wouldn't even have them in their [catalog](https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=catalog).
+- **contract policy**: determines the conditions for initiating a contract negotiation for a particular asset. Note that does not automatically guarantee the successful _creation_ of a contract, it merely expresses the _eligibility_ to start the negotiation.
+首先要有access，其次才能发起contract policy的negotiate。
+例子参见文档。
+
+
+#### Contract negotiations
+
+
+
 
 
 # 怎么用
@@ -135,5 +146,5 @@ It is important to note that contract definitions are a _internal objects_, i.e
 ```
 
 4. 为了云环境而adapter，比如dataAddress指向http data
-
+5. 
 
