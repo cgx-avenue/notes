@@ -32,9 +32,13 @@ they are dynamically loaded at startup to extend the functionality of a runtime.
 
 ### Control plane
 API object in detail. API here menas Management API.
-这里就牵扯到JSON-LD，ODRL和DCAT等等。
+这里就牵扯到JSON-LD，ODRL和DCAT等等。这些组合起来定义了Asset，policy，contract等等。
+
 #### Assets
-存储metadata，不包含实际数据。比如`DataAddress`字段
+存储metadata，不包含实际数据。比如`DataAddress`字段。
+
+#### Policy
+
 
 
 # 怎么用
