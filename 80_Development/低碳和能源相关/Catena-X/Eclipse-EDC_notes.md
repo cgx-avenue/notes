@@ -33,6 +33,7 @@ they are dynamically loaded at startup to extend the functionality of a runtime.
 ### Control plane
 API object in detail. API here menas Management API.
 这里就牵扯到JSON-LD，ODRL和DCAT等等。
+#### Assets
 
 
 
@@ -45,7 +46,7 @@ In the EDC terminology, a "distribution" is an executable fat jar file, that con
 Typically, distributions consist of a [control plane](https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=the-control-plane) and one or more [data planes](https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=the-data-plane). The former takes care of data manipulation, contract negotiation and transfer setup, and is geared toward reliability, whereas the job of the latter is to actually shovel bits from A to B.
 ```
 举个例子，是一个gradle build 文件。https://eclipse-edc.github.io/docs/#/documentation/docs/samples/basic/basic-01-basic-connector/
-
+3. JSON-LD文件的作用，和ORDL，DCAT等。
 
 
 
