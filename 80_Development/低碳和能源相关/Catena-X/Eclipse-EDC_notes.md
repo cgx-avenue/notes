@@ -5,7 +5,7 @@
 4. Introductory videos: https://www.youtube.com/@eclipsedataspaceconnector9622/featured
 5. 
 
-# Concepts and components
+# 概念和组成
 ## Dataspace
 Data spaces allow organizations to securely share data with others. They enable data cooperation in a multi-cloud federation by focusing on identity, trust, sovereignty, and interoperability.
 
@@ -22,6 +22,11 @@ A data-sharing system requires a protocol implementation for policy enforcement 
 
 ### EDC vs. DSC
 DSC is Dataspace Connector. 两者code不同，但是遵循同样的sovereign data spaces理念。DSC之前是Fraunhofer ISST开发的，目标是给catana-x,gaia-x等等提供IDS兼容的connector。后来搞不下去了，决定由Eclipse Foundation继续。交接之后，Thereby, the EDC can support IDS(A)-based components like the DAPS (Identity), or Metadata Broker (Catalog) as well as other approaches like WEB-DID (Identity) or Federated Catalog (Catalog).
+
+
+
+# 怎么用
+The Eclipse Dataspace Components projects is **not** a ready-to-use application, but rather a comprehensive collection of libraries and modules, that are published as Maven artifacts, and that developers can use and extend.
 
 
 
