@@ -17,7 +17,11 @@ Data spaces allow organizations to securely share data with others. They enable 
 ## Dataspace connector
 mainly focuses on these aspects while ensuring data sovereignty along the entire data supply and value chain.
 ![[imgs/Pasted image 20240104093340.png]]
+### About EDC
+A data-sharing system requires a protocol implementation for policy enforcement among participants. The EDC will implement the **International Data Spaces (IDS) standard** as well as relevant protocols and requirements associated with **Gaia-X**.
 
+### EDC vs. DSC
+DSC is Dataspace Connector. 两者code不同，但是遵循同样的sovereign data spaces理念。
 
 
 
