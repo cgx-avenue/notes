@@ -50,7 +50,6 @@ Contract definitions are how [assets](https://eclipse-edc.github.io/docs/#/docu
 首先要有access，其次再检查是不是满足contract policy。
 例子参见文档。
 
-
 #### Contract negotiations
 满足了contract policy，才能发起negotiate。
 Contract negotiations have a few key aspects:
@@ -58,7 +57,10 @@ Contract negotiations have a few key aspects:
 - they take place between a _provider_ and a _consumer_ connector
 - they cannot be changed by the user directly
 - users can only be decline, terminate or cancel them
+注意，contract offers不会被存储，更不会背查询。换句话说，不会被追溯？
 
+Contract aggrements
+双方都达到`F
 
 
 # 怎么用
@@ -151,5 +153,9 @@ It is important to note that contract definitions are a _internal objects_, i.e
 ```
 
 4. 为了云环境而adapter，比如dataAddress指向http data
-5. 
+5. 怎么理解下面这句话？
+```markdown
+contract offers are _ephemeral_ objects as they are generated on-the-fly for a particular participant, and they are never persisted in a database and thus cannot be queried through any API.
+```
+contract offer是什么？是contract definition不会被存储？还是协商过程中的具体细节和结果不会被存储？
 
