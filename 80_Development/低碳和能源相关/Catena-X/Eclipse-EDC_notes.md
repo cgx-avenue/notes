@@ -21,7 +21,7 @@ mainly focuses on these aspects while ensuring data sovereignty along the entire
 A data-sharing system requires a protocol implementation for policy enforcement among participants. The EDC will implement the **International Data Spaces (IDS) standard** as well as relevant protocols and requirements associated with **Gaia-X**.
 
 ### EDC vs. DSC
-DSC is Dataspace Connector. 两者code不同，但是遵循同样的sovereign data spaces理念。
+DSC is Dataspace Connector. 两者code不同，但是遵循同样的sovereign data spaces理念。DSC之前是Fraunhofer ISST开发的，目标是给catana-x,gaia-x等等提供IDS兼容的connector。后来搞不下去了，决定由Eclipse
 
 
 
