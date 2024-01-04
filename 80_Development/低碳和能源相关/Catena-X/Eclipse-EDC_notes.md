@@ -32,6 +32,7 @@ they are dynamically loaded at startup to extend the functionality of a runtime.
 
 ### Control plane
 API object in detail. API here menas Management API.
+这里就牵扯到JSON-LD，ODRL和DCAT等等。
 
 
 
