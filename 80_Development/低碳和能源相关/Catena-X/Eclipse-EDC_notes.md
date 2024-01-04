@@ -47,13 +47,17 @@ Policy可以多个，可以组合。
 Contract definitions are how [assets](https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=assets) and [policies](https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=policies) are linked together, comprised of a _contract policy_ and an _access policy_. 
 - **access policy**: determines whether a particular consumer is offered an asset or not. For example, we may want to restrict certain assets such that only consumers within a particular geography can see them. Consumers outside that geography wouldn't even have them in their [catalog](https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=catalog).
 - **contract policy**: determines the conditions for initiating a contract negotiation for a particular asset. Note that does not automatically guarantee the successful _creation_ of a contract, it merely expresses the _eligibility_ to start the negotiation.
-首先要有access，其次才能发起contract policy的negotiate。
+首先要有access，其次再检查是不是满足contract policy。
 例子参见文档。
 
 
 #### Contract negotiations
-
-
+满足了contract policy，才能发起negotiate。
+Contract negotiations have a few key aspects:
+- they target _one_ asset
+- they take place between a _provider_ and a _consumer_ connector
+- they cannot be changed by the user directly
+- users can only be decline, terminate or cancel them
 
 
 
@@ -140,7 +144,8 @@ https://github.com/eclipse-edc/docs/blob/main/developer/handbook.md
 Therefore, if you are a solution architect looking for a high-level description on how to integrate EDC, or a developer wanting to contribute to the project itself, this guide is not for you. More suitable resources can be found [here](https://github.com/eclipse-edc/docs/blob/main/docs/documentation) and [here](https://github.com/eclipse-edc/docs/blob/main/docs/documentation/CONTRIBUTING.md) respectively.
 两个超链接失效了。除此外，缺失architecture diagram，比如为什么选择用IDS数据，JSON-LD的数据类型选择依据等。
 2. provider和consumer是单项的，则如果要实现双向通信，必须要在两个服务器的每个点上，即安装provider，又安装consumer。
-3. 怎么理解下面这句话？contract definition居然不是双向保存的？！Negotiate时候不是由consumer发起的吗？
+3. 一个contract只能一个asset，所以数据源怎么控制？
+4. 怎么理解下面这句话？contract definition居然不是双向保存的？！Negotiate时候不是由consumer发起的吗？
 ```markdown
 It is important to note that contract definitions are a _internal objects_, i.e. they **never** leave the realm of the provider, and they are **never** sent to the consumer.
 ```
