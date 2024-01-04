@@ -36,9 +36,14 @@ API object in detail. API here menas Management API.
 
 #### Assets
 存储metadata，不包含实际数据。比如`DataAddress`字段。
-
+例子参见文档。
 #### Policy
+Policies are used to express what requirements a subject (e.g. a communication partner) must satisfy in order to be able to perform an action.
+Policies are [ODRL](https://www.w3.org/TR/odrl-model/) serialized as JSON-LD.
+例子参见文档。
+Policy可以多个，可以组合。
 
+#### Contract definit
 
 
 # 怎么用
