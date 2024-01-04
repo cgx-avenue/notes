@@ -60,7 +60,15 @@ Contract negotiations have a few key aspects:
 注意，contract offers不会被存储，更不会背查询。换句话说，不会被追溯？
 
 Contract aggrements
-双方都达到`F
+双方都达到`FINALIZED`状态才行，永远是provider给最终approval。包含最终policy，asset id和签发日期。
+
+#### Catalog
+The catalog contains the "data offerings" of a connector and one or multiple service endpoints to initiate a negotiation for those offerings.
+Dataset object标识了every data offerring。
+
+#### Tranfer process
+记录数据传送。
+
 
 
 # 怎么用
