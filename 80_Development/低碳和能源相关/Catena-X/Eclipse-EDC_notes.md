@@ -30,7 +30,8 @@ DSC is Dataspace Connector. 两者code不同，但是遵循同样的sovereign da
 new capabilities -> Extention
 they are dynamically loaded at startup to extend the functionality of a runtime. For example, adding you favorite authentication backend can be done through extensions.
 
-
+### Control plane
+API object in detail. API here menas Management API.
 
 
 
