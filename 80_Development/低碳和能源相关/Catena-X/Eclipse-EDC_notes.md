@@ -34,7 +34,7 @@ they are dynamically loaded at startup to extend the functionality of a runtime.
 API object in detail. API here menas Management API.
 这里就牵扯到JSON-LD，ODRL和DCAT等等。
 #### Assets
-
+存储metadata，不包含实际数据。比如`DataAddress`字段
 
 
 # 怎么用
@@ -125,6 +125,6 @@ Therefore, if you are a solution architect looking for a high-level description 
 It is important to note that contract definitions are a _internal objects_, i.e. they **never** leave the realm of the provider, and they are **never** sent to the consumer.
 ```
 
-
+4. 为了云环境而adapter，比如dataAddress指向http data
 
 
