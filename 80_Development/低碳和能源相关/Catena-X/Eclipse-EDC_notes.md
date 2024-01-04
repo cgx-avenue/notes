@@ -5,8 +5,23 @@
 4. Introductory videos: https://www.youtube.com/@eclipsedataspaceconnector9622/featured
 5. 
 
+# 概念
+## Dataspace
+Data spaces allow organizations to securely share data with others. They enable data cooperation in a multi-cloud federation by focusing on identity, trust, sovereignty, and interoperability.
 
-# 新的知识点和术语
+- Identity: Each participant remains in control of their identity.
+- Trust: Each participant decides who to trust.
+- Sovereignty: Each participant decides under what policies their data is shared.
+- Interoperability: Each participant remains in control of their deployment.
+
+## Dataspace connector
+mainly focuses on these aspects while ensuring data sovereignty along the entire data supply and value chain.
+![[imgs/Pasted image 20240104093340.png]]
+
+
+
+
+# 知识点和术语
 ~~1. JSON-LD https://json-ld.org/~~
 2. Terminology
 * connector: can be a standalone application. could be run in docker container or embedded into another java application. `A concept of a gateway into a data space`. 
