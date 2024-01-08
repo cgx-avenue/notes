@@ -2,7 +2,7 @@
 
 # 名词
 1. keycloak
-2. 
+2. kind
 
 # 存在问题
 1. 文档和demo不全
