@@ -1,5 +1,5 @@
 # Topics
-1. EDC vs. Tractus-X
+1. EDC vs. Tractus-X EDC
 2. Tractus-X vs. Catena-X
 3. EDC 概念和组成
 4. 现在存在的问题
