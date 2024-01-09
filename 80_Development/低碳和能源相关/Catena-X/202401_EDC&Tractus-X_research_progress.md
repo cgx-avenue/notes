@@ -1,3 +1,16 @@
+
+
+# Demo历程：从页面到仓库，再到EDC仓库
+1. Tractus-X页面上的Development view：
+https://eclipse-tractusx.github.io/docs-kits/kits/tractusx-edc/docs/
+超链接缺失，打不开
+2. Tractus-X demo
+https://github.com/eclipse-tractusx/tutorial-resources/tree/main/mxd
+进行到
+3. EDC demo
+
+
+
 # Topics
 1. EDC vs. Tractus-X EDC
 2. Tractus-X vs. Catena-X
