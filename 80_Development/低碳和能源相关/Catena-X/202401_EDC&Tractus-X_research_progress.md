@@ -55,4 +55,10 @@ Tractus-X是Catena-X中的一环，除TX外，Catena-X更多的是生态。
 # 5. Discussion：我们能做什么
 [[我们能做的]]
 
-# 6. Competecies 呢饿得的
+# 6. Competecies needed
+## EDC
+Java, gradle, json-ld, dcat, ordl, etc.
+## TX
+docker, k8s, kind, terraform
+## Others
+OpenTelemetry, jaegar, micrometer, prometheus
