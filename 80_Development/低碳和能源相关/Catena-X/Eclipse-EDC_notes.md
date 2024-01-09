@@ -130,6 +130,10 @@ a monitor is essentially a logger
 4. Provision manager
 5. 
 
+# Contract negotiation
+
+
+
 
 # 搭建过程
 
@@ -141,7 +145,6 @@ https://github.com/eclipse-edc/docs/blob/main/developer/handbook.md
 Therefore, if you are a solution architect looking for a high-level description on how to integrate EDC, or a developer wanting to contribute to the project itself, this guide is not for you. More suitable resources can be found [here](https://github.com/eclipse-edc/docs/blob/main/docs/documentation) and [here](https://github.com/eclipse-edc/docs/blob/main/docs/documentation/CONTRIBUTING.md) respectively.
 两个超链接失效了。除此外，缺失architecture diagram，比如为什么选择用IDS数据，JSON-LD的数据类型选择依据等。
 2. 文档不全，文档缺失。比如 https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=advanced-policy-concepts
-3. 
 4. provider和consumer是单项的，则如果要实现双向通信，必须要在两个服务器的每个点上，即安装provider，又安装consumer。
 5. 一个contract只能一个asset，所以数据源怎么控制？
 6. 怎么理解下面这句话？contract definition居然不是双向保存的？！Negotiate时候不是由consumer发起的吗？
