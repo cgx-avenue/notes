@@ -131,7 +131,7 @@ a monitor is essentially a logger
 5. 
 
 # Contract negotiation
-
+![[imgs/Pasted image 20240109110619.png]]
 
 
 
