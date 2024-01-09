@@ -59,8 +59,16 @@ Tractus-X是Catena-X中的一环，除TX外，Catena-X更多的是生态。
 ## EDC
 Java, gradle, json-ld, dcat, ordl, etc.
 ## TX
-docker, k8s, kind, terraform, etc.
+docker, k8s, kind, terraform, stern, etc.
 ## Others
 OpenTelemetry, jaegar, micrometer, prometheus
 
-# 7. 代码quick look
+# 7. 其它
+## 1. 代码quick look
+https://github.com/eclipse-edc/Connector
+https://github.com/eclipse-edc/Samples
+https://github.com/eclipse-tractusx/tractusx-edc
+https://github.com/eclipse-edc/MinimumViableDataspace/tree/main
+https://github.com/eclipse-tractusx/tutorial-resources/blob/main/mxd/README.md
+## 2. catena-x blockchain
+[[Catena-X_blockchain]]
