@@ -16,6 +16,8 @@
 | MVD: minimum viable dataspace | MXD: minimum Tractus-X Dataspace |
 | Java                          | K8S, helm charts                              |
 
+EDC是基石，Tractus-X是应用。
+
 ## TX-EDC比EDC多封装了什么？
 * K8s环境
 * helm charts
@@ -38,3 +40,5 @@
 # 4. 目前存在的问题
 ## EDC
 [[Eclipse-EDC_notes]]
+
+
