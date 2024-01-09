@@ -44,7 +44,7 @@ Tractus-X是Catena-X开源项目。
 从不同的角度出发，Tractux-X聚焦在Developer和App provider。
 ![[imgs/Pasted image 20240109095158.png]]
 https://eclipse-tractusx.github.io/
-EDC 是
+EDC 是其中一个kit。
 ![[imgs/Pasted image 20240109162447.png]]
 
 
