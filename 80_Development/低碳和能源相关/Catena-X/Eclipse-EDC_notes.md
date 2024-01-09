@@ -69,7 +69,8 @@ Dataset object标识了every data offerring。
 #### Tranfer process
 记录数据传送。
 
-
+### Data plane
+纯粹的数据传输数据流，实际当中类似于使用http server。
 
 # 怎么用
 1. The Eclipse Dataspace Components projects is **not** a ready-to-use application, but rather a comprehensive collection of libraries and modules, that are published as Maven artifacts, and that developers can use and extend.

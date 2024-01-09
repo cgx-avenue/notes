@@ -1,7 +1,7 @@
 # Topics
 1. EDC vs. Tractus-X
 2. Tractus-X vs. Catena-X
-3. EDC concepts and components
+3. EDC 概念和组成
 4. 现在存在的问题
 	1. EDC
 	2. Tractus-X
@@ -17,9 +17,24 @@
 | Java                          | K8S, helm charts                              |
 
 ## TX-EDC比EDC多封装了什么？
-![[imgs/Pasted image 20240109094408.png]]
+* K8s环境
+* helm charts
+* identity key vault
+* 数据库
+
 3种control-plane
 2种data-plane
 
-# 2. Tractus-X vs. Catena-X
+![[imgs/Pasted image 20240109094408.png]]
 
+
+# 2. Tractus-X vs. Catena-X
+从不同的角度出发，Tractux-X聚焦在Developer和App provider。
+![[imgs/Pasted image 20240109095158.png]]
+
+# 3. EDC概念和组成
+[[Eclipse-EDC_notes]]
+
+# 4. 目前存在的问题
+## EDC
+[[Eclipse-EDC_notes]]
