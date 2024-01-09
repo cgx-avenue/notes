@@ -7,6 +7,11 @@
 	2. Tractus-X
 5. Discussion：我们能做什么
 6. Competencies needed
+7. 其它
+	1. 代码quick glance
+		1. EDC，TX目录结构，json配置
+		2. samples
+	2. Catena-X blockchain[[Catena-X_blockchain]]
 
 
 # 1. EDC 对比Tractus-X
@@ -15,7 +20,8 @@
 | Eclipse Foundation            | Catena-X                         |
 | MVD: minimum viable dataspace | MXD: minimum Tractus-X Dataspace |
 | Java                          | K8S, helm charts                 |
-| cloud                              |     Azure, AWS                             |
+| various                       | Azure, AWS                       |
+|                               | EDR API for simplified negotiation                                 |
 
 EDC是基石，Tractus-X是应用。
 
@@ -43,4 +49,10 @@ Tractus-X是Catena-X中的一环，除TX外，Catena-X更多的是生态。
 ## EDC
 [[Eclipse-EDC_notes]]
 
+## TX
+[[Tractus-X_ntoes]]
 
+# 5. Discussion：我们能做什么
+[[我们能做的]]
+
+# 6. Competecies 呢饿得的
