@@ -8,7 +8,7 @@
 5. Discussion：我们能做什么
 6. Competencies needed
 7. 其它
-	1. 代码quick glance
+	1. 代码quick look
 		1. EDC，TX目录结构，json配置
 		2. samples
 	2. Catena-X blockchain[[Catena-X_blockchain]]
@@ -59,6 +59,8 @@ Tractus-X是Catena-X中的一环，除TX外，Catena-X更多的是生态。
 ## EDC
 Java, gradle, json-ld, dcat, ordl, etc.
 ## TX
-docker, k8s, kind, terraform
+docker, k8s, kind, terraform, etc.
 ## Others
 OpenTelemetry, jaegar, micrometer, prometheus
+
+# 7. 代码quick look
