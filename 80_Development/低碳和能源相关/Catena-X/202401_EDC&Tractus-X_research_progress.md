@@ -47,12 +47,17 @@ https://eclipse-tractusx.github.io/
 EDC 是其中一个kit。
 ![[imgs/Pasted image 20240109162447.png]]
 
+# Demo：从页面到仓库，再到EDC仓库
+https://eclipse-tractusx.github.io/docs-kits/kits/tractusx-edc/docs/
 
 
 
 # 3. EDC概念和组成
 [[Eclipse-EDC_notes]]
 以Contract negotiation&transfer process为例。
+
+
+
 # 4. 目前存在的问题
 ## EDC
 [[Eclipse-EDC_notes]]
