@@ -14,7 +14,7 @@
 	2. Catena-X blockchain[[Catena-X_blockchain]]
 
 
-# 1. EDC 对比Tractus-X
+# 1. EDC 对比Tractus-X EDC
 | EDC                           | Tractus-X                        |
 | ----------------------------- | -------------------------------- |
 | Eclipse Foundation            | Catena-X                         |
@@ -23,13 +23,15 @@
 | various                       | Azure, AWS                       |
 |                               | EDR API for simplified negotiation                                 |
 
-EDC是基石，Tractus-X是应用。
+EDC是基类，Tractus-X是子类。
 
 ## TX-EDC比EDC多封装了什么？
 * K8s环境
 * helm charts
 * identity key vault
 * 数据库
+* 各种extension https://eclipse-tractusx.github.io/docs-kits/kits/tractusx-edc/docs/kit/operation-view/page10_extensions
+
 
 3种control-plane
 2种data-plane
@@ -41,6 +43,10 @@ EDC是基石，Tractus-X是应用。
 Tractus-X是Catena-X中的一环，除TX外，Catena-X更多的是生态。
 从不同的角度出发，Tractux-X聚焦在Developer和App provider。
 ![[imgs/Pasted image 20240109095158.png]]
+
+
+
+
 
 # 3. EDC概念和组成
 [[Eclipse-EDC_notes]]
