@@ -47,14 +47,7 @@ https://eclipse-tractusx.github.io/
 EDC 是其中一个kit。
 ![[imgs/Pasted image 20240109162447.png]]
 
-# Demo：从页面到仓库，再到EDC仓库
-1. Tractus-X页面上的Development view：
-https://eclipse-tractusx.github.io/docs-kits/kits/tractusx-edc/docs/
-超链接缺失，打不开
-2. Tractus-X github页面走demo
-https://github.com/eclipse-tractusx/tutorial-resources/tree/main/mxd
-进行到
-3. 
+
 
 
 # 3. EDC概念和组成
