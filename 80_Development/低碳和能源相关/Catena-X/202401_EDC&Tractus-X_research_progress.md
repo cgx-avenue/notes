@@ -5,7 +5,7 @@
 4. 现在存在的问题
 	1. EDC
 	2. Tractus-X
-5. Discussion：我们能做什么
+5. Discussion：Use case
 6. Competencies needed
 7. 其它
 	1. 代码quick look
@@ -52,7 +52,7 @@ Tractus-X是Catena-X中的一环，除TX外，Catena-X更多的是生态。
 ## TX
 [[Tractus-X_ntoes]]
 
-# 5. Discussion：我们能做什么
+# 5. Discussion：Use case
 [[我们能做的]]
 
 # 6. Competecies needed
