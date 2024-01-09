@@ -44,7 +44,7 @@ Tractus-X是Catena-X中的一环，除TX外，Catena-X更多的是生态。
 
 # 3. EDC概念和组成
 [[Eclipse-EDC_notes]]
-以Contract negotiation
+以Contract negotiation&transfer process为例。
 # 4. 目前存在的问题
 ## EDC
 [[Eclipse-EDC_notes]]

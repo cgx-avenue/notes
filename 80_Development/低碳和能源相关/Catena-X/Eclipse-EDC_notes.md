@@ -130,7 +130,7 @@ a monitor is essentially a logger
 4. Provision manager
 5. 
 
-# Contract negotiation
+# Contract negotiation & transfer process
 ![[imgs/Pasted image 20240109110619.png]]
 
 
