@@ -31,19 +31,21 @@ EDC是基类，Tractus-X是子类。
 * identity key vault
 * 数据库
 * 各种extension https://eclipse-tractusx.github.io/docs-kits/kits/tractusx-edc/docs/kit/operation-view/page10_extensions
-
-
+举例：
 3种control-plane
 2种data-plane
 
 ![[imgs/Pasted image 20240109094408.png]]
 
 
+
 # 2. Tractus-X vs. Catena-X
-Tractus-X是Catena-X中的一环，除TX外，Catena-X更多的是生态。
+Tractus-X是Catena-X开源项目。
 从不同的角度出发，Tractux-X聚焦在Developer和App provider。
 ![[imgs/Pasted image 20240109095158.png]]
-
+https://eclipse-tractusx.github.io/
+EDC 是
+![[imgs/Pasted image 20240109162447.png]]
 
 
 
