@@ -14,7 +14,8 @@
 | ----------------------------- | -------------------------------- |
 | Eclipse Foundation            | Catena-X                         |
 | MVD: minimum viable dataspace | MXD: minimum Tractus-X Dataspace |
-| Java                          | K8S, helm charts                              |
+| Java                          | K8S, helm charts                 |
+| cloud                              |     Azure, AWS                             |
 
 EDC是基石，Tractus-X是应用。
 
@@ -31,6 +32,7 @@ EDC是基石，Tractus-X是应用。
 
 
 # 2. Tractus-X vs. Catena-X
+Tractus-X是Catena-X中的一环，除TX外，Catena-X更多的是生态。
 从不同的角度出发，Tractux-X聚焦在Developer和App provider。
 ![[imgs/Pasted image 20240109095158.png]]
 
