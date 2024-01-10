@@ -59,7 +59,7 @@ Contract negotiations have a few key aspects:
 - users can only be decline, terminate or cancel them
 注意，contract offers不会被存储，更不会背查询。换句话说，不会被追溯？
 
-Contract aggrements
+##### Contract aggrements
 双方都达到`FINALIZED`状态才行，永远是provider给最终approval。包含最终policy，asset id和签发日期。
 
 #### Catalog
