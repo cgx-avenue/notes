@@ -10,7 +10,6 @@ https://github.com/eclipse-tractusx/tutorial-resources/tree/main/mxd
 3. EDC demo
 
 
-
 # Topics
 1. EDC vs. Tractus-X EDC
 2. Tractus-X vs. Catena-X
