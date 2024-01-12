@@ -10,8 +10,30 @@ All-in-one chatbot client
 A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
 
-# 2. ollama
+## 4. lobe-chat
+🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.
+https://github.com/lobehub/lobe-chat
+[chat-preview.lobehub.com](https://chat-preview.lobehub.com/ "https://chat-preview.lobehub.com")
+
+
+# 2. 大模型应用搭建
+## 1. ollama
 https://github.com/jmorganca/ollama
+
+## 2. langchain
+
+
+## 3. gradio
+[gradio](https://github.com/gradio-app/gradio)：用 Python 为模型创建演示界面。这是一个用于构建机器学习和数据科学演示的 Python 库，它包含多种输入和展示的组件，使用起来极其方便，只用几行代码就可以创建出演示机器学习模型的 Web 界面。
+
+## 4. streamlit
+
+
+## 5. llm-books
+利用LLM构建应用实践笔记
+[aitutor.liduos.com/](https://aitutor.liduos.com/ "https://aitutor.liduos.com/")
+https://github.com/morsoli/llm-books
+
 
 
 # 3. quivr
@@ -63,4 +85,7 @@ https://github.com/Significant-Gravitas/AutoGPT
 https://github.com/reworkd/AgentGPT
 [agentgpt.reworkd.ai](https://agentgpt.reworkd.ai/ "https://agentgpt.reworkd.ai")
 
-
+# 10. 大模型LLM比较
+## 1. awesome-LLMs-in-china
+https://github.com/wgwang/awesome-LLMs-In-China
+中国大模型对比
