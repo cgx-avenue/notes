@@ -2,8 +2,13 @@
 
 ## 1. chatbox
 
-#
+## 2. chathub
+All-in-one chatbot client
+[chathub.gg/?utm_source=github](https://chathub.gg/?utm_source=github "https://chathub.gg/?utm_source=github")
 
+## 3. ChatGPT-Next-Web
+A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
 
 # 2. ollama
 https://github.com/jmorganca/ollama
@@ -35,7 +40,27 @@ ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你
 [chat.aimakex.com/](https://chat.aimakex.com/ "https://chat.aimakex.com/")
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
+## 2. prompt-engineering-for-developers
+面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+[datawhalechina.github.io/prompt-engine](https://datawhalechina.github.io/prompt-engineering-for-developers/ "https://datawhalechina.github.io/prompt-engineering-for-developers/")
+
+## 3. [The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique)
+chatgpt 提问技巧
+
+## 4. Learning-Prompt
+Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+https://github.com/thinkingjimmy/Learning-Prompt
+[learningprompt.wiki](https://learningprompt.wiki/ "https://learningprompt.wiki")
 
 
+# 8. Autogpt
+AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+https://github.com/Significant-Gravitas/AutoGPT
+[agpt.co](https://agpt.co/ "https://agpt.co")
+
+# 9. AgentGPT
+🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+https://github.com/reworkd/AgentGPT
+[agentgpt.reworkd.ai](https://agentgpt.reworkd.ai/ "https://agentgpt.reworkd.ai")
 
 
