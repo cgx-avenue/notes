@@ -26,7 +26,12 @@ https://github.com/smol-ai/GodMode/
 https://github.com/Licoy/ChatGPT-Midjourney
 
 # 7. 各种prompt资源
-根据不同的应用场景，肯定需要不同的
+根据不同的应用场景，肯定需要不同的“调教”
+
+## 1. awesome-chatgpt-prompts-zh
+ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+[chat.aimakex.com/](https://chat.aimakex.com/ "https://chat.aimakex.com/")
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 
 
