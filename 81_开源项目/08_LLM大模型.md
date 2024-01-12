@@ -21,11 +21,12 @@ https://github.com/mylxsw/aidea
 AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 https://github.com/smol-ai/GodMode/
 
-# 6. # ChatGPT-Midjourney
+# 6. ChatGPT-Midjourney
 一键免费部署你的私人 ChatGPT+Midjourney 网页应用
 https://github.com/Licoy/ChatGPT-Midjourney
 
-
+# 7. 各种prompt资源
+根据不同的应用场景，肯定需要不同的
 
 
 
