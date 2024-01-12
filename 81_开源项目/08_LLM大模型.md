@@ -27,6 +27,7 @@ https://github.com/jmorganca/ollama
 [gradio](https://github.com/gradio-app/gradio)：用 Python 为模型创建演示界面。这是一个用于构建机器学习和数据科学演示的 Python 库，它包含多种输入和展示的组件，使用起来极其方便，只用几行代码就可以创建出演示机器学习模型的 Web 界面。
 
 ## 4. streamlit
+更偏向快速构建数据应用
 
 
 ## 5. llm-books
