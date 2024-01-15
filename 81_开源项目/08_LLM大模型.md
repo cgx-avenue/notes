@@ -1,6 +1,8 @@
 # 1. 各种聊天client
 
 ## 1. chatbox
+https://chatboxai.app/zh
+
 
 ## 2. chathub
 All-in-one chatbot client
