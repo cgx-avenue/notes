@@ -1,8 +1,9 @@
 # 1. 各种聊天client
 
 ## 1. chatbox
+Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
 https://chatboxai.app/zh
-
+https://github.com/Bin-Huang/chatbox
 
 ## 2. chathub
 All-in-one chatbot client
