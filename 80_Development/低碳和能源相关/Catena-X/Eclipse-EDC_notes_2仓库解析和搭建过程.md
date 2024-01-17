@@ -71,11 +71,12 @@ consumer端的输出如下，变得不一样了。
 ### 04和05没跑
 05需要aws的东西
 
-# EDC samples advanced chapter
+## EDC samples advanced chapter
 ### 01
 没跑起来，报错
 ![[imgs/Pasted image 20240102151233.png]]
 不想看了
 
+## Dashboard
 
 
