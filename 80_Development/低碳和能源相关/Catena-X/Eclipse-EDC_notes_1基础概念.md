@@ -3,7 +3,7 @@
 2. https://github.com/eclipse-tractusx/tutorial-resources/tree/main/mxd
 3. https://github.com/eclipse-edc/MinimumViableDataspace
 4. Introductory videos: https://www.youtube.com/@eclipsedataspaceconnector9622/featured
-5. 
+5. https://eclipse-edc.github.io/docs/#/documentation/developer/handbook?id=the-data-plane
 
 # 概念和组成
 ## Dataspace
