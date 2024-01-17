@@ -1,11 +1,20 @@
 # Video notes
-[[Catena-X_Videos_notes]]
+[[Catena-X_notes_Videos]]
 
 # 仓库
 1. tutorial-resources mxd https://github.com/eclipse-tractusx/tutorial-resources/tree/main/mxd 跟着这个走 https://github.com/eclipse-tractusx/tutorial-resources/blob/main/mxd/README.md
 2. EDC policy playground https://eclipse-tractusx.github.io/tutorial-resources/policy-playground/
 3. 
 
+# Database
+## Flyway构建工具
+[Documentation - Flyway by Redgate • Database Migrations Made Easy. (flywaydb.org)](https://flywaydb.org/documentation/)
+
+
+
+# Secret management
+## HashiCorp vault
+[HashiCorp Vault - Manage Secrets & Protect Sensitive Data](https://www.hashicorp.com/products/vault)
 
 
 # 名词和tech

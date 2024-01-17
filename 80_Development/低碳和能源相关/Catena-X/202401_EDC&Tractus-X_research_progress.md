@@ -23,7 +23,7 @@ https://github.com/eclipse-tractusx/tutorial-resources/tree/main/mxd
 	1. 代码quick look
 		1. EDC，TX目录结构，json配置
 		2. samples
-	2. Catena-X blockchain[[Catena-X_blockchain]]
+	2. Catena-X blockchain[[Catena-X_notes_blockchain]]
 
 
 # 1. EDC 对比Tractus-X EDC
@@ -76,7 +76,7 @@ EDC 是其中一个kit。
 [[Tractus-X_notes_1基础概念和组成]]
 
 # 5. Discussion：Use case
-[[我们能做的]]
+[[Catena-X_notes_我们能做的]]
 
 # 6. Competecies needed
 ## EDC
@@ -94,4 +94,4 @@ https://github.com/eclipse-tractusx/tractusx-edc
 https://github.com/eclipse-edc/MinimumViableDataspace/tree/main
 https://github.com/eclipse-tractusx/tutorial-resources/blob/main/mxd/README.md
 ## 2. catena-x blockchain
-[[Catena-X_blockchain]]
+[[Catena-X_notes_blockchain]]

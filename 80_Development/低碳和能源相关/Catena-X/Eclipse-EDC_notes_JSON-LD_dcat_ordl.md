@@ -8,7 +8,6 @@ https://www.w3.org/TR/odrl-model/
 The Open Digital Rights Language (ODRL) is a policy expression language that provides a flexible and interoperable information model, vocabulary, and encoding mechanisms for representing statements about the usage of content and services.
 # dcat
 https://www.w3.org/TR/vocab-dcat-2/
-
-
+DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
 
 
