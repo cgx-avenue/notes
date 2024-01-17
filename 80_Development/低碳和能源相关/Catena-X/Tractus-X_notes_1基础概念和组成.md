@@ -10,7 +10,7 @@
 
 # 名词和tech
 1. keycloak
-2. kind 
+2. kind https://developer.aliyun.com/article/1112675
 3. terraform https://www.terraform.io/ https://help.aliyun.com/document_detail/95820.html
 4. stern https://github.com/stern/stern
 
