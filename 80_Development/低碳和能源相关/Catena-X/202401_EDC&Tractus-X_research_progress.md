@@ -73,7 +73,7 @@ EDC 是其中一个kit。
 [[Eclipse-EDC_notes_1基础概念]]
 
 ## TX
-[[Tractus-X_ntoes]]
+[[Tractus-X_notes_1基础概念和组成]]
 
 # 5. Discussion：Use case
 [[我们能做的]]
