@@ -63,14 +63,14 @@ EDC 是其中一个kit。
 
 
 # 3. EDC概念和组成
-[[Eclipse-EDC_notes]]
+[[Eclipse-EDC_notes_1基础概念]]
 以Contract negotiation&transfer process为例。
 
 
 
 # 4. 目前存在的问题
 ## EDC
-[[Eclipse-EDC_notes]]
+[[Eclipse-EDC_notes_1基础概念]]
 
 ## TX
 [[Tractus-X_ntoes]]
