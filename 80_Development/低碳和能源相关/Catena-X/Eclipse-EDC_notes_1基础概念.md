@@ -89,3 +89,12 @@ Dataset object标识了every data offerring。
 ~~6. prometheus~~
 7. terraform
 
+# EDC documentation
+https://eclipse-edc.github.io/docs/#/README
+再看一遍EDC的文档。
+
+## 关于protocol和policy
+EDC will implement the International Data Spaces (IDS) standard as well as relevant protocols and requirements associated with Gaia-X, and thereby provide implementation and feedback to these initiatives.
+
+## 开箱即用？
+Eclipse Dataspace Components projects is not a ready-to-use application, but rather a comprehensive collection of libraries and modules, that are published as Maven artifacts, and that developers can use and extend.

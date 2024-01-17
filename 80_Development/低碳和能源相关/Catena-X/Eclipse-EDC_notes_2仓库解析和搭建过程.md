@@ -30,7 +30,52 @@ a monitor is essentially a logger
 
 # 搭建过程
 
+## EDC samples
+三个层级：
+1. basic
+2. transfer
+3. advanced
 
+
+
+
+## EDC samples transfer chapter
+### 大坑！ 关于transfer-01-negotiatian {{contract-negotiation-id}}
+![[imgs/Pasted image 20240102132914.png]]
+这里有一个{{contract-negotiation-id}},看原文以为是之前第五步输出的id，例如下图：
+![[imgs/Pasted image 20240102133005.png]]
+其实不是！其实不是！其实不是！
+在翻看transfer/transfer-01-negotiation/resources/negotiate-contract.json文件时候发现了这个字段，
+![[imgs/Pasted image 20240102133049.png]]
+再查看这里的git commit历史，结合教程页面，发现这里需要输入的是第四步，fetch catalog里，这个id
+![[imgs/Pasted image 20240102133530.png]]
+ok，执行第五步negotiate a contract之前，json里改这个id，然后执行第五步。
+consumer端的输出如下，变得不一样了。
+![[imgs/Pasted image 20240102133710.png]]
+
+再试试第六步里，url的id也换成这个，报错。但是换成上图里的id，也就是之前理解的，第五步输出里的id，就成功了。
+![[imgs/Pasted image 20240102133906.png]]
+故：
+1. negotiate-contract.json里的{{contract-negotiation-id}}需要用第四步输出里的odrl:hasPolicy里的id
+2. url里的{{contract-negotiation-id}}需要用第五步输出里的id。
+3. 如此得到的id是contract-agreement-id
+
+### 02 consumer pull
+没跑起来，provider端报错。
+![[imgs/Pasted image 20240102140833.png]]
+看截图是找不到source和dest。
+
+### 03 provider push
+这个居然神奇的跑起来了！！！我的天啊
+
+### 04和05没跑
+05需要aws的东西
+
+# EDC samples advanced chapter
+### 01
+没跑起来，报错
+![[imgs/Pasted image 20240102151233.png]]
+不想看了
 
 
 
