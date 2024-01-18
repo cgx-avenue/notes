@@ -41,3 +41,21 @@ https://api.ycestore.com/detail-order-sn/PDBSRBT4TXRGZBMT?charset=utf-8&out_trad
 可能有帮助的购买网站：
 1. https://chatgptboke.com/openai-chatgpt-api-key-purchase.html
 2. 
+
+## openai api代理
+1. 代理网站
+https://www.openai-proxy.com/
+由于 [OpenAI](https://platform.openai.com/account/api-keys) 及 GFW 的双重限制，国内用户无法访问 OpenAI 的 API，现提供代理服务地址供开发者 **免费** 使用。
+2. 杨溢给了我一个代理地址：
+https://api.qytech.top
+
+在python里只需要加入者么一句
+```python
+# for openai proxy
+openai.api_base=r"https://api.qytech.top/v1"
+
+```
+
+3. 也可以自己搭建，我没尝试
+https://zcjun.com/26678.html
+
