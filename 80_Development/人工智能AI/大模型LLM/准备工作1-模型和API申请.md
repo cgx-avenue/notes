@@ -36,7 +36,7 @@ https://api.ycestore.com/detail-order-sn/PDBSRBT4TXRGZBMT?charset=utf-8&out_trad
 
 `bessone60263@gmail.com----zzUkxIYYSZw9Ie----c2060aVa----8xbessone60263@jetable.fr.nf----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`
 
-注意有效期
+注意余额有效期只有2-3个月，之后可以继续使用。
 
 可能有帮助的购买网站：
 1. https://chatgptboke.com/openai-chatgpt-api-key-purchase.html
