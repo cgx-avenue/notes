@@ -6,6 +6,8 @@ History：
 |      |     |  |
 |    |     |    |
 
+如有精力，一定要先看Refs4和她的参考文献。
+
 # 基本概念
 ## 定义
 
@@ -110,4 +112,4 @@ P2P网络是指，通过允许单个节点与其他节点直接交互，从而�
 1. [Awesome Blockchain](https://github.com/chaozh/awesome-blockchain-cn)
 2. [（一）简单易懂地介绍什么是区块链](https://zhuanlan.zhihu.com/p/22228902)
 3. [（二）简单易懂地介绍什么是区块链（技术篇）](https://zhuanlan.zhihu.com/p/23243289)
-4. 
+4.[【区块链】一文看懂区块链：一步一步发明比特币](https://charlesliuyx.github.io/2017/09/24/%E4%B8%80%E6%96%87%E5%BC%84%E6%87%82%E5%8C%BA%E5%9D%97%E9%93%BE-%E4%BB%A5%E6%AF%94%E7%89%B9%E5%B8%81%E4%B8%BA%E4%BE%8B/)
