@@ -1,27 +1,10 @@
 # 国内LLM API申请
 https://datawhalechina.github.io/llm-universe/#/C0/1.API%E7%94%B3%E8%AF%B7%E6%95%99%E7%A8%8B
 
-## 智谱AI
-https://open.bigmodel.cn/launch?spreadparam=datawhale&utm_source=datawhale&utm_campaign=%E6%88%98%E7%95%A5%E7%94%9F%E6%80%81%E9%83%A8-%E6%B8%A0%E9%81%93%E5%90%88%E4%BD%9C&_channel_track_key=GRfyviFi
-
-
-## 通义千问
-阿里巴巴，支付宝登录，收费
-
-## 星火
-讯飞，注册免费用
-
-## 千帆
-百度智能云的，收不到验证码
-
-## 文心一言
-百度，直接百度帐号登录。没有开放api
-
-
-
-
-
 # 所有API的key集合
+都放到这个里面，在python工程里放到`.env`文件里。
+通过`from dotenv import load_dotenv, find_dotenv` 使用
+
 ```ini
 
 OPENAI_API_KEY = "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"
@@ -43,3 +26,18 @@ HuggingFace_API_KEY="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"
 Gemini_API_KEY="AIzaSyAErICjns15ac6c9sj81deCmBb_1GILl3c"
 
 ```
+
+# ChatGPT账号和OpenAI API
+https://api.ycestore.com/buy/1
+
+https://api.ycestore.com/detail-order-sn/PDBSRBT4TXRGZBMT?charset=utf-8&out_trade_no=PDBSRBT4TXRGZBMT&method=alipay.trade.page.pay.return&total_amount=35.00&sign=i4xodkVaYMfJmD15Kvy%2BomSTCefkRyGT1O13lYquLnqHswU7PfZheBCjuhf6TymvdyMMQqTO4OGXGXYldz5MjwPeQ%2BH%2B5RRR3AzJasA2gXPMpkwOKpm8PGSCMzVe2xXXAGxiJhrcMIEGKV0K1SCj8aY0v%2FuaUvf%2F5p9qlfmfsn%2Fzs9%2FVDkhxc2oAj8PqZiauaGYG2kUm%2FoN5xKsx46iO3yiA45gScmx8DZV8O1LmmMhhZpgsyoNK9jIy3kWU%2FwLJiCdpZfUK2JZI3ST8b1TC6punnNyo6oJgcQf1IH6cKfJaKv2y1lNLYK8gSDHL8KtFfBAGAITbuygRDWyjsBTNKw%3D%3D&trade_no=2023121122001498611439071149&auth_app_id=2021004126684202&version=1.0&app_id=2021004126684202&sign_type=RSA2&seller_id=2088741257575412&timestamp=2023-12-11+14%3A18%3A57
+直接在这里买的，
+1. 商品格式：邮箱----ChatGPT 密码----Gmail 邮箱密码----Gmail 辅助验证邮箱----API key（如：chatgptaccount@gmail.com----ChatGPTPassword----GmailPassword----gmailrecovery@hotmail.com----sk-sdlfjasdlfjasdfasdf）。
+
+`bessone60263@gmail.com----zzUkxIYYSZw9Ie----c2060aVa----8xbessone60263@jetable.fr.nf----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`
+
+注意有效期
+
+可能有帮助的购买网站：
+1. https://chatgptboke.com/openai-chatgpt-api-key-purchase.html
+2. 
