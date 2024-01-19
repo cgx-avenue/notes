@@ -51,9 +51,9 @@ https://api.qytech.top
 
 在python里只需要加入者么一句
 ```python
-# for openai proxy
+import openai
 openai.api_base=r"https://api.qytech.top/v1"
-
+openai.api_key = "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"
 ```
 
 3. 也可以自己搭建，我没尝试
