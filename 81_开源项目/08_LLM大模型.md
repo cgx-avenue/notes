@@ -78,6 +78,9 @@ Free prompt engineering online course. ChatGPT and Midjourney tutorials are now 
 https://github.com/thinkingjimmy/Learning-Prompt
 [learningprompt.wiki](https://learningprompt.wiki/ "https://learningprompt.wiki")
 
+## 5. GPTs
+leaked prompts of GPTs
+https://github.com/linexjlin/GPTs
 
 # 8. Autogpt
 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -93,3 +96,6 @@ https://github.com/reworkd/AgentGPT
 ## 1. awesome-LLMs-in-china
 https://github.com/wgwang/awesome-LLMs-In-China
 中国大模型对比
+
+
+
