@@ -82,6 +82,11 @@ https://github.com/thinkingjimmy/Learning-Prompt
 leaked prompts of GPTs
 https://github.com/linexjlin/GPTs
 
+## 6. LangGPT
+LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+https://github.com/EmbraceAGI/LangGPT
+
+
 # 8. Autogpt
 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 https://github.com/Significant-Gravitas/AutoGPT
@@ -97,5 +102,7 @@ https://github.com/reworkd/AgentGPT
 https://github.com/wgwang/awesome-LLMs-In-China
 中国大模型对比
 
-
+# 11. [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service)
+Convert Github Copilot to ChatGPT
+https://github.com/aaamoon/copilot-gpt4-service
 
