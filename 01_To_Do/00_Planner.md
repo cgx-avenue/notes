@@ -1,7 +1,7 @@
 #to-do #siemens #daily #SEWC #decoupling #VPN
 
 # 专利
-* [ ] 声学检测的一篇
+* [x] 声学检测的一篇
 * [x] 自动化声学测试的一篇
 * [ ] sewc ict+lft的抽样测试[[230112_SEWC_visit]] 
 
@@ -14,19 +14,8 @@
 	* [ ] 雷达等套装（太贵了，暂时不买）
 * [x] NUC as server（不如树莓派4）
 
-# 报销
-* [x] Travel expense
-	* [x] SEWC 出差
-* [x] GEC
-	* [x] 话费 2022.11 -
-	* [x] 采购
-
 # 要做的事情
-* [ ] 成人水痘第二针
-~~* [ ] 再造山地车
-	* [ ] 变速系统
-		* [ ] 9速
-	* [ ] 
+
 * [ ] NAS
 	* [ ] ipv6
 	* [ ] 检查家里的nas
@@ -41,8 +30,5 @@
 * [ ] EasySpider
 	* [ ] [NaiboWang/EasySpider: A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务 (github.com)](https://github.com/NaiboWang/EasySpider)
 	* [ ] 
-
-* [ ] 红警mod？
-* [ ] 帝国时代4？
 
 
