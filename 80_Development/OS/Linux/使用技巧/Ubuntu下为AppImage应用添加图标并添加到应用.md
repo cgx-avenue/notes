@@ -4,3 +4,4 @@ https://zhuanlan.zhihu.com/p/215507075#:~:text=Ubuntu%E4%B8%8B%E4%B8%BAAppImage%
 ```bash
 sudo chmod +x xxx.desktop
 ```
+

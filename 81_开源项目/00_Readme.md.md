@@ -1,4 +1,6 @@
 Date: 2023-10-30
+
+# 背景
 受到[HelloGithub](https://github.com/521xueweihan/HelloGitHub) 的启发，认为确实该时不时整理下开源项目：
 1. 留个hook，用的时候快速检索，
 2. 再就是可以尝试下新的领域，扩展下知识
@@ -14,4 +16,8 @@ Date: 2023-10-30
 2. 想根据这些开源库学习某些原理的
 3. 过期的不收录，比如 https://github.com/codelucas/newspaper ，最后更新是2020年了
 4. 作为备选solution
-5. 
+
+# 收录源
+1. [HelloGithub](https://github.com/521xueweihan/HelloGitHub)
+2. [Python-Weekly](https://github.com/chinesehuazhou/python-weekly)
+3. 
