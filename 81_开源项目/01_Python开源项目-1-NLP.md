@@ -1,4 +1,4 @@
-# 2.  Goose
+# 1.  Goose
 [python-goose](https://github.com/grangier/python-goose)：Goose 用于文章提取器，提取中文内容的示例代码：
 ```txt
 >>> from goose import Goose
@@ -14,15 +14,15 @@
 一些亲北京阵营议员欢迎梁振英道歉，且认为应能获得香港民众接受，但这些议员也质问梁振英有
 ```
 
-# 7. fasttext
+# 2. fasttext
 [fastText](https://github.com/facebookresearch/fastText)：fastText 简而言之，就是把文档中所有词通过 lookup table 变成向量，取平均后直接用线性分类器得到分类结果。[fastText 的实现](https://www.zybuluo.com/Wayne-Z/note/460881)
 
 
-# 10. ltp
+# 3. ltp
 语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心开源的一整套中文语言处理系统。提供了一系列中文自然语言处理工具，这些工具可以用于中文文本进行分词、词性标注、句法分析等工作
 
 
-# 13. HanLP
+# 4. HanLP
 [HanLP](https://github.com/hankcs/HanLP)：一系列模型与算法组成的 NLP 工具包，目标是普及自然语言处理在生产环境中的应用。具备功能完善、性能高效、架构清晰、语料时新、可自定义的特点，功能包括：中文分词、词性标注、命名实体识别、关键词提取等。示例代码：
 
 ```java
@@ -38,7 +38,7 @@ for (String sentence : testCase)
 }
 ```
 
-# 14. jieba
+# 5. jieba
 [jieba](https://github.com/fxsjy/jieba)：强大的 Python 分词库，拿来直接用就好。示例代码如下：
 ```python
 # encoding=utf-8
@@ -67,7 +67,7 @@ print(", ".join(seg_list))
 ```
 
 
-# 16. synonyms
+# 6. synonyms
 [Synonyms](https://github.com/chatopera/Synonyms)：中文近义词工具包。支持自然语言理解的很多任务：文本对齐、推荐算法、相似度计算、语义偏移、关键字提取、概念提取、自动摘要、搜索引擎等。示例代码如下：
 ```python
 import synonyms
@@ -75,10 +75,10 @@ synonyms.seg("能量")
 ```
 
 
-# 20. stanza
+# 7. stanza
 [stanza](https://github.com/stanfordnlp/stanza)：适用于多种人类语言的 Stanford NLP 官方 Python 库。包含用于运行 CoNLL 2018 共享任务的最新完全神经管道以及访问 Java Stanford CoreNLP 服务器的软件包。实例代码
 
-# 26. world_count
+# 8. world_count
 [word_cloud](https://github.com/amueller/word_cloud)：Python 的词云生成工具。示例代码：
 
 ```python
@@ -92,15 +92,8 @@ image.show()
 ```
 
 
-# 38. funNLP
+# 9. funNLP
 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…
 https://github.com/fighting41love/funNLP
-
-# 48. pyetho
-Exploring Global Diversity: Pyetho — Python Library for Language and Country Insights
-https://medium.com/@i18nsolutionspy/exploring-global-diversity-pyetho-python-library-for-language-and-country-insights-4a688958ea83
-返回每个国家的语言，按照ISO标准。
-![[imgs/Pasted image 20231124151104.png]]
-中国的居然有这么多。
 
 
