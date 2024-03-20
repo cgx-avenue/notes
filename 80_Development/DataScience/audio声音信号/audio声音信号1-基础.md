@@ -58,6 +58,8 @@
 2. 音频的整体响度
 3. 非正常部分或噪声部分
 
+注意：上图中或者librosa
+
 
 # Refs
 1. https://huggingface.co/learn/audio-course/zh-CN/chapter1/audio_data
