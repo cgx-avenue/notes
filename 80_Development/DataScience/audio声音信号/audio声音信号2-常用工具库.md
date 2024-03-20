@@ -20,6 +20,11 @@ https://github.com/tyiannak/pyAudioAnalysis
 
 # towhee
 多模态向量化工具，根据预先训练好的模型向量化输入。
+其可提供的audio算子在官网可以查到。比如VGGish（ https://zhuanlan.zhihu.com/p/456744003 ）
+https://towhee.io/towhee/audio-embedding
+https://towhee.io/tasks/detail/operator?field_name=Audio&task_name=Audio-Classification
+* [ ] 有数据集了试试用这个分类？
+
 
 
 # Refs
