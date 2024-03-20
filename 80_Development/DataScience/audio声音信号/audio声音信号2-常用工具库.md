@@ -10,8 +10,12 @@ https://librosa.org/doc/latest/tutorial.html
 Facebook搞得，主要是语音识别，输出的是向量化之后的结果。语音自学西AutoRegression模型。
 https://huggingface.co/docs/transformers/model_doc/wav2vec2
 https://zhuanlan.zhihu.com/p/302463174
+https://zhuanlan.zhihu.com/p/390545403
 
 
+# pyaudioanalysis
+https://github.com/tyiannak/pyAudioAnalysis
+和librosa有点像，但更专注于audio feature extraction，classification等。
 
 
 
