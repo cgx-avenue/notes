@@ -115,6 +115,6 @@ plt.colorbar()
 
 # Refs
 1. https://huggingface.co/learn/audio-course/zh-CN/chapter1/audio_data
-2. 
+2. https://zhuanlan.zhihu.com/p/268292831
 
 
