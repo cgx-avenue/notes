@@ -45,7 +45,7 @@
 
 # 表示
 
-## 时域图（波形图）
+## 时域图（波形图 waveform）
 ![[imgs/Pasted image 20240320133619.png]]
 横轴：时间
 纵轴：幅度 
@@ -58,7 +58,12 @@
 2. 音频的整体响度
 3. 非正常部分或噪声部分
 
-注意：上图中或者librosa
+注意：上图中或者librosa画得，都是进行归一化之后的，[-1,1]
+
+## 频谱图 Spectrum
+通过离散夫里也（DCT，Discrete Fourier Transform）变换得到。实际中可以用快速福利也变换替代，FFT。
+![[imgs/Pasted image 20240320142527.png]]
+上图是小号的某个音符的泛音频率。
 
 
 # Refs
