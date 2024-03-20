@@ -16,6 +16,7 @@ https://zhuanlan.zhihu.com/p/390545403
 # pyaudioanalysis
 https://github.com/tyiannak/pyAudioAnalysis
 和librosa有点像，但更专注于audio feature extraction，classification等。
+* [ ] 试试classification接口
 
 
 
