@@ -1,3 +1,15 @@
+# Datasets
+atasets来获取音频数据集。🤗 Datasets是一个下载和准备数据集的开源工具，包含了音频在内的各种模态数据。该工具集为Hugging Face Hub上公开的机器学习数据集提供了易用的接口。此外，🤗 Datasets还提供了专门为音频数据集而设的多种特性，帮助研究者和机器学习实践者更轻松地使用这些数据集。
+```sh
+pip install datasets[audio]
+```
+
+```python
+from datasets import load_dataset
+
+minds = load_dataset("PolyAI/minds14", name="en-AU", split="train")
+minds
+```
 # librosa
 https://librosa.org/doc/latest/tutorial.html
 主要作用：
