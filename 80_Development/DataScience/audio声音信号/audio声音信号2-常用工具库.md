@@ -18,6 +18,8 @@ https://github.com/tyiannak/pyAudioAnalysis
 和librosa有点像，但更专注于audio feature extraction，classification等。
 * [ ] 试试classification接口
 
+# towhee
+多模态向量化工具，根据预先训练好的模型向量化输入。
 
 
 # Refs
