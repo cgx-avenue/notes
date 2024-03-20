@@ -27,6 +27,7 @@ minds = minds.cast_column("audio", Audio(sampling_rate=16_000))
 
 
 ## 根据时谱图或者Mel图
+图像作为处理方式，输入到CNN里。
 
 
 
