@@ -32,7 +32,7 @@ minds = minds.cast_column("audio", Audio(sampling_rate=16_000))
 
 # 实例
 ## 使用Keras对歌曲的题材进行分类
-参见refs2 和ipynb里。
+参见refs2 和ipynb里。我没跑起来，总是报错
 
 
 
