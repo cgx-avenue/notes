@@ -126,11 +126,28 @@ plt.colorbar()
 
 ### 梅尔倒谱
 梅尔倒谱在梅尔频谱上做倒谱分析（取对数，做DCT变换）就得到了梅尔倒谱。
+```python
+# -- Mel spectrogram and MFCCs -- #
+  def mfcc(y=None, sr=22050, S=None, n_mfcc=20, **kwargs):
+      if S is None:
+          S = power_to_db(melspectrogram(y=y, sr=sr, **kwargs))
+
+      return scipy.fftpack.dct(S, axis=0, type=dct_type, norm=norm)[:n_mfcc]
+```
+
+## 恒Q变换
+在音乐中，所有的音都是由若干八度的12平均律共同组成的，这十二平均律对应着钢琴中一个八度上的十二个半音。这些半音临近之间频率比为21/12。显然，同一音级的两个八度音，高八度音是低八度音频率的两倍。因此在音乐当中，声音都是以指数分布的，但我们的傅立叶变换得到的音频谱都是线性分布的，两者的频率点是不能一一对应的，这会指使某些音阶频率的估计值产生误差。所以现代对音乐声音的分析，一般都采用一种具有相同指数分布规律的时频变换算法：恒Q变换（Constant Q transform）。
+
+CQT指中心频率按指数规律分布，滤波带宽不同、但中心频率与带宽比为常量Q的滤波器组。它与傅立叶变换不同的是，它频谱的横轴频率不是线性的，而是基于log2为底的，并且可以根据谱线频率的不同该改变滤波窗长度，以获得更好的性能。由于CQT与音阶频率的分布相同，所以通过计算音乐信号的CQT谱，可以直接得到音乐信号在各音符频率处的振幅值。
+
+
+
 
 
 
 # Refs
 1. https://huggingface.co/learn/audio-course/zh-CN/chapter1/audio_data
 2. https://zhuanlan.zhihu.com/p/268292831
+3. https://zhuanlan.zhihu.com/p/335721515
 
 
