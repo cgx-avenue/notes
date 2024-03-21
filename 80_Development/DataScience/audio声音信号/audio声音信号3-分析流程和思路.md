@@ -30,11 +30,13 @@ minds = minds.cast_column("audio", Audio(sampling_rate=16_000))
 图像作为处理方式，输入到CNN里。利用图像处理来进行分类
 
 
-
-
+# 实例
+## 使用Keras对歌曲的题材进行分类
+参见refs2 和ipynb里。
 
 
 
 
 # Refs
 1. https://huggingface.co/learn/audio-course/zh-CN/chapter1/preprocessing#%E9%9F%B3%E9%A2%91%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84%E9%A2%84%E5%A4%84%E7%90%86
+2. https://zhuanlan.zhihu.com/p/268292831

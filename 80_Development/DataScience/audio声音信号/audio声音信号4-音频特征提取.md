@@ -51,7 +51,8 @@ print(mfccs.shape)
 librosa.display.specshow(mfccs, sr=sr, x_axis='time')
 ```
 
-
+通过打印mfccs.shape，可以看看每一帧里面有多少维的MFCC特征。第一个参数是mfcc参数的维度，第二个参数是帧数。比如（20,3107），就是3107帧，每一帧有20维特征。
+![[imgs/Pasted image 20240321101404.png]]
 
 
 
