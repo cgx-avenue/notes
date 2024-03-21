@@ -10,21 +10,27 @@ print(sum(zero_crossings))
 
 # 频谱中心（Spectral Centroid）
 频谱中心代表声音的“质心”，又称为频谱一阶距。频谱中心的值越小，表明越多的频谱能量集中在低频范围内。
+理解：计算FFT或STFT数据的“中位数”，如果越小，说明数据越低频。
 ```python
 import sklearn
 spectral_centroids = librosa.feature.spectral_centroid(x[:80000], sr=sr)[0]
 # Computing the time variable for visualization
 frames = range(len(spectral_centroids))
+# 将帧转换为时间，time[i] == frame[i]。【因为stft是一个窗口(帧)一个窗口取的，和采样频率并不对应，所以有个转换】
 t = librosa.frames_to_time(frames, sr=8000)
-# Normalising the spectral centroid for visualisation
+# Normalising the spectral centroid for visualisation，归一化
 def normalize(x, axis=0):
     return sklearn.preprocessing.minmax_scale(x, axis=axis)
 #Plotting the Spectral Centroid along the waveform
 librosa.display.waveplot(x[:80000], sr=sr, alpha=0.4)
 plt.plot(t, normalize(spectral_centroids), color='r')
 ```
+![[imgs/Pasted image 20240321095231.png]]
 
+## 频谱滚降点（Spectral Rolloff）
 
+频谱滚降点的意思，我翻译过来大概是：比该频率低的频率的所有能量大于一定比例的整个频谱的能量，通常这个比例为0.85。
+![[imgs/Pasted image 20240321095257.png]]
 
 # Refs
 1. https://zhuanlan.zhihu.com/p/268292831
