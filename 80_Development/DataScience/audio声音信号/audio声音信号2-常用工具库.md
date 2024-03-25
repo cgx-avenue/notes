@@ -37,6 +37,8 @@ https://towhee.io/towhee/audio-embedding
 https://towhee.io/tasks/detail/operator?field_name=Audio&task_name=Audio-Classification
 * [ ] 有数据集了试试用这个分类？
 
+# pydub
+
 
 
 # Refs
