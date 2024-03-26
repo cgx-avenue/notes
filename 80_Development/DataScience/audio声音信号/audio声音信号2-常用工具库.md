@@ -12,6 +12,11 @@ minds
 ```
 
 
+# pyaudio
+https://people.csail.mit.edu/hubert/pyaudio/
+边录音边展示wave和频谱 https://blog.csdn.net/weixin_44407922/article/details/124664836?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-124664836-blog-134795863.235%5Ev43%5Econtrol&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-124664836-blog-134795863.235%5Ev43%5Econtrol&utm_relevant_index=5
+**Python 使用pyaudio时，“chunks”、“samples”和“frames”是什么**
+https://deepinout.com/python/python-qa/485_python_what_are_chunks_samples_and_frames_when_using_pyaudio.html
 
 
 # librosa
