@@ -10,6 +10,10 @@ from datasets import load_dataset
 minds = load_dataset("PolyAI/minds14", name="en-AU", split="train")
 minds
 ```
+
+
+
+
 # librosa
 https://librosa.org/doc/latest/tutorial.html
 主要作用：
@@ -38,6 +42,14 @@ https://towhee.io/tasks/detail/operator?field_name=Audio&task_name=Audio-Classif
 * [ ] 有数据集了试试用这个分类？
 
 # pydub
+> Pydub lets you do stuff to audio in a way that isn’t stupid.
+> 
+> 
+https://github.com/jiaaro/pydub
+https://zhuanlan.zhihu.com/p/91257681
+https://blog.csdn.net/baidu_29198395/article/details/86694365
+高强度依赖ffmpeg
+主要是对声音文件的一些操作，比如切片，从视频保存音轨，音乐倒放，拼接什么的。
 
 
 
