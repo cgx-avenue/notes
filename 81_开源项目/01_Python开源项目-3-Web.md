@@ -5,12 +5,14 @@ https://github.com/psf/requests-html
 
 
 # python做界面
+就是后台写好一切，然后推送到client渲染。最开始通过nicegui注意到，然后发现了更强大的fastui，找机会试试看。
 ## nicegui
-
-
+https://github.com/zauberzeug/nicegui
+Create web-based user interfaces with Python. The nice way.
 
 ## fastui
-
+https://github.com/pydantic/FastUI
+Build better UIs faster.
 
 # restful接口
 ## fastapi
