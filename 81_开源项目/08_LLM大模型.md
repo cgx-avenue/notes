@@ -20,6 +20,8 @@ https://github.com/lobehub/lobe-chat
 
 
 # 2. 大模型应用搭建
+## 0. openai api cookbook
+https://github.com/openai/openai-cookbook
 ## 1. ollama
 https://github.com/jmorganca/ollama
 
