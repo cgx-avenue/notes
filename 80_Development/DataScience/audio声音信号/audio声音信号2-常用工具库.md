@@ -60,8 +60,9 @@ https://blog.csdn.net/baidu_29198395/article/details/86694365
 https://www.acoular.org/
 https://github.com/acoular/acoular
 Acoular – Acoustic testing and source mapping software
-这个是用来分析麦克风阵列的，主要是用来看声场图，定位声音源，参见https://blog.csdn.net/weixin_48464886/article/details/125321710
-
+这个是用来分析麦克风阵列的，主要是用来看声场图，定位声音源，参见
+1. https://blog.csdn.net/weixin_48464886/article/details/125321710
+2. https://zhuanlan.zhihu.com/p/340631844
 
 
 
