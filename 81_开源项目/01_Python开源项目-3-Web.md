@@ -3,6 +3,15 @@
 Requests-HTML: HTML Parsing for Humans™
 https://github.com/psf/requests-html
 
+# 静态网站
+## Pelican
+https://docs.getpelican.com/en/latest/
+Pelican is a static site generator, written in [Python](https://www.python.org/). Highlights include:
+
+- Write your content directly with your editor of choice in [reStructuredText](http://docutils.sourceforge.net/rst.html) or [Markdown](https://daringfireball.net/projects/markdown/) formats
+
+
+
 
 # python做web（或前后端一起）
 就是后台写好一切，然后推送到client渲染。最开始通过nicegui注意到，然后发现了更强大的fastui，找机会试试看。
