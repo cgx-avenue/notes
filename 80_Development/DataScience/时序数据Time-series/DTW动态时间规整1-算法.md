@@ -42,9 +42,17 @@ DTW：Dynamic Time Wrapping
 这块不是很明白，我的理解是，DTW算出来的数，没有物理意义。
 ![[imgs/Pasted image 20240412110206.png]]
 
-# 奇点问题
-### singularity
-
+# 奇点singularity问题
+## 问题
+有时 DTW 会在对齐时产生不自然的扭曲/翘曲
+![[imgs/Pasted image 20240412111635.png]]
+A 中实线、虚线所展示的是两条合成信号（均值、方差都相同）
+B 中展示的是自然的“feature to feature”的对应
+ C 中展示的则是 DTW 的结果。
+不难发现，DTW 没能自然地将图形中的波峰与波峰相对应，反而产生了一个序列中的一个点对应另外一个序列中的多个点的情况，这种情况被称为“Singularities”（奇点）
+出现这种情况的原因是 DTW 算法试图通过扭曲 X 轴来解释 Y 轴上的变化。
+## 解决办法
+参见Refs2
 
 # refs
 1. https://zhuanlan.zhihu.com/p/43247215
