@@ -53,7 +53,7 @@ B 中展示的是自然的“feature to feature”的对应
 出现这种情况的原因是 DTW 算法试图通过扭曲 X 轴来解释 Y 轴上的变化。
 ## 解决办法
 参见Refs2
-
+PS: derivative DTW， derivative就是差分的意思
 # refs
 1. https://zhuanlan.zhihu.com/p/43247215
 2. https://blog.csdn.net/qq_40206371/article/details/122564982?spm=1001.2014.3001.5501
