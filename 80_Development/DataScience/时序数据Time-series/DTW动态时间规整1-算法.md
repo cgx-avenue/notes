@@ -42,7 +42,8 @@ DTW：Dynamic Time Wrapping
 这块不是很明白，我的理解是，DTW算出来的数，没有物理意义。
 ![[imgs/Pasted image 20240412110206.png]]
 
-
+# 奇点问题
+### singularity
 
 
 # refs
