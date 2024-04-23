@@ -20,5 +20,9 @@ BERT, which is built upon the original transformer's encoder submodule, differs 
 GPT, on the other hand, focuses on the decoder portion of the original transformer architecture and is designed for tasks that require generating texts.
 
 Zero-shot, few-shot.
+Zero-shot learning refers to the ability to generalize to completely unseen tasks without any prior specific examples. On the other hand, few-shot learning involves learning from a minimal number of examples the user provides as input.
+
+![[imgs/Pasted image 20240423164649.png]]
+
 
 
