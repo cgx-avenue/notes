@@ -11,6 +11,14 @@ The two most popular categories of finetuning LLMs include _instruction-finetun
 Attention is all you need.
 ![[imgs/Pasted image 20240423163351.png]]
 
+BERT (short for _bidirectional encoder representations from transformers_) and the various GPT models (short for _generative pretrained transformers_).
 
+BERT, which is built upon the original transformer's encoder submodule, differs in its training approach from GPT. While GPT is designed for generative tasks, BERT and its variants specialize in masked word prediction, where the model predicts masked or hidden words in a given sentence as illustrated in Figure 1.5. This unique training strategy equips BERT with strengths in text classification tasks, including sentiment prediction and document categorization. As an application of its capabilities, as of this writing, Twitter uses BERT to detect toxic content.
+
+![[imgs/Pasted image 20240423164334.png]]
+
+GPT, on the other hand, focuses on the decoder portion of the original transformer architecture and is designed for tasks that require generating texts.
+
+Zero-shot, few-shot.
 
 
