@@ -6,7 +6,10 @@ The general process of creating an LLM includes pretraining and finetuning. The 
 ![[imgs/Pasted image 20240423150603.png]]
 The two most popular categories of finetuning LLMs include _instruction-finetuning_ and finetuning for _classification_ tasks. In instruction-finetuning, the labeled dataset consists of instruction and answer pairs, such as a query to translate a text accompanied by the correctly translated text. In classification finetuning, the labeled dataset consists of texts and associated class labels, for example, emails associated with _spam_ and _non-spam_ labels.
 
-## 1
+## 1.4 Using LLMs for different tasks
+### transformer
+Attention is all you need.
+![[imgs/Pasted image 20240423163351.png]]
 
 
 
