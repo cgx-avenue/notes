@@ -24,5 +24,11 @@ Zero-shot learning refers to the ability to generalize to completely unseen task
 
 ![[imgs/Pasted image 20240423164649.png]]
 
+## 1.6 A closer look at the GPT architecture
+GPT stands for _**G**_enerative _**P**_retrained _**T**_ransformer and was originally introduced in the following paper:
+
+- _Improving Language Understanding by Generative Pre-Training_ (2018) by _Radford et al._ from OpenAI, [http://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf](http://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+![[imgs/Pasted image 20240423165547.png]]
 
 
