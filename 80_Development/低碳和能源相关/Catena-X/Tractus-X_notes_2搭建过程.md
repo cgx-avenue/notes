@@ -71,3 +71,11 @@ The EDR API is a tiny wrapper on top of the contract negotiation and transfer st
 果不其然的，文档打不开。
 EDR API是TX比EDC多的部分。
 
+### 2024-04-22
+https://eclipse-tractusx.github.io/docs/tutorials
+这里也有一个教程，里买你的End-to-End Adopter Journey和readme里的步骤差不多，但是更详细。
+![[imgs/Pasted image 20240423084919.png]]
+Catena-X 概念和其他相关的，看到了一个文档：https://catena-x.net/fileadmin/_online_media_/CX_Operating_Modelv2.1_final.pdf 
+这个挺不错的。
+
+
