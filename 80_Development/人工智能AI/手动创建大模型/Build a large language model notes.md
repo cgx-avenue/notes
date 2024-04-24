@@ -33,3 +33,11 @@ GPT stands for _**G**_enerative _**P**_retrained _**T**_ransformer and was or
 
 ![[imgs/Pasted image 20240424090413.png]]
 
+## 1.7 building a LLM
+![[imgs/Pasted image 20240424091152.png]]
+
+
+# CH2
+从本章开始，有jupyter notebook。
+
+
