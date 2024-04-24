@@ -31,4 +31,5 @@ GPT stands for _**G**_enerative _**P**_retrained _**T**_ransformer and was or
 
 ![[imgs/Pasted image 20240423165547.png]]
 
+![[imgs/Pasted image 20240424090413.png]]
 
