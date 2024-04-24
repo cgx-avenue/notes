@@ -38,6 +38,7 @@ GPT stands for _**G**_enerative _**P**_retrained _**T**_ransformer and was or
 
 
 # CH2
-从本章开始，有jupyter notebook。
+从本章开始，有jupyter notebook。也有翻译版本的书。
+
 
 
