@@ -21,6 +21,9 @@ https://github.com/datawhalechina/so-large-lm
 # self-llm
 开源大模型食用指南
 https://github.com/datawhalechina/self-llm
+基于AutoDL，Linux平台，可以部署不同的开源大模型。
+_**学习建议：本项目的学习建议是，先学习环境配置，然后再学习模型的部署使用，最后再学习微调。因为环境配置是基础，模型的部署使用是基础，微调是进阶。初学者可以选择Qwen1.5，InternLM2，MiniCPM等模型优先学习。**_
+
 * [ ] 已完成
 
 
