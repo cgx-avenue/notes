@@ -10,4 +10,7 @@ https://github.com/rasbt/LLMs-from-scratch
 还没完全出版，keep eyes on。
 * [ ] 已完成
 
-
+# so-large-lm 大模型基础
+https://github.com/datawhalechina/so-large-lm
+在线阅读形式
+* [ ] 已完成
