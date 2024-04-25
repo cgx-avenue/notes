@@ -13,4 +13,8 @@ https://github.com/rasbt/LLMs-from-scratch
 # so-large-lm 大模型基础
 https://github.com/datawhalechina/so-large-lm
 在线阅读形式
-* [ ] 已完成
+* [x] 已完成
+## 读后感
+![[imgs/Pasted image 20240425142254.png]]
+比较high-level，介绍了大模型的一些相关内容。你说他基础吧，也不够基础。说他不基础吧，还介绍了一些数学原理。总而言之，打分5/10。
+
