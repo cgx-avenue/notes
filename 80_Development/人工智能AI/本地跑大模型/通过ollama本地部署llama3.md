@@ -12,6 +12,8 @@ ollama run llama3
 ![[imgs/Pasted image 20240426100607.png]]
 
 ![[imgs/Pasted image 20240426125718.png]]
+但是运行70B模型机器缓慢。。。放弃了
+
 3. 运行
 运行完上面的指令，就可以在本地的shell里使用了。其本质实在11434端口开了个服务。
 如果ollama没跑起来，运行下面的指令
