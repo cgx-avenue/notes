@@ -23,8 +23,11 @@ https://github.com/datawhalechina/so-large-lm
 https://github.com/datawhalechina/self-llm
 基于AutoDL，Linux平台，可以部署不同的开源大模型。
 _**学习建议：本项目的学习建议是，先学习环境配置，然后再学习模型的部署使用，最后再学习微调。因为环境配置是基础，模型的部署使用是基础，微调是进阶。初学者可以选择Qwen1.5，InternLM2，MiniCPM等模型优先学习。**_
+## 2024-04-26
+这个仓库主要是教大家本地部署大模型，开启web服务，通过lora进行微调。
 
-* [ ] 已完成
+* [ ] ~~已完成~~初步完成
+* [ ] Lora微调
 
 
 
