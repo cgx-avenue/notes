@@ -3,3 +3,7 @@
 https://github.com/morrownr/8812au-20210629
 下载之后运行里面的install-driver.sh
 每次没了也重新运行这个即可。
+
+# grafana
+用户名 admin
+密码 siemens
