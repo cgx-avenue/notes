@@ -16,6 +16,11 @@ ollama run llama3
 ```shell
 ollama serve
 ```
+4. 其它命令
+下载模型用`ollama pull modelname`
+```shell
+ollama pull llama3:70b
+```
 
 # ollama-webui
 docker运行，注意本地跑得llama，所以
@@ -26,4 +31,6 @@ sudo docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE
 
 # Refs
 1. https://github.com/ollama/ollama
-2. 
+2. https://blog.csdn.net/WMX843230304WMX/article/details/136769341
+3. https://docs.openwebui.com/
+4. https://sspai.com/post/85193#!
