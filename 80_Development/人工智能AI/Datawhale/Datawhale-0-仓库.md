@@ -45,4 +45,16 @@ https://github.com/datawhalechina/llm-universe
 * [ ] 已完成
 
 # hugging-llm
+https://github.com/datawhalechina/hugging-llm
+通识读本
+* [x] 已完成
+
+# hugging-audio
+https://github.com/datawhalechina/hugging-audio
+Hugging Face Audio Course中文版，帮助学习者快速入门音频模态
+* [x] 已完成
+
+
+
+
 
