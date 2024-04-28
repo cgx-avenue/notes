@@ -1,6 +1,7 @@
 https://github.com/datawhalechina
 里面有一些仓库，适合初学者。打算尽量过一遍。
-
+B站：https://space.bilibili.com/431850986 
+里面的视频也非常不错
 # LLMs from scratch 
 https://github.com/datawhalechina/llms-from-scratch-cn
 这是《Build a Large Language Model (From Scratch)》书籍的官方代码库。书中深入解析了LLM的内部工作原理，并提供了逐步的指导。
@@ -38,5 +39,9 @@ https://github.com/datawhalechina/what-is-vs
 向量检索初步，正在进行时，过阵子再看。
 * [ ] 已完成
 
+# llm-universe
+我的datawhale入门之旅上的第一站。现在加上了RAG，但还没完结。等个后续。
+https://github.com/datawhalechina/llm-universe
+* [ ] 已完成
 
 
