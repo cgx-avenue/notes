@@ -54,7 +54,11 @@ https://github.com/datawhalechina/hugging-audio
 Hugging Face Audio Course中文版，帮助学习者快速入门音频模态
 * [x] 已完成
 
+# whale-quant
+https://datawhalechina.github.io/whale-quant/#/
 
+Datawhale量化开源课程
 
+* [ ] 已完成
 
 
