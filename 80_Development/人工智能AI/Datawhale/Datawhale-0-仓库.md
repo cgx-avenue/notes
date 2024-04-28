@@ -33,6 +33,10 @@ _**学习建议：本项目的学习建议是，先学习环境配置，然后�
 * [x] ~~已完成~~初步完成
 * [ ] Lora微调和教程
 
+# what-is-vs
+https://github.com/datawhalechina/what-is-vs
+向量检索初步，正在进行时，过阵子再看。
+* [ ] 已完成
 
 
 
