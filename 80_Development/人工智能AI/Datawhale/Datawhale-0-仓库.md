@@ -56,9 +56,11 @@ Hugging Face Audio Course中文版，帮助学习者快速入门音频模态
 
 # whale-quant
 https://datawhalechina.github.io/whale-quant/#/
-
+讲的挺好的，总结的挺细致。需要一个时间仔细看，打算回家了和老婆一起学习看看。有些金融的基本概念，比如第三章，需要认真学习。
 Datawhale量化开源课程
 
 * [ ] 已完成
+	* [ ] 聚宽平台量化
+	* [ ] backtrader平台量化
 
 
