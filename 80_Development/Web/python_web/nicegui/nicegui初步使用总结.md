@@ -10,10 +10,11 @@ https://github.com/zauberzeug/nicegui/
 
 使用后不爽的点：
 1. 封装的太抽象，好多东西细微改动不方便。这类框架都有着类问题。
-2. 有一些莫名其妙的小问题，debug的化
+2. 有一些莫名其妙的小问题，debug时候资料少，花费时间多。
 
 # 我用nicegui做了啥
-
+https://github.com/cgx-avenue/stock_helper
+想做一个类似于网格交易的帮助程序
 
 
 # 初步感受
