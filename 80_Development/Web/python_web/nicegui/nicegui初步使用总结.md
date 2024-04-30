@@ -14,11 +14,12 @@ https://github.com/zauberzeug/nicegui/
 
 # 我用nicegui做了啥
 https://github.com/cgx-avenue/stock_helper
-想做一个类似于网格交易的帮助程序
+想做一个类似于网格交易的帮助程序，可以显示每次交易的记录，等等。初期都比较顺利，但是后面觉得还是不方便。
 
 
 # 初步感受
-
+针对demo等可以一用，但资料还是太少。但其它可替代方案也不是没有。
+对于稍微上点复杂度的应用，就不合适了。
 
 
 
