@@ -60,7 +60,7 @@ https://datawhalechina.github.io/whale-quant/#/
 Datawhale量化开源课程
 
 * [ ] 已完成
-	* [ ] 聚宽平台量化
+	* [ ] 聚宽平台量化 https://www.joinquant.com/study#new
 	* [ ] backtrader平台量化
 
 
