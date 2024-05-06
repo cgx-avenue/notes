@@ -61,6 +61,7 @@ Datawhale量化开源课程
 
 * [ ] 已完成
 	* [ ] 聚宽平台量化 https://www.joinquant.com/study#new
+		* [ ] 新手指引 https://www.joinquant.com/view/community/detail/7e4989804f4d3cd12532cafefeea1bcb
 	* [ ] backtrader平台量化
 
 
