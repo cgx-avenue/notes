@@ -14,7 +14,7 @@ Turns Data and AI algorithms into production-ready web applications in no time.
 
 ## 4. bokeh
 发现很多金融的都用这个，看了下是因为用到了tornado，所以性能更好。但我不名所以。
-
+https://docs.bokeh.org/en/latest/
 ## streamlit
 放在这里，站个坑。
 
