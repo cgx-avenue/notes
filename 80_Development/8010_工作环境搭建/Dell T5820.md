@@ -18,5 +18,5 @@ https://github.com/morrownr/8812au-20210629
 2. 配置jupyter lab
 	1. 生成配置文件，开启远程，开机运行等https://www.cnblogs.com/Tsingwaa/articles/14681660.html
 	2. 安装各种插件等。https://www.cnblogs.com/ccsvip/p/17926245.html 这里有个坑，我装的jupyter lab是4.x版本，很多插件已经自动集成了。这个可以通过插件的github仓库的说明一类的获取到信息。
-
+3. 使用和尝试。比如测试一下git好用不好用之类的。
 
