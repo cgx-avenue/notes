@@ -7,3 +7,7 @@ https://github.com/morrownr/8812au-20210629
 # grafana
 用户名 admin
 密码 siemens
+
+# jupyter lab 安装
+## 原因
+这么多年来一直使用的是vs code的自带集成jupyter notebook（90%），或者是
