@@ -18,8 +18,23 @@ Subject——Predicate——Object
 # 关系抽取
 1. 基于依存句法分析的实体关系抽取
 2. 基于神经网络的-----------------
-3. 
+	1. 热点&痛点：实现程序自动化的实体关系抽取，面向开放文本=>关系重叠
+3. ----人工抽取--------------------
+	1. 最可靠，最慢，需要大量数据。
+	2. 相对成熟，基于规则等。
 
+## 过程
+1 分词，2 词性标注，3 命名实体识别，4 依存分析
+
+## 评价指标
+1. Precision = TP/(TP+FP)
+2. Recall = TP/(FP+FV)
+3. F1=(2 * Precision * Recall)/(Precision + Recall)
+
+## 生成式规则 Production Rule
+```
+IF <condition> THEN <conclusion>
+```
 
 
 # 一些名词
@@ -81,7 +96,7 @@ Ontology web language，支持推理，有很多dialects
 # 一些笔记
 1. 项目中需要生成、预定义、协商userdict
 2. 三元组抽取=》基于依存句法分析
-3. NER：有监督的命名实体识别
+3. NER（Named Entity Recognition）：有监督的命名实体识别
 
 # 生成步骤
 四步：
