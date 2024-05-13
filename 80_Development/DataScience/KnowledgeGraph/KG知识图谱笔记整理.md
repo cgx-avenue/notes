@@ -11,8 +11,15 @@ Subject——Predicate——Object
 
 # 一些名词
 ## RDF
-1. resource description framework，用来表示三元关系
+1. RDF的英语全称为Resource Description Framework，中文名称为**资源描述框架。RDF是一种描述数据文件储存的数据模型，该数据模型通常描述由三个部分组成的事实，被称为三元组（triples）**。三元组由主语（subject）、谓语（predicate）和宾语（object）组成，看上去很像一个简单的句子。
 2. 可以使用RDFlib库操作
+3. 任何网络**资源**都可以唯一的用URI表示
+Triples: 属性值--(属性)--资源--(属性)--属性值
+其中，资源 -> subject, 属性名称 -> Predicate谓语，属性值 -> Object宾语
+4. RDF表示：
+
+
+
 
 
 ## RDFs

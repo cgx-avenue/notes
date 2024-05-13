@@ -7,8 +7,7 @@
 给定谓语动词，从三元组提取合适的主语或宾语。
 
 
-## RDF 
-RDF的英语全称为Resource Description Framework，中文名称为**资源描述框架。RDF是一种描述数据文件储存的数据模型，该数据模型通常描述由三个部分组成的事实，被称为三元组（triples）**。三元组由主语（subject）、谓语（predicate）和宾语（object）组成，看上去很像一个简单的句子。
+
 
 # 语句和语法
 ```SPARQL
@@ -21,9 +20,9 @@ RDF的英语全称为Resource Description Framework，中文名称为**资源描
 ```
 语法
 ```SPARQL
-SELECT <variables>    -> subject or 
+SELECT <variables>    -> subject or object
 WHERE {
-	<graph pattern>
+	<graph pattern>   -> 要查询的三元组模式
 }
 ```
 
