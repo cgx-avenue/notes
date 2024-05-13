@@ -9,6 +9,21 @@ https://www.docker.com/
 下面这个讲的很到位
 [(43条消息) Docker原理（图解+秒懂+史上最全）_40岁资深老架构师尼恩的博客-CSDN博客](https://blog.csdn.net/crazymakercircle/article/details/120747767)
 
+本质：Linux中的一个特殊进程。
+
+* namespace -> 隔离
+* cgroups -> 资源限制
+
+## 创建容器过程
+1. 启用linux namespace配置
+2. 设置指定cgroups参数
+3. 进程根目录
+4. 联合挂载各层文件
+
+# 三件套
+1. Docker compose 编排
+2. Docker swarm 集群管理
+3. Docker mahine vm->容器
 
 # 教程
 ### 安装
