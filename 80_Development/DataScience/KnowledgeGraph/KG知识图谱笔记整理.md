@@ -22,3 +22,5 @@ Ontology web language， = RDF + schema，支持推理
 
 # 一些笔记
 1. 项目中需要生成、预定义、协商userdict
+2. 三元组抽取=》基于依存句法分析
+3. NER：邮件读得
