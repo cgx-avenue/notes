@@ -30,7 +30,7 @@ Docker 包括三个基本概念:
 	 1. 不包含任何动态数据，内容在构建之后也**不**改变。
 1. 容器（Container）：镜像（Image）和容器（Container）的关系，就像是面向对象程序设计中的类和实例一样，镜像是静态的定义，容器是镜像运行时的实体。容器可以被创建、启动、停止、删除、暂停等。
  3. 仓库（Repository）：仓库可看成一个代码控制中心，用来保存镜像。
-	 1. docker registry -> 
+	 1. docker registry -> <仓库名>:<标签>
 
 ## C/S 架构
 [[Docker-1.1-Docker架构]]
@@ -162,8 +162,8 @@ docker load -i mycentos7.tar
 ## container
 ### list
 ```bash
-# list 
-docker container ls
+# list, <-a> 列出中间层镜像
+docker container ls <-a> 
 docker ps
 # list stopped containers
 docker ps -f status=exited
@@ -175,6 +175,13 @@ docker ps -l
 ### create & run
 > 注意：Docker 容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为是空闲状态，就会自动退出。
 
+```bash
+docker run <--it> <--rm> ... <bash>
+```
+通过--it进入docker环境后退出
+```bash
+exit
+```
 #### 为什么docker需要前台进程？
 https://www.bing.com/search?q=Docker+%E5%AE%B9%E5%99%A8%E8%BF%90%E8%A1%8C%E5%BF%85%E9%A1%BB%E6%9C%89%E4%B8%80%E4%B8%AA%E5%89%8D%E5%8F%B0%E8%BF%9B%E7%A8%8B&aqs=edge..69i57j69i64&FORM=ANCMS9&PC=U531 
 
