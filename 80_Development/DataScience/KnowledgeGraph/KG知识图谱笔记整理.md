@@ -12,7 +12,7 @@ Subject——Predicate——Object
 # 一些名词
 ## RDF
 1. resource description framework，用来表示三元关系
-2. 可以使用RDFlib操作
+2. 可以使用RDFlib库操作
 
 
 ## RDFs
@@ -23,4 +23,11 @@ Ontology web language， = RDF + schema，支持推理
 # 一些笔记
 1. 项目中需要生成、预定义、协商userdict
 2. 三元组抽取=》基于依存句法分析
-3. NER：邮件读得
+3. NER：有监督的命名实体识别
+
+# 生成步骤
+四步：
+句子分割，依赖解析，词性标注，实体识别。
+
+Quote：jieba可以做分词+词性标注，可以通过预定义的词行模板进行RDF抽取。又因为存在许多词属低频词，所以可以添加自定义词表。
+
