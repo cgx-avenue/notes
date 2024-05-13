@@ -31,3 +31,8 @@ Ontology web language， = RDF + schema，支持推理
 
 Quote：jieba可以做分词+词性标注，可以通过预定义的词行模板进行RDF抽取。又因为存在许多词属低频词，所以可以添加自定义词表。
 
+# 图数据库
+西门子选用的是neo4j。
+## GraphDB
+free版本最多支持2个并发查询，SE版本不限。
+RDF4J 发行了GraphDB，使用Java，支持W3C SPA
