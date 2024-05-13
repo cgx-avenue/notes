@@ -16,14 +16,24 @@ Subject——Predicate——Object
 3. 任何网络**资源**都可以唯一的用URI表示
 Triples: 属性值--(属性)--资源--(属性)--属性值
 其中，资源 -> subject, 属性名称 -> Predicate谓语，属性值 -> Object宾语
-4. RDF表示：
-
-
-
-
+4. RDF表示：xml
+5. 任何组织和个人，均可自定义谓语。RDF要求：
+	1. 谓语（事物间关系）必须有明确定义
+	2. 谓语每套必须有一个明确的URL，存在->w3c官方谓语
+	3. RDF前缀: PREFIX rdf 代表官方前缀
+	4. 经常将rdf:type 直接简写成a
+6. 每个RDF结尾是英文的句号"."，用来区分多个三元组。主语相同时，采用分号";"分开。
+7. 
 
 ## RDFs
-RDF+固定关键词
+RDF Schema，RDF+固定关键词
+1. describing properties & classes of RDF resources
+2. providing a type system for RDF
+
+## Ontology
+
+
+
 ## OWL
 Ontology web language， = RDF + schema，支持推理
 
