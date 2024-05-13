@@ -6,8 +6,21 @@
 2006 Linked Data
 2012 KG: A KG consists of a set of interconnected typed entities&therir contributes
 
+
+
+
+
+
 # 三要素
 Subject——Predicate——Object
+
+
+# 关系抽取
+1. 基于依存句法分析的实体关系抽取
+2. 基于神经网络的-----------------
+3. 
+
+
 
 # 一些名词
 ## RDF
@@ -23,7 +36,12 @@ Triples: 属性值--(属性)--资源--(属性)--属性值
 	3. RDF前缀: PREFIX rdf 代表官方前缀
 	4. 经常将rdf:type 直接简写成a
 6. 每个RDF结尾是英文的句号"."，用来区分多个三元组。主语相同时，采用分号";"分开。
-7. 
+7. RDF序列化
+	1. RDF/XML
+	2. N-triples: 最直观
+	3. Turtle: 应用最多
+	4. RDFa: 用语html页面
+	5. JSON-LD: 用key-value方式存储
 
 ## RDFs
 RDF Schema，RDF+固定关键词
@@ -50,7 +68,8 @@ RDF Schema，RDF+固定关键词
 
 ## Resoning strategies
 2 principle strategies for rule-based inference
-
+1. forward-chaining: known -> new facts
+2. backward-chaining
 
 ## OWL
 Ontology web language，支持推理，有很多dialects
