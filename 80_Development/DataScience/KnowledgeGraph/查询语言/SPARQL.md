@@ -5,13 +5,6 @@
 # 概念
 ## 核心思想
 给定谓语动词，从三元组提取合适的主语或宾语。
-```SPARQL
-SELECT <variables>
-WHERE {
-	<graph pattern>
-}
-```
-
 
 
 ## RDF 
@@ -20,8 +13,20 @@ RDF的英语全称为Resource Description Framework，中文名称为**资源描
 # 语句和语法
 ```SPARQL
 1. SELECT : tabular results
-2. CONSTRUCT : new RD
+2. CONSTRUCT : new RDF Graph
+3. ASK : YES if exist, otherwise no
+4. DESCRIBE : RDF of a resource
+5. INSERT : 
+6. DELETE : 
 ```
+语法
+```SPARQL
+SELECT <variables>    -> subject or 
+WHERE {
+	<graph pattern>
+}
+```
+
 
 # PS：不好用
 每次整理RDF，都要去很繁琐的看这些定义，过程。
