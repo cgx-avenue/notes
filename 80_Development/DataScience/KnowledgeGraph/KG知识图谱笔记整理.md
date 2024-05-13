@@ -31,11 +31,33 @@ RDF Schema，RDF+固定关键词
 2. providing a type system for RDF
 
 ## Ontology
+1. Definition: in general, an ontology fornally describes a cusually finite domain of related concepts(class of objects) and their relationships
+2. Ontologies may include:
+	1. classes & subclasses
+	2. properties
+	3. value restrictions
+	4. disjointness statements
+	5. specs of logical replationships between objects
+3. O = <C,R,I,A>
+	1. C: classes
+	2. R: relations
+	3. I: instances
+	4. A: axioms
 
+## Logic & inference
+1. Logic programming -> resoner（推理机）, "if...then...."
+2. predicate logic
+
+## Resoning strategies
+2 principle strategies for rule-based inference
 
 
 ## OWL
-Ontology web language， = RDF + schema，支持推理
+Ontology web language，支持推理，有很多dialects
+
+
+
+
 
 # 一些笔记
 1. 项目中需要生成、预定义、协商userdict
