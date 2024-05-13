@@ -9,4 +9,13 @@
 ## 三要素
 Subject——Predicate——Object
 
-## 名词
+## 一些名词
+### RDF
+1. resource description framework，用来表示三元关系
+2. 可以使用RDFlib操作
+
+
+### RDFs
+RDF+固定关键词
+### OWL
+Ontology web language， = RDF + schema，支持推理
