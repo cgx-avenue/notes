@@ -1,0 +1,4 @@
+- [When to use Azure OpenAI fine-tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/fine-tuning-considerations)
+- [Customize a model with fine-tuning](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning)
+- [Azure OpenAI GPT 3.5 Turbo fine-tuning tutorial](https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/fine-tune)
+- [To fine-tune or not to fine-tune? (Video)](https://www.youtube.com/watch?v=0Jo-z-MFxJs)
