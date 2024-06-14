@@ -68,10 +68,11 @@ https://docs.openwebui.com/tutorial/web_search
 ![[imgs/Pasted image 20240614153101.png]]
 
 修改后重启镜像即可。
-
+searxng文档：
 https://docs.searxng.org/admin/installation-docker.html
 
-
+最终效果：
+![[imgs/Pasted image 20240614153242.png]]
 
 
 
