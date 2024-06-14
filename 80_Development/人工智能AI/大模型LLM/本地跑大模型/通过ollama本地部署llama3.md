@@ -41,6 +41,10 @@ ollama run llamafamily/llama3-chinese-8b-instruct
 ```
 
 
+还有一个模型，没有尝试
+https://github.com/CrazyBoyM/llama3-Chinese-chat
+
+
 
 
 # Refs
