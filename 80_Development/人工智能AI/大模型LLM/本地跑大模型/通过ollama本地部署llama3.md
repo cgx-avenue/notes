@@ -60,6 +60,10 @@ sudo docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE
 ```
 
 
+## 搜索引擎
+https://docs.openwebui.com/tutorial/web_search
+添加的是searxng，原理是本地部署一个searxng的聚合搜索网站，然后openwebui去掉用。
+我用的是step3 alternatice
 
 
 
