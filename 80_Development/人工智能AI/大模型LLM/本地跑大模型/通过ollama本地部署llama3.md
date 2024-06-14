@@ -33,13 +33,41 @@ sudo docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE
 ```
 然后访问本地的8080端口即可。
 
+## 更新
+我用的手动更新，没有用watchtower，后者我运行了，但是每反应。后来发现可能是docker pull image太大了。
+https://docs.openwebui.com/getting-started/updating
+Follow these steps to manually update your Open WebUI:
+
+1. **Pull the Latest Docker Image**:
+    
+    ```
+    sudo docker pull ghcr.io/open-webui/open-webui:main
+    ```
+    
+2. **Stop and Remove the Existing Container**:
+    
+    - This step ensures that you can create a new container from the updated image.
+    
+    ```
+    sudo docker stop open-webui
+    sudo docker rm open-webui
+    ```
+    
+3. **Create a New Container with the Updated Image**:
+需要和之前开启时候用到的命令一样，也就是上面的命令。
+```shell
+sudo docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE_URL=http://127.0.0.1:11434 --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+```
+
+
 # 中文模型
 https://github.com/LlamaFamily/Llama-Chinese#%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B-%E4%BD%BF%E7%94%A8ollama%E8%BF%90%E8%A1%8C
 用下面的命令pull模型
 ```shell
-ollama run llamafamily/llama3-chinese-8b-instruct
+ollama pull llamafamily/llama3-chinese-8b-instruct
 ```
 
+pull之后就可以在openwebui里选择和使用了
 
 还有一个模型，没有尝试
 https://github.com/CrazyBoyM/llama3-Chinese-chat
