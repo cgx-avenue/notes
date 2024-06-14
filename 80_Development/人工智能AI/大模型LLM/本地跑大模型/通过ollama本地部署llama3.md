@@ -63,7 +63,17 @@ sudo docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE
 ## 搜索引擎
 https://docs.openwebui.com/tutorial/web_search
 添加的是searxng，原理是本地部署一个searxng的聚合搜索网站，然后openwebui去掉用。
-我用的是step3 alternatice
+我用的是step3 alternatice: Docker run，端口改成了8087，即http://localhost:8087
+其余的配置和图4里一样，但是与到了403错误，查询之后参照https://github.com/searxng/searxng/issues/1162，定位到是searxng的配置文件没有配置输出为json格式，再经过一点点debug，发现 searxng的配置文件就在我pull docker image时候的路径下的searxng文件夹里，也就是`~/searxng`，修改里面的`settings.yml`, 在-formats里增加 - json，如下
+![[imgs/Pasted image 20240614153101.png]]
+
+修改后重启镜像即可。
+
+https://docs.searxng.org/admin/installation-docker.html
+
+
+
+
 
 
 
