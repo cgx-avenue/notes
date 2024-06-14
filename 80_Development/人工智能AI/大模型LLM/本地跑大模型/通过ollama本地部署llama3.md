@@ -60,6 +60,9 @@ sudo docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE
 ```
 
 
+
+
+
 # 中文模型
 https://github.com/LlamaFamily/Llama-Chinese#%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B-%E4%BD%BF%E7%94%A8ollama%E8%BF%90%E8%A1%8C
 用下面的命令pull模型
@@ -80,3 +83,4 @@ https://github.com/CrazyBoyM/llama3-Chinese-chat
 2. https://blog.csdn.net/WMX843230304WMX/article/details/136769341
 3. https://docs.openwebui.com/
 4. https://sspai.com/post/85193#!
+5. 
