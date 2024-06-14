@@ -62,7 +62,7 @@ pip install -r requirements.txt
 2. 安装那两个txt时候可能会不停出问题，多重复几次，搞不定的依赖就用aliyun的源手动安装。
 3. 第一个txt文件安装时后，pip source这里有问题，后面有些依赖安装不上的时候（特别是`tb-nightly`和几个txt文件里的），需要手动切换到aliyun的。
 ```bash
-pip install -i tb-nightly https://mirrors.aliyun.com/pypi/simple
+pip install tb-nightly -i https://mirrors.aliyun.com/pypi/simple
 ```
 参照：
 1. https://www.fujieace.com/python/error-no-matching-distribution-found-for-tb-nightly.html
