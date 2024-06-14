@@ -33,6 +33,16 @@ sudo docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE
 ```
 然后访问本地的8080端口即可。
 
+# 中文模型
+https://github.com/LlamaFamily/Llama-Chinese#%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B-%E4%BD%BF%E7%94%A8ollama%E8%BF%90%E8%A1%8C
+用下面的命令pull模型
+```shell
+ollama run llamafamily/llama3-chinese-8b-instruct
+```
+
+
+
+
 # Refs
 1. https://github.com/ollama/ollama
 2. https://blog.csdn.net/WMX843230304WMX/article/details/136769341
