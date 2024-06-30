@@ -1,0 +1,3 @@
+- [Retrieval Augmented Generation in Azure AI Studio - Azure AI Studio | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-studio/concepts/retrieval-augmented-generation)
+- [Retrieval Augmented Generation (RAG) in Azure AI Search](https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview)
+- [Retrieval Augmented Generation using Azure Machine Learning prompt flow (preview)](https://learn.microsoft.com/en-us/azure/machine-learning/concept-retrieval-augmented-generation)
