@@ -20,6 +20,13 @@ create extension vector;
 - `<=>` - cosine distance
 - `<+>` - L1 distance (added in 0.7.0)
 
-2. 
+2. 可以在vector列上建立索引，提升检索速度。
+本质是建立内存缓冲区，详细使用参见页面。
+
+
+# 库
+## pgvector-python
+[pgvector/pgvector-python: pgvector support for Python (github.com)](https://github.com/pgvector/pgvector-python)
+上面有很多例子，慢慢看吧
 
 
