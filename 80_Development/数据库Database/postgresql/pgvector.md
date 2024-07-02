@@ -8,15 +8,18 @@ pgvector是postgresql的一款扩展，用来实现存储vector数据。本质�
 sudo apt install posgresql-14-pgvector
 ```
 之后在需要添加的数据库里
-```
+```sql
+create extension vector;
 ```
 # 使用
 [Pgvector：如何轻松将PostgreSQL转变为矢量数据库 – AI StartUps Product Information, Reviews, Latest Updates (cheatsheet.md)](https://cheatsheet.md/zh/vector-database/pgvector.zh)
 [pgvector/pgvector: Open-source vector similarity search for Postgres (github.com)](https://github.com/pgvector/pgvector)
-注意几种距离的定义和使用：
+1. 注意几种距离的定义和使用：
+- `<->` - L2 distance
+- `<#>` - (negative) inner product
+- `<=>` - cosine distance
+- `<+>` - L1 distance (added in 0.7.0)
 
-
-
-
+2. 
 
 
