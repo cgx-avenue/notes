@@ -10,10 +10,17 @@ Interface between components(LLM, agent, chain) and other systems. Examples: Wik
 5. Whether the result of a tool should be returned directly to the user
 ```
 
-
+## Tools as OpenAI functions
 LangChain也说了Tools和OpenAI functions很像，而且可以转换。参见：https://python.langchain.com/v0.1/docs/modules/tools/tools_as_openai_functions/
+类似于一句话：
+```python
+from langchain_core.utils.function_calling import convert_to_openai_function
+tools = [MoveFileTool()]
+functions = [convert_to_openai_function(t) for t in tools]
+```
 
-tool的使用example：
+## tool的调用
+tool可以单独调用，比如
 ```python
 tool.run({"query": "langchain"})
 ```
@@ -156,6 +163,12 @@ agent = create_agent_method(llm, tools, prompt)
 # Agents
 From LangChain v0.1: Agents use a language model to decide actions to take, often defined by a tool. They require an `executor`, which is the runtime for the agent. The executor is what actually calls the agent, executes the tools it chooses, passes the action outputs back to the agent, and repeats. The agent is responsible for parsing output from the previous results and choosing the next steps.
 For LangChain v0.2, please refer to `agentic approach` and LangGraph.
+
+这个文档里就记录v0.1版本的吧，agentic等着放到其他文档或者参见LangGraph。
+
+## vs. Chain
+Chain里执行顺序是固定的，hardcoded in code，agents使用toolkits只限定范围，由LLM确定用哪个以及顺序。
+
 
 
 
