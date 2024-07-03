@@ -17,6 +17,94 @@ LangChain也说了Tools和OpenAI functions很像，而且可以转换。参见�
 ## Custom Tools
 [Defining Custom Tools | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/modules/tools/custom_tools/)
 
+### @tool decorator
+最方便，直接使用一些约定俗成的东西
+```python
+@tool
+def search(query: str) -> str:
+    """Look up things online."""
+    return "LangChain"
+print(search.name)
+print(search.description)
+print(search.args)
+```
+也可以自定义tool name等等
+```python
+class SearchInput(BaseModel):
+    query: str = Field(description="should be a search query")
+
+
+@tool("search-tool", args_schema=SearchInput, return_direct=True)
+def search(query: str) -> str:
+    """Look up things online."""
+    return "LangChain"
+    
+```
+
+### Subclass BaseTool
+继承BaseTool类，然后自定义
+```python
+from typing import Optional, Type
+
+from langchain.callbacks.manager import (
+    AsyncCallbackManagerForToolRun,
+    CallbackManagerForToolRun,
+)
+
+
+class SearchInput(BaseModel):
+    query: str = Field(description="should be a search query")
+
+
+class CalculatorInput(BaseModel):
+    a: int = Field(description="first number")
+    b: int = Field(description="second number")
+
+
+class CustomSearchTool(BaseTool):
+    name = "custom_search"
+    description = "useful for when you need to answer questions about current events"
+    args_schema: Type[BaseModel] = SearchInput
+
+    def _run(
+        self, query: str, run_manager: Optional[CallbackManagerForToolRun] = None
+    ) -> str:
+        """Use the tool."""
+        return "LangChain"
+
+    async def _arun(
+        self, query: str, run_manager: Optional[AsyncCallbackManagerForToolRun] = None
+    ) -> str:
+        """Use the tool asynchronously."""
+        raise NotImplementedError("custom_search does not support async")
+
+
+class CustomCalculatorTool(BaseTool):
+    name = "Calculator"
+    description = "useful for when you need to answer questions about math"
+    args_schema: Type[BaseModel] = CalculatorInput
+    return_direct: bool = True
+
+    def _run(
+        self, a: int, b: int, run_manager: Optional[CallbackManagerForToolRun] = None
+    ) -> str:
+        """Use the tool."""
+        return a * b
+
+    async def _arun(
+        self,
+        a: int,
+        b: int,
+        run_manager: Optional[AsyncCallbackManagerForToolRun] = None,
+    ) -> str:
+        """Use the tool asynchronously."""
+        raise NotImplementedError("Calculator does not support async")
+
+```
+
+### StructuredTool dataclass
+
+
 
 
 
