@@ -194,7 +194,25 @@ key-value mapping
 runtime，真正调用Agent的地方
 
 ## Types
-Agent的类型，已经有预定义ha
+Agent的类型，已经有预定义好的，参见[Types | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/)
+每一种都是已经有预定好的类型，可以直接调用。
+可能有用的：
+1. [JSON Chat Agent | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/json_agent/)
+2. [Structured chat | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/structured_chat/)
+3. [Tool calling agent | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/modules/agents/agent_types/tool_calling/)
+
+## Custom Agent
+参见[Custom agent | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/modules/agents/how_to/custom_agent/)
+大致可以分为以下几个步骤：
+1. llm
+2. 定义tool
+3. 绑定llm和tool
+4. prompt设计
+5. 建立agent chain
+6. 调用
+## Streaming
+[Streaming | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/modules/agents/how_to/streaming/)
+
 
 # Chains
 
