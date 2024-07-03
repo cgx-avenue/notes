@@ -38,4 +38,25 @@ chat_prompt = ChatPromptTemplate.from_messages([
 chat_prompt.format_messages(input_language="English", output_language="French", text="I love programming.")
 ```
 
+# Output parsers
+Again, more than formatting strings.
+There are a few main types of `OutputParser`s, including:
+
+- Convert text from `LLM` into structured information (e.g. JSON)
+- Convert a `ChatMessage` into just a string
+- Convert the extra information returned from a call besides the message (like OpenAI function invocation) into a string
+
+# Composing with LCEL
+the `|` syntax to join these components together.
+```python
+template = "Generate a list of 5 {text}.\n\n{format_instructions}"
+
+chat_prompt = ChatPromptTemplate.from_template(template)
+chat_prompt = chat_prompt.partial(format_instructions=output_parser.get_format_instructions())
+chain = chat_prompt | chat_model | output_parser
+chain.invoke({"text": "colors"})
+# >> ['red', 'blue', 'green', 'yellow', 'orange']
+```
+
+
 
