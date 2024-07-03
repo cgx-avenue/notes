@@ -19,6 +19,8 @@ over 50
 Retrieving means different sources + different algorithms. 
 
 # Indexing
+LangChain provides indexing api to avoid duplication.
+
 
 
 
