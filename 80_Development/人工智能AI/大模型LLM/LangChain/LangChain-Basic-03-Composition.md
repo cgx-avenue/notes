@@ -12,7 +12,13 @@ Interface between components(LLM, agent, chain) and other systems. Examples: Wik
 LangChain也说了Tools和OpenAI functions很像，而且可以转换。参见：https://python.langchain.com/v0.1/docs/modules/tools/tools_as_openai_functions/
 ## Builtin Tools
 [Tools | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/tools/)
-有这些，看看吧，有一些预置功能了相当于。比如：SQL database，bing和google的search
+有这些，看看吧，有一些预置功能了相当于。比如：SQL database，bing和google的search，graphql等等。
+
+## Custom Tools
+[Defining Custom Tools | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/modules/tools/custom_tools/)
+
+
+
 
 # Agents
 From LangChain v0.1: Agents use a language model to decide actions to take, often defined by a tool. They require an `executor`, which is the runtime for the agent. The executor is what actually calls the agent, executes the tools it chooses, passes the action outputs back to the agent, and repeats. The agent is responsible for parsing output from the previous results and choosing the next steps.
