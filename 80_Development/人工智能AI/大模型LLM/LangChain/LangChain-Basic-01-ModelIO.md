@@ -22,3 +22,20 @@ chat_model.invoke(messages)
 # >> AIMessage(content="Socks O'Color")
 ```
 
+# Prompt Templates
+More than just formatting string. Chat prompts could include roles.
+```python
+from langchain_core.prompts.chat import ChatPromptTemplate
+
+template = "You are a helpful assistant that translates {input_language} to {output_language}."
+human_template = "{text}"
+
+chat_prompt = ChatPromptTemplate.from_messages([
+    ("system", template),
+    ("human", human_template),
+])
+
+chat_prompt.format_messages(input_language="English", output_language="French", text="I love programming.")
+```
+
+
