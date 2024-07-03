@@ -175,8 +175,26 @@ For LangChain v0.2, please refer to `agentic approach` and LangGraph.
 ## vs. Chain
 Chain里执行顺序是固定的，hardcoded in code，agents使用toolkits只限定范围，由LLM确定用哪个以及顺序。
 
+## Concepts
+### Schema
+#### AgentAction
+agent要用的action，包含`tool`和所需的`tool_input`属性。
+#### AgentFinish
+当agent执行完之后的状态
+#### Intermediate Steps
+当前Agent已经跑完的actions和outputs。
 
+### Agents
+#### Agent Inputs 
+key-value mapping
+#### Agent Outputs
+下一个action
 
+### AgentExecutor
+runtime，真正调用Agent的地方
+
+## Types
+Agent的类型，已经有预定义ha
 
 # Chains
 
