@@ -24,6 +24,12 @@ tool可以单独调用，比如
 ```python
 tool.run({"query": "langchain"})
 ```
+也可以结合LLM，参见[How to do tool/function calling | 🦜️🔗 LangChain](https://python.langchain.com/v0.2/docs/how_to/function_calling/)， 利用`llm.bind_tools(tools)`.
+
+
+
+
+
 ## Builtin Tools
 [Tools | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/tools/)
 有这些，看看吧，有一些预置功能了相当于。比如：SQL database，bing和google的search，graphql等等。
