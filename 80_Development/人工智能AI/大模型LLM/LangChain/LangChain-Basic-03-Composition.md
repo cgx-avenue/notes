@@ -9,6 +9,8 @@ Interface between components(LLM, agent, chain) and other systems. Examples: Wik
 4. The function to call
 5. Whether the result of a tool should be returned directly to the user
 ```
+
+
 LangChain也说了Tools和OpenAI functions很像，而且可以转换。参见：https://python.langchain.com/v0.1/docs/modules/tools/tools_as_openai_functions/
 
 tool的使用example：
@@ -18,7 +20,10 @@ tool.run({"query": "langchain"})
 ## Builtin Tools
 [Tools | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/tools/)
 有这些，看看吧，有一些预置功能了相当于。比如：SQL database，bing和google的search，graphql等等。
-
+Would be useful:
+1. [Python REPL | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/tools/python/)
+2. [GraphQL | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/tools/graphql/)
+3. 
 ## Custom Tools
 [Defining Custom Tools | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/modules/tools/custom_tools/)
 
@@ -140,7 +145,13 @@ agent = create_agent_method(llm, tools, prompt)
 
 ## Builtin Toolkits
 [Toolkits | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/toolkits/)
-
+可能有用的：
+1. [CSV | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/toolkits/csv/)，这个在demo里用到了
+2. [JSON | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/toolkits/json/)
+3. [Pandas Dataframe | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/toolkits/pandas/)
+4. [Python | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/toolkits/python/)， would be useful to run python code
+5. [SQL Database | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/toolkits/sql_database/)
+6. 
 
 # Agents
 From LangChain v0.1: Agents use a language model to decide actions to take, often defined by a tool. They require an `executor`, which is the runtime for the agent. The executor is what actually calls the agent, executes the tools it chooses, passes the action outputs back to the agent, and repeats. The agent is responsible for parsing output from the previous results and choosing the next steps.
