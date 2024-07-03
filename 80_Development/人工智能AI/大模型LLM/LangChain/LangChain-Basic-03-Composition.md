@@ -10,6 +10,11 @@ Interface between components(LLM, agent, chain) and other systems. Examples: Wik
 5. Whether the result of a tool should be returned directly to the user
 ```
 LangChain也说了Tools和OpenAI functions很像，而且可以转换。参见：https://python.langchain.com/v0.1/docs/modules/tools/tools_as_openai_functions/
+
+tool的使用example：
+```python
+tool.run({"query": "langchain"})
+```
 ## Builtin Tools
 [Tools | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/tools/)
 有这些，看看吧，有一些预置功能了相当于。比如：SQL database，bing和google的search，graphql等等。
@@ -121,7 +126,20 @@ search = StructuredTool.from_function(
 see the doc if needed
 
 ## Toolkits
+就是为了某个共同的目的，可以一起使用的一组tool。一般是给agent用的，不会单独使用。
+```python
+# Initialize a toolkit
+toolkit = ExampleTookit(...)
 
+# Get list of tools
+tools = toolkit.get_tools()
+
+# Create agent
+agent = create_agent_method(llm, tools, prompt)
+```
+
+## Builtin Toolkits
+[Toolkits | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/integrations/toolkits/)
 
 
 # Agents
