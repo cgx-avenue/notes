@@ -103,8 +103,24 @@ class CustomCalculatorTool(BaseTool):
 ```
 
 ### StructuredTool dataclass
+mix of above 2 methods
+```python
+def search_function(query: str):
+    return "LangChain"
 
 
+search = StructuredTool.from_function(
+    func=search_function,
+    name="Search",
+    description="useful for when you need to answer questions about current events",
+    # coroutine= ... <- you can specify an async method if desired as well
+)
+```
+
+### Handling tool errors
+see the doc if needed
+
+## Toolkits
 
 
 
