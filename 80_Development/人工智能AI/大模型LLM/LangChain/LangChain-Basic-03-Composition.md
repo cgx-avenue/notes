@@ -215,5 +215,8 @@ Agent的类型，已经有预定义好的，参见[Types | 🦜️🔗 LangChain
 
 
 # Chains
-
+Sequence of calls - whether to an LLM, a tool, or a data preprocessing step.
+两种创建chain的方式：
+1. LCEL
+2. Legacy chain class
 
