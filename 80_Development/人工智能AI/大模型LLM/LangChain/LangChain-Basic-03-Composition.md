@@ -220,3 +220,8 @@ Sequence of calls - whether to an LLM, a tool, or a data preprocessing step.
 1. LCEL
 2. Legacy chain class
 
+有一些预定义好的chain[Chains | 🦜️🔗 LangChain](https://python.langchain.com/v0.1/docs/modules/chains/)
+可能有用的：
+1. [langchain.chains.retrieval.create_retrieval_chain — 🦜🔗 LangChain 0.2.6](https://api.python.langchain.com/en/latest/chains/langchain.chains.retrieval.create_retrieval_chain.html#langchain.chains.retrieval.create_retrieval_chain)
+2. [langchain.chains.sql_database.query.create_sql_query_chain — 🦜🔗 LangChain 0.2.6](https://api.python.langchain.com/en/latest/chains/langchain.chains.sql_database.query.create_sql_query_chain.html#langchain.chains.sql_database.query.create_sql_query_chain)
+3. 
