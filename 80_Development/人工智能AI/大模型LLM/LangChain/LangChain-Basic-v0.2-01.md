@@ -52,5 +52,6 @@ All runnables expose input and output **schemas** to inspect the inputs and ou
 	1. tool_call_id
 	2. artifact：可以附加传递给模型的东西
 
+# Prompt templates
 
 
