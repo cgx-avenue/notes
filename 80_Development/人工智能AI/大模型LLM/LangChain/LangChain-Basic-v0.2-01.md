@@ -41,7 +41,10 @@ All runnables expose input and output **schemas** to inspect the inputs and ou
 老版本模型封装。采用`String in, string out`方式，但也可以用`messages`作为输入，以兼容ChatModel。
 
 ## Messages
-
+所有`message`三个重要组成部分：`role`,`content`,`response_metadata`。
+种类：
+1. HumanMessage：用户的输入
+2. AIMessage：model返回
 
 
 
