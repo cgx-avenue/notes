@@ -44,7 +44,13 @@ All runnables expose input and output **schemas** to inspect the inputs and ou
 所有`message`三个重要组成部分：`role`,`content`,`response_metadata`。
 种类：
 1. HumanMessage：用户的输入
-2. AIMessage：model返回
+2. AIMessage：model返回的信息，除了`content`之外，还有：
+	1. response_metadata：response的一些元信息
+	2. tool_calls：模型调用的tool信息，返回内容包含在了AIMessage里。可以使用`.tool_calls`来获取。
+3. SystemMessage：控制模型如何表现的输入，不是所有模型都支持。
+4. ToolMessage：tool调用的结果信息，除了`role`和`content`之外，还包括
+	1. tool_call_id
+	2. artifact：可以附加传递给模型的东西
 
 
 
