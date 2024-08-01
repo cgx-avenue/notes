@@ -54,4 +54,4 @@ All runnables expose input and output **schemas** to inspect the inputs and ou
 
 # Prompt templates
 
-
+Prompt存在的意义，将用户的输入能够模板化、参数化，同时进一步持久化、版本化。
