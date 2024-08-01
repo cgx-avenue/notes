@@ -55,4 +55,28 @@ All runnables expose input and output **schemas** to inspect the inputs and ou
 # Prompt templates
 
 Prompt存在的意义，将用户的输入能够模板化、参数化，同时进一步持久化、版本化。
-三种类型，StringPromptTemplates,
+三种类型，如下：
+## StringPromptTemplates
+针对输入是一个string时候的参数化问题
+```python
+from langchain_core.prompts import PromptTemplate
+
+prompt_template = PromptTemplate.from_template("Tell me a joke about {topic}")
+
+prompt_template.invoke({"topic": "cats"})
+```
+
+## ChatPromptTemplates
+可以弄a list of messages，并且可以结合ChatModel当中的role。
+```python
+from langchain_core.prompts import ChatPromptTemplate
+
+prompt_template = ChatPromptTemplate.from_messages([
+    ("system", "You are a helpful assistant"),
+    ("user", "Tell me a joke about {topic}")
+])
+
+prompt_template.invoke({"topic": "cats"})
+```
+
+
