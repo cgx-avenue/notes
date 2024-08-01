@@ -38,4 +38,10 @@ All runnables expose input and output **schemas** to inspect the inputs and ou
 - `base_url`: endpoint to send requests to
 
 ## LLMs
-老版本模型
+老版本模型封装。采用`String in, string out`方式，但也可以用`messages`作为输入，以兼容ChatModel。
+
+## Messages
+
+
+
+
