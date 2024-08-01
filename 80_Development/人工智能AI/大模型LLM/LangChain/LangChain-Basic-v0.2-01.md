@@ -13,4 +13,29 @@ These also have corresponding async methods that should be used with [asyncio](
 - `astream_log`: stream back intermediate steps as they happen, in addition to the final response
 - `astream_events`: **beta** stream events as they happen in the chain (introduced in `langchain-core` 0.1.14)
 
+![[imgs/Pasted image 20240801150556.png]]
+重点看前五个，我还是通过代码才看出来Retriever的结果都是Documents object。。。
 
+All runnables expose input and output **schemas** to inspect the inputs and outputs:
+
+- `input_schema`: an input Pydantic model auto-generated from the structure of the Runnable
+- `output_schema`: an output Pydantic model auto-generated from the structure of the Runnable
+
+# Components
+
+## Chat models
+
+比LLM更新的模型，添加了role什么的来更好地应用，比如用户输入的string会变为`HumanMessage` 。
+
+注意ChatModels可以有一些参数，其中可能会很有用，比如：
+- `model`: the name of the model
+- `temperature`: the sampling temperature
+- `timeout`: request timeout
+- `max_tokens`: max tokens to generate
+- `stop`: default stop sequences
+- `max_retries`: max number of times to retry requests
+- `api_key`: API key for the model provider
+- `base_url`: endpoint to send requests to
+
+## LLMs
+老版本模型
