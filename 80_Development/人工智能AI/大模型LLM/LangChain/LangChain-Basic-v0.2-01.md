@@ -145,6 +145,13 @@ LangChain提供了`BaseStores` 类来进行扩展。
 
 Tools是用来被模型调用的：他们的输入由模型产生，输出被传递回模型。Tools被用来调用外部API。
 
+Tool包括：
+1. name
+2. description
+3. 定义tool input的JSON schema
+4. 一个函数
+
+当tool被绑定到llm时候，上述的前三个会变成模型上下文。tool的一般调用方式如下：
 
 
 
