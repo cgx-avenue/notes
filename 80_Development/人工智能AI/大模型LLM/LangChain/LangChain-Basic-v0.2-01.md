@@ -215,7 +215,11 @@ The general flow looks like this:
 用来针对LLM不同生命周期，嵌入不同的钩子。详情见[Conceptual guide | 🦜️🔗 LangChain](https://python.langchain.com/v0.2/docs/concepts/#callbacks)
 
 调用callback，有两个地方一般：
-1. 
+1. 请求时调用：支持所有Runnable对象，比如`chain.invoke({"number": 25}, {"callbacks": [handler]})`.
+2. 构造函数：仅针对当前类，子类不会继承。比如`chain = TheNameOfSomeChain(callbacks=[handler])`.
+
+
+# Techniques
 
 
 
