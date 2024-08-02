@@ -104,4 +104,5 @@ prompt_template = ChatPromptTemplate.from_messages([
 把LCEL中的输出变成指定格式，注意是否支持streaming，是否需要指示，输入输出格式等等。
 支持：JSON，XML，CSV，DataFrame等，具体参见[Conceptual guide | 🦜️🔗 LangChain](https://python.langchain.com/v0.2/docs/concepts/#output-parsers)
 
+## ChatHistory
 
