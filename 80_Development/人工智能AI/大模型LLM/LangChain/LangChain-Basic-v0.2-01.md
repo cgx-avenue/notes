@@ -124,7 +124,7 @@ Document object包含两个属性：
 3. 一个chunk完成，就开始组建下一个，但要在相邻chunk间保持一些overlap。
 
 ### Embedding models
-
+把上面提到的这些或大或小的text进行
 
 
 
