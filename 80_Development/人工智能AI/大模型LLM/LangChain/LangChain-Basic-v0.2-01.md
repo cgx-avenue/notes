@@ -212,7 +212,10 @@ The general flow looks like this:
 - This process repeats until the agent chooses to respond.
 
 ## Callbacks
+用来针对LLM不同生命周期，嵌入不同的钩子。详情见[Conceptual guide | 🦜️🔗 LangChain](https://python.langchain.com/v0.2/docs/concepts/#callbacks)
 
+调用callback，有两个地方一般：
+1. 
 
 
 
