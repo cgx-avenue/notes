@@ -173,6 +173,11 @@ tool_message = tool.invoke(tool_call)
 # -> ToolMessage(content="tool result foobar...", tool_call_id=..., name="tool_name")
 ```
 
+### 最佳实践
+设计tool的时候：
+1. Chat model有tool-calling APIs最好了
+2. name，description和JSON schema设计好，事半功倍。
+3. tools最好简单，功能明确
 
-
+## Toolkits
 
