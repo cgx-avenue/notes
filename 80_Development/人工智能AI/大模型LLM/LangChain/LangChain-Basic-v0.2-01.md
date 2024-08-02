@@ -191,6 +191,27 @@ tools = toolkit.get_tools()
 
 ## Agents
 
+LLM本身仅能输出文本，不能采取行动。
+> Agents are systems that use an LLM as a reasoning engine to determine which actions to take and what the inputs to those actions should be.
+
+两种方式：
+1. AgentExecutor的传统方式。
+2. LangGraph的stateful方式。
+
+### ReAct agents
+
+ReAct = Reason + Act
+
+The general flow looks like this:
+
+- The model will "think" about what step to take in response to an input and any previous observations.
+- The model will then choose an action from available tools (or choose to respond to the user).
+- The model will generate arguments to that tool.
+- The agent runtime (executor) will parse out the chosen tool and call it with the generated arguments.
+- The executor will return the results of the tool call back to the model as an **observation**.
+- This process repeats until the agent chooses to respond.
+
+## Callbacks
 
 
 
