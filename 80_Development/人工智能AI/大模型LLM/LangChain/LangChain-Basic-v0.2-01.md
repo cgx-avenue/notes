@@ -158,7 +158,20 @@ llm_with_tools = llm.bind_tools(tools)
 ai_msg = llm_with_tools.invoke("do xyz...")  # AIMessage(tool_calls=[ToolCall(...), ...], ...)
 ```
 
-
+如果单独调用tool，有两种方式：
+1. 仅带参数调用。获取tool output，通常为string
+```python
+# You will want to previously check that the LLM returned tool calls
+tool_call = ai_msg.tool_calls[0]  # ToolCall(args={...}, id=..., ...)
+tool_output = tool.invoke(tool_call["args"])
+tool_message = ToolMessage(content=tool_output, tool_call_id=tool_call["id"], name=tool_call["name"])
+```
+2. 通过ToolCall调用
+```python
+tool_call = ai_msg.tool_calls[0]  # ToolCall(args={...}, id=..., ...)
+tool_message = tool.invoke(tool_call)
+# -> ToolMessage(content="tool result foobar...", tool_call_id=..., name="tool_name")
+```
 
 
 
