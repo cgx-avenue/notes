@@ -180,4 +180,19 @@ tool_message = tool.invoke(tool_call)
 3. tools最好简单，功能明确
 
 ## Toolkits
+实现特定任务的工具集合，预定义好的。都通过`get_tools`方法返回tool列表。
+```python
+# Initialize a toolkit
+toolkit = ExampleTookit(...)
+
+# Get list of tools
+tools = toolkit.get_tools()
+```
+
+## Agents
+
+
+
+
+
 
