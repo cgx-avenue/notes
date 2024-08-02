@@ -66,7 +66,7 @@ prompt_template = PromptTemplate.from_template("Tell me a joke about {topic}")
 prompt_template.invoke({"topic": "cats"})
 ```
 
-## ChatPromptTemplates
+### ChatPromptTemplates
 可以弄a list of messages，并且可以结合ChatModel当中的role。
 ```python
 from langchain_core.prompts import ChatPromptTemplate
@@ -79,7 +79,7 @@ prompt_template = ChatPromptTemplate.from_messages([
 prompt_template.invoke({"topic": "cats"})
 ```
 
-### MessagesPlaceholder
+#### MessagesPlaceholder
 可以和HumanMessage结合，实现一系列输入的传递。
 ```python
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
@@ -140,6 +140,12 @@ Document object包含两个属性：
 
 ### Key-value stores
 LangChain提供了`BaseStores` 类来进行扩展。
+
+## Tools
+
+Tools是用来被模型调用的：他们的输入由模型产生，输出被传递回模型。Tools被用来调用外部API。
+
+
 
 
 
