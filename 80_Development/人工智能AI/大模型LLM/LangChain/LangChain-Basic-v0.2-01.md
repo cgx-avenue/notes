@@ -52,11 +52,11 @@ All runnables expose input and output **schemas** to inspect the inputs and ou
 	1. tool_call_id
 	2. artifact：可以附加传递给模型的东西
 
-# Prompt templates
+## Prompt templates
 
 Prompt存在的意义，将用户的输入能够模板化、参数化，同时进一步持久化、版本化。
 两种类型，如下：
-## StringPromptTemplates
+### StringPromptTemplates
 针对输入是一个string时候的参数化问题
 ```python
 from langchain_core.prompts import PromptTemplate
@@ -139,7 +139,9 @@ Document object包含两个属性：
 可以从多种类型中返回documents，不局限于vector store。
 
 ### Key-value stores
-针对 从每个文档被向量化的多个源中索引和获取
+LangChain提供了`BaseStores` 类来进行扩展。
+
+
 
 
 
