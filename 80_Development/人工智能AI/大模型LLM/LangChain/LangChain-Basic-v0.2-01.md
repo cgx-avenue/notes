@@ -129,6 +129,10 @@ Document object包含两个属性：
 2. 针对query这种string。
 
 ### Vector stores
+对于非结构化数据，先对其向量化，然后存到向量化数据库，然后在对其进行查询，完成‘相似度’等功能，是常用套路。
+大多数向量存储也能存储metadata，可以在‘相似度’检测前先进行metadata匹配和检索。
+
+### Retriever
 
 
 
