@@ -105,4 +105,6 @@ prompt_template = ChatPromptTemplate.from_messages([
 支持：JSON，XML，CSV，DataFrame等，具体参见[Conceptual guide | 🦜️🔗 LangChain](https://python.langchain.com/v0.2/docs/concepts/#output-parsers)
 
 ## ChatHistory
+Keep track of inputs and outputs of underlying chain, and append them as messages to a message database.
+
 
