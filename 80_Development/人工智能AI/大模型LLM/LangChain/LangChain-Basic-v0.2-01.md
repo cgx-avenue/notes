@@ -152,6 +152,11 @@ Tool包括：
 4. 一个函数
 
 当tool被绑定到llm时候，上述的前三个会变成模型上下文。tool的一般调用方式如下：
+```python
+tools = [...] # Define a list of tools
+llm_with_tools = llm.bind_tools(tools)
+ai_msg = llm_with_tools.invoke("do xyz...")  # AIMessage(tool_calls=[ToolCall(...), ...], ...)
+```
 
 
 
