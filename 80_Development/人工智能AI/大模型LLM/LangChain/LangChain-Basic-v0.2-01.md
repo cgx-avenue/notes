@@ -133,8 +133,13 @@ Document object包含两个属性：
 大多数向量存储也能存储metadata，可以在‘相似度’检测前先进行metadata匹配和检索。
 
 ### Retriever
+输入：非结构化query
+输出：documents
 
+可以从多种类型中返回documents，不局限于vector store。
 
+### Key-value stores
+针对 从每个文档被向量化的多个源中索引和获取
 
 
 
