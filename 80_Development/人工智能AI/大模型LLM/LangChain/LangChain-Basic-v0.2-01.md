@@ -113,6 +113,9 @@ Document object包含两个属性：
 2. metadata: dict. 包括document id，file name等
 
 ### Document loaders
+就是针对不同文件类型，数据源的加载器。不同的加载器参数不同，参见各自文档。
+
+### Text splitters
 
 
 
