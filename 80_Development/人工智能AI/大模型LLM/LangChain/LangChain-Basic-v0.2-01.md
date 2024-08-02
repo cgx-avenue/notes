@@ -107,4 +107,14 @@ prompt_template = ChatPromptTemplate.from_messages([
 ## ChatHistory
 Keep track of inputs and outputs of underlying chain, and append them as messages to a message database.
 
+## Document
+Document object包含两个属性：
+1. page_content: str. 
+2. metadata: dict. 包括document id，file name等
+
+### Document loaders
+
+
+
+
 
