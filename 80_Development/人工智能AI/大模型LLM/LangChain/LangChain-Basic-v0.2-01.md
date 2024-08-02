@@ -124,7 +124,12 @@ Document object包含两个属性：
 3. 一个chunk完成，就开始组建下一个，但要在相邻chunk间保持一些overlap。
 
 ### Embedding models
-把上面提到的这些或大或小的text进行
+把上面提到的这些或大或小的text进行向量化，根据不同的模型。LangChain里面使用`Embedding`类来实现的。这个类里实现两类：
+1. 针对documents，这类multiple texts input。
+2. 针对query这种string。
+
+### Vector stores
+
 
 
 
