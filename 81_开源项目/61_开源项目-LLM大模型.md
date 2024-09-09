@@ -108,3 +108,8 @@ https://github.com/wgwang/awesome-LLMs-In-China
 Convert Github Copilot to ChatGPT
 https://github.com/aaamoon/copilot-gpt4-service
 
+# 12. RAG
+## 1. kotaemon
+https://github.com/Cinnamon/kotaemon
+An open-source RAG-based tool for chatting with your documents.
+看起来很猛，跑起来一堆bug。本地跑ollama模型没成功。
