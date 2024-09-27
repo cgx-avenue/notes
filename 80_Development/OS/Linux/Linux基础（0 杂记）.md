@@ -1,5 +1,19 @@
 记录一些杂七杂八的小知识。
 
+# GNU/Linux
+这个主要和`发行版`等相关概念有关系。
+## GNU
+GNU是一个递归命名，GNU=GNU's not Linux
+包含了三个层次：
+1. 软件：Emacs，GCC等
+2. License：GPL，LGPL等
+3. OS kernel：Linux kernel
+
+所以，**Linux发行版=Linux kernel + GN**
+
+
+
+
 # 内核端口数量的限制
 在Linxu系统中，端口的数值范围为无符号short类型，值范围为1 ~ 65535。一般来讲**1 ~ 1023范围默认只有Root用户有权限使用，普通用户可以使用区间范围1025 ~ 65535，约6万。**
 
