@@ -9,7 +9,32 @@ GNU是一个递归命名，GNU=GNU's not Linux
 2. License：GPL，LGPL等
 3. OS kernel：Linux kernel
 
-所以，**Linux发行版=Linux kernel + GN**
+所以，**Linux发行版=Linux kernel + GNU软件**
+
+## GCC
+GNU的关键构成，GCC=GNU compiler collection
+
+## Linux kernel
+操作和控制**硬件设备**的核心，分配资源，关系如下
+
+| OS       |
+| -------- |
+| Kernel   |
+| Hardware |
+|          |
+## Linux发行版
+将Kernel与应用软件打包，称之为发行版：
+1. 商业公司维护，比如RedHat
+	1. RHEL：收费
+	2. Fedora core：免费
+	3. CentOS：免费
+	基于RPM的Yum包管理，分发的是编译好的2进制
+2. 社区维护，比如Debian
+	1. Stable
+	2. Testing
+	3. Unstable，后来演化成Ubuntu
+	包管理：apt-get/dpkg
+
 
 
 
