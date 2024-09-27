@@ -113,3 +113,12 @@ https://github.com/aaamoon/copilot-gpt4-service
 https://github.com/Cinnamon/kotaemon
 An open-source RAG-based tool for chatting with your documents.
 看起来很猛，跑起来一堆bug。本地跑ollama模型没成功。
+
+## 2.llama-index
+https://github.com/run-llama/llama_index
+LlamaIndex is a data framework for your LLM applications
+
+# 13. mindsdb
+The platform for building AI from enterprise data
+https://github.com/mindsdb/mindsdb
+这个自创了一种类似于SQL语句的方式来创建和调用相关组件，我跑了个demo，但是感觉太复杂了
