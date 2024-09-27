@@ -100,4 +100,8 @@ https://github.com/fighting41love/funNLP
 pyltp 是 [语言技术平台（Language Technology Platform, LTP）](https://github.com/HIT-SCIR/ltp)的 Python 封装。来自于哈工大。目前这个库也有限维护了，转到了pytorch版本。
 > **目前基于Pytorch的LTP4 已经发布，而PyLTP将会只有非常有限的维护，请大家移步使用**[LTP 4]([LTP 4](https://github.com/HIT-SCIR/ltp))
 
+# 11. wordfreq
+Access a database of word frequencies, in various natural languages.
+统计各种语言中词出现频率的一个library，好玩的地方在于，作者停止更新了，因为大多数新增网络内容都是垃圾。
+https://github.com/rspeer/wordfreq
 
