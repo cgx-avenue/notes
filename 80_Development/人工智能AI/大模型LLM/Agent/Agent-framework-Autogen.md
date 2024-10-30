@@ -21,7 +21,9 @@ autogenstudio ui --port 12345
 2. agents里修改每个agent的models，改成qwen
 
 # 概念
-
+参见官方文档和参考4
+主要是对话式agent，代码执行器和工具tool。代码执行可以分为local和docker环境。tool工具可以自定义，并且绑定。
+因为是对话式，所以有group chat的方式。当然支持人机交互。
 
 # 架构
 
@@ -33,4 +35,4 @@ autogenstudio ui --port 12345
 1. https://microsoft.github.io/autogen/0.2/docs/Getting-Started/
 2. https://blog.csdn.net/wshzd/article/details/135959061
 3. https://hingsli.github.io/gen-ai-wiki/posts/autogen-getting-started/
-4. 
+4. https://zhuanlan.zhihu.com/p/664937747
