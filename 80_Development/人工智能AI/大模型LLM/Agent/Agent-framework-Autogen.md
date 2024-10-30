@@ -3,5 +3,11 @@
 
 # 安装
 ```shell
+# create env
+conda create -n autogen python=3.10
+conda activate autogen
+# install autogen-agentchat
+pip install autogen-agentchat~=0.2
+# install autogenstudio
 
 ```
