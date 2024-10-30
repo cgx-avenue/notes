@@ -9,5 +9,16 @@ conda activate autogen
 # install autogen-agentchat
 pip install autogen-agentchat~=0.2
 # install autogenstudio
-
+pip install autogenstudio
+# start autogen studio
+autogenstudio ui --port 12345
+# visit http://localhost:12345 in broswer
 ```
+
+
+
+# 参考
+1. https://microsoft.github.io/autogen/0.2/docs/Getting-Started/
+2. https://blog.csdn.net/wshzd/article/details/135959061
+3. https://hingsli.github.io/gen-ai-wiki/posts/autogen-getting-started/
+4. 
