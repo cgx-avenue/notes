@@ -15,7 +15,10 @@ autogenstudio ui --port 12345
 # visit http://localhost:12345 in broswer
 ```
 
-
+## autogenstudio设置
+1. models里我用的qwen-turbo
+![[imgs/Pasted image 20241030145231.png]]
+2. agent是
 
 # 参考
 1. https://microsoft.github.io/autogen/0.2/docs/Getting-Started/
