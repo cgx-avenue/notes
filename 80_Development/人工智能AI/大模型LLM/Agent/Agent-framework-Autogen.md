@@ -18,7 +18,16 @@ autogenstudio ui --port 12345
 ## autogenstudio设置
 1. models里我用的qwen-turbo
 ![[imgs/Pasted image 20241030145231.png]]
-2. agent是
+2. agents里修改每个agent的models，改成qwen
+
+# 概念
+
+
+# 架构
+
+# 使用
+
+
 
 # 参考
 1. https://microsoft.github.io/autogen/0.2/docs/Getting-Started/
