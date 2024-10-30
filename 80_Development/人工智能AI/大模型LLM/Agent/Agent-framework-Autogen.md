@@ -11,11 +11,13 @@ pip install autogen-agentchat~=0.2
 # install autogenstudio
 pip install autogenstudio
 # start autogen studio
-autogenstudio ui --port 12345
+autogenstudio ui --port 12345 --host 0.0.0.0
 # visit http://localhost:12345 in broswer
 ```
 
 ## autogenstudio设置
+参见https://microsoft.github.io/autogen/0.2/blog/2023/12/01/AutoGenStudio/
+
 1. models里我用的qwen-turbo
 ![[imgs/Pasted image 20241030145231.png]]
 2. agents里修改每个agent的models，改成qwen
