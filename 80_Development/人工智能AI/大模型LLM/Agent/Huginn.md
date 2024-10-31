@@ -8,3 +8,4 @@ sudo docker run -it -p 3000:3000 ghcr.io/huginn/huginn
 ```
 
 # 使用
+需要去不同的agent里面设置对应的key。
