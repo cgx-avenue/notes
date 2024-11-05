@@ -28,3 +28,6 @@ http://baostock.com/baostock/index.php/%E9%A6%96%E9%A1%B5
 https://www.mlfinlab.com/en/latest/
 MlFinLab python library is a perfect toolbox that every financial machine learning researcher needs. It covers every step of the ML strategy creation starting from data structures generation and finishing with backtest statistics.
 
+# 6. OpenBB
+https://github.com/OpenBB-finance/OpenBB
+Investment Research for Everyone, Everywhere. 开源投资分析平台。
