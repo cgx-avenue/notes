@@ -20,6 +20,7 @@
 |     | OpenWebUI        | 3080     |          |              |                    |
 | 工作  | Node-red         | 1880     |          |              |                    |
 |     | jupyter notebook | 10000    |          |              |                    |
+| 生活  | how-to-cook      | 15000    |          |              |                    |
 
 
 
@@ -299,6 +300,15 @@ https://docs.docker.com/guides/jupyter/
 ```shell
 docker run -p 10000:8888 quay.io/jupyter/scipy-notebook:2024-10-07
 ```
+
+# 生活
+## 1. 程序员做饭指南
+https://github.com/Anduin2017/HowToCook
+```shell
+docker pull ghcr.io/anduin2017/how-to-cook:latest
+docker run -d -p 15000:5000 ghcr.io/anduin2017/how-to-cook:latest
+```
+
 
 
 # 参考
