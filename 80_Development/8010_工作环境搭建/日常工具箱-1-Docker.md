@@ -35,6 +35,11 @@ docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /va
 ## 2. Docker Desktop
 Windows平台专属
 
+## 3. Heimdall
+应用导航的，https://github.com/linuxserver/Heimdall
+注意配置应用时候可能需要
+
+
 # 数据库
 ## 1. MySQL
 要8.0版本的
