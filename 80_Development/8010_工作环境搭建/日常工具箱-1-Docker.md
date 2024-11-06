@@ -5,19 +5,20 @@
 - 用户名除了应用固定的，大多数都用`admin`之类即可。
 - 密码要求高的，就用`WJZHNL7F3@Wx`，简单的就用`siemens`之类。
 
-| 分类  | 容器          | 端口       | 用户名      | 密码           | 其他设置               |
-| --- | ----------- | -------- | -------- | ------------ | ------------------ |
-| 管理  | Portainer   | 9443     | admin    | WJZHNL7F3@Wx | windows平台不需要       |
-| 管理  | Heimdall    | 180,1443 |          |              |                    |
-| 数据库 | MySQL 8.3   | 3306     | root     | siemens      |                    |
-| 数据库 | Postgres14  | 5432     | postgres | postgres     |                    |
-| 数据库 | Neo4J       | 7687     | neo4j    | siemens      | bolt://neo4j:7687' |
-| 工具  | MyIP        | 18966    |          |              | dell上是8966端口       |
-|     | manyfold    | 3214     |          |              |                    |
-|     | it-tools    | 18080    |          |              |                    |
-|     | strling-pdf | 28080    |          |              |                    |
-|     | qinglong    | 5700     | admin    | siemens      |                    |
-| 工作  | Node-red    | 1880     |          |              |                    |
+| 分类  | 容器               | 端口       | 用户名      | 密码           | 其他设置               |
+| --- | ---------------- | -------- | -------- | ------------ | ------------------ |
+| 管理  | Portainer        | 9443     | admin    | WJZHNL7F3@Wx | windows平台不需要       |
+| 管理  | Heimdall         | 180,1443 |          |              |                    |
+| 数据库 | MySQL 8.3        | 3306     | root     | siemens      |                    |
+| 数据库 | Postgres14       | 5432     | postgres | postgres     |                    |
+| 数据库 | Neo4J            | 7687     | neo4j    | siemens      | bolt://neo4j:7687' |
+| 工具  | MyIP             | 18966    |          |              | dell上是8966端口       |
+|     | manyfold         | 3214     |          |              |                    |
+|     | it-tools         | 18080    |          |              |                    |
+|     | strling-pdf      | 28080    |          |              |                    |
+|     | qinglong         | 5700     | admin    | siemens      |                    |
+| 工作  | Node-red         | 1880     |          |              |                    |
+|     | jupyter notebook | 10000    |          |              |                    |
 
 
 
@@ -283,6 +284,14 @@ https://nodered.org/docs/getting-started/docker
 docker run -it -p 1880:1880 -v node_red_data:/data --name mynodered nodered/node-red
 ```
 https://blog.csdn.net/zonghengzhikong/article/details/140017649
+
+## 2. jupyterlab
+https://jupyter-docker-stacks.readthedocs.io/en/latest/
+https://docs.docker.com/guides/jupyter/
+当然支持docker部署，但我没用过，下次试试。
+```shell
+docker run -p 10000:8888 quay.io/jupyter/scipy-notebook:2024-10-07
+```
 
 
 # 参考
