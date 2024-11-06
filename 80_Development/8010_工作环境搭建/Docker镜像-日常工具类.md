@@ -8,7 +8,8 @@
 | 数据库 | MySQL 8.3  | 3306  | root     | siemens      |                    |
 | 数据库 | Postgres14 | 5432  | postgres | postgres     |                    |
 | 数据库 | Neo4J      | 7687  | neo4j    | siemens      | bolt://neo4j:7687' |
-|     | MyIP       | 18966 |          |              |                    |
+|     | MyIP       | 18966 |          |              | dell上是8966端口       |
+|     |            |       |          |              |                    |
 
 
 
@@ -137,6 +138,10 @@ https://github.com/jason5ng32/MyIP
 ```shell
 docker run -d -p 18966:18966 --name myip --restart always jason5ng32/myip:latest
 ```
+
+
+
+
 
 # 参考
 1. https://github.com/coracoo/awesome_docker_cn
