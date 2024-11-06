@@ -284,6 +284,10 @@ https://docs.openwebui.com/#quick-start-with-docker--recommended
 docker run -d -p 3080:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
 ```
 
+## 7. HivisionIDPhotos
+https://github.com/Zeyi-Lin/HivisionIDPhotos
+HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+关键是快速使用，换底色等等
 
 # 工作相关
 ## 1. Node-red
