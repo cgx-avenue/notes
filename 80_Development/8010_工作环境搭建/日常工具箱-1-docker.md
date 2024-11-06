@@ -2,15 +2,16 @@
 # 汇总
 主要是端口设置
 
-| 分类  | 容器         | 端口    | 用户名      | 密码           | 其他设置               |
-| --- | ---------- | ----- | -------- | ------------ | ------------------ |
-| 管理  | Portainer  | 9443  | admin    | WJZHNL7F3@Wx | windows平台不需要       |
-| 数据库 | MySQL 8.3  | 3306  | root     | siemens      |                    |
-| 数据库 | Postgres14 | 5432  | postgres | postgres     |                    |
-| 数据库 | Neo4J      | 7687  | neo4j    | siemens      | bolt://neo4j:7687' |
-|     | MyIP       | 18966 |          |              | dell上是8966端口       |
-|     | manyfold   | 3214  |          |              |                    |
-|     | it-tools   | 18080 |          |              |                    |
+| 分类  | 容器          | 端口    | 用户名      | 密码           | 其他设置               |
+| --- | ----------- | ----- | -------- | ------------ | ------------------ |
+| 管理  | Portainer   | 9443  | admin    | WJZHNL7F3@Wx | windows平台不需要       |
+| 数据库 | MySQL 8.3   | 3306  | root     | siemens      |                    |
+| 数据库 | Postgres14  | 5432  | postgres | postgres     |                    |
+| 数据库 | Neo4J       | 7687  | neo4j    | siemens      | bolt://neo4j:7687' |
+|     | MyIP        | 18966 |          |              | dell上是8966端口       |
+|     | manyfold    | 3214  |          |              |                    |
+|     | it-tools    | 18080 |          |              |                    |
+|     | strling-pdf | 28080 |          |              |                    |
 
 
 
@@ -213,8 +214,22 @@ https://github.com/CorentinTh/it-tools
 docker run -d --name it-tools --restart unless-stopped -p 18080:80 corentinth/it-tools:latest
 ```
 
-
-
+## 4. Stirling-PDF
+https://github.com/Stirling-Tools/Stirling-PDF
+```shell
+docker run -d \
+  -p 28080:8080 \
+  -v ./trainingData:/usr/share/tessdata \
+  -v ./extraConfigs:/configs \
+  -v ./logs:/logs \
+# Optional customization (not required)
+# -v /location/of/customFiles:/customFiles \
+  -e DOCKER_ENABLE_SECURITY=false \
+  -e INSTALL_BOOK_AND_ADVANCED_HTML_OPS=false \
+  -e LANGS=en_GB \
+  --name stirling-pdf \
+  frooodle/s-pdf:latest
+```
 
 
 # 参考
