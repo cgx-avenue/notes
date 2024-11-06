@@ -8,10 +8,11 @@
 | 数据库 | MySQL 8.3   | 3306  | root     | siemens      |                    |
 | 数据库 | Postgres14  | 5432  | postgres | postgres     |                    |
 | 数据库 | Neo4J       | 7687  | neo4j    | siemens      | bolt://neo4j:7687' |
-|     | MyIP        | 18966 |          |              | dell上是8966端口       |
+| 工具  | MyIP        | 18966 |          |              | dell上是8966端口       |
 |     | manyfold    | 3214  |          |              |                    |
 |     | it-tools    | 18080 |          |              |                    |
 |     | strling-pdf | 28080 |          |              |                    |
+| 工作  | Node-red    | 1880  |          |              |                    |
 
 
 
@@ -232,6 +233,12 @@ docker run -d \
 ```
 
 # 工作相关
+## 1. Node-red
+https://nodered.org/docs/getting-started/docker
+```shell
+docker run -it -p 1880:1880 -v node_red_data:/data --name mynodered nodered/node-red
+```
+https://blog.csdn.net/zonghengzhikong/article/details/140017649
 
 
 # 参考
