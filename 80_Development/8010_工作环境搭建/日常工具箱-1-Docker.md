@@ -287,7 +287,10 @@ docker run -d -p 3080:8080 --add-host=host.docker.internal:host-gateway -v open-
 ## 7. HivisionIDPhotos
 https://github.com/Zeyi-Lin/HivisionIDPhotos
 HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
-关键是快速使用，换底色等等
+关键是快速使用，换底色等等。我i好像不是用docker部署的。。。
+```shell
+docker pull linzeyi/hivision_idphotos
+```
 
 # 工作相关
 ## 1. Node-red
