@@ -2,10 +2,13 @@
 # 汇总
 主要是端口设置
 
-| 分类    | 容器        | 端口   | 用户名   | 密码           | 其他设置         |
-| ----- | --------- | ---- | ----- | ------------ | ------------ |
-| 管理    | Portainer | 9443 | admin | WJZHNL7F3@Wx | windows平台不需要 |
-| MySQL |           |      |       |              |              |
+| 分类  | 容器         | 端口    | 用户名      | 密码           | 其他设置               |
+| --- | ---------- | ----- | -------- | ------------ | ------------------ |
+| 管理  | Portainer  | 9443  | admin    | WJZHNL7F3@Wx | windows平台不需要       |
+| 数据库 | MySQL 8.3  | 3306  | root     | siemens      |                    |
+| 数据库 | Postgres14 | 5432  | postgres | postgres     |                    |
+| 数据库 | Neo4J      | 7687  | neo4j    | siemens      | bolt://neo4j:7687' |
+|     | MyIP       | 18966 |          |              |                    |
 
 
 
@@ -36,6 +39,20 @@ windows上的
 https://blog.csdn.net/github_39770867/article/details/141949580
 记得设置允许远程访问
 
+Linux版本
+```shell
+docker run \
+-p 3306:3306 \
+--restart=always \
+--name mysql \
+--privileged=true \
+-v /home/mysql/log:/var/log/mysql \
+-v /home/mysql/data:/var/lib/mysql \
+-v /home/mysql/conf/my.cnf:/etc/mysql/my.cnf \
+-e MYSQL_ROOT_PASSWORD=siemens \
+-d mysql:8.3.0  
+
+```
 
 
 ## 2. postgresql
@@ -105,7 +122,7 @@ neo4j:
 	
 	# initial username: neo4j, password: hackathontemplates
 	
-	- NEO4J_AUTH=neo4j/hackathontemplates
+	- NEO4J_AUTH=neo4j/siemens
 	
 	# install apoc plugin to allow remote access to neo4j
 	
@@ -117,6 +134,9 @@ neo4j:
 ## 1. MyIP
 https://github.com/jason5ng32/MyIP
 查看真实ip的
+```shell
+docker run -d -p 18966:18966 --name myip --restart always jason5ng32/myip:latest
+```
 
 # 参考
 1. https://github.com/coracoo/awesome_docker_cn
