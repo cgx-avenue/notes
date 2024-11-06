@@ -17,10 +17,16 @@ Windows平台专属
 
 # 数据库
 ## 1. MySQL
+要8.0版本的
+https://blog.csdn.net/donkor_/article/details/139879575
+windows上的
+https://blog.csdn.net/github_39770867/article/details/141949580
+记得设置允许远程访问
 
 
 
 ## 2. postgresql
+同样要注意版本，最好是14.0
 
 
 
