@@ -65,6 +65,40 @@ db:
 ```
 
 ## 3. Neo4J
+图数据库的唯一选择？注意下面的安装了apoc插件，允许跨域访问。
+
+```yml
+neo4j:
+
+	image: neo4j:5.22.0
+	
+	# container_name: neo4j
+	
+	restart: always
+	
+	# ports:
+	
+	# - 7474:7474
+	
+	# - 7687:7687
+	
+	volumes:
+	
+	- "./data:/var/lib/neo4j/data"
+	
+	- "./logs:/var/lib/neo4j/logs"
+	
+	environment:
+	
+	# initial username: neo4j, password: hackathontemplates
+	
+	- NEO4J_AUTH=neo4j/hackathontemplates
+	
+	# install apoc plugin to allow remote access to neo4j
+	
+	- NEO4J_PLUGINS=["apoc"]
+```
+
 
 
 
