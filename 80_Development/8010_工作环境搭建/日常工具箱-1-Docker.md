@@ -17,6 +17,7 @@
 |     | it-tools         | 18080    |          |              |                    |
 |     | strling-pdf      | 28080    |          |              |                    |
 |     | qinglong         | 5700     | admin    | siemens      |                    |
+|     | OpenWebUI        | 3080     |          |              |                    |
 | 工作  | Node-red         | 1880     |          |              |                    |
 |     | jupyter notebook | 10000    |          |              |                    |
 
@@ -275,6 +276,12 @@ docker run -dit \
   whyour/qinglong:latest
 ```
 
+## 6. OpenWebUI
+https://docs.openwebui.com/#quick-start-with-docker--recommended
+这个需要先安装ollama[[日常工具箱-2-单体软件]]
+```shell
+docker run -d -p 3080:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
+```
 
 
 # 工作相关
