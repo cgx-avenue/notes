@@ -2,9 +2,9 @@
 # 汇总
 主要是端口设置
 
-| 分类  | 容器        | 端口   | 用户名 | 密码  | 其他设置 |
-| --- | --------- | ---- | --- | --- | ---- |
-| 管理  | Portainer | 9443 |     |     |      |
+| 分类  | 容器        | 端口   | 用户名   | 密码           | 其他设置  |
+| --- | --------- | ---- | ----- | ------------ | ----- |
+| 管理  | Portainer | 9443 | admin | WJZHNL7F3@Wx | 密码自己改 |
 
 
 
@@ -13,6 +13,12 @@
 ## 1. Portainer
 https://github.com/portainer/portainer
 https://docs.portainer.io/
+
+Linux安装:
+https://docs.portainer.io/start/install-ce/server/docker/linux
+```bash
+docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:2.21.4
+```
 
 我过去的安装教程
 [[../../20_瞎折腾/小小服务器/树莓派4B]]
