@@ -1,18 +1,22 @@
 
 # 汇总
-主要是端口设置
+- 能共用的组件需要尽量共用，比如postgresql，mysql等。
+- 端口设置，不能重复。
+- 用户名除了应用固定的，大多数都用`admin`之类即可。
+- 密码要求搞得，就用`WJZHNL7F3@Wx`，
 
-| 分类  | 容器          | 端口    | 用户名      | 密码           | 其他设置               |
-| --- | ----------- | ----- | -------- | ------------ | ------------------ |
-| 管理  | Portainer   | 9443  | admin    | WJZHNL7F3@Wx | windows平台不需要       |
-| 数据库 | MySQL 8.3   | 3306  | root     | siemens      |                    |
-| 数据库 | Postgres14  | 5432  | postgres | postgres     |                    |
-| 数据库 | Neo4J       | 7687  | neo4j    | siemens      | bolt://neo4j:7687' |
-| 工具  | MyIP        | 18966 |          |              | dell上是8966端口       |
-|     | manyfold    | 3214  |          |              |                    |
-|     | it-tools    | 18080 |          |              |                    |
-|     | strling-pdf | 28080 |          |              |                    |
-| 工作  | Node-red    | 1880  |          |              |                    |
+| 分类  | 容器          | 端口       | 用户名      | 密码           | 其他设置               |
+| --- | ----------- | -------- | -------- | ------------ | ------------------ |
+| 管理  | Portainer   | 9443     | admin    | WJZHNL7F3@Wx | windows平台不需要       |
+| 管理  | Heimdall    | 180,1443 |          |              |                    |
+| 数据库 | MySQL 8.3   | 3306     | root     | siemens      |                    |
+| 数据库 | Postgres14  | 5432     | postgres | postgres     |                    |
+| 数据库 | Neo4J       | 7687     | neo4j    | siemens      | bolt://neo4j:7687' |
+| 工具  | MyIP        | 18966    |          |              | dell上是8966端口       |
+|     | manyfold    | 3214     |          |              |                    |
+|     | it-tools    | 18080    |          |              |                    |
+|     | strling-pdf | 28080    |          |              |                    |
+| 工作  | Node-red    | 1880     |          |              |                    |
 
 
 
@@ -37,7 +41,20 @@ Windows平台专属
 
 ## 3. Heimdall
 应用导航的，https://github.com/linuxserver/Heimdall
-注意配置应用时候可能需要
+注意配置应用时候可能需要`http(s)://docker_name:port` 格式。
+```shell
+docker run -d \
+  --name=heimdall \
+  -e PUID=1000 \
+  -e PGID=1000 \
+  -e TZ=Etc/UTC \
+  -p 180:80 \
+  -p 1443:443 \
+  -v /path/to/heimdall/config:/config \
+  --restart unless-stopped \
+  lscr.io/linuxserver/heimdall:latest
+
+```
 
 
 # 数据库
