@@ -3,7 +3,7 @@
 - 能共用的组件需要尽量共用，比如postgresql，mysql等。
 - 端口设置，不能重复。
 - 用户名除了应用固定的，大多数都用`admin`之类即可。
-- 密码要求搞得，就用`WJZHNL7F3@Wx`，
+- 密码要求高的，就用`WJZHNL7F3@Wx`，简单的就用`siemens`之类。
 
 | 分类  | 容器          | 端口       | 用户名      | 密码           | 其他设置               |
 | --- | ----------- | -------- | -------- | ------------ | ------------------ |
@@ -16,6 +16,7 @@
 |     | manyfold    | 3214     |          |              |                    |
 |     | it-tools    | 18080    |          |              |                    |
 |     | strling-pdf | 28080    |          |              |                    |
+|     | qinglong    | 5700     | admin    | siemens      |                    |
 | 工作  | Node-red    | 1880     |          |              |                    |
 
 
@@ -253,6 +254,27 @@ docker run -d \
   --name stirling-pdf \
   frooodle/s-pdf:latest
 ```
+
+## 5. qinglong
+青龙面板，不用说了。https://github.com/whyour/qinglong
+库每次自己找就行了
+```shell
+# curl -sSL get.docker.com | sh
+docker run -dit \
+  -v $PWD/ql/data:/ql/data \
+  # 冒号后面的 5700 为默认端口，如果设置了 QlPort, 需要跟 QlPort 保持一致
+  -p 5700:5700 \
+  # 部署路径非必须，比如 /test
+  -e QlBaseUrl="/" \
+  # 部署端口非必须，当使用 host 模式时，可以设置服务启动后的端口，默认 5700
+  -e QlPort="5700" \
+  --name qinglong \
+  --hostname qinglong \
+  --restart unless-stopped \
+  whyour/qinglong:latest
+```
+
+
 
 # 工作相关
 ## 1. Node-red
