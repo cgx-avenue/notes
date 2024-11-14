@@ -40,6 +40,10 @@ AI Agent将使软件架构的范式从[面向过程](https://zhida.zhihu.com/sea
 
 ![[imgs/Pasted image 20241114134333.png]]
 
+AI Agent范式将原本由人类主导的功能开发，逐渐迁移为以AI为主要驱动力。以大模型为技术基础设施，Agent为核心产品形态，把传统软件预定义的指令、逻辑、规则和启发式算法的任务层级演变成目标导向的智能体自主生成。这样一来，原本的架构只能解决有限范围的任务，未来的架构则可以解决无限域的任务。未来的软件生态，不仅是最上层与所有人交互的媒介是Agent，整个产业的发展，无论是底层技术，商业模式，[中间组件](https://zhida.zhihu.com/search?content_id=238473494&content_type=Article&match_order=1&q=%E4%B8%AD%E9%97%B4%E7%BB%84%E4%BB%B6&zhida_source=entity)，甚至是人们的生活习惯和行为都会围绕Agent来改变，这就是Agent-Centric时代的开启。
+
+![[imgs/Pasted image 20241114134427.png]]
+
 
 
 
