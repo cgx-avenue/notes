@@ -33,7 +33,7 @@ sudo docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE
 ```
 然后访问本地的8080端口即可。
 
-## 更新
+## Open WebUI更新
 我用的手动更新，没有用watchtower，后者我运行了，但是每反应。后来发现可能是docker pull image太大了。
 https://docs.openwebui.com/getting-started/updating
 Follow these steps to manually update your Open WebUI:
