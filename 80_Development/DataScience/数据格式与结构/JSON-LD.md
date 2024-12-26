@@ -6,6 +6,13 @@ https://zhuanlan.zhihu.com/p/523020892
 
 简单说，JSON的自由度过高，为了统一大家的用语习惯，提前规定好格式，也就是@context和@vocab里规定好的，然后使用这些约定好的用语进行定义和解析。通过这种方式，数据`link`到了一起。
 
+Refs.1 介绍的挺好的。
+
+# 语法
+## Schema
+可以自己定义，也可以从别的地方引用。比如Refs.2 就是一个定义schema的地方。
+
+
 # 用处
 ## 网站SEO
 最早JSON-LD就是google提出的，用来优化搜索引擎检索。数据规范好之后，自然有利于高校检索。
@@ -22,4 +29,4 @@ https://swordair.com/rdfa-json-ld/
 
 # Refs
 1. https://csvbase.com/blog/13
-2. 
+2. https://schema.org/
