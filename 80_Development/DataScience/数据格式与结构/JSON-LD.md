@@ -11,6 +11,11 @@ Refs.1 介绍的挺好的。
 # 语法
 ## Schema
 可以自己定义，也可以从别的地方引用。比如Refs.2 就是一个定义schema的地方。
+## 语法
+- keys starting with `@` are metadata (meta-metadata?)
+    - `@context` is the namespace. Usually it's schema.org
+    - `@type` is the class, `BlogPosting`
+
 
 
 # 用处
