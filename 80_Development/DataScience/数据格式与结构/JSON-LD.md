@@ -16,3 +16,10 @@ https://swordair.com/rdfa-json-ld/
 ## 作为configuration文件
 例如EDC（Eclipse dataspace connector）里使用的一样。
 ![[imgs/Pasted image 20240103101544.png]]
+
+
+
+
+# Refs
+1. https://csvbase.com/blog/13
+2. 
