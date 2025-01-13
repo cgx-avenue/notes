@@ -37,8 +37,8 @@ docker run -d -p 8000:8000 -p 9443:9443 --name portainer --restart=always -v /va
 ```
 
 我过去的安装教程
-[[../../20_瞎折腾/小小服务器/树莓派4B]]
-如果有局域网环境，别忘了使用`portainer_agent`来互相访问[[../../20_瞎折腾/小小服务器/Portainer访问加载其他Docker环境]]
+[[../../03_学千种技/小小服务器/树莓派4B]]
+如果有局域网环境，别忘了使用`portainer_agent`来互相访问[[../../03_学千种技/小小服务器/Portainer访问加载其他Docker环境]]
 
 ## 2. Docker Desktop
 Windows平台专属
