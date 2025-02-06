@@ -55,7 +55,7 @@ Follow these steps to manually update your Open WebUI:
     
 3. **Create a New Container with the Updated Image**:
 需要和之前开启时候用到的命令一样，也就是上面的命令。
-```shell
+```
 sudo docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE_URL=http://127.0.0.1:11434 --name open-webui --restart always ghcr.io/open-webui/open-webui:main
 ```
 
