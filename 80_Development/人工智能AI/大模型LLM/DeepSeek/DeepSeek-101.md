@@ -45,9 +45,13 @@ We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 67
 However, DeepSeek-R1-Zero encounters challenges such as endless repetition, poor readability, and language mixing. To address these issues and further enhance reasoning performance, we introduce DeepSeek-R1, which incorporates cold-start data before RL.
 说中文，R1-Zero有不能停止推理、语言混淆、可读性差等缺点。为了解决这些问题，R1采用了冷启动的方式。
 
+## DeepSeek-R1-Distill
+
+
+
 ## DeepSeek-VL
 **发布时间：2024 年 4 月**
-
+多模态模型
 [GitHub - deepseek-ai/DeepSeek-VL: DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://github.com/deepseek-ai/DeepSeek-VL)
 Towards Real-World Vision-Language Understanding
 
