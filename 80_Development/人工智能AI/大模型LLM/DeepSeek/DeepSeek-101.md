@@ -64,6 +64,36 @@ It comprises 236B total parameters, of which 21B are activated for each token.
 
 ## DeepSeek-LLM
 **发布时间：2024 年 2 月**
+Introducing DeepSeek LLM, an advanced language model comprising 67 billion parameters. It has been trained from scratch on a vast dataset of 2 trillion tokens in both English and Chinese.
+
+# DeepSeek API
+## 官网
+[DeepSeek 开放平台](https://platform.deepseek.com/usage)
+[Models & Pricing | DeepSeek API Docs](https://api-docs.deepseek.com/quick_start/pricing)
+1M tokens，8块
+## 阿里
+1M tokens，8块
+
+# 模型尺寸
+DeepSeek-R1 系列有从 1.5B 到 671B 不同“体型”（B = 10 亿参数），你可以理解为：
+
+## 1.5B-14B（迷你版）
+
+相当于“智能小助手”，装在手机里就能用。反应快、省电，但遇到复杂问题容易卡壳。适合查天气、简单聊天、写个短文案。
+
+## 32B-70B（中杯版）
+
+像“专业顾问”，能处理法律文件分析、行业报告生成这类工作。需要中等配置的电脑或服务器才能跑得动。
+
+## 671B（巨无霸）
+
+妥妥的“学霸体质”，能解竞赛题、写长篇小说、做商业决策分析。但必须用顶级显卡服务器，普通电脑根本带不动。
+
+
+# 所需配置
+![[imgs/Pasted image 20250218101937.png]]
+
+
 
 
 
