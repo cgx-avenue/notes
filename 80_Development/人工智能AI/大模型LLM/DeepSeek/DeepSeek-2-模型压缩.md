@@ -35,12 +35,37 @@
 	- 精度可能低于未量化的版本，尤其是在复杂任务中。
 	- 可能需要额外的调优以适应特定任务。
 
+量化是通过压缩模型计算精度来降低硬件需求的技术。常见的量化级别包括1-8bit：
+
+- **8bit量化**：性能损失约2%-5%。
+
+- **4bit量化**：性能损失约10%-15%。
+
+- **低于4bit量化**：性能损失较大，通常不推荐使用
+
 
 ![[imgs/Pasted image 20250218104931.png]]
 
+**5. 常见问题解答**
+
+**Q1：模型后缀gguf和exl2是什么意思？**
+
+- gguf：支持使用CPU和内存补足显存不足，但非全显存加载时会显著降速（80%以上）。
+
+- exl2：可将模型推理速度提升至最多3倍。
+
+更多详情可以去看我的这期视频： https://b23.tv/LmtGmqz
+
+# 部署建议
+- 建议优先部署32B及以上的模型，或者直接使用在线R1（免费且性能强）。
+- 特别注意，R1系列模型不适合进行翻译
+- 个人部署建议4bit版本
 
 # Refs
 1. [DeepSeek模型压缩与量化原理介绍：让大模型走向轻量化落地-CSDN博客](https://blog.csdn.net/cnzzs/article/details/145623919)
 2. [DeepSeek-R1的量化版、蒸馏版和满血版区别_deepseek量化版-CSDN博客](https://blog.csdn.net/CSDN2497242041/article/details/145553389)
+3. [DeepSeek模型科普与部署指南：避免被误导，选择适合自己的模型 - 哔哩哔哩](https://www.bilibili.com/opus/1027420717693534233)
+4. [理解知识蒸馏中的散度损失函数(KLDivergence/kldivloss )-以DeepSeek为例_蒸馏损失函数kl散度-CSDN博客](https://harryliu.blog.csdn.net/article/details/145419077)
+5. 
 
 
