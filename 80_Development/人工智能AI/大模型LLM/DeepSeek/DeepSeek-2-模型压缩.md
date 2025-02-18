@@ -3,6 +3,9 @@
 
 # 蒸馏
 ![[imgs/Pasted image 20250218111048.png]]
+1. **教师生成“解题笔记”**：大模型（教师）针对数学、代码等任务生成详细答案，例如解方程时每一步的推导逻辑。
+2. **学生模仿“思维模式”**：小模型（学生）不再死记硬背答案，而是学习教师解题时的决策过程，比如优先选择哪种公式、如何验证结果。
+3. **提炼“知识精华”**：最终，小模型能像教师一样举一反三，甚至在未见过的新题型上灵活应用学到的策略。
 
 - 特点：
 	- 参数规模：从1.5B到32B不等，具体取决于蒸馏的程度。
@@ -68,6 +71,7 @@
 2. [DeepSeek-R1的量化版、蒸馏版和满血版区别_deepseek量化版-CSDN博客](https://blog.csdn.net/CSDN2497242041/article/details/145553389)
 3. [DeepSeek模型科普与部署指南：避免被误导，选择适合自己的模型 - 哔哩哔哩](https://www.bilibili.com/opus/1027420717693534233)
 4. [理解知识蒸馏中的散度损失函数(KLDivergence/kldivloss )-以DeepSeek为例_蒸馏损失函数kl散度-CSDN博客](https://harryliu.blog.csdn.net/article/details/145419077)
-5. 
+5. [白话DeepSeek-R1论文（三）| DeepSeek-R1蒸馏技术：让小模型“继承”大模型的推理超能力 - 知乎](https://zhuanlan.zhihu.com/p/20963675109)
+6. [白话DeepSeek-R1论文（三）| DeepSeek-R1蒸馏技术：让小模型“继承”大模型的推理超能力 - 知乎](https://zhuanlan.zhihu.com/p/20963675109)
 
 
