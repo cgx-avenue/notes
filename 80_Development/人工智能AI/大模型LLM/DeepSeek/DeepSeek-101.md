@@ -47,6 +47,16 @@ However, DeepSeek-R1-Zero encounters challenges such as endless repetition, poor
 
 ## DeepSeek-R1-Distill
 
+已被DeepSeek证明了，大型模型的推理模式可以被蒸馏到小型模型中，从而使其推理能力优于直接在小型模型上通过强化学习（RL）获得的推理模式。
+
+利用 DeepSeek-R1 生成的推理数据，对多个广泛应用于研究领域的稠密模型进行了微调。评测结果表明，这些蒸馏后的小型稠密模型在基准测试中表现出色。DeepSeek向社区开源了基于 Qwen2.5 和 Llama3 系列的 1.5B、7B、8B、14B、32B 和 70B 规模的模型检查点，以促进研究与发展。
+
+![](https://i-blog.csdnimg.cn/direct/c1e410ac6854436581dc6a7a83dd3260.png)
+
+DeepSeek-R1-Distill 模型是在开源模型的基础上进行微调的，使用了 DeepSeek-R1 生成的样本。他们对其配置和分词器进行了轻微调整。
+
+## R1 vs V3
+
 
 
 ## DeepSeek-VL
