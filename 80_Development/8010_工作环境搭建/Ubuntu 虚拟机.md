@@ -15,13 +15,17 @@ VSCODE才能远程连接
 ## miniconda3
 [Ubuntu 20.04版本快速安装 Miniconda（宝宝级攻略）_ubuntu20.04安装miniconda-CSDN博客](https://blog.csdn.net/2301_76831056/article/details/143165738)
 
-
+# git
+别忘了生成ssh key和添加到github。
 
 # 安装docker和docker compose
 跟着官网走，别乱搜文章。
 Docker: [Install | Docker Docs](https://docs.docker.com/engine/install/)
 Docker compose: [Plugin | Docker Docs](https://docs.docker.com/compose/install/linux/)
 
+# 安装v2ray
+但是好像没生效，不知道是不是公司电脑不行的原因。
+[Debian / Ubuntu - v2rayA](https://v2raya.org/en/docs/prologue/installation/debian/)
 
 
 
