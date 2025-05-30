@@ -88,6 +88,10 @@ https://github.com/linexjlin/GPTs
 LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
 https://github.com/EmbraceAGI/LangGPT
 
+## 7. Prompt-optimizer
+https://github.com/linshenkx/prompt-optimizer
+一款提示词优化器，助力于编写高质量的提示词
+
 
 # 8. Autogpt
 AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
