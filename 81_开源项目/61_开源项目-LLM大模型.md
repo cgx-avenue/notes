@@ -122,3 +122,8 @@ LlamaIndex is a data framework for your LLM applications
 The platform for building AI from enterprise data
 https://github.com/mindsdb/mindsdb
 这个自创了一种类似于SQL语句的方式来创建和调用相关组件，我跑了个demo，但是感觉太复杂了
+
+# 14. Observability和Evaluation
+1. opik
+https://github.com/comet-ml/opik
+2. 
