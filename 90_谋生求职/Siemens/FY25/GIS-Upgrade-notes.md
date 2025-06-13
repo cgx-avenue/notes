@@ -20,7 +20,7 @@
 7. copy `D:\reg-Datel`
 8. copy `D:\SAPtransfer`, 确认Yixing是否有SAP feature
 9. copy `C:\Program Files\GIS_ServiceAssistant`
-10. copy 原机器中的camera license
+10. copy 原机器中的camera license => check -> pic, "C:\Documents and Settings\All users\Application Data\InfraTec\"
 
 
 
@@ -63,7 +63,12 @@ Tip:
 
 -> TBD
 
+# 其他notes
+1. InfraTec软件： IRBIS 3.1 Professional
+2. 面板安装：注意静电接地，需要在面板上弄一个特殊垫片，安装在比如最右下角。
 
+# Matthias的notes list
+[[Installation_Anlage_052-IGS-H-001]]
 
 
 
