@@ -5,7 +5,12 @@
 2. 手套：有橡胶摩擦力那种
 
 # 更换SIMATIC PC 步骤
-## 1. 在电脑更换前
+## 1. 在电脑更换前，备份原来的程序文件，配置文件和相机文件
+下面为了简写，定义`gis_path=c:\Program Files\Siemens AG\SINE (or SINE2)`, 两个都要。
+
+1. copy上面gis_path下的两个目录
+2. 原camera的config目录在gis_path\SinE2\Camera
+3. 原config目录在gis_path\SinE2\config
 
 
 ## 2. Cabling
