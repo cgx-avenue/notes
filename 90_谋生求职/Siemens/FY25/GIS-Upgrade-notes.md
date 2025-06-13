@@ -70,6 +70,19 @@ Tip:
 # Matthias的notes list
 [[Installation_Anlage_052-IGS-H-001]]
 
+
+
+# SiMotion
+should be in RUN mode, otherwise debug it.
+
+# TEST APP
+A5 left -> Inputs
+A6 right -> Outputs
+
+=> "TEST APP"->"Acknowledge all": only works in "RUN" mode.
+
+SIMOTION <-> PC <- TestAPP (SIMOTION_API.dll) as OPC client
+
 # SiMotion Scott
 1. Usually Project loaded by default, otherwise open by ...
 2. Connect to SIMOTION D425 -> cabling 
@@ -80,9 +93,7 @@ Tip:
 	2. check left bottom "alarm" index ->pic
 	3. "Acknowledge all". some alarms might disappear.
 	4. if not disappear, then try reboot.
-	=> "TEST APP"->"Acknowledge all": only works in "RUN" mode.
 
-SIMOTION <-> PC <- TestAPP (SIMOTION_API.dll) as OPC client
 
 5. 别忘了绿色Button！
 
