@@ -27,7 +27,7 @@
 ## 2. Cabling
 1. 确保网口：
 	1. Camera：LAN X2 P2
-	2. SiMotion：LAN X1 P1
+	2. SIMOTION：LAN X1 P1
 	3. 可能会有第三个，就插在第三个位置上
 2. 前面板记得检查`Camera On`按钮（相当于Enable）
 3. 电源线和其他USB接口线，以及显示器等等
@@ -35,7 +35,7 @@
 
 
 
-# 更换SiMotion步骤
+# 更换SIMOTION步骤
 ## 0. 拆装
 M5螺丝，上下各一个
 
@@ -110,7 +110,7 @@ Camera + Excitation + Recording + Analysis, others are optional.
 	4. color combination
 	5. Each saving level is a file.
 
-# SiMotion
+# SIMOTION
 should be in RUN mode, otherwise debug it.
 
 # TEST APP
@@ -121,7 +121,7 @@ A6 right -> Outputs
 
 SIMOTION <-> PC <- TestAPP (SIMOTION_API.dll) as OPC client
 
-# SiMotion Scott
+# SIMOTION Scott
 1. Usually Project loaded by default, otherwise open by ...
 2. Connect to SIMOTION D425 -> cabling 
 	1. "Button": "offline-mode" -> "online-mode"
