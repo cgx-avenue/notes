@@ -76,7 +76,18 @@ Tip:
 Camera + Excitation + Recording + Analysis, others are optional.
 -> Save as... -> "Click to load config"
 2. "Measurement" button -> Start
-3. "Pos" tab -> 
+3. "Pos" tab -> sequential execution of measurements
+	"settings" -> open windows to add sequence
+	"dangerous position" -> sign
+	everything in "mm" unit
+4. "Z, X, Y, Tilt, Rotation, Century?" -> for a position.
+	"Century?" position type in German
+5. "Measurement Preset": not must to have
+6. "Auto-scaling & Contrast": usually not modify
+7. "Setting for all position": usually not input, but able to input product information
+8. others are speed configuration
+9. 运动时，相机总是最后走水平方向，防止碰撞
+10. “loading position for blades"
 
 # SiMotion
 should be in RUN mode, otherwise debug it.
