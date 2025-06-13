@@ -5,11 +5,16 @@
 2. 手套：有橡胶摩擦力那种
 
 # 更换SIMATIC PC 步骤
-## 1. Cabling
+## 1. 在电脑更换前
+
+
+## 2. Cabling
 1. 确保网口：
 	1. Camera：LAN X2 P2
 	2. SiMotion：LAN X1 P1
-	
+	3. 可能会有第三个，就插在第三个位置上
+2. 前面板记得检查`Camera On`按钮（相当于Enable）
+3. 电源线和其他USB接口线，以及显示器等等
 
 
 
