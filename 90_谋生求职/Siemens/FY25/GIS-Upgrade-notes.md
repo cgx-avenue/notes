@@ -7,6 +7,9 @@
 # 更换SIMATIC PC 步骤
 ## 1. Cabling
 1. 确保网口：
+	1. Camera：LAN X2 P2
+	2. SiMotion：LAN X1 P1
+	
 
 
 
