@@ -77,7 +77,12 @@ Tip:
 	1. now 25mm
 	2. supplier 50mm
 	3. theoretical 75mm
-	4. 
+4. SIMOTION -> UPC server
+5. CCD-CAM ->Not-exist
+6. Air temperature: 300 in Garching, 350 in Berlin, TBC in Yixing
+7. RITAL -> 空调，有排水孔
+8. VISIT -> 闪光灯充电，LED drive叠在上面
+9. X, 数字越大，位置越近。 Z，数字越大，越靠上。
 
 # SINE2 software
 1. Each measurement configuration:
@@ -88,7 +93,7 @@ Camera + Excitation + Recording + Analysis, others are optional.
 	"settings" -> open windows to add sequence
 	"dangerous position" -> sign
 	everything in "mm" unit
-4. "Z, X, Y, Tilt, Rotation, Century?" -> for a position.
+4. "Z, X, Tilt, Rotation, Century?" -> for a position.
 	"Century?" position type in German
 5. "Measurement Preset": not must to have
 6. "Auto-scaling & Contrast": usually not modify
@@ -98,7 +103,10 @@ Camera + Excitation + Recording + Analysis, others are optional.
 10. “loading position for blades": Vanes vs. Blades -> different positions
 11. "wait for flash recordings": usually checked
 12. "Open door " -> Settings to release doors
-13. Resolution, Frame -> 512 x 640, 100fps
+13. Resolution, Frame -> 512 x 640, 100fps.
+	1. Average: 16 Frames to average -> 16 averaged as a cycle: parameter `Frame ... cycles`.`Number of Frames` averaged frame.
+	2. `Data granularity`: Averaged Frame => what to store.
+	3. `Saving level`: 
 
 # SiMotion
 should be in RUN mode, otherwise debug it.
