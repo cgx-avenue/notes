@@ -70,6 +70,14 @@ Tip:
 # Matthias的notes list
 [[Installation_Anlage_052-IGS-H-001]]
 
+# Basic setup
+1. Rotary feedthrough -> 在盘子底下， hot air + cold air
+2. Flash x 2, LED x 2. Yixing doesn't need.
+3. Focus length / f2.0: 
+	1. now 25mm
+	2. supplier 50mm
+	3. theoretical 75mm
+	4. 
 
 # SINE2 software
 1. Each measurement configuration:
@@ -87,7 +95,10 @@ Camera + Excitation + Recording + Analysis, others are optional.
 7. "Setting for all position": usually not input, but able to input product information
 8. others are speed configuration
 9. 运动时，相机总是最后走水平方向，防止碰撞
-10. “loading position for blades"
+10. “loading position for blades": Vanes vs. Blades -> different positions
+11. "wait for flash recordings": usually checked
+12. "Open door " -> Settings to release doors
+13. Resolution, Frame -> 512 x 640, 100fps
 
 # SiMotion
 should be in RUN mode, otherwise debug it.
