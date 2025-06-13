@@ -5,6 +5,10 @@
 2. 手套：有橡胶摩擦力那种
 
 # 更换SIMATIC PC 步骤
+## 1. Cabling
+1. 确保网口：
+
+
 
 
 # 更换SiMotion步骤
