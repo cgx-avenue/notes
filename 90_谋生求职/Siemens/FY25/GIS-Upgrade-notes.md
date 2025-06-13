@@ -70,6 +70,9 @@ Tip:
 # Matthias的notes list
 [[Installation_Anlage_052-IGS-H-001]]
 
+# SiMotion Scott
+1. Usually Project loaded by default, otherwise open by ...
+2. Connect to SIMOTION D425 
 
 
 
