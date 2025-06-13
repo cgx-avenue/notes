@@ -4,6 +4,7 @@
 1. 夹线钳：必须有1.0mm
 2. 手套：有橡胶摩擦力那种
 3. U盘，容量大点。
+4. 最新的需要的各种程序 => Matthias
 
 # 更换SIMATIC PC 步骤
 ## 1. 在电脑更换前，备份原来的程序文件，配置文件和相机文件
@@ -15,7 +16,11 @@
 4. 原config+preset目录（在SinE2目录下），需要先拷贝出来，然后在放进去的新文件夹里，再拷贝到对应的目录。
 => 先都拷贝出来，再把`gis_path\SinE2\config`&`gis_path\SinE2\Preset`文件夹内的所有文件copy回去。
 5. Check SAP files => 是否经过SAP进行过信息同步，里面有一些pic
-6. copy `D:\Pro`
+6. copy `D:\Protokolle`文件夹内生成的report文件，也需要和Yixing同事确实下，是否需要回拷一部分。
+7. copy `D:\reg-Datel`
+8. copy `D:\SAPtransfer`, 确认Yixing是否有SAP feature
+9. copy `C:\Program Files\GIS_ServiceAssistant`
+10. copy 原机器中的camera license
 
 
 
