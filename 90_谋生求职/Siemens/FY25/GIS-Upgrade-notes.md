@@ -72,7 +72,14 @@ Tip:
 
 # SiMotion Scott
 1. Usually Project loaded by default, otherwise open by ...
-2. Connect to SIMOTION D425 
+2. Connect to SIMOTION D425 -> cabling 
+	1. "Button": "offline-mode" -> "online-mode"
+3. Debug for SIMOTION "STOP" red light
+	1. Go online
+	2. check left bottom "alarm" index ->pic
+	3. "Acknowledge all". some alarms might disappear.
+	4. if not disappear, then try reboot.
+	=> "TEST AP"
 
 
 
