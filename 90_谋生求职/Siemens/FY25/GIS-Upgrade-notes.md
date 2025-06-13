@@ -10,7 +10,9 @@
 
 1. copy上面gis_path下的两个目录
 2. 原camera的config目录在gis_path\SinE2\Camera
-3. 原config目录在gis_path\SinE2\config
+3. 原config目录在gis_path\SinE2\config，该目录存储配置程序信息
+4. 原config+preset目录（在SinE2目录下），需要先拷贝出来，然后在放进去的新文件夹里，再拷贝到对应的目录。
+=> 先都拷贝出来，
 
 
 ## 2. Cabling
