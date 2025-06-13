@@ -71,6 +71,12 @@ Tip:
 [[Installation_Anlage_052-IGS-H-001]]
 
 
+# SINE2 software
+1. Each measurement configuration:
+Camera + Excitation + Recording + Analysis, others are optional.
+-> Save as... -> "Click to load config"
+2. "Measurement" button -> Start
+3. "Pos" tab -> 
 
 # SiMotion
 should be in RUN mode, otherwise debug it.
