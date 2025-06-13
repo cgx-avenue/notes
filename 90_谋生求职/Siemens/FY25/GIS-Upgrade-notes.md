@@ -106,7 +106,9 @@ Camera + Excitation + Recording + Analysis, others are optional.
 13. Resolution, Frame -> 512 x 640, 100fps.
 	1. Average: 16 Frames to average -> 16 averaged as a cycle: parameter `Frame ... cycles`.`Number of Frames` averaged frame.
 	2. `Data granularity`: Averaged Frame => what to store.
-	3. `Saving level`: 
+	3. `Saving level`: source series: Averaged Frame: 16 Bit data, 8Bit RGB-> only for visualization after FrameSelector
+	4. color combination
+	5. Each saving level is a file.
 
 # SiMotion
 should be in RUN mode, otherwise debug it.
