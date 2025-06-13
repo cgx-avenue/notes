@@ -3,6 +3,7 @@
 # 工具准备
 1. 夹线钳：必须有1.0mm
 2. 手套：有橡胶摩擦力那种
+3. U盘，容量大点。
 
 # 更换SIMATIC PC 步骤
 ## 1. 在电脑更换前，备份原来的程序文件，配置文件和相机文件
@@ -12,7 +13,10 @@
 2. 原camera的config目录在gis_path\SinE2\Camera
 3. 原config目录在gis_path\SinE2\config，该目录存储配置程序信息
 4. 原config+preset目录（在SinE2目录下），需要先拷贝出来，然后在放进去的新文件夹里，再拷贝到对应的目录。
-=> 先都拷贝出来，
+=> 先都拷贝出来，再把`gis_path\SinE2\config`&`gis_path\SinE2\Preset`文件夹内的所有文件copy回去。
+5. Check SAP files => 是否经过SAP进行过信息同步，里面有一些pic
+6. copy `D:\Pro`
+
 
 
 ## 2. Cabling
