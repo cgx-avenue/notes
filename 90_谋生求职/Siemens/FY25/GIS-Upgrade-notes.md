@@ -23,9 +23,20 @@ M5螺丝，上下各一个
 3. 红线和绿色网线不变
 ## 2. 登录PC
 ## 3. 打开SiMotion SCOTT
-1. Open Project to load 
-2. Click "Connect" Button to be online
-3. Check LED status on the left -> top 2 should be constant greed
-4. Click Alarm tab -> `Acknowledge All`
+1. Open `Project` to load 
+2. Click `Connect` Button to be online
+3. Check LED status on the left -> top show red led somewhere
+4. Click `Alarm` tab -> `Acknowledge All`
+5. Check LED status again -> should only have top 2 as constant green
+
+Tip:
+1. 开机之后等一会，OPC server才会建立链接
+### Error like "Name not found..."
+
+-> TBD
+
+
+
+
 
 
