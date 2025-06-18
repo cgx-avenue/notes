@@ -87,7 +87,7 @@ Dataset object标识了every data offerring。
 ~~4. jaegar~~
 ~~5. micrometer~~
 ~~6. prometheus~~
-7. terraform
+~~7. terraform~~
 
 # EDC documentation
 https://eclipse-edc.github.io/docs/#/README
