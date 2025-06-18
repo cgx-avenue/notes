@@ -24,3 +24,13 @@ https://blog.csdn.net/weixin_45820944/article/details/104256208
 ## 部署deploy
 任何对节点的修改，都应该点击部署。
 目前我对部署的理解类似于：commit + deploy。点了部署才能开始真正用。
+
+# 2025-06-18 update node-red vs. airflow
+这俩在功能上很相似，但从各自简介上来看，体量完全不同。
+Airflow：[Apache Airflow](https://airflow.apache.org/)
+[快速入门 — Airflow 文档 - Airflow 工作流管理平台](https://airflow.apache.ac.cn/docs/apache-airflow/stable/start.html)
+[(99+ 封私信 / 50 条消息) Airflow 入门及使用 - 知乎](https://zhuanlan.zhihu.com/p/84332879)
+
+Airflow是基于DAG（Directed acyclic graph 有向无环图）来管理任务流程的任务调度工具， 不需要知道业务数据的具体内容，设置任务的依赖关系即可实现任务调度。所以Airflow的主要功能是：任务调度。从他的组件ye
+
+
