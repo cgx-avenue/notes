@@ -36,5 +36,35 @@ Airflow是基于DAG（Directed acyclic graph 有向无环图）来管理任务�
 两者对比：
 [Node-RED vs. Apache Airflow: A Thorough Comparision of Workflow Management Platform](https://blog.excellimatrix.com/post/node-red-vs-apache-airflow-a-thorough-comparision-of-workflow-management-platform)
 
+来自deepseek对比：
+```markdown
+Node-RED和Airflow是两种不同定位的工作流工具，以下是它们的对比分析：
 
+### Node-RED的优势：
+1. **可视化编程**：提供图形化界面，通过拖放节点连接数据流，降低开发门槛[1]
+2. **IoT领域专长**：特别适合物联网场景，能轻松连接传感器、设备和云服务[1]
+3. **轻量高效**：基于Node.js，适合I/O密集型任务和高并发场景[1]
+4. **快速原型开发**：丰富的预置节点库支持快速搭建数据流应用[1]
+5. **边缘计算友好**：可部署在树莓派等边缘设备上[1]
+
+### Node-RED的劣势：
+1. **计算能力有限**：单线程架构不适合CPU密集型任务[1]
+2. **多核利用不足**：无法充分利用多核处理器性能[1]
+3. **复杂逻辑支持弱**：对需要复杂计算或事务处理的场景支持不足[1]
+
+### Airflow的优势：
+1. **复杂工作流支持**：专为数据管道设计，支持任务依赖、重试等高级特性
+2. **分布式架构**：可水平扩展，适合大规模数据处理
+3. **丰富的Operator**：提供各种数据处理的预制组件
+4. **完善的调度系统**：支持定时任务、任务监控等
+5. **Python生态**：适合数据科学和ETL场景
+
+### Airflow的劣势：
+1. **学习曲线陡峭**：需要理解DAG等概念，配置较复杂
+2. **资源消耗大**：相比Node-RED更重量级
+3. **实时性较弱**：更适合批处理而非实时数据流
+4. **可视化有限**：主要通过代码定义工作流
+
+总结：Node-RED更适合物联网、设备控制和快速原型开发，而Airflow更适合复杂的数据管道和批处理任务。选择取决于具体场景需求[1]。
+```
 
