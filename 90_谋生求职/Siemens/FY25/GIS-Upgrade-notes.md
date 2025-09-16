@@ -40,15 +40,19 @@
 M5螺丝，上下各一个
 
 ## 1. Cabling
-1. top上的网线：从内到外 -> 不使用：AXIS-CONT: CLICK-AXIS: 不使用
+1. 上面的网线：从内到外 
+	1. 不使用
+	2. AXIS-CONT
+	3. CLICK-AXIS
+	4. 不使用
 ![[imgs/Pasted image 20250613092547.png]]
 
-2. 最上面的左侧接线，更改，其余不变。
-1 -> 1
-5,6 -> 7,8
-8 -> 10
+2. 前面板左上侧接线，更改，其余不变。
+	1. 1 -> 1
+	2. 5,6 -> 7,8
+	3. 8 -> 10
 ![[imgs/Pasted image 20250613092846.png]]
-3. 红线和绿色网线不变
+3. 红线电源线和绿色网线不变
 ## 2. 登录PC
 ## 3. 打开SiMotion SCOTT
 1. Open `Project` to load 
