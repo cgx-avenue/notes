@@ -70,6 +70,8 @@ Tip:
 # 其他notes
 1. InfraTec软件： IRBIS 3.1 Professional
 2. 面板安装：注意静电接地，需要在面板上弄一个特殊垫片，安装在比如最右下角。
+3. 登录密码：`1qayxsw2"`. 德国键盘的左边两列加一个字符，但德国键盘和我们的不一样。
+4. 
 
 # Matthias的notes list
 [[Installation_Anlage_052-IGS-H-001]]
