@@ -19,14 +19,16 @@
 # Letter to Alin
 Dear Alin,
 
- It's really hard for me to let you know this, but I have to, and would be better for you to hear this from me. Previously I would like to have a call with you but you're on OOO.
+ It's really hard for me to let you know this, but I have to, and would be better for you to hear this from me. Actually I would like to have a call with you but you're on OOO.
 
 Just wanted to share some news - I'll be leaving Siemens on 11.28th. There's an external offer which I already postponed for some time.
 
-I especially wanted to say a huge thank you for being such an amazing colleague these past two years. Working with you has been fantastic - remember when you take me the downtown tour in Munich and sitting on the chairs of the grass next to the museum with Doner in our hands? Those are moments I'll always cherish. Needless to say the projects we have, those really opened my eyes and freshed 
+I especially wanted to say a huge thank you for being such an amazing colleague among these past two years. Working with you has been fantastic - remember when you took me to the downtown in Munich and sitting on the chairs of the grass next to the museum with Doner in our hands? Those are moments I'll always cherish as life memory. Needless to say the projects we had, those really opened my eyes and deepened my knowledge not only technically, but also business wide.  
 
-For a smooth handover, [New Colleague's Name] will be taking over my responsibilities. Feel free to reach out if you need anything during the transition.
+Without wo
 
-Let's definitely stay in touch! Here's my LinkedIn: [Your Profile Link] and personal email: [Your Email]. If you're ever in [Your City], coffee's on me! 😊
+For a smooth handover, Wang Qi and me already had a discussion that she will took over. Considering now we haven't started the work this FY, I hope this would be easier. Feel free to reach out if you need anything during the transition or any other concern.
+
+Let's definitely stay in touch! My personal email is: 408628446@qq.com. If you're ever in China, coffee's on me! 😊
 
 Wishing you all the best, and hope to catch up soon!
