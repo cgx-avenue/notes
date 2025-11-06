@@ -43,7 +43,7 @@ It's really hard for me to let you know this, but I have to, and would be better
 
 Just wanted to share some news - I'll be leaving Siemens on 11.28th. There's an external offer which I already postponed for some time.
 
-I especially wanted to say a huge thank you for being such an amazing colleague among these past two years. Working with you has been fantastic - remember when you took me to the downtown in Munich and sitting on the chairs of the grass next to the museum with Doner in our hands? Those are moments I'll always cherish as life memory. Needless to say the projects we had, those really opened my eyes and deepened my knowledge not only technically, but also business wide.  Grateful for the opportunities presenting our work to different parties.
+I especially wanted to say a huge thank you for being such an amazing colleague among these past two years. Working with you has been fantastic - remember when you took me to the downtown in Munich the Ngmphenburg, Konigsee. Needless to say the projects we had, those really opened my eyes and deepened my knowledge not only technically, but also business wide. Without you and your effort, I couldn't have the Munich trip. 
 
 The motivation and dedication from world-level experts like you and other colleagues in our TF Germany, is the most important treasure for my days in Siemens.
 
