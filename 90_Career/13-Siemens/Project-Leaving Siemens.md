@@ -15,6 +15,9 @@
 # Mattias
 * [x] inform 年终奖policy，set
 
+# 体检
+* [ ] 体检还没做，选甲状腺套餐
+
 
 # Letter to *Alin, Murarasu*
 ```text
