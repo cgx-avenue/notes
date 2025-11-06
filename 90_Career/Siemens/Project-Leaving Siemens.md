@@ -23,12 +23,12 @@ Dear Alin,
 
 Just wanted to share some news - I'll be leaving Siemens on 11.28th. There's an external offer which I already postponed for some time.
 
-I especially wanted to say a huge thank you for being such an amazing colleague among these past two years. Working with you has been fantastic - remember when you took me to the downtown in Munich and sitting on the chairs of the grass next to the museum with Doner in our hands? Those are moments I'll always cherish as life memory. Needless to say the projects we had, those really opened my eyes and deepened my knowledge not only technically, but also business wide.  
+I especially wanted to say a huge thank you for being such an amazing colleague among these past two years. Working with you has been fantastic - remember when you took me to the downtown in Munich and sitting on the chairs of the grass next to the museum with Doner in our hands? Those are moments I'll always cherish as life memory. Needless to say the projects we had, those really opened my eyes and deepened my knowledge not only technically, but also business wide.  Grateful for the opportunities presenting our work to different parties.
 
-Without wo
+The motivation and dedication from world-level experts like you and other colleagues in our TF Germany, is the most important treasure for my days in Siemens.
 
 For a smooth handover, Wang Qi and me already had a discussion that she will took over. Considering now we haven't started the work this FY, I hope this would be easier. Feel free to reach out if you need anything during the transition or any other concern.
 
-Let's definitely stay in touch! My personal email is: 408628446@qq.com. If you're ever in China, coffee's on me! 😊
+Let's definitely stay in touch! My personal email is: youngtopsky@163.com, phone number: +86 18262273079. If you're ever in China, especially near Wuxi, Suzhou or Shanghai, please never hesitate to contact me! Coffee and beer's on me! 😊
 
-Wishing you all the best, and hope to catch up soon!
+Wishing you all the best!
