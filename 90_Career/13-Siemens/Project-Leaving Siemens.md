@@ -42,7 +42,7 @@ Wishing you all the best!
 ```text
 Dear Matthias,
 
-It's really hard for me to let you know this, but I have to, and would be better for you to hear this from me. Actually I would like to have a call with you but you're on OOO.
+It's really hard for me to let you know this, but I have to, and would be better for you to hear this from me. 
 
 Just wanted to share some news - I'll be leaving Siemens on 11.28th. There's an external offer which I already postponed for some time.
 
