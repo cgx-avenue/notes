@@ -9,9 +9,9 @@
 7. 多说好话，非常感谢！
 
 ## 经理: 张明
-* [ ] 项目和职能列表
-* [ ] 
+* [x] 项目和职能列表
+
 
 # Mattias
-* [ ] inform 年终奖policy，set
-* [ ] 
+* [x] inform 年终奖policy，set
+
