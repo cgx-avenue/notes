@@ -74,7 +74,7 @@ Tip:
 4. 
 
 # Matthias的notes list
-[[Installation_Anlage_052-IGS-H-001]]
+[[GIS-Installation_Anlage_052-IGS-H-001-FY25]]
 
 # Basic setup
 1. Rotary feedthrough -> 在盘子底下， hot air + cold air
