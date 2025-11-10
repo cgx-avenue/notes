@@ -66,6 +66,9 @@
 ### 大众西厂包脚轮
 ![[imgs/FAW-VW 西厂包胶轮预测性维护(含设备问题).pptx]]
 
+### SEWC 贴片机数据分析
+![[imgs/09 SIPLACE data analysis request_20220106 - Copy.pptx]]
+
 
 
 
