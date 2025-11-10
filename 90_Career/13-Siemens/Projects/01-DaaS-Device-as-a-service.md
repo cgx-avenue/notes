@@ -35,5 +35,26 @@
 
 ![[imgs/北石顶驱装置机械传动结构介绍-20220915-SFAE.pptx]]
 
+### SMVS（西门子无锡中压工厂）真空炉预维护
+![[imgs/SMVS真空炉 预测性维护_2022.pptx]]
+
+### 苏州广泰永立 风扇噪音分析
+
+![[imgs/fan_analysis_headset_mic_2.html]]
+
+![[imgs/fan_analysis_headset_mic_round1.html]]
+
+![[imgs/fan_analysis_usb_1st.html]]
+
+![[imgs/test_setup.jpg]]
+
+![[imgs/广泰永立-人工智能规划.pptx]]
+
+![[imgs/20240403_GTYL_basic_sound_analysis_YangShaopeng.pptx]]
+
+![[imgs/fan_analysis.html]]
+
+### 
+
 
 
