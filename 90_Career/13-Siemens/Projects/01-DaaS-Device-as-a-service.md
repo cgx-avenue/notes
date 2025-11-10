@@ -14,8 +14,13 @@
 ![[imgs/Knowledge Graph-based DaaS POC.pptx]]
 
 ### Current analysis 电流分析
+![[imgs/2021 08 01 Capstone Project Introduction.pptx]]
 
+![[imgs/Current-data-analysis-V1.pptx]]
 
+![[imgs/Indirect Sensing Pre-Maintenance.pptx]]
+
+### SXVT（西门子医疗真空管） 噪声分析
 
 
 
