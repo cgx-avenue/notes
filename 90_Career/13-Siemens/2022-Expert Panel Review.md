@@ -207,9 +207,15 @@ So stepwise proposals are given to SXVT. The technical solution and proposal got
 其实不太重要，就是走个形式
 ![[imgs/Validation report to Yang Shao Peng.pptx]]
 
-## 参考资料
+# 参考资料
+## 评估标准
+![[imgs/Assessment Guidance.pdf]]
 
+## 工程师competence discription
+![[imgs/Engineer compentence discription.pdf]]
 
+## Yu He's
+![[imgs/My Growth_Expert Reviw_YU He_2020.pptx]]
 
 
 
