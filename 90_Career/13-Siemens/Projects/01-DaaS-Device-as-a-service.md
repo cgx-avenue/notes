@@ -54,7 +54,11 @@
 
 ![[imgs/fan_analysis.html]]
 
-### 
+### 大众拧紧曲线分析
+包含对沈阳宝马的proposal
+![[imgs/2311_torque_curve_proposal_for_BBA.pptx]]
+
+![[imgs/Bolt tightening curve analysis_v2.0.pptx]]
 
 
 
