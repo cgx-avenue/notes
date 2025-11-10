@@ -60,5 +60,14 @@
 
 ![[imgs/Bolt tightening curve analysis_v2.0.pptx]]
 
+### 数据助手
+![[imgs/202503_YangShaoPeng_Data_Assistant.pptx]]
+
+### 大众西厂包脚轮
+![[imgs/FAW-VW 西厂包胶轮预测性维护(含设备问题).pptx]]
+
+
+
+
 
 
