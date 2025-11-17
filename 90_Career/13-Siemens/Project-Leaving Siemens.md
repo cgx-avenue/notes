@@ -62,15 +62,27 @@ Wishing you all the best!
 ![[imgs/Pasted image 20251112141419.png]]
 
 # onenote 笔记
-| Teams mobile pin   | 80022733      |
-| ------------------ | ------------- |
-| ID:                | 80022733      |
-| GID:               | Z004C2UR      |
-| Cost center        | 816173A1      |
-| Domain:            | Ad001         |
-| Employee Category: | Local regular |
-| PC pin             | 20240523      |
-| PKI card pin       | 20190315      |
+| Teams mobile pin   | 80022733          |
+| ------------------ | ----------------- |
+| ID:                | 80022733          |
+| GID:               | Z004C2UR          |
+| Cost center        | 816173A1          |
+| Domain:            | Ad001             |
+| Employee Category: | Local regular     |
+| PC pin             | 20240523          |
+| PKI card pin       | 20190315          |
+| Win pin            | Aries@Siemens2106 |
+## Hotline
+- HR: 010 6476 7777 - 2
+- IT(Nexus): 4000065555
+- ID card: cardoffice.bj.slc@siemens.com
+- 弹性福利: 400-820-2153 <[https://www.ybrchina.com/siemens/Home/Index2](https://www.ybrchina.com/siemens/Home/Index2)>
+- HRS：4008206488 - Siemens.cn@hrs.cn
+- 太平养老年金：010 6642 7800
+
+
+
+
 ## InsightsHub Account
 
 Shaopeng.yang@siemens.com
