@@ -8,6 +8,8 @@
 6. 12.5离职的话，社保会缴纳嘛？
 7. 多说好话，非常感谢！
 
+TNND，礼来的Olivia最后说不用了。
+
 ## 经理: 张明
 * [x] 项目和职能列表
 
@@ -59,12 +61,23 @@ Wishing you all the best!
 
 ![[imgs/Pasted image 20251112141419.png]]
 
-## onenote 笔记
+# onenote 笔记
+| Teams mobile pin   | 80022733      |
+| ------------------ | ------------- |
+| ID:                | 80022733      |
+| GID:               | Z004C2UR      |
+| Cost center        | 816173A1      |
+| Domain:            | Ad001         |
+| Employee Category: | Local regular |
+| PC pin             | 20240523      |
+| PKI card pin       | 20190315      |
+## InsightsHub Account
+
+Shaopeng.yang@siemens.com
+Siemens@2106
 
 
-
-
-## Checklist
+# Checklist
 
 
 
