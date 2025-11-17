@@ -1,4 +1,11 @@
 #西门子 #siemens #工资单
+# GE healthcare vs. 西门子
+2022年1月份，GE给了我package 40W的offer，而且是leader。
+一番努力后，老马给我升职加薪20%+retention bonus，把我留了下来
+![[imgs/Pasted image 20251117132910.png]]
+
+
+
 # 调薪信 compensation letter
 ![[imgs/compensation_letter_2023.pdf]]
 
