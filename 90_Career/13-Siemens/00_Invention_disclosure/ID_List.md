@@ -2,9 +2,11 @@
 ![[imgs/YangShaopeng_Invention_Disclosure_template.docx]]
 
 # List
-![[imgs/Pasted image 20251106102243.png]]
+![[imgs/Pasted image 20251125110823.png]]
 少了一个，倒数第四个
-![[imgs/IDs.zip]]
+## 总数
+4年半，17篇Invention disclosure，一共发了多少钱呢？
+33450，还是不错的
 
 
 
