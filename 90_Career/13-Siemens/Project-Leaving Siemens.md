@@ -90,6 +90,11 @@ Siemens@2106
 
 
 # Checklist
-
+* [ ] 删除chrome，清空history
+* [ ] 删掉剩余的工作文件夹
+* [ ] 备份cherry-studio，之后删掉
+* [ ] 删掉obsidian和notes文件夹
+* [ ] 检查各种目录和软件，该删除的删除
+* [ ] 
 
 
