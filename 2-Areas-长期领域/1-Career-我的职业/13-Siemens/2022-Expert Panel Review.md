@@ -209,10 +209,10 @@ So stepwise proposals are given to SXVT. The technical solution and proposal got
 
 # 参考资料
 ## 评估标准
-![[imgs/Assessment Guidance.pdf]]
+![[../../../_assets/pdf/Assessment Guidance.pdf]]
 
 ## 工程师competence discription
-![[imgs/Engineer compentence discription.pdf]]
+![[../../../_assets/pdf/Engineer compentence discription.pdf]]
 
 ## Yu He's
 ![[imgs/My Growth_Expert Reviw_YU He_2020.pptx]]

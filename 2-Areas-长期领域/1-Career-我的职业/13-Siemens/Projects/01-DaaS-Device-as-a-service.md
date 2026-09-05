@@ -28,7 +28,7 @@
 ![[imgs/main_cycle_time_analysis_update.html]]
 ![[imgs/Alogrithms of Root Cause Analysis 20231024.pptx]]
 
-[[imgs/231108_BBA_Lydia]]
+[[231108_BBA_Lydia]]
 
 ### 北石，MC（西门子运动控制）
 ![[imgs/北石预维护项目技术方案.pptx]]
@@ -46,7 +46,7 @@
 
 ![[imgs/fan_analysis_usb_1st.html]]
 
-![[imgs/test_setup.jpg]]
+![[../../../../_assets/img/test_setup.jpg]]
 
 ![[imgs/广泰永立-人工智能规划.pptx]]
 

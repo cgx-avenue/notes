@@ -45,13 +45,13 @@ M5螺丝，上下各一个
 	2. AXIS-CONT
 	3. CLICK-AXIS
 	4. 不使用
-![[imgs/Pasted image 20250613092547.png]]
+![[../../../../_assets/img/Pasted image 20250613092547.png]]
 
 2. 前面板左上侧接线，更改，其余不变。
 	1. 1 -> 1
 	2. 5,6 -> 7,8
 	3. 8 -> 10
-![[imgs/Pasted image 20250613092846.png]]
+![[../../../../_assets/img/Pasted image 20250613092846.png]]
 3. 红线电源线和绿色网线不变
 ## 2. 登录PC
 ## 3. 打开SiMotion SCOTT
