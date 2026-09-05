@@ -10,6 +10,6 @@
   },
   "showLineNumber": true,
   "focusNewTab": false,
-  "attachmentFolderPath": "./imgs",
+  "attachmentFolderPath": "_assets/temp",
   "newLinkFormat": "relative"
 }
