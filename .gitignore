@@ -1,2 +1,13 @@
 # .obsidian
 .obsidian
+# Obsidian 插件（不版本控制，可从市场重装）
+# .obsidian/plugins/
+
+# Obsidian 缓存
+.obsidian/cache/
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
