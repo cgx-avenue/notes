@@ -59,7 +59,7 @@ Let's definitely stay in touch! My personal email is: youngtopsky@163.com, phone
 Wishing you all the best!
 ```
 
-![[imgs/Pasted image 20251112141419.png]]
+![[../../../_assets/img/Pasted image 20251112141419.png]]
 
 # onenote 笔记
 | Teams mobile pin   | 80022733          |

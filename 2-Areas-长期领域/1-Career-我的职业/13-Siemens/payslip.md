@@ -2,7 +2,7 @@
 # GE healthcare vs. 西门子
 2022年1月份，GE给了我package 40W的offer，而且是leader。
 一番努力后，老马给我升职加薪20%+retention bonus，把我留了下来
-![[imgs/Pasted image 20251117132910.png]]
+![[../../../_assets/img/Pasted image 20251117132910.png]]
 
 
 
@@ -27,7 +27,7 @@
 
 # 年金
 招行里面搜“企业年金”就可以看到了
-![[imgs/Pasted image 20251106144306.png]]
+![[../../../_assets/img/Pasted image 20251106144306.png]]
 
 
 
