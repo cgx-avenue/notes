@@ -55,7 +55,7 @@ async def read_item(item_id: int, q: str = None):
 # 现成框架
 ## flask-admin
 [flask-admin](https://github.com/flask-admin/flask-admin)：我工作中需要写一个微型的管理系统，用的就是这个框架。简直快餐型，页面都写好了，只要设置好相关配置就可以跑起来了。唯一缺点就是文档中的例子少，开发一些特定的需求需要自己看源码，才能知道如何改。[文档](https://flask-admin.readthedocs.io/en/latest/)，下面是我跑起来之后的样子：
-![[imgs/Pasted image 20231102145459.png]]
+![[../../../_assets/img/Pasted image 20231102145459.png]]
 
 
 

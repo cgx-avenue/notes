@@ -200,7 +200,7 @@ https://github.com/autorope/donkeycar
 Exploring Global Diversity: Pyetho — Python Library for Language and Country Insights
 https://medium.com/@i18nsolutionspy/exploring-global-diversity-pyetho-python-library-for-language-and-country-insights-4a688958ea83
 返回每个国家的语言，按照ISO标准。
-![[imgs/Pasted image 20231124151104.png]]
+![[../../../_assets/img/Pasted image 20231124151104.png]]
 中国的居然有这么多。
 
 # 49. keep

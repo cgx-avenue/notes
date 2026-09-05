@@ -40,7 +40,7 @@ Linux中一切都是文件，所有的管理都是针对“文件”的管理，
 超级用户的[命令提示符](https://so.csdn.net/so/search?q=%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E7%AC%A6&spm=1001.2101.3001.7020)是“#”，普通用户的命令提示符是“$”。
 
 root的UID=0，root组的GID=0.
-![[imgs/Pasted image 20230914135548.png]]
+![[../../../../../_assets/img/Pasted image 20230914135548.png]]
 
 root 用户是系统中唯一的一个超级管理员，拥有了系统中的所有权限，可以执行任何想要执行的操作，也正因为如此，处于安全考虑，一般情况下不推荐使用 root 用户进行日常使用。
 
@@ -60,7 +60,7 @@ Linux 将用户账号、密码等相关的信息分别存储在四个文件夹�
 这些文件中，每一行代表一个用户或一个用户组，并存储了相关的用户或用户组信息。
 
 ## /etc/passwd
-![[imgs/Pasted image 20230914135752.png]]
+![[../../../../../_assets/img/Pasted image 20230914135752.png]]
 
 该文件中，每一行的存储格式为：
 
@@ -75,7 +75,7 @@ root : x : 0 : 0 : root : /root : /bin/bash
 每一个用户都有一个UID、GID，对应的含义就是UserID、GroupID，UID 会映射到 /etc/shadow 以获得密码信息，GID 会映射到 /etc/group 以获取用户的用户组信息。
 
 ## /etc/shadow
-![[imgs/Pasted image 20230914135831.png]]
+![[../../../../../_assets/img/Pasted image 20230914135831.png]]
 该文件中，每一行的存储格式为：
 
 ```text
@@ -267,7 +267,7 @@ gpasswd [option] GroupName
 gpasswd -a user1 Group2 #将用户user1添加到用户组Group2中；
 gpasswd -d user1 Group1 #将用户user1从用户组Group1中移除；
 ```
-![[imgs/Pasted image 20230914144730.png]]
+![[../../../../../_assets/img/Pasted image 20230914144730.png]]
 
 # 用户身份切换
 涉及用户身份切换的命令有两个：su、sudo
@@ -310,7 +310,7 @@ sudo 的执行流程大致为：
 因此，关键在于执行 sudo 的用户是否存在于 /etc/sudoers 文件内。
 
 我们不妨打开 sudoers 文件查看相关信息。
-![[imgs/Pasted image 20230914143650.png]]
+![[../../../../../_assets/img/Pasted image 20230914143650.png]]
 
 在 sudoers 文件中，我们发现两行关键信息
 

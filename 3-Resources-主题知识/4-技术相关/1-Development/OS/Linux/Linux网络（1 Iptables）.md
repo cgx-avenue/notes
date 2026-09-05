@@ -11,7 +11,7 @@ iptables内置了如下四张表。表是根据目的或者功能进行的划分
 
 `三表`和`四表`的区别就是`raw`表，有的算进去有的不算。
 ## 四表
-![[imgs/Pasted image 20230911091029.png]]
+![[../../../../../_assets/img/Pasted image 20230911091029.png]]
 
 ### raw
 用于处理异常，包括的规则链有：prerouting，output；一般使用不到。
@@ -33,7 +33,7 @@ mangle > nat > filter
 
 ## 五链
 即Linux防火墙过滤框架，也就是数据来了怎么进行的处理。图中的`路由决策`和`Local Process`不算做五链。
-![[imgs/Pasted image 20230911094058.png]]
+![[../../../../../_assets/img/Pasted image 20230911094058.png]]
 ### input
 匹配目标IP是本机的数据包
 
@@ -61,7 +61,7 @@ mangle > nat > filter
 # iptables规则和操作
 参见refs4，5
 ## 规则格式
-![[imgs/Pasted image 20230911095047.png]]
+![[../../../../../_assets/img/Pasted image 20230911095047.png]]
 `-t`就是操作哪张表，默认filter，`chain`部分就是五链当中哪一个，其余的都是条件、动作之类的，详见refs5.
 
 ## 显示当前的rule

@@ -92,7 +92,7 @@ App -> Settings -> Roles & Permissions
 
 Mendix runtime, Mendix client, Mendix model
 
-![](../../../../_assets/2023-02-14-15-44-14.png)
+![](../../../../_assets/img/2023-02-14-15-44-14.png)
 
 ### Application lifecycle management
 
@@ -101,21 +101,21 @@ The Mendix platform provides a development life cycle that is familiar to people
 1.  The result is the model, which is interpreted by the runtime in the cloud.
 2.  In the team, the business analyst and the developer work together on the app. This helps create a common understanding of the application.
 
-![](../../../../_assets/2023-02-14-15-44-26.png)
+![](../../../../_assets/img/2023-02-14-15-44-26.png)
 
 ### Integration with Existing CI/CD Pipeline
 
-![](../../../../_assets/2023-02-14-15-44-36.png)
+![](../../../../_assets/img/2023-02-14-15-44-36.png)
 
 ### Capabilities of Mendix
 
-![](../../../../_assets/2023-02-14-15-44-46.png)
+![](../../../../_assets/img/2023-02-14-15-44-46.png)
 
-![](../../../../_assets/2023-02-14-15-44-54.png)
+![](../../../../_assets/img/2023-02-14-15-44-54.png)
 
 ### Mendix Architecture
 
-![](../../../../_assets/2023-02-14-15-45-02.png)
+![](../../../../_assets/img/2023-02-14-15-45-02.png)
 
 ### Database
 

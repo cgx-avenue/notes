@@ -13,5 +13,5 @@ ifconfig eth1 promisc		#设置混杂模式
 ifconfig eth1 -promisc	#取消混杂模式
 ```
 执行前后对比，观察第三行，多了一个`PROMISC`。
-![[imgs/Pasted image 20230818144551.png]] 
+![[../../../../../_assets/img/Pasted image 20230818144551.png]] 
 

@@ -10,7 +10,7 @@ Turns Data and AI algorithms into production-ready web applications in no time.
 
 ## 3. superset
 [superset](https://github.com/apache/superset)：企业级的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
-![[imgs/Pasted image 20231102151037.png]]
+![[../../../_assets/img/Pasted image 20231102151037.png]]
 
 ## 4. bokeh
 发现很多金融的都用这个，看了下是因为用到了tornado，所以性能更好。但我不名所以。
@@ -20,5 +20,5 @@ https://docs.bokeh.org/en/latest/
 
 
 ## 几个框架的对比
-![[imgs/Pasted image 20240509144302.png]]
+![[../../../_assets/img/Pasted image 20240509144302.png]]
 https://plotly.com/compare-dash-shiny-streamlit-bokeh/

@@ -7,29 +7,29 @@ printenv
 # 获取某个环境变量的值
 printenv HOME
 ```
-![[imgs/Pasted image 20230913152249.png]]
+![[../../../../../_assets/img/Pasted image 20230913152249.png]]
 ## echo $var 或者 ${var}
 ```bash
 # 显示HOME环境变量的值
 echo $HOME
 echo ${HOME}
 ```
-![[imgs/Pasted image 20230913152309.png]]
+![[../../../../../_assets/img/Pasted image 20230913152309.png]]
 
 ## export
 ```bash
 # list all
 export
 ```
-![[imgs/Pasted image 20230913153709.png]]
+![[../../../../../_assets/img/Pasted image 20230913153709.png]]
 
 ## env
 查看当前系统定义的所有环境变量。
-![[imgs/Pasted image 20230913155020.png]]
+![[../../../../../_assets/img/Pasted image 20230913155020.png]]
 
 ## set
 查看所有本地定义的环境变量。
-![[imgs/Pasted image 20230913155229.png]]
+![[../../../../../_assets/img/Pasted image 20230913155229.png]]
 
 # 设置环境变量
 设置环境变量时，需要考虑：

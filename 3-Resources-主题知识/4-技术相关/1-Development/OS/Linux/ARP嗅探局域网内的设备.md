@@ -7,4 +7,4 @@ sudo apt install net-tools
 arp -na
 ```
 显示局域网内当前的设备和ip
-![](imgs/2023-02-23-09-23-44.png)
+![](../../../../../_assets/img/2023-02-23-09-23-44.png)

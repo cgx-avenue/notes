@@ -1,6 +1,6 @@
 # 1. tushare
 [tushare](https://github.com/waditu/tushare)：TuShare 是一个免费、开源的 Python 财经数据接口包，[TuShare 文档](http://tushare.org/index.html)
-![[imgs/Pasted image 20231102142643.png]]
+![[../../../_assets/img/Pasted image 20231102142643.png]]
 
 # 2. akshare
 [akshare](https://github.com/akfamily/akshare)：一款基于 Python 的开源金融数据接口库。提供了股票、期货、期权、基金、数字货币等金融产品的基本数据、实时和历史行情数据、衍生数据，包含数据采集、数据清洗、到数据落地的一套开源工具。满足了金融数据科学家、数据科学爱好者在金融数据获取方面的需求。示例代码：

@@ -18,7 +18,7 @@ service apache2 start
 使用了 Systemd，就不需要再用`init`了。Systemd 取代了`initd`，成为系统的第一个进程（PID 等于 1），其他进程都是它的子进程。（参见refs1）
 
 Systemd 的优点是功能强大，使用方便，缺点是体系庞大，非常复杂。事实上，现在还有很多人反对使用 Systemd，理由就是它过于复杂，与操作系统的其他部分强耦合，违反"keep simple, keep stupid"的[Unix 哲学](https://www.ruanyifeng.com/blog/2009/06/unix_philosophy.html)。
-![[imgs/Pasted image 20230912142900.png]]
+![[../../../../../_assets/img/Pasted image 20230912142900.png]]
 systemd架构图
 
 systemctl是其中重要的命令行工具：
