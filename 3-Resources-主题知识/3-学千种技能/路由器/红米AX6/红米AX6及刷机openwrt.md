@@ -14,7 +14,7 @@
 
 [Redmi AX6路由器评测：六天线Wi-Fi 6新价格屠夫 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/188685681)
 
-![](imgs/2023-05-22-22-12-03.png)
+![](../../../../_assets/img/2023-05-22-22-12-03.png)
 缺点就是ROM只有128MB，导致后续的刷机有两种方式。
 
 # 刷机前的使用
@@ -31,7 +31,7 @@
 ## 教程
 [红米AX6 Openwrt刷机教程（解锁步骤AX6000、AX9000通用）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1q94y1f7fj/?vd_source=462c9e0df89bcb23f1c5be85ce31d8ce)
 主要就是上面这个链接，视频里说的非常明白。我用的非扩容刷机，本来是想简单点，没想到后来用到了恢复官方的需求。
-![](imgs/2023-05-22-22-28-06.png)
+![](../../../../_assets/img/2023-05-22-22-28-06.png)
 需要用到的软件： 
 * winscp
 * virtualbox（因为给的vmdk格式op虚拟机）
@@ -76,7 +76,7 @@ https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=5796487&extra=page%3
 **蓝奏云:****https://wws.lanzoui.com/b02cafd6j**  
 **密码:****8jle**
 
-![](imgs/2023-05-22-22-31-28.png)
+![](../../../../_assets/img/2023-05-22-22-31-28.png)
 
 里面的第一个，这里面有无线功能。
 
