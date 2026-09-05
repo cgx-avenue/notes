@@ -24,7 +24,7 @@ a monitor is essentially a logger
 5. 
 
 # Contract negotiation & transfer process
-![[imgs/Pasted image 20240109110619.png]]
+![[../../../../../_assets/img/Pasted image 20240109110619.png]]
 
 
 

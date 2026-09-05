@@ -4,7 +4,7 @@
 2. 大多数功能只能和legacy chain一起用，不能和LCEL一起。
 有一个例外，是`ChatMessageHistory`，这个已经可以用在生产环境和LCEL中了。
 
-![[imgs/Pasted image 20240704100747.png]]
+![[../../../../../../_assets/img/Pasted image 20240704100747.png]]
 
 任何memory系统都要支持两个功能：写入和读取。结合到LLM，如上图，
 1. Prompt是由用户输入和memory中存储的之前的内容拼接而成，共同作为输入。

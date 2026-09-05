@@ -38,7 +38,7 @@ The system message is included at the beginning of the prompt and is used to pri
 In few-shot learning, a set of training examples is provided as part of the prompt to give additional context to the model.
 
 When using the Chat Completions API, a series of messages between the User and Assistant (written in the [new prompt format](https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/chatgpt?pivots=programming-language-chat-completions#few-shot-learning-with-chat-completion)), can serve as examples for few-shot learning.
-![[imgs/Pasted image 20240613134831.png]]
+![[../../../../../../_assets/img/Pasted image 20240613134831.png]]
 
 ## Start with clear instructions
 

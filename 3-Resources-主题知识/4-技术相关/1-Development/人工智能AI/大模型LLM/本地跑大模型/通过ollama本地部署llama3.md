@@ -3,15 +3,15 @@
 ```shell
 curl -fsSL https://ollama.com/install.sh | sh
 ```
-![[imgs/Pasted image 20240426094927.png]]
+![[../../../../../../_assets/img/Pasted image 20240426094927.png]]
 2. 下载模型
 ```shell
 ollama run llama3
 ```
 默认是8B参数的，如果是70B的太大了。不行，我得试试70B的，不就是40GB吗，咱不缺。
-![[imgs/Pasted image 20240426100607.png]]
+![[../../../../../../_assets/img/Pasted image 20240426100607.png]]
 
-![[imgs/Pasted image 20240426125718.png]]
+![[../../../../../../_assets/img/Pasted image 20240426125718.png]]
 但是运行70B模型机器缓慢。。。放弃了
 
 3. 运行
@@ -65,14 +65,14 @@ https://docs.openwebui.com/tutorial/web_search
 添加的是searxng，原理是本地部署一个searxng的聚合搜索网站，然后openwebui去掉用。
 我用的是step3 alternatice: Docker run，端口改成了8087，即http://localhost:8087
 其余的配置和图4里一样，但是与到了403错误，查询之后参照https://github.com/searxng/searxng/issues/1162，定位到是searxng的配置文件没有配置输出为json格式，再经过一点点debug，发现 searxng的配置文件就在我pull docker image时候的路径下的searxng文件夹里，也就是`~/searxng`，修改里面的`settings.yml`, 在-formats里增加 - json，如下
-![[imgs/Pasted image 20240614153101.png]]
+![[../../../../../../_assets/img/Pasted image 20240614153101.png]]
 
 修改后重启镜像即可。
 searxng文档：
 https://docs.searxng.org/admin/installation-docker.html
 
 最终效果：
-![[imgs/Pasted image 20240614153242.png]]
+![[../../../../../../_assets/img/Pasted image 20240614153242.png]]
 
 
 

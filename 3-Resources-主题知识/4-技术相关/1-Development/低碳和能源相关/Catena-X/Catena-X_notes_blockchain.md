@@ -21,7 +21,7 @@ https://www.globenewswire.com/news-release/2021/11/30/2342612/0/en/Catena-X-to-d
 
 # Bosch
 https://zhuanlan.zhihu.com/p/373960075
-![[imgs/Pasted image 20231128111522.png]]
+![[../../../../../_assets/img/Pasted image 20231128111522.png]]
 BigchainDB GmbH代表海洋协议(Ocean Protocol)一种用于数据货币化的分散式数据交换协议，加入了Catena-X。
 BigchainDB是GAIA-X协会的第一天会员，该协会正在建立欧洲云数据基础架构。 Ocean致力于为欧洲制定优先考虑效率，安全性和可信赖性的数据基础设施标准。
 

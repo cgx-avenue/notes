@@ -13,7 +13,7 @@ These also have corresponding async methods that should be used with [asyncio](
 - `astream_log`: stream back intermediate steps as they happen, in addition to the final response
 - `astream_events`: **beta** stream events as they happen in the chain (introduced in `langchain-core` 0.1.14)
 
-![[imgs/Pasted image 20240801150556.png]]
+![[../../../../../../_assets/img/Pasted image 20240801150556.png]]
 重点看前五个，我还是通过代码才看出来Retriever的结果都是Documents object。。。
 
 All runnables expose input and output **schemas** to inspect the inputs and outputs:

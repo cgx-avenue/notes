@@ -2,14 +2,14 @@ Date:        2023-10-09
 update:    2023-11-02
 # 部署环境
 ## Thinkpad X1 Extreme Gen3
-![[imgs/Pasted image 20231009153101.png]]
-![[imgs/Pasted image 20231009153138.png]]
+![[../../../../_assets/img/Pasted image 20231009153101.png]]
+![[../../../../_assets/img/Pasted image 20231009153138.png]]
 显卡4GB显存，官方推荐6GB以上，这也导致了后面发生的一系列问题。
 
 ## Dell Tower 5820
 鸟枪换炮，张总非常给力的升级了塔式工作站，显卡3090.
-![[imgs/Pasted image 20231102134857.png]]
-![[imgs/Pasted image 20231102134949.png]]
+![[../../../../_assets/img/Pasted image 20231102134857.png]]
+![[../../../../_assets/img/Pasted image 20231102134949.png]]
 
 
 
@@ -21,7 +21,7 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ## 安装cuda
 cuda其实在安装好nvidia的driver之后就有了，ubuntu里可以通过`nvidia-smi`查看，第一行：
-![[imgs/Pasted image 20231009153723.png]]
+![[../../../../_assets/img/Pasted image 20231009153723.png]]
 T5820的图在上面。
 
 
@@ -39,7 +39,7 @@ pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## 安装torch
 torch的安装要手动，https://pytorch.org/get-started/locally/ 。因为我的cuda是12.0,所以选择如下之后，用图里生成的命令直接安装。
-![[imgs/Pasted image 20231009155323.png]]
+![[../../../../_assets/img/Pasted image 20231009155323.png]]
 ```bash
 pip3 install torch torchvision torchaudio
 ```
@@ -71,7 +71,7 @@ pip install tb-nightly -i https://mirrors.aliyun.com/pypi/simple
 ### 下载模型
 打开[v2-1_768-ema-pruned.ckpt · stabilityai/stable-diffusion-2-1 at main](https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-pruned.ckpt)，下载训练模型。下载完成后，把v2-1_768-ema-pruned.ckpt这个训练模型放入stable-diffusion-webui的models/Stable-diffusion目录下，这个目录专门存放用于生成AI绘图的绘图元素的基础模型库。后续如果在其他网站比如civitai之类的地方下载的ckpt或者safetensors文件也是放在这个文件夹里面。
 https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-pruned.ckpt
-![[imgs/Pasted image 20231009155613.png]]
+![[../../../../_assets/img/Pasted image 20231009155613.png]]
 
 # 启动
 注意还是推荐参考1, 官方是推荐`webui.sh` 但是实际上这个要重新build一个python环境。
@@ -83,7 +83,7 @@ https://huggingface.co/stabilityai/stable-diffusion-2-1/blob/main/v2-1_768-ema-p
 # 用webui.sh
 ./webui.sh --lowvram --no-half --disable-nan-check
 ```
-![[imgs/Pasted image 20231009160229.png]]
+![[../../../../_assets/img/Pasted image 20231009160229.png]]
 
 ## T5820
 参照的Refs1
@@ -97,10 +97,10 @@ python launch.py --no-half --disable-nan-check
 一大了就out of memory。
 ### 生成图片的速度
 如下，说快不快说慢不满
-![[imgs/Pasted image 20231009161254.png]]
+![[../../../../_assets/img/Pasted image 20231009161254.png]]
 比较玄学的事不知道训练几次之后，也会out of memory。
 ### 例子
-![[imgs/Pasted image 20231009161721.png]]
+![[../../../../_assets/img/Pasted image 20231009161721.png]]
 
 
 ## T5820

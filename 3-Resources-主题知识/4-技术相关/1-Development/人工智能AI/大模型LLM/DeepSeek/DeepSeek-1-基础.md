@@ -134,7 +134,7 @@ DeepSeek-R1 系列有从 1.5B 到 671B 不同“体型”（B = 10 亿参数）�
 
 
 # 所需配置
-![[imgs/Pasted image 20250218101937.png]]
+![[../../../../../../_assets/img/Pasted image 20250218101937.png]]
 
 
 

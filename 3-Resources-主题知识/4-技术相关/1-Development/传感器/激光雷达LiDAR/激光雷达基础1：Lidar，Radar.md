@@ -9,13 +9,13 @@ Radar的全称是**Ra**dio **D**etection **a**nd **R**anging，无线电的�
 其实这两者工作原理相似，区别在于发射信号不同，**Lidar采用的是脉冲激光，而Radar采用的是无线电波**，这在自动驾驶行业讨论很多。注：自动驾驶的汽车上，多用的是毫米波雷达。
 现有技术中，配备在自动驾驶车上的主流传感器是视频摄像头、毫米波雷达和**激光雷达（Lidar）**，以进行事件感知与物体检测。总的来说，**Lidar比Radar更有优势，但也各有适用场景。Lidar具有优异的方位分辨率，能够精确地检测到与周围障碍物的距离和位置关系**，并能实时检测到具有低无线电波反射率的物体 (标志，树木等)；**Radar的无线电波比Lidar的激光波长，其返回的物体图像不如Lidar精确，但它覆盖远距离、具有强穿透性，可在雨，雪，尘土等恶劣环境中返回信息，在夜间和阴天比Lidar更准确。**
 
-![[imgs/Pasted image 20231025142415.png]]
+![[../../../../../_assets/img/Pasted image 20231025142415.png]]
 
 看一下Refs2
 
 # 测量原理
 详细的参见[[激光雷达基础2：工作原理]]
-![[imgs/Pasted image 20231025142710.png]]
+![[../../../../../_assets/img/Pasted image 20231025142710.png]]
 ## 飞行时间 ToF
 
 ## 三角测量
@@ -28,12 +28,12 @@ Radar的全称是**Ra**dio **D**etection **a**nd **R**anging，无线电的�
 
 为了适应不同场景的应用需求，人们研发了搭载于不同平台的激光雷达, 依据平台类型，可分为星载激光雷达(Spaceborne Lidar)、机载激光雷达(Airborne Laser Scanner, ALS)、无人机激光雷达(Drone Laser Scanner, DLS)、车载激光雷达(Vehicle-mounted Laser Scanner, VLS)和地基激光雷达 (Terrestrial Laser Scanner, TLS)；
 
-![[imgs/Pasted image 20231025142807.png]]
+![[../../../../../_assets/img/Pasted image 20231025142807.png]]
 
 
 ## 今天
 今天，Lidar已经成为一种集激光、全球定位系统(GNSS)和惯性导航系统(INS)三种技术于一身的系统，通过这三种技术的结合，不仅可以主动、实时感知环境，物体动态空间位置关系；也可在一致绝对测量点位的情况下，生成精确的三维空间模型，应用于地表遥感，例如地面高程和地貌、林业调查等数据获取，以及自动驾驶和高精度地图制作。
-![[imgs/Pasted image 20231025142900.png]]
+![[../../../../../_assets/img/Pasted image 20231025142900.png]]
 
 其余的细节请参照refs1
 

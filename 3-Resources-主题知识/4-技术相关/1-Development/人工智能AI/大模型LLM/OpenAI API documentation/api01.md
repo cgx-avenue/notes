@@ -18,5 +18,5 @@ Assistants API 的典型集成流程如下：
 - 在线程上运行助手以触发响应。这将自动调用相关工具。
 
 具体示例参见[Assistants API – OpenAI接口文档中文版 (openaidoc.com.cn)](https://www.openaidoc.com.cn/api-reference/Assistants_run)
-![[imgs/Pasted image 20240613101931.png]]
+![[../../../../../../_assets/img/Pasted image 20240613101931.png]]
 

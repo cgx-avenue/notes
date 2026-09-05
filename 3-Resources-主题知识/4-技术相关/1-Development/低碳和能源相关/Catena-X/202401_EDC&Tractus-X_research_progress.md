@@ -47,17 +47,17 @@ EDC是基类，Tractus-X是子类。
 3种control-plane
 2种data-plane
 
-![[imgs/Pasted image 20240109094408.png]]
+![[../../../../../_assets/img/Pasted image 20240109094408.png]]
 
 
 
 # 2. Tractus-X vs. Catena-X
 Tractus-X是Catena-X开源项目。
 从不同的角度出发，Tractux-X聚焦在Developer和App provider。
-![[imgs/Pasted image 20240109095158.png]]
+![[../../../../../_assets/img/Pasted image 20240109095158.png]]
 https://eclipse-tractusx.github.io/
 EDC 是其中一个kit。
-![[imgs/Pasted image 20240109162447.png]]
+![[../../../../../_assets/img/Pasted image 20240109162447.png]]
 
 
 
