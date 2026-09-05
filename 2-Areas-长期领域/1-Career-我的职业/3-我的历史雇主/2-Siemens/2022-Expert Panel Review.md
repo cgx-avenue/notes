@@ -9,7 +9,7 @@
 
 虽然十拿九稳，但我当时准备的还是很认真的，毕竟加入的时间短，如何通过有限的项目讲好一个故事，就显得尤为关键。
 # 文档结构
-![[../../../_assets/img/Pasted image 20251110105832.png]]
+![[../../../../_assets/img/Pasted image 20251110105832.png]]
 
 ## PPT
 ![[imgs/2022_08_Expert_Panel_Review_YangShaoPeng_V4.pptx]]
@@ -209,10 +209,10 @@ So stepwise proposals are given to SXVT. The technical solution and proposal got
 
 # 参考资料
 ## 评估标准
-![[../../../_assets/pdf/Assessment Guidance.pdf]]
+![[../../../../_assets/pdf/Assessment Guidance.pdf]]
 
 ## 工程师competence discription
-![[../../../_assets/pdf/Engineer compentence discription.pdf]]
+![[../../../../_assets/pdf/Engineer compentence discription.pdf]]
 
 ## Yu He's
 ![[imgs/My Growth_Expert Reviw_YU He_2020.pptx]]

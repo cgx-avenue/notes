@@ -46,7 +46,7 @@
 
 ![[imgs/fan_analysis_usb_1st.html]]
 
-![[../../../../_assets/img/test_setup.jpg]]
+![[../../../../../_assets/img/test_setup.jpg]]
 
 ![[imgs/广泰永立-人工智能规划.pptx]]
 

@@ -1,7 +1,7 @@
 
 # 1. 安装WLS2和Ubuntu
 [[Windows10工作环境搭建]]
-[[../../8010_工作环境搭建/WSL2]]
+[[../../1_工作环境搭建/WSL2]]
 # 2. Docker desktop for WSL2
 从docker官网下载并安装完成后，打开docker desktop，选择setting->General，确保Use the WSL 2 based engine选项被勾选，然后选择右下角Apply&Restart。
 ![](../../../../../_assets/img/2023-07-13-15-26-23.png)
