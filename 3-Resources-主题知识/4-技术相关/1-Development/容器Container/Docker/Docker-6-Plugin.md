@@ -48,7 +48,7 @@ A new plugin can be created by running `docker plugin create <plugin-name> ./pa
 After that the plugin `<plugin-name>` will show up in `docker plugin ls`. Plugins can be pushed to remote registries with `docker plugin push <plugin-name>`.
 
 在rootfs目录的例子里，实际场景和操作如下：
-![[imgs/Pasted image 20230823143312.png]]
+![[../../../../../_assets/img/Pasted image 20230823143312.png]]
 
 ## Debugging plugins
 主要使用的是docker-runc等工具来显示logfiles，参见Refs1.

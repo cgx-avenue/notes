@@ -8,16 +8,16 @@
 ARUNDO 分了四类
 ### outlier
 outlier:
-![](imgs/2023-06-02-16-31-53.png)
+![](../../../../../../_assets/2023-06-02-16-31-53.png)
 ### Spike and level shift
 spike:
-![](imgs/2023-06-02-16-32-08.png)
+![](../../../../../../_assets/2023-06-02-16-32-08.png)
 level shift:
-![](imgs/2023-06-02-16-32-17.png)
+![](../../../../../../_assets/2023-06-02-16-32-17.png)
 ### Pattern change
-![](imgs/2023-06-02-16-32-50.png)
+![](../../../../../../_assets/2023-06-02-16-32-50.png)
 ### Seasonality
-![](imgs/2023-06-02-16-33-15.png)
+![](../../../../../../_assets/2023-06-02-16-33-15.png)
 
 ## univariate vs. multivariate
 单变量vs多变量

@@ -19,7 +19,7 @@ docker run [OPTIONS] IMAGE[:TAG|@DIGEST] [COMMAND] [ARG...]
 ```
 
 常用的需要设置的选项：
-![](imgs/2023-08-16-13-36-27.png)
+![](../../../../../_assets/img/2023-08-16-13-36-27.png)
 
 
 ## 例子

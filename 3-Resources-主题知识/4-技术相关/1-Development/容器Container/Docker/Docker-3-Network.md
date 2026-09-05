@@ -6,7 +6,7 @@
 * 使用`--publish` or `-p` 可以暴露端口。
 * 使用后会在host新建一条firewall rule，进行映射。
 举例： 
-![](imgs/2023-08-16-14-11-46.png)
+![](../../../../../_assets/img/2023-08-16-14-11-46.png)
 
 注意：
 * 暴露端口意味着不只是host可以看到，外部也可以看到。
@@ -26,7 +26,7 @@ docker run -p 127.0.0.1:8080:80 nginx
 * 默认从host的`/etc/resolv.conf`继承。
 * 从custom network连接的容器，集成其DNS server。
 * 可以显示指定，如下表。
-![](imgs/2023-08-16-14-23-55.png)
+![](../../../../../_assets/img/2023-08-16-14-23-55.png)
 
 ### Nameservers with IPv6
 参见Refs1

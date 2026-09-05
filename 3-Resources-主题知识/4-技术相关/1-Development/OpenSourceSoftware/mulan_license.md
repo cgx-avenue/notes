@@ -6,25 +6,25 @@
 > * https://blog.csdn.net/Ki8Qzvka6Gz4n450m/article/details/90440600
 ## 1. Support
 ### 1.1 Gitee
-![](imgs/2022-07-25-09-48-40.png)
+![](../../../../_assets/2022-07-25-09-48-40.png)
 MulanPSL-2.0 is the recommended 1st choice when creating a new repo.
-![](imgs/2022-07-25-09-49-30.png)
+![](../../../../_assets/2022-07-25-09-49-30.png)
 ### 1.2 Github
 Not implemeneted.
-![](imgs/2022-07-25-09-50-07.png)
+![](../../../../_assets/2022-07-25-09-50-07.png)
 
 ## 2. Motivation
 * Apache Software Foundation announced it's under Export Control. OSS projects under Apache License does not equal to OSS projects within ASF!!!
   https://apache.org/licenses/exports/
-  ![](imgs/2022-07-25-09-52-13.png)
+  ![](../../../../_assets/2022-07-25-09-52-13.png)
 * Github also announced potentially under Export Control.
 
 ## 3. Types, Versions
-![](imgs/2022-07-25-09-58-34.png)
+![](../../../../_assets/2022-07-25-09-58-34.png)
 
 ## 4. Compariseon with current OS Licenses
-![](imgs/2022-07-25-10-00-00.png)
-![](imgs/2022-07-25-10-00-10.png)
+![](../../../../_assets/2022-07-25-10-00-00.png)
+![](../../../../_assets/2022-07-25-10-00-10.png)
 
 ## 5. Projects under Mulan License
 https://portal.mulanos.cn/project  

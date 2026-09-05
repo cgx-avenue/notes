@@ -27,7 +27,7 @@ JSON-LD可以用来规范三元组的用词之类的，所以可以作为知识�
 https://swordair.com/rdfa-json-ld/
 ## 作为configuration文件
 例如EDC（Eclipse dataspace connector）里使用的一样。
-![[imgs/Pasted image 20240103101544.png]]
+![[../../../../../_assets/img/Pasted image 20240103101544.png]]
 
 
 

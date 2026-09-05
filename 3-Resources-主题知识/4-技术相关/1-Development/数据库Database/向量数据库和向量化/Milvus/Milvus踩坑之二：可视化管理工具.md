@@ -27,8 +27,8 @@ docker run -p 8000:3000 -e MILVUS_URL={milvus server IP}:19530 zilliz/attu:v2.3.
 ```bash
 sudo docker run -p 8003:3000 --network milvus -e MILVUS_URL={milvus server IP}:19530 zilliz/attu:v2.2.2
 ```
-![[imgs/Pasted image 20231012140351.png]]
+![[../../../../../../_assets/img/Pasted image 20231012140351.png]]
 
 ## 实际效果
 访问的时候用172开头的，默认用户名和密码均为空。
-![[imgs/Pasted image 20231012140447.png]]
+![[../../../../../../_assets/img/Pasted image 20231012140447.png]]

@@ -1,5 +1,5 @@
 基于Ethernet二层网络的双路冗余结构。
-![[imgs/Pasted image 20230918163026.png]]
+![[../../../../_assets/img/Pasted image 20230918163026.png]]
 物理上需要两个完全一样的Ethernet连接。
 名词概念：  
 **SAN：** Singly Attached Node，单端口节点，不实现PRP功能  
@@ -13,7 +13,7 @@ PRP冗余机制的实现，主要依托于两个逻辑或物理分隔的子网�
 那么问题来了，“A帧”和“B帧”是如何产生和消除的？具体的帧组成又是怎样的呢？请看下图：  
 ![pic怕](https://img-blog.csdnimg.cn/10a84b7a44514958babe3dd47621098c.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA57K-6YCaaGVsbG9fd29ybGQ=,size_10,color_FFFFFF,t_70,g_se,x_16)
 
-![[imgs/Pasted image 20230918163131.png]]
+![[../../../../_assets/img/Pasted image 20230918163131.png]]
 
 这是DANP节点的简要示意图，主要分为上层（链路层以上）、LRE（Link Redundancy Entity，链路层冗余实体）子层、下层（链路层及物理层）。可以看到PRP设备的内部实现只是在标准以太网设备的MAC层中增添了一个LRE子层，这个子层内部实现了PRP信息帧的产生和消除算法。具体而言，就是在原始信息帧的基础上，增加了一个RCT（Redundancy Control Trailer，冗余控制体）字段，并针对这个字段进行一系列的处理，基于802.3标准以太网的PRP帧格式如下图所示：  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/5c6cd98382eb454792504c878adf6235.png)  

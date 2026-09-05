@@ -10,7 +10,7 @@
 （4）根据特征提取过程的差异可以分为：从原始信号中直接提取的特征（如过零率）、将信号转换为频率得到的特征（如谱心质）、需经过特定的模型得到的特征（如旋律）、受人耳听觉认知启发改变量化特征尺度得到的特征（如MFCCs）。
 
 我们以“特征提取过程的差异”为主要分类基准，列出各类下比较常见的特征：
-![[imgs/Pasted image 20240321132205.png]]
+![[../../../../../_assets/Pasted image 20240321132205.png]]
 
 # 常用工具
 
@@ -53,18 +53,18 @@ def normalize(x, axis=0):
 librosa.display.waveplot(x[:80000], sr=sr, alpha=0.4)
 plt.plot(t, normalize(spectral_centroids), color='r')
 ```
-![[imgs/Pasted image 20240321095231.png]]
+![[../../../../../_assets/Pasted image 20240321095231.png]]
 
 ## 频谱滚降点（Spectral Rolloff）
 
 频谱滚降点的意思，我翻译过来大概是：比该频率低的频率的所有能量大于一定比例的整个频谱的能量，通常这个比例为0.85。
-![[imgs/Pasted image 20240321095257.png]]
+![[../../../../../_assets/Pasted image 20240321095257.png]]
 ```python
 spectral_rolloff = librosa.feature.spectral_rolloff(x, sr=sr)[0]
 librosa.display.waveplot(x, sr=sr, alpha=0.4)
 plt.plot(t, normalize(spectral_rolloff), color='r')
 ```
-![[imgs/Pasted image 20240321101059.png]]
+![[../../../../../_assets/Pasted image 20240321101059.png]]
 
 ## MFCC (梅尔频率倒谱系数)
 
@@ -80,7 +80,7 @@ librosa.display.specshow(mfccs, sr=sr, x_axis='time')
 ```
 
 通过打印mfccs.shape，可以看看每一帧里面有多少维的MFCC特征。第一个参数是mfcc参数的维度，第二个参数是帧数。比如（20,3107），就是3107帧，每一帧有20维特征。
-![[imgs/Pasted image 20240321101404.png]]
+![[../../../../../_assets/Pasted image 20240321101404.png]]
 
 从梅尔尺度到MFCC的提取细致过程，参见Refs3.
 

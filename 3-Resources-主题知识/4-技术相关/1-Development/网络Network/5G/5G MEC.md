@@ -17,7 +17,7 @@ https://zhuanlan.zhihu.com/p/322462428
 最早是mobile edge computing，后来是multi-access edge computing。
 
 ## 怎么部署MEC？
-![](imgs/2023-01-18-13-55-57.png)
+![](../../../../../_assets/img/2023-01-18-13-55-57.png)
 △5G核心网最关键的网元：UPF（User Plane Function，用户面功能），是连接5G核心网和MEC的纽带，可提供数据分流及流量统计等功能。 
 如上图所示，左侧是5G网络，包含核心网（含AMF，SMF，PCF等一系列控制面网元，以及用户面网元UPF），接入网（RAN）以及终端（UE）。右侧则是MEC，包含MEC平台，管理编排域，以及多个提供服务的APP。
 

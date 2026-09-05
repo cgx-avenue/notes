@@ -7,7 +7,7 @@ DTW：Dynamic Time Wrapping
 
 原来的欧式距离，在这两点上是简单的对齐+计算，但DTW运用的是**做向量的乘法，允许序列的点于另一个序列的多个连续的点相对应，然后再计算对应点之间的距离**。
 这样，会形成如下的一个距离图，其中包含最短路径。
-![[imgs/Pasted image 20240412105756.png]]
+![[../../../../../_assets/img/Pasted image 20240412105756.png]]
 
 
 **因此，DTW算法的步骤为：**
@@ -30,22 +30,22 @@ DTW：Dynamic Time Wrapping
 
 **起始条件：**
 
-![[imgs/Pasted image 20240412105831.png]]
+![[../../../../../_assets/img/Pasted image 20240412105831.png]]
 
 **递推规则：**
 
-![[imgs/Pasted image 20240412105845.png]]
+![[../../../../../_assets/img/Pasted image 20240412105845.png]]
 
 递推规则这样写的原因是因为当前元素的最短路径必然是从前一个元素的最短路径的长度加上当前元素的值。前一个元素有三个可能，我们取三个可能之中路径最短的那个即可。
 
 # DTW不是一个有效的距离
 这块不是很明白，我的理解是，DTW算出来的数，没有物理意义。
-![[imgs/Pasted image 20240412110206.png]]
+![[../../../../../_assets/img/Pasted image 20240412110206.png]]
 
 # 奇点singularity问题
 ## 问题
 有时 DTW 会在对齐时产生不自然的扭曲/翘曲
-![[imgs/Pasted image 20240412111635.png]]
+![[../../../../../_assets/img/Pasted image 20240412111635.png]]
 A 中实线、虚线所展示的是两条合成信号（均值、方差都相同）
 B 中展示的是自然的“feature to feature”的对应
  C 中展示的则是 DTW 的结果。
