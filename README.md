@@ -188,10 +188,11 @@ notes/
 ## Git 同步
 
 ### 远程仓库
+运行 `GIT REMOTE -V`
 
-- **平台**：Gitee
-- **地址**：`git@gitee.com:cgx-avenue/notes.git`
-- **分支**：`main`
+```text
+gitee git@gitee.com:cgx-avenue/notes.git (fetch) gitee git@gitee.com:cgx-avenue/notes.git (push) origin ssh://git@192.168.1.100:222/young/notes.git (fetch) origin ssh://git@192.168.1.100:222/young/notes.git (push) origin git@github.com:young/notes.git (push)
+```
 
 ### 自动备份
 
